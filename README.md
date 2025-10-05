@@ -6,4 +6,4 @@ Group Name: mr Beast
 Team Members: STUDENTS_NETIDS
 abb6
 
-Project Manager: PM_NETID
+Project Manager: kdmehra2
