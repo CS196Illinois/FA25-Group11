@@ -1,5 +1,4 @@
 networkx
 plotly
 beautifulsoup4
-requests
-scipy
+playwright
