@@ -1,0 +1,71 @@
+.button {
+    background-color: blue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+
+
+}
+.button2 {
+    background-color: red;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.button3 {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+}
+
+.optionImage {
+  display : block;
+  max-width: 100%;
+  height: 80vh;
+  position: absolute;
+  top: 75px;
+  left: 25%;
+  cursor :pointer;
+
+}
+
+.optionImage1 {
+  display : block;
+  max-width: 100%;
+  height: 80vh;
+  position: absolute;
+  top: 250px;
+  left: 25%;
+  cursor: pointer;
+  
+}
+
+.optionImage2 {
+  display : block;
+  max-width: 100%;
+  height: 80vh;
+  position: absolute;
+  top: 425px;
+  left: 25%;
+  cursor: pointer;
+}
