@@ -89,15 +89,15 @@ None currently - ready for next steps
 ## Data Quality
 
 ### Course Data Statistics
-- Total courses: ~14,382
-- Prerequisites: ~77% of courses
-- Co-requisites: ~4% of courses
-- Gen Ed categories: ~11% of courses
-- Restrictions: ~6% of courses
-- Repeatable: ~23% of courses
-- Cross-listed: ~31% of courses
-- Course levels: 100% extracted
-- Credit ranges: ~7% of courses
+- Total courses: 14,382
+- Prerequisites: 8,271 courses (57.5%)
+- Co-requisites: 18 courses (0.1%)
+- Gen Ed categories: 1,726 courses (12.0%)
+- Restrictions: 1,274 courses (8.9%)
+- Repeatable: 3,278 courses (22.8%)
+- Cross-listed: 3,253 courses (22.6%)
+- Course levels: 14,382 courses (100.0%)
+- Credit ranges: 2,181 courses (15.2%)
 
 ### Extraction Quality
 - All course levels successfully extracted
