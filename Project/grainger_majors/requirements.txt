@@ -1,4 +1,0 @@
-networkx
-plotly
-beautifulsoup4
-playwright
