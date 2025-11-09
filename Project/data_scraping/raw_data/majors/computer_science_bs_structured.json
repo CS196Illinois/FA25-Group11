@@ -1,0 +1,1166 @@
+{
+  "major_name": "Computer Science, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/",
+  "requirement_groups": [
+    {
+      "group_name": "General Education Requirements",
+      "courses": [
+        {
+          "credits": "4-6",
+          "required": true
+        },
+        {
+          "credits": 3,
+          "required": true
+        },
+        {
+          "credits": 6,
+          "required": true
+        },
+        {
+          "credits": 6,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "credits": 6,
+          "required": true
+        },
+        {
+          "credits": 3,
+          "required": true
+        },
+        {
+          "credits": 3,
+          "required": true
+        },
+        {
+          "credits": 3,
+          "required": true
+        },
+        {
+          "credits": "6-10",
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "credits": "0-15",
+          "required": true
+        },
+        {
+          "code": "ENG 100",
+          "credits": 1,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 210",
+          "credits": 2,
+          "required": true
+        },
+        {
+          "code": "CS 211",
+          "title": "or",
+          "required": true
+        },
+        {
+          "credits": "3-4",
+          "required": true
+        }
+      ],
+      "credits_required": null,
+      "description": [
+        "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program.",
+        "Orientation and Professional Development"
+      ]
+    },
+    {
+      "group_name": "Foundational Mathematics and Science",
+      "courses": [
+        {
+          "code": "MATH 221",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "MATH 231",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "MATH 241",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "MATH 257",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "MATH 415",
+          "title": "or",
+          "required": true
+        },
+        {
+          "code": "MATH 416",
+          "title": "or",
+          "required": true
+        },
+        {
+          "code": "PHYS 211",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "PHYS 212",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "credits": 3,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "credits": 25,
+          "required": true
+        }
+      ],
+      "credits_required": null
+    },
+    {
+      "group_name": "Computer Science Technical Core",
+      "courses": [
+        {
+          "code": "CS 124",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 128",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 173",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 222",
+          "credits": 1,
+          "required": true
+        },
+        {
+          "code": "CS 225",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 233",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 341",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 357",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 361",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 374",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 421",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "credits": 35,
+          "required": true
+        }
+      ],
+      "credits_required": 70
+    },
+    {
+      "group_name": "Technical Electives",
+      "courses": [
+        {
+          "credits": 18,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 411",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 415",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 417",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 425",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 427",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 428",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 429",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 437",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 465",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 467",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 493",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 494",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 497",
+          "credits": 1,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 407",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 409",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 422",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 426",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 427",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 428",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 429",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 474",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 476",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 477",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 492",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 493",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 494",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 521",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 522",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 524",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 526",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 527",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 576",
+          "credits": 2,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 407",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 413",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 473",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 474",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 475",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 476",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 477",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 481",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 482",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 539",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 571",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 572",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 574",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 575",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 576",
+          "credits": 2,
+          "required": true
+        },
+        {
+          "code": "CS 579",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 580",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 581",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 583",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 584",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 586",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 410",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 411",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 412",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 414",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 416",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 434",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 440",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 441",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 442",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 443",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 444",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 445",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 446",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 447",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 448",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 464",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 466",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 467",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 469",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 470",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 510",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 511",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 512",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 514",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 540",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 542",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 543",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 544",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 545",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 546",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 562",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 567",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 576",
+          "credits": 2,
+          "required": true
+        },
+        {
+          "code": "CS 582",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 409",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 415",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 416",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 417",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 441",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 442",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 460",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 461",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 463",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 464",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 465",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 467",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 468",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 469",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 470",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 500",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 514",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 562",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 563",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 565",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 567",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 409",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 414",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 415",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 416",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 417",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 418",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 419",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 445",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 448",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 465",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 467",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 468",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 469",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 519",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 545",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 565",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 567",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 419",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 435",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 450",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 466",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 482",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 483",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 484",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 519",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 554",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 555",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 556",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 558",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 407",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 423",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 424",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 425",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 431",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 435",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 436",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 437",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 438",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 439",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 460",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 461",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 463",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 483",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 484",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 523",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 524",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 525",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 537",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 538",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 539",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 562",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 563",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "required": true
+        },
+        {
+          "code": "CS 423",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 424",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 426",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 431",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 433",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 434",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 437",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 484",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 523",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 526",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 533",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 534",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 536",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 541",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 584",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 588",
+          "credits": 4,
+          "required": true
+        }
+      ],
+      "credits_required": null
+    },
+    {
+      "group_name": "Advanced Electives",
+      "courses": [
+        {
+          "credits": 6,
+          "required": true
+        },
+        {
+          "credits": 6,
+          "required": true
+        }
+      ],
+      "credits_required": 12
+    },
+    {
+      "group_name": "Free Electives",
+      "courses": [
+        {
+          "credits": "24-25",
+          "required": true
+        },
+        {
+          "credits": 128,
+          "required": true
+        }
+      ],
+      "credits_required": 128
+    }
+  ]
+}

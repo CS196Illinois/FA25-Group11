@@ -1,0 +1,72 @@
+{
+  "major": "Computer Science, BS",
+  "total_credits": 128,
+
+  "required_courses": {
+    "core_cs": [
+      "CS 124", "CS 128", "CS 173", "CS 222", "CS 225",
+      "CS 233", "CS 341", "CS 357", "CS 361", "CS 374"
+    ],
+    "cs_senior": [
+      "CS 421", "CS 422"
+    ],
+    "math": [
+      "MATH 221", "MATH 231", "MATH 241", "MATH 257", "MATH 415"
+    ],
+    "science": [
+      "PHYS 211", "PHYS 212"
+    ],
+    "engineering": [
+      "ENG 100"
+    ]
+  },
+
+  "elective_requirements": {
+    "technical_electives": {
+      "credits_needed": 18,
+      "min_courses": 6,
+      "choose_from": "CS 400-level courses",
+      "constraints": [
+        "At least 1 must be from: CS 411, CS 423, CS 424, CS 425, CS 428, CS 440, CS 465 (team project)",
+        "At least 3 must be from same focus area"
+      ]
+    },
+    "advanced_electives": {
+      "credits_needed": 6,
+      "min_courses": 2,
+      "choose_from": "Any 400-level course"
+    },
+    "science_elective": {
+      "credits_needed": 3,
+      "choose_from": ["PHYS 213", "PHYS 214", "CHEM 102", "CHEM 103"]
+    }
+  },
+
+  "common_electives": [
+    "CS 410", "CS 411", "CS 412", "CS 418", "CS 420", "CS 421", "CS 422",
+    "CS 423", "CS 424", "CS 425", "CS 426", "CS 427", "CS 428", "CS 429",
+    "CS 431", "CS 433", "CS 438", "CS 439", "CS 440", "CS 441", "CS 442",
+    "CS 443", "CS 445", "CS 446", "CS 447", "CS 450", "CS 460", "CS 461",
+    "CS 463", "CS 465", "CS 466", "CS 467", "CS 468", "CS 473", "CS 474",
+    "CS 475", "CS 476", "CS 477", "CS 478", "CS 481", "CS 482", "CS 483",
+    "CS 484", "CS 491", "CS 498"
+  ],
+
+  "typical_semester_sequence": {
+    "semester_1": ["CS 124", "MATH 221", "RHET 105", "Gen Ed", "Gen Ed"],
+    "semester_2": ["CS 128", "CS 173", "MATH 231", "PHYS 211", "Gen Ed"],
+    "semester_3": ["CS 225", "MATH 241", "PHYS 212", "Gen Ed", "Gen Ed"],
+    "semester_4": ["CS 222", "CS 233", "MATH 257/415", "Science Elective", "Gen Ed"],
+    "semester_5": ["CS 341", "CS 357", "CS 374", "Gen Ed", "Free Elective"],
+    "semester_6": ["CS 361", "CS 421/422", "CS Elective", "Advanced Elective", "Free Elective"],
+    "semester_7": ["CS Elective", "CS Elective", "CS Elective", "Advanced Elective", "Free Elective"],
+    "semester_8": ["CS Elective", "CS Elective", "Free Elective", "Free Elective", "Free Elective"]
+  },
+
+  "notes": [
+    "This is a simplified version for MVP",
+    "Focus areas and detailed constraints can be added later",
+    "Gen Ed requirements simplified - can expand later",
+    "Free electives total ~24-25 credits"
+  ]
+}
