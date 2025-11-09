@@ -1,0 +1,4230 @@
+{
+  "major_name": "Civil Engineering, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/civil-engineering-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Civil Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours.",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Overall GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation and Professional Development"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CEE 190",
+            "title": "CEE 190",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 495",
+            "title": "CEE 495",
+            "hours": "0",
+            "hours_min": 0,
+            "hours_max": 0
+          },
+          {
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Introductory Economics Elective"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ECON 103"
+            ],
+            "title": "ECON 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 103",
+            "type": "choice",
+            "options": [
+              "ECON 103"
+            ],
+            "title": "orECON 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundational Mathematics and Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CHEM 104",
+            "title": "CHEM 104",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 105",
+            "title": "CHEM 105",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 257",
+            "title": "MATH 257",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 213",
+            "title": "PHYS 213",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Civil Engineering Technical Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CEE 201",
+            "title": "CEE 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 202",
+            "title": "CEE 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 101",
+            "title": "CS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 101",
+            "title": "SE 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 211",
+            "title": "TAM 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 212",
+            "title": "TAM 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 251",
+            "title": "TAM 251",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 335",
+            "type": "choice",
+            "options": [
+              "TAM 335",
+              "CEE 331"
+            ],
+            "title": "TAM 335",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 331",
+            "type": "choice",
+            "options": [
+              "CEE 331",
+              "RCEE 331"
+            ],
+            "title": "orCEE 331",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Civil Engineering Primary and Secondary Fields"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ATMS 120",
+            "title": "ATMS 120",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 303",
+            "title": "ATMS 303",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ECE 205",
+            "title": "ECE 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FIN 221",
+            "title": "FIN 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 118",
+            "title": "GEOL 118",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GEOL 333",
+            "title": "GEOL 333",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 380",
+            "title": "GEOL 380",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 201",
+            "title": "NPRE 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 400",
+            "title": "SE 400",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 420",
+            "title": "STAT 420",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 205",
+            "title": "UP 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 420",
+            "title": "CEE 420",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 421",
+            "title": "CEE 421",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 422",
+            "title": "CEE 422",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 401",
+            "title": "CEE 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 461",
+            "title": "CEE 461",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MSE 201",
+            "title": "MSE 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 401",
+            "title": "CEE 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 405",
+            "title": "CEE 405",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 460",
+            "title": "CEE 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 461",
+            "title": "CEE 461",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 469",
+            "title": "CEE 469",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 483",
+            "title": "CEE 483",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 430",
+            "title": "ME 430",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MSE 401",
+            "title": "MSE 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 402",
+            "title": "MSE 402",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 406",
+            "title": "MSE 406",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 450",
+            "title": "MSE 450",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 428",
+            "title": "TAM 428",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MCB 300",
+            "title": "MCB 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 401",
+            "title": "MSE 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 420",
+            "title": "STAT 420",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 440",
+            "title": "CEE 440",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 441",
+            "title": "CEE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 435",
+            "title": "CEE 435",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 438",
+            "title": "CEE 438",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 442",
+            "title": "CEE 442",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 443",
+            "title": "CEE 443",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 444",
+            "title": "CEE 444",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 447",
+            "title": "CEE 447",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 449",
+            "title": "CEE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 452",
+            "title": "CEE 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 457",
+            "title": "CEE 457",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 493",
+            "title": "CEE 493",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 483",
+            "title": "CEE 483",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 484",
+            "title": "CEE 484",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 457",
+            "title": "CEE 457",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 460",
+            "title": "CEE 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 461",
+            "title": "CEE 461",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 463",
+            "title": "CEE 463",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 205",
+            "title": "ECE 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 118",
+            "title": "GEOL 118",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 460",
+            "title": "CEE 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 461",
+            "title": "CEE 461",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 465",
+            "title": "CEE 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 470",
+            "title": "CEE 470",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 205",
+            "title": "ECE 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 340",
+            "title": "ME 340",
+            "hours": "3.5",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 401",
+            "title": "MSE 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 320",
+            "title": "SE 320",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 420",
+            "title": "STAT 420",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 405",
+            "title": "CEE 405",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 407",
+            "title": "CEE 407",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 407",
+            "title": "CEE 407",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 415",
+            "title": "CEE 415",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 416",
+            "title": "CEE 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 418",
+            "title": "CEE 418",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 408",
+            "title": "CEE 408",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 409",
+            "title": "CEE 409",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 410",
+            "title": "CEE 410",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 411",
+            "title": "CEE 411",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 401",
+            "title": "CEE 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 405",
+            "title": "CEE 405",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 407",
+            "title": "CEE 407",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 408",
+            "title": "CEE 408",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 409",
+            "title": "CEE 409",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 410",
+            "title": "CEE 410",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 411",
+            "title": "CEE 411",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 412",
+            "title": "CEE 412",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 415",
+            "title": "CEE 415",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 416",
+            "title": "CEE 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 417",
+            "title": "CEE 417",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 418",
+            "title": "CEE 418",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 452",
+            "title": "CEE 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 433",
+            "title": "CEE 433",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 450",
+            "title": "CEE 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 451",
+            "title": "CEE 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 452",
+            "title": "CEE 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 457",
+            "title": "CEE 457",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 458",
+            "title": "CEE 458",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 459",
+            "title": "CEE 459",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHBE 321",
+            "title": "CHBE 321",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 493",
+            "title": "CEE 493",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ABE 436",
+            "title": "ABE 436",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 433",
+            "title": "CEE 433",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 435",
+            "title": "CEE 435",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 441",
+            "title": "CEE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 449",
+            "title": "CEE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 450",
+            "title": "CEE 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 452",
+            "title": "CEE 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 457",
+            "title": "CEE 457",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 459",
+            "title": "CEE 459",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 473",
+            "title": "CEE 473",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 492",
+            "title": "CEE 492",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ENG 471",
+            "title": "ENG 471",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ME 400",
+            "title": "ME 400",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 402",
+            "title": "NPRE 402",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 475",
+            "title": "NPRE 475",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "FIN 230",
+            "title": "FIN 230",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GEOL 118",
+            "title": "GEOL 118",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LAW 301",
+            "title": "LAW 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 287",
+            "title": "NRES 287",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 420",
+            "title": "STAT 420",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 491",
+            "title": "CEE 491",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 416",
+            "title": "CEE 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 417",
+            "title": "CEE 417",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 440",
+            "title": "CEE 440",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 449",
+            "title": "CEE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 460",
+            "title": "CEE 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 461",
+            "title": "CEE 461",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 465",
+            "title": "CEE 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 472",
+            "title": "CEE 472",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 473",
+            "title": "CEE 473",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "IE 410",
+            "title": "IE 410",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 442",
+            "title": "NPRE 442",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 450",
+            "title": "SE 450",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 425",
+            "title": "STAT 425",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 429",
+            "title": "STAT 429",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 430",
+            "title": "STAT 430",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 438",
+            "title": "UP 438",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ATMS 120",
+            "title": "ATMS 120",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ENSU 300",
+            "title": "ENSU 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ESE 140",
+            "title": "ESE 140",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ESE 320",
+            "title": "ESE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ESE 482",
+            "title": "ESE 482",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FIN 221",
+            "title": "FIN 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GGIS 103",
+            "title": "GGIS 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 201",
+            "title": "NPRE 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 439",
+            "title": "NRES 439",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 320",
+            "title": "SE 320",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 420",
+            "title": "STAT 420",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 406",
+            "title": "UP 406",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 491",
+            "title": "CEE 491",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ABE 436",
+            "title": "ABE 436",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 401",
+            "title": "CEE 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 408",
+            "title": "CEE 408",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 409",
+            "title": "CEE 409",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 416",
+            "title": "CEE 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 417",
+            "title": "CEE 417",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 418",
+            "title": "CEE 418",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 421",
+            "title": "CEE 421",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 458",
+            "title": "CEE 458",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 465",
+            "title": "CEE 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 493",
+            "title": "CEE 493",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MSE 489",
+            "title": "MSE 489",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 466",
+            "title": "UP 466",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 480",
+            "title": "UP 480",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 421",
+            "title": "CEE 421",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 420",
+            "title": "CEE 420",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 422",
+            "title": "CEE 422",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 401",
+            "title": "CEE 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 405",
+            "title": "CEE 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 435",
+            "title": "CEE 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 438",
+            "title": "CEE 438",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 441",
+            "title": "CEE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 442",
+            "title": "CEE 442",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 443",
+            "title": "CEE 443",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 444",
+            "title": "CEE 444",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 447",
+            "title": "CEE 447",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 449",
+            "title": "CEE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 484",
+            "title": "CEE 484",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 483",
+            "title": "CEE 483",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 460",
+            "title": "CEE 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 461",
+            "title": "CEE 461",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 405",
+            "title": "CEE 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 407",
+            "title": "CEE 407",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 407",
+            "title": "CEE 407",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 415",
+            "title": "CEE 415",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 416",
+            "title": "CEE 416",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 418",
+            "title": "CEE 418",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 408",
+            "title": "CEE 408",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 409",
+            "title": "CEE 409",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 410",
+            "title": "CEE 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 411",
+            "title": "CEE 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 412",
+            "title": "CEE 412",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 433",
+            "title": "CEE 433",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 450",
+            "title": "CEE 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 451",
+            "title": "CEE 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 452",
+            "title": "CEE 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 457",
+            "title": "CEE 457",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 458",
+            "title": "CEE 458",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 459",
+            "title": "CEE 459",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 493",
+            "title": "CEE 493",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ABE 436",
+            "title": "ABE 436",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 433",
+            "title": "CEE 433",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 435",
+            "title": "CEE 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 441",
+            "title": "CEE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 449",
+            "title": "CEE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 450",
+            "title": "CEE 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 452",
+            "title": "CEE 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 457",
+            "title": "CEE 457",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 459",
+            "title": "CEE 459",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 473",
+            "title": "CEE 473",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 492",
+            "title": "CEE 492",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 400",
+            "title": "ME 400",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 402",
+            "title": "NPRE 402",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 475",
+            "title": "NPRE 475",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 491",
+            "title": "CEE 491",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 416",
+            "title": "CEE 416",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 417",
+            "title": "CEE 417",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 440",
+            "title": "CEE 440",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 449",
+            "title": "CEE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 460",
+            "title": "CEE 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 461",
+            "title": "CEE 461",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 465",
+            "title": "CEE 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 472",
+            "title": "CEE 472",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 473",
+            "title": "CEE 473",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "IE 410",
+            "title": "IE 410",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 442",
+            "title": "NPRE 442",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 450",
+            "title": "SE 450",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 425",
+            "title": "STAT 425",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 429",
+            "title": "STAT 429",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 430",
+            "title": "STAT 430",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 438",
+            "title": "UP 438",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 491",
+            "title": "CEE 491",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ABE 436",
+            "title": "ABE 436",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 401",
+            "title": "CEE 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 408",
+            "title": "CEE 408",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 409",
+            "title": "CEE 409",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 416",
+            "title": "CEE 416",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 417",
+            "title": "CEE 417",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 418",
+            "title": "CEE 418",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 421",
+            "title": "CEE 421",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 458",
+            "title": "CEE 458",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 465",
+            "title": "CEE 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 493",
+            "title": "CEE 493",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MSE 489",
+            "title": "MSE 489",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 466",
+            "title": "UP 466",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 480",
+            "title": "UP 480",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ACE 451",
+            "title": "ACE 451",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 421",
+            "title": "ATMS 421",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 438",
+            "title": "CEE 438",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 441",
+            "title": "CEE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 447",
+            "title": "CEE 447",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 450",
+            "title": "CEE 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 420",
+            "title": "ECON 420",
+            "hours": "3 to 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 408",
+            "title": "CEE 408",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 417",
+            "title": "CEE 417",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 449",
+            "title": "CEE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 465",
+            "title": "CEE 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ATMS 302",
+            "title": "ATMS 302",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 410",
+            "title": "ATMS 410",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 411",
+            "title": "ATMS 411",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 421",
+            "title": "ATMS 421",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 441",
+            "title": "CEE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 447",
+            "title": "CEE 447",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHBE 321",
+            "title": "CHBE 321",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 421",
+            "title": "CHBE 421",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 422",
+            "title": "CHBE 422",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 424",
+            "title": "CHBE 424",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 315",
+            "title": "CHEM 315",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CHEM 332",
+            "title": "CHEM 332",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 420",
+            "title": "CHEM 420",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CHEM 440",
+            "title": "CHEM 440",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 444",
+            "title": "CEE 444",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MCB 301",
+            "title": "MCB 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 431",
+            "title": "MCB 431",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 450",
+            "title": "MCB 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 332",
+            "title": "CHEM 332",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ENVS 480",
+            "title": "ENVS 480",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 450",
+            "title": "MCB 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 420",
+            "title": "STAT 420",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 300",
+            "title": "CEE 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 420",
+            "title": "CEE 420",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 421",
+            "title": "CEE 421",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 422",
+            "title": "CEE 422",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 440",
+            "title": "CEE 440",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 441",
+            "title": "CEE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 483",
+            "title": "CEE 483",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 484",
+            "title": "CEE 484",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 401",
+            "title": "CEE 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 460",
+            "title": "CEE 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 461",
+            "title": "CEE 461",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 405",
+            "title": "CEE 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 406",
+            "title": "CEE 406",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 407",
+            "title": "CEE 407",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 408",
+            "title": "CEE 408",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 409",
+            "title": "CEE 409",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 410",
+            "title": "CEE 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 411",
+            "title": "CEE 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 412",
+            "title": "CEE 412",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 415",
+            "title": "CEE 415",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 416",
+            "title": "CEE 416",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 417",
+            "title": "CEE 417",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 418",
+            "title": "CEE 418",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 451",
+            "title": "CEE 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Civil Engineering"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence. The curriculum sequence can also be viewed via dynamic and static curricular maps, which include prerequisite sequencing."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements. One of the SBS courses must be an introductory economics course (ECON 102\n or ECON 103\n). CEE 300 or CEE 340 \nwill satisfy a Civil Engineering core course requirement and the Campus General Education Advanced Composition requirement.",
+        "course_codes": [
+          "ECON 102",
+          "ECON 103",
+          "CEE 300",
+          "CEE 340"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "CEE 190",
+              "4",
+              "CS 101",
+              "3"
+            ],
+            [
+              "ENG 100",
+              "1",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "MATH 221 (MATH 220 may be substituted)",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "CHEM 104",
+              "3"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "CHEM 105",
+              "1"
+            ],
+            [
+              "Composition I course or SE 101",
+              "4-3",
+              "SE 101 or Composition I course",
+              "3-4"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CEE 201",
+              "3",
+              "CEE 202",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "PHYS 213",
+              "2"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "TAM 212",
+              "3"
+            ],
+            [
+              "TAM 211",
+              "3",
+              "TAM 251",
+              "3"
+            ],
+            [
+              "MATH 257",
+              "3",
+              "ECON 102 or ECON 103 (Counts as General Education course)",
+              "3"
+            ],
+            [
+              "",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "TAM 335 (or CEE 331)",
+              "4",
+              "CEE 300 or  340",
+              "4"
+            ],
+            [
+              "Civil Engineering Core course",
+              "3",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "Civil Engineering Core course",
+              "3",
+              "Civil Engineering Core course",
+              "3"
+            ],
+            [
+              "Science Elective course",
+              "3",
+              "Civil Engineering Core course",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CEE 495",
+              "0",
+              "Civil Engineering Advanced Technical course (Primary Field)",
+              "3"
+            ],
+            [
+              "Civil Engineering Advanced Technical course (Primary Field)",
+              "3",
+              "Civil Engineering Advanced Technical course (Primary Field)",
+              "3"
+            ],
+            [
+              "Civil Engineering Advanced Technical course (Primary Field)",
+              "3",
+              "Civil Engineering Advanced Technical course (Secondary Field)",
+              "3"
+            ],
+            [
+              "Civil Engineering Advanced Technical course (Secondary Field)",
+              "3",
+              "Language Other Than English (3rd level) course",
+              "4"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              ""
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Civil Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Student learning outcomes are based on learning outcomes in line with the ABET accreditation process."
+      },
+      {
+        "type": "paragraph",
+        "content": "Civil Engineering graduates will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "An ability to communicate effectively with a range of audiences.",
+          "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Civil Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Civil & Environmental Engineering website\nCivil & Environmental Engineering faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions\nThe Grainger College of Engineering"
+      }
+    ]
+  }
+}

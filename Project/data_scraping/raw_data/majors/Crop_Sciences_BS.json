@@ -1,0 +1,272 @@
+{
+  "major_name": "Crop Sciences, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Crop Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements Minimum hours required for graduation: 126 hours. ACES prescribed and elective courses: 35 hours, of which 20 hours must be completed in residence.",
+        "credit_requirement": "126"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements Minimum of 40 hours of upper-division coursework, generally at the 300 and 400 level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CMN 101",
+            "title": "CMN 101",
+            "hours": ""
+          },
+          {
+            "code": "ALEC 115",
+            "title": "ALEC 115",
+            "hours": ""
+          },
+          {
+            "code": "CMN 111",
+            "type": "sequence",
+            "sequence": [
+              "CMN 111",
+              "CMN 112"
+            ],
+            "title": "CMN 111&CMN 112",
+            "hours": ""
+          },
+          {
+            "code": "ACES 101",
+            "title": "ACES 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ACE 100"
+            ],
+            "title": "ECON 102",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ACE 100",
+            "type": "choice",
+            "options": [
+              "ACE 100",
+              "RACE 100"
+            ],
+            "title": "orACE 100",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 220",
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": ""
+          },
+          {
+            "code": "MATH 234",
+            "title": "MATH 234",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 241",
+            "title": "CPSC 241",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 102",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 102",
+              "CHEM 103"
+            ],
+            "title": "CHEM 102&CHEM 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CPSC 102",
+            "title": "CPSC 102",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CPSC 112",
+            "title": "CPSC 112",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CPSC 212",
+            "title": "CPSC 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CPSC 393",
+            "title": "CPSC 393",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 395",
+            "title": "CPSC 395",
+            "hours": ""
+          },
+          {
+            "code": "HORT 393",
+            "title": "HORT 393",
+            "hours": ""
+          },
+          {
+            "code": "HORT 395",
+            "title": "HORT 395",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 498",
+            "title": "CPSC 498",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Crop Sciences"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Crop Sciences"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Crop Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Crop Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Crop Sciences website\nAW-101 Turner Hall\nMC-046\n1102 S. Goodwin Ave.\nUrbana, IL 61801\n(217) 333-3420\ncropsciences@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Agricultural, Consumer & Environmental Sciences website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "ACES Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n(217) 333-3380\naces-academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising Website\n(217) 333-3570\nUndergraduate Advising Email: ugrad@cropsciences.illinois.edu\nGraduate Advising Email: grad@cropsciences.illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\nUniversity of Illinois Urbana-Champaign Graduate Admissions\n(217) 333-3380\nvisitACES@illinois.edu"
+      }
+    ]
+  }
+}

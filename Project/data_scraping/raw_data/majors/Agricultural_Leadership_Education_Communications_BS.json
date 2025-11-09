@@ -1,0 +1,420 @@
+{
+  "major_name": "Agricultural Leadership, Education, & Communications, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Agricultural Leadership, Education & Communications"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 126 hours.",
+        "credit_requirement": "126"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300 and 400 level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ALEC 110",
+            "title": "ALEC 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ALEC 123",
+            "title": "ALEC 123",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ALEC 451",
+            "title": "ALEC 451",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "AGCM 220",
+            "title": "AGCM 220",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LEAD 340",
+            "title": "LEAD 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ALEC 115",
+            "type": "choice",
+            "options": [
+              "ALEC 115",
+              "CMN 101"
+            ],
+            "title": "ALEC 115",
+            "hours": ""
+          },
+          {
+            "code": "CMN 101",
+            "type": "choice",
+            "options": [
+              "RCMN 111",
+              "CMN 112",
+              "CMN 101",
+              "CMN 111",
+              "RCMN 101"
+            ],
+            "title": "orCMN 101"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Agricultural Leadership, Education & Communications"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ALEC 110",
+              "3",
+              "Composition I or Oral Communication",
+              "4"
+            ],
+            [
+              "ALEC 123",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or Oral Communication",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "AGCM 220",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "LEAD 340",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Concentration course",
+              "2"
+            ],
+            [
+              "",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ALEC 451",
+              "2",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 126"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science in Agricultural Leadership, Education & Communications"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Within the scope of food, agriculture, human, and natural resources systems in contemporary society, ALEC students will solve challenges and take advantage of opportunities.\n\t\nEngage in critical thinking about current issues\nAssess situational strengths and obstacles\nUse effective communications\nCreate solutions that respond to current issues",
+          "Within the scope of food, agriculture, human, and natural resources systems in contemporary society, ALEC students will demonstrate a strong foundation in theories and empirical knowledge associated with leadership, education, and communications.\n\t\nDescribe current and historical challenges facing people within food, agriculture, human, and natural resource systems\nRecall summarize and apply key theories, models, principles and terminology\nApply knowledge to global contexts\nIntegrate knowledge across courses and content areas\nCritique current theoretical and empirical knowledge and methodological approaches",
+          "Within the scope of food, agriculture, human, and natural resources systems in contemporary society, ALEC students will lead, educate, and communicate with an awareness and commitment to inclusion.\n\t\nCritically examine personal backgrounds, biases, and experiences\nUse ethical principles and practices\nFacilitate environments that foster a sense of belonging"
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Agricultural Leadership, Education & Communications"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Agricultural Leadership, Education, & Communications"
+      },
+      {
+        "type": "paragraph",
+        "content": "Agricultural Leadership, Education, & Communications Website"
+      },
+      {
+        "type": "paragraph",
+        "content": "174 Bevier Hall\n905 S. Goodwin Ave\nUrbana, IL 61801\n217-333-3165\naces-alec@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Agricultural, Consumer & Environmental Sciences Website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "ACES Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n(217) 333-3380\nACES-Academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising Website\n217-333-3570\naces-alec@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\n217-333-3380\nvisitACES@illinois.edu"
+      }
+    ]
+  }
+}

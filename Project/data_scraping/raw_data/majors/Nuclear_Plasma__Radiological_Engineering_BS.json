@@ -1,0 +1,595 @@
+{
+  "major_name": "Nuclear, Plasma, & Radiological Engineering, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, & Radiological Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Overall GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Technical GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "TGPA is required for NPRE 200 and NPRE 247. See Technical GPA to clarify requirements."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level.  These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "4-6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6-10"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "0-15"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation and Professional Development"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ENG 100",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "NPRE 100",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": "2"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Introductory Economics Elective"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ECON 102",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ECON 103",
+            "title": "or"
+          },
+          {
+            "hours": "3"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundational Mathematics and Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 102",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CHEM 103",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "MATH 221",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "MATH 231",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 241",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "MATH 257",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 285",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "PHYS 211",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "PHYS 212",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "hours": "29"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, and Radiological Engineering Technical Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CS 101",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ECE 205",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ME 200",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ME 310",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "TAM 335",
+            "title": "or"
+          },
+          {
+            "code": "NPRE 200",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "NPRE 247",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "NPRE 321",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "NPRE 330",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "NPRE 349",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "NPRE 441",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "NPRE 445",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "NPRE 449",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "NPRE 451",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "NPRE 455",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "NPRE 458",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "TAM 210",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "TAM 212",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "53"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Professional Concentration Area"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": "17"
+          },
+          {
+            "hours": "17"
+          },
+          {
+            "hours": "17"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "11"
+          },
+          {
+            "hours": "128"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, & Radiological Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "NPRE 100",
+              "1",
+              "CS 101 (CS 124 may be substituted)",
+              "3"
+            ],
+            [
+              "MATH 221 (Math 220 may be substituted)",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "ENG 100",
+              "1",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "Language Other than English (3rd level) or Composition I",
+              "4"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "ECON 102 or  103 (counts as General Education Course)",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              ""
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavorial Science course with Cultural Studies designation)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 200",
+              "2",
+              "NPRE 247",
+              "3"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "ME 200",
+              "3"
+            ],
+            [
+              "TAM 210 (TAM 211 may be substituted)",
+              "2",
+              "TAM 212 (PHYS 325 may be substituted)",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavorial Science course with Cultural Studies designation)",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 321 or  330 (Order of semester taken will depend upon concentration course)",
+              "3",
+              "NPRE 349",
+              "2"
+            ],
+            [
+              "MATH 257",
+              "3",
+              "NPRE 451",
+              "3"
+            ],
+            [
+              "NPRE 445",
+              "4",
+              "NPRE 455",
+              "4"
+            ],
+            [
+              "TAM 335 (ME 310 may be substituted)",
+              "4",
+              "ECE 205",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavorial Science course with Cultural Studies designation)",
+              "3",
+              "Concentration Coursework",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 321 or  330 (Order of semester taken will depend upon concentration course)",
+              "3",
+              "NPRE 441",
+              "4"
+            ],
+            [
+              "NPRE 449",
+              "3",
+              "NPRE 458",
+              "4"
+            ],
+            [
+              "Concentration Coursework",
+              "3",
+              "Concentration Coursework",
+              "3"
+            ],
+            [
+              "Concentration Coursework",
+              "3",
+              "Concentration Coursework",
+              "3"
+            ],
+            [
+              "Concentration Coursework",
+              "2",
+              ""
+            ],
+            [
+              "Free Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Nuclear, Plasma, & Radiological Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Student learning outcomes are based on learning outcomes in line with the ABET accreditation process."
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, & Radiological Engineering graduates will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "An ability to communicate effectively with a range of audiences.",
+          "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, & Radiological Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, & Radiological Website\nNuclear, Plasma, & Radiological Engineering Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions\nThe Grainger College of Engineering"
+      }
+    ]
+  }
+}

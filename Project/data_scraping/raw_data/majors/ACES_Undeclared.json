@@ -1,0 +1,46 @@
+{
+  "major_name": "ACES Undeclared",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/aces-undeclared/",
+  "sections": {
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "The ACES Undeclared program allows students to explore various majors within the College of ACES without having to select one during the admissions process. Students will work with an advisor in the Office of Academic Programs, to select coursework based on their interests with the purpose of declaring a major. The time within the program is ideally no more than 4 semesters, but an extension to a fifth semester is available. The goal is to move students to their intended degree program as soon as they have met the degree requirements and feel it is the best option for their career and interest goals."
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n217-333-3380\naces-academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Advising Website\nHannah Steinbrenner, Coordinator for Advising and Student Success\n128 Mumford Hall\n217-333-3380\nteske2@illinois.edu\nAppointment scheduler"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\n217-333-3380\nvisitACES@illinois.edu"
+      }
+    ]
+  }
+}

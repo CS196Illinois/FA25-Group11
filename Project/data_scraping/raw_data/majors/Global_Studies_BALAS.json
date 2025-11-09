@@ -1,0 +1,478 @@
+{
+  "major_name": "Global Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/global-studies-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Global Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the Global Studies academic advisor before the end of the fourth semester (60 hours) and prior to the required study abroad. Please see your advisor.",
+        "credit_requirement": "60"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: The department may award distinction, high distinction, or highest distinction to any Global Studies major whose overall and major grade point averages are 3.25 or higher, who successfully completes 3 hours of GLBL 494 or other approved research methods course and who completes a distinction research project. See the departmental academic advisor for details.",
+        "course_codes": [
+          "GLBL 494"
+        ],
+        "credit_requirement": "3"
+      },
+      {
+        "type": "paragraph",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work: 51-55 hours and includes a semester-long full-time study abroad program and at least 12 hours of 300- or 400-level courses.",
+        "level_requirement": "400",
+        "credit_requirement": "51-55"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: Minimum hours for graduation is 120, to include a minimum of 40 hours of upper-division coursework at the 300- and 400-level. These hours can be drawn from all elements of the degree. Additional hours needed to reach the 40 hour minimum are chosen in consultation with advisor.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "GLBL 100",
+            "title": "GLBL 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Global Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LAS 101",
+              "1",
+              "Social Science Core course",
+              "3"
+            ],
+            [
+              "GLBL 100",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Social Science Core course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Social Science Core course",
+              "3",
+              "Social Science Core course",
+              "3"
+            ],
+            [
+              "Thematic Area course",
+              "3",
+              "Thematic Area course",
+              "3"
+            ],
+            [
+              "Advanced Language course",
+              "3",
+              "Advanced Language course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Thematic Area course",
+              "3",
+              "Regional Area Studies course",
+              "3"
+            ],
+            [
+              "Thematic Area course",
+              "3",
+              "Regional Area Studies course",
+              "3"
+            ],
+            [
+              "Global Studies Seminar",
+              "1",
+              "Regional Area Studies course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Global Studies Seminar course",
+              "1",
+              "Global Studies Seminar course",
+              "1"
+            ],
+            [
+              "Thematic Area course",
+              "3",
+              "Thematic Area course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Global Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Global Studies majors will be able to:"
+      },
+      {
+        "type": "paragraph",
+        "content": "1. Discover how complex, interdependent global systems (natural, environmental, social, cultural, economic, and political) affect and are affected by the local identities and ethical choices of individuals and institutions."
+      },
+      {
+        "type": "paragraph",
+        "content": "2. Develop new skills in in how to research these interconnections through data collection, analysis, building familiarity with academic literature, and writing."
+      },
+      {
+        "type": "paragraph",
+        "content": "3. Apply knowledge to promote inquiry, discover solutions, and generate new ideas and creative works, and develop the capacity to conduct independent research in graduate and professional environments."
+      },
+      {
+        "type": "paragraph",
+        "content": "4. Gain social awareness and cultural understanding through intensive experiential, cross-cultural coursework, advanced language study, and study abroad."
+      },
+      {
+        "type": "paragraph",
+        "content": "5. Acquire effective leadership and community engagement capacities by developing the ability to make deliberate and independent choices about intellectual and professional trajectories. To do so, students will combine coursework and experiential learning with leadership opportunities (such as the Global Studies Leaders), along with fieldwork, RSO engagement, a semester abroad, volunteer opportunities, and internships with governmental and non-governmental organizations."
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Global Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Global Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Global Studies faculty\nGlobal Studies advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of LAS Admissions & Requirements"
+      }
+    ]
+  }
+}

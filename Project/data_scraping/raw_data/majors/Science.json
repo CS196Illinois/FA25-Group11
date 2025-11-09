@@ -1,0 +1,600 @@
+{
+  "major_name": "Middle Grades Education: Science, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/science/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Middle Grades Education, Science Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Degree Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "EDUC 101",
+            "title": "EDUC 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "The following degree requirements also meet general education course requirements and must be selected from the campus general education course list. Some professional education courses and concentration courses can count towards the general education requirements."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CI 404",
+            "title": "CI 404",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 410",
+            "title": "CI 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 415",
+            "title": "CI 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 467",
+            "title": "CI 467",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 471",
+            "title": "CI 471",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 476",
+            "title": "CI 476",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDPR 250",
+            "title": "EDPR 250",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": "12",
+            "hours_min": 12,
+            "hours_max": 12
+          },
+          {
+            "code": "EDUC 201",
+            "type": "sequence",
+            "sequence": [
+              "EDUC 201",
+              "EDUC 202"
+            ],
+            "title": "EDUC 201&EDUC 202",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 430",
+            "title": "EPSY 430",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 405",
+            "title": "SPED 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Concentration Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Some concentration courses can count towards the general education requirements. Courses in concentrations may not be allowed to count for more than two degree requirements. If you have questions, see your adviser."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CI 402",
+            "title": "CI 402",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 101",
+            "type": "choice",
+            "options": [
+              "CHEM 101",
+              "CHEM 102/103"
+            ],
+            "title": "CHEM 101",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 102/103",
+            "title": "or"
+          },
+          {
+            "code": "CHEM 108",
+            "title": "CHEM 108",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 101",
+            "title": "PHYS 101",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 102",
+            "title": "PHYS 102",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 140",
+            "title": "PHYS 140",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IB 100",
+            "title": "IB 100",
+            "hours": ""
+          },
+          {
+            "code": "IB 103",
+            "title": "IB 103",
+            "hours": ""
+          },
+          {
+            "code": "IB 104",
+            "title": "IB 104",
+            "hours": ""
+          },
+          {
+            "code": "IB 150",
+            "title": "IB 150",
+            "hours": ""
+          },
+          {
+            "code": "MCB 100",
+            "title": "MCB 100",
+            "hours": ""
+          },
+          {
+            "code": "MCB 150",
+            "title": "MCB 150",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IB 105",
+            "title": "IB 105",
+            "hours": ""
+          },
+          {
+            "code": "MCB 170",
+            "title": "MCB 170",
+            "hours": ""
+          },
+          {
+            "code": "ATMS 100",
+            "title": "ATMS 100",
+            "hours": ""
+          },
+          {
+            "code": "ATMS 120",
+            "title": "ATMS 120",
+            "hours": ""
+          },
+          {
+            "code": "ATMS 201",
+            "title": "ATMS 201",
+            "hours": ""
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": ""
+          },
+          {
+            "code": "GEOL 117",
+            "title": "GEOL 117",
+            "hours": ""
+          },
+          {
+            "code": "GEOL 118",
+            "title": "GEOL 118",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Middle Grades Education, Science Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "EDUC 101",
+              "1",
+              "Composition I or General Education course",
+              "3"
+            ],
+            [
+              "EDUC 201",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level) or Elective course",
+              "4",
+              "Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "EDUC 202",
+              "3",
+              "EPSY 201",
+              "3"
+            ],
+            [
+              "Physical Science course (CHEM or PHYS rubric)",
+              "3",
+              "Life Science course (IB or MCB rubric)",
+              "3"
+            ],
+            [
+              "Earth & Space Science course (ATMS or GEOL rubric)",
+              "3",
+              "Earth & Space Science course (ATMS or GEOL rubric)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Elective course",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CI 410",
+              "3",
+              "CI 415",
+              "3"
+            ],
+            [
+              "CI 467",
+              "3",
+              "Physical Science course (CHEM or PHYS rubric)",
+              "3"
+            ],
+            [
+              "CI 471",
+              "3",
+              "Science Concentration Elective or Elective course",
+              "3"
+            ],
+            [
+              "EPSY 430",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "Life Science course (IB or MCB rubric)",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CI 402",
+              "3",
+              "CI 404",
+              "3"
+            ],
+            [
+              "CI 476",
+              "3",
+              "EDPR 442",
+              "12"
+            ],
+            [
+              "EDPR 250",
+              "4",
+              ""
+            ],
+            [
+              "SPED 405",
+              "3",
+              ""
+            ],
+            [
+              "Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Middle Grades Education, Science Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Education Building, 1310 S. Sixth Street, Champaign, IL 61820\nCollege of Education website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Department of Curriculum & Instruction"
+      },
+      {
+        "type": "paragraph",
+        "content": "306 Education Building\nci@education.illinois.edu\n(217) 244-8286\nDepartment of Curriculum & Instruction website\nDepartment of Curriculum & Instruction faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Office of Undergraduate Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "110 Education Building\nEducation Academic Affairs email: saao@education.illinois.edu\n(217) 333-2800\nAdmissions & Academics website\nStudent Academic Affairs website"
+      }
+    ]
+  }
+}

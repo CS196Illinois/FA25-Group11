@@ -1,0 +1,546 @@
+{
+  "major_name": "Actuarial Science, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/actuarial-science-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences, Major in Actuarial Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To qualify for distinction, the student must have a grade point average in ASRM courses of at least 3.25, and pass at least two examinations offered by the professional actuarial societies. To qualify for high or highest distinction, the student must have passed at least three professional exams, with highest distinction going to those whose grade point averages in mathematics are at least 3.75. Finance courses and additional professional exams may also be given consideration in close decisions."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work normally equates to 58-61 hours including 32-33 hours of actuarial courses beyond calculus. Twelve hours of 300- or 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "58-61"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221"
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": ""
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 195",
+            "title": "ASRM 195",
+            "hours": ""
+          },
+          {
+            "code": "CS 101",
+            "title": "CS 101",
+            "hours": ""
+          },
+          {
+            "code": "CS 124",
+            "title": "CS 124",
+            "hours": ""
+          },
+          {
+            "code": "CS 125",
+            "title": "CS 125",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 210",
+            "title": "ASRM 210",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ASRM 401",
+            "type": "sequence",
+            "sequence": [
+              "ASRM 401",
+              "ASRM 402"
+            ],
+            "title": "ASRM 401&ASRM 402",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "STAT 400",
+            "type": "sequence",
+            "sequence": [
+              "STAT 400",
+              "STAT 410"
+            ],
+            "title": "STAT 400&STAT 410",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 406",
+            "title": "ASRM 406",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ASRM 441",
+            "title": "ASRM 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ASRM 409",
+            "title": "ASRM 409",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 410",
+            "title": "ASRM 410",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 442",
+            "title": "ASRM 442",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 451",
+            "title": "ASRM 451",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 454",
+            "title": "ASRM 454",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 455",
+            "title": "ASRM 455",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 461",
+            "title": "ASRM 461",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 462",
+            "title": "ASRM 462",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 469",
+            "title": "ASRM 469",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 471",
+            "title": "ASRM 471",
+            "hours": ""
+          },
+          {
+            "code": "ASRM 472",
+            "title": "ASRM 472",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "FIN 221",
+            "title": "FIN 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACCY 200",
+            "title": "ACCY 200",
+            "hours": ""
+          },
+          {
+            "code": "ECON 302",
+            "title": "ECON 302",
+            "hours": ""
+          },
+          {
+            "code": "ECON 303",
+            "title": "ECON 303",
+            "hours": ""
+          },
+          {
+            "code": "FIN 230",
+            "title": "FIN 230",
+            "hours": ""
+          },
+          {
+            "code": "FIN 300",
+            "title": "FIN 300",
+            "hours": ""
+          },
+          {
+            "code": "FIN 321",
+            "title": "FIN 321",
+            "hours": ""
+          },
+          {
+            "code": "FIN 431",
+            "title": "FIN 431",
+            "hours": ""
+          },
+          {
+            "code": "FIN 432",
+            "title": "FIN 432",
+            "hours": ""
+          },
+          {
+            "code": "FIN 434",
+            "title": "FIN 434",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Actuarial Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "ASRM 195 (or CS 101 or CS 105 or CS 124)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "ASRM 401 or STAT  400",
+              "4"
+            ],
+            [
+              "ASRM 210",
+              "3",
+              "ASRM 406",
+              "3"
+            ],
+            [
+              "FIN 221",
+              "3",
+              "ACCY, ECON, or FIN from list",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ASRM 402 or STAT  410",
+              "3",
+              "ASRM 400-level from list",
+              "3"
+            ],
+            [
+              "ASRM 450",
+              "3",
+              "ASRM 400-level from list",
+              "3"
+            ],
+            [
+              "ACCY, ECON, or FIN from list",
+              "3",
+              "ACCY, ECON, or FIN from list",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ASRM 400-level from list",
+              "3",
+              "ASRM 400-level from list or approved ASRM 499",
+              "3"
+            ],
+            [
+              "ASRM 400-level from list",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "4",
+              "Free elective course",
+              "4"
+            ],
+            [
+              "",
+              "13",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Actuarial Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Student Learning Outcomes"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Have sufficient exposure to actuarial and financial mathematics to be familiar with at least 80% of the material on five of the preliminary Society of Actuaries (SOA) credentialing exams.",
+          "Be familiar with the role of insurance in society, basic economic theory, and the basics of how insurance and financial markets operate.",
+          "Have familiarity with several of the technical tools, computer languages or software packages used by actuaries.",
+          "Develop communication, leadership and teamwork skills, and understand their importance in the actuarial industry.",
+          "Be able to apply this knowledge and these skills in new combinations and to new problems."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Actuarial Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Actuarial Science website\nActuarial Science faculty\nASRM-advising@illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Mathematics website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

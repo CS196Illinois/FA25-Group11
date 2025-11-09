@@ -1,0 +1,548 @@
+{
+  "major_name": "Graphic Design, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/graphic-design-bfa/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Graphic Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 122 hours.",
+        "credit_requirement": "122"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The University and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in Art and Design."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "First Year Curriculum"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ARTF 101",
+            "title": "ARTF 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTE 101",
+            "title": "ARTE 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTH 110",
+            "title": "ARTH 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 103",
+            "title": "ARTF 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 105",
+            "title": "ARTF 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 102",
+            "title": "ARTF 102",
+            "hours": ""
+          },
+          {
+            "code": "ARTF 104",
+            "title": "ARTF 104",
+            "hours": ""
+          },
+          {
+            "code": "ARTF 106",
+            "title": "ARTF 106",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ARTH 211",
+            "title": "ARTH 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Graphic Design Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ARTD 151",
+            "title": "ARTD 151",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 218",
+            "title": "ARTD 218",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 222",
+            "title": "ARTD 222",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 251",
+            "title": "ARTD 251",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTD 270",
+            "title": "ARTD 270",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTD 318",
+            "title": "ARTD 318",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTD 333",
+            "title": "ARTD 333",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 351",
+            "title": "ARTD 351",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARTD 371",
+            "title": "ARTD 371",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTD 418",
+            "title": "ARTD 418",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 444",
+            "title": "ARTD 444",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 451",
+            "title": "ARTD 451",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARTD 471",
+            "title": "ARTD 471",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art & Design Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of credits for Bachelor of Fine Arts in Graphic Design"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Graphic Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "ARTE 101",
+              "2"
+            ],
+            [
+              "ARTF 101",
+              "2",
+              "ARTF 105",
+              "3"
+            ],
+            [
+              "ARTF 103",
+              "3",
+              "ARTD 151",
+              "3"
+            ],
+            [
+              "ARTH 110",
+              "3",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "ARTF ### (Drawing Category)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTD 222",
+              "3",
+              "ARTD 333",
+              "3"
+            ],
+            [
+              "ARTD 251",
+              "2",
+              "ARTD 218",
+              "3"
+            ],
+            [
+              "ARTD 270",
+              "2",
+              "ARTH 211",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTD 451",
+              "4",
+              "ARTD 444",
+              "3"
+            ],
+            [
+              "ARTD 351",
+              "2",
+              "ARTD 418",
+              "3"
+            ],
+            [
+              "ARTD 318",
+              "2",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3"
+            ],
+            [
+              "ARTH 200-level or above (Advanced Art History)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 29"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3"
+            ],
+            [
+              "ARTD 371",
+              "2",
+              "ARTD 471",
+              "3"
+            ],
+            [
+              "ARTD 351",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "ARTH 200-level or above (Advanced Art History)",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 122"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Graphic Design"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Acquire proficient skills in recognizing, researching, organizing, and visualizing abstract ideas to produce graphic compositions for effective communication of messages across digital, print, experiential, and speculative media.",
+          "Critically select industry standard and emerging tools and technology, analyzing their roles in the creation, reproduction, and distribution of visual messages.",
+          "Understand typography as a system and its appropriate use for readability, legibility, and conveying meaning across digital and print media.",
+          "Develop the capability to realize a design idea through an iterative creative process of research, prototyping, refinement, and implementation, articulating criticism of the field.",
+          "Adapt and use evolving research methods and frameworks of the graphic design and user experience disciplines.",
+          "Apply knowledge of perception, cognition, and embodied experience to multimodal design practices, enhancing the efficacy of communication through diverse sensory channels.",
+          "Recognize and analyze the multifaceted professional, social, environmental, and ethical implications of the graphic design discipline."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Graphic Design"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Art & Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Art & Design\nArt & Design faculty\nCoordinator of Undergraduate Academic Affairs:Michael Foellmer\n143 Art and Design Building, Champaign, IL 61820\n(217) 244-8462"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fine & Applied Arts"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "University of Illinois Urbana-Champaign Undergrad Admissions\nFAA Undergraduate Advising\nUndergrad Admissions:admissions@illinois.edu"
+      }
+    ]
+  }
+}

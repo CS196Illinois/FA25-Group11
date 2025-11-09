@@ -1,0 +1,1361 @@
+{
+  "major_name": "Aerospace Engineering, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/aerospace-engineering-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Aerospace Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours.",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Overall GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation and Professional Development"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "AE 100",
+            "title": "AE 100",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundational Mathematics and Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 257",
+            "title": "MATH 257",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Aerospace Engineering Technical Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "AE 140",
+            "title": "AE 140",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "AE 202",
+            "title": "AE 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 311",
+            "title": "AE 311",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 312",
+            "title": "AE 312",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 321",
+            "title": "AE 321",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 323",
+            "title": "AE 323",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 352",
+            "title": "AE 352",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 353",
+            "title": "AE 353",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 370",
+            "title": "AE 370",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 433",
+            "type": "choice",
+            "options": [
+              "AE 433",
+              "AE 434"
+            ],
+            "title": "AE 433",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 434",
+            "type": "choice",
+            "options": [
+              "AE 434",
+              "ORAE 434"
+            ],
+            "title": "orAE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 442",
+            "title": "AE 442",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 443",
+            "title": "AE 443",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 460",
+            "title": "AE 460",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "AE 461",
+            "title": "AE 461",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "AE 483",
+            "title": "AE 483",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CS 101",
+            "title": "CS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 205",
+            "title": "ECE 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 280",
+            "title": "MSE 280",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 210",
+            "title": "TAM 210",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "TAM 212",
+            "title": "TAM 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Technical Electives"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "AE 402",
+            "title": "AE 402",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 403",
+            "title": "AE 403",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 410",
+            "title": "AE 410",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 412",
+            "title": "AE 412",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 416",
+            "title": "AE 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 419",
+            "title": "AE 419",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 420",
+            "title": "AE 420",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 428",
+            "title": "AE 428",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 435",
+            "title": "AE 435",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 451",
+            "title": "AE 451",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 454",
+            "title": "AE 454",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 456",
+            "title": "AE 456",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 468",
+            "title": "AE 468",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 482",
+            "title": "AE 482",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 484",
+            "title": "AE 484",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AE 485",
+            "title": "AE 485",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 497",
+            "title": "AE 497",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "AE 498",
+            "title": "AE 498",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "ENG 491",
+            "title": "ENG 491",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ASTR 404",
+            "title": "ASTR 404",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ASTR 405",
+            "title": "ASTR 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ASTR 406",
+            "title": "ASTR 406",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ASTR 414",
+            "title": "ASTR 414",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 301",
+            "title": "ATMS 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 302",
+            "title": "ATMS 302",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 303",
+            "title": "ATMS 303",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 304",
+            "title": "ATMS 304",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 305",
+            "title": "ATMS 305",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 306",
+            "title": "ATMS 306",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 313",
+            "title": "ATMS 313",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 406",
+            "title": "ATMS 406",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 410",
+            "title": "ATMS 410",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 310",
+            "title": "CEE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 360",
+            "title": "CEE 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 380",
+            "title": "CEE 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 407",
+            "title": "CEE 407",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 412",
+            "title": "CEE 412",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 451",
+            "title": "CEE 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 471",
+            "title": "CEE 471",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 233",
+            "title": "CHEM 233",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CHEM 236",
+            "title": "CHEM 236",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 225",
+            "title": "CS 225",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 420",
+            "title": "CS 420",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 461",
+            "title": "CS 461",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 465",
+            "title": "CS 465",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CSE 412",
+            "title": "CSE 412",
+            "hours": "2 to 4",
+            "hours_min": 2,
+            "hours_max": 4
+          },
+          {
+            "code": "ECE 210",
+            "title": "ECE 210",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ECE 220",
+            "title": "ECE 220",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ECE 310",
+            "title": "ECE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 311",
+            "title": "ECE 311",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ECE 329",
+            "title": "ECE 329",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 330",
+            "title": "ECE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 342",
+            "title": "ECE 342",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 343",
+            "title": "ECE 343",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ECE 385",
+            "title": "ECE 385",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 473",
+            "title": "ECE 473",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ECE 486",
+            "title": "ECE 486",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ENG 491",
+            "title": "ENG 491",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "MSE 401",
+            "title": "MSE 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 440",
+            "title": "MSE 440",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 443",
+            "title": "MSE 443",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 498",
+            "title": "MSE 498",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "SE 310",
+            "title": "SE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 420",
+            "title": "SE 420",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SE 423",
+            "title": "SE 423",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IE 310",
+            "title": "IE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 347",
+            "title": "MATH 347",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 402",
+            "title": "MATH 402",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 413",
+            "title": "MATH 413",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 416",
+            "title": "MATH 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 442",
+            "title": "MATH 442",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 446",
+            "title": "MATH 446",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 461",
+            "title": "MATH 461",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 482",
+            "title": "MATH 482",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 484",
+            "title": "MATH 484",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 489",
+            "title": "MATH 489",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 320",
+            "title": "ME 320",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 360",
+            "title": "ME 360",
+            "hours": "3.5",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 370",
+            "title": "ME 370",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 400",
+            "title": "ME 400",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 401",
+            "title": "ME 401",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 498",
+            "title": "ME 498",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "MSE 450",
+            "title": "MSE 450",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MSE 453",
+            "title": "MSE 453",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MSE 457",
+            "title": "MSE 457",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 201",
+            "title": "NPRE 201",
+            "hours": "2 or 3",
+            "hours_min": 2,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 402",
+            "title": "NPRE 402",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 470",
+            "title": "NPRE 470",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 475",
+            "title": "NPRE 475",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 498",
+            "title": "NPRE 498",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 325",
+            "title": "PHYS 325",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 326",
+            "title": "PHYS 326",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 435",
+            "title": "PHYS 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 485",
+            "title": "PHYS 485",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 486",
+            "title": "PHYS 486",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 428",
+            "title": "STAT 428",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 448",
+            "title": "STAT 448",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 324",
+            "title": "TAM 324",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 451",
+            "title": "TAM 451",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 456",
+            "title": "TAM 456",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 470",
+            "title": "TAM 470",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "TE 401",
+            "title": "TE 401",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "TMGT 461",
+            "title": "TMGT 461",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Aerospace Engineering"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence. The curriculum sequence can also be viewed via dynamic and static curricular maps, which include prerequisite sequencing."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements."
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "AE 100",
+              "2",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "ENG 100",
+              "1",
+              "MATH 225",
+              "2"
+            ],
+            [
+              "MATH 221 (MATH 220 may be substituted)",
+              "4",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "CS 101",
+              "3"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "General Education (Choose a Humanities or Social/Behavioral Science course)  or Composition I course",
+              "3-4"
+            ],
+            [
+              "AE 140",
+              "2",
+              ""
+            ],
+            [
+              "Composition I or General Education (Choose a Humanities or Social/Behavioral Science) course",
+              "4-3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "ME 200",
+              "3"
+            ],
+            [
+              "TAM 210",
+              "2",
+              "AE 202",
+              "3"
+            ],
+            [
+              "MSE 280",
+              "3",
+              "TAM 212",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "General Education courses (choose Humanities or Social/Behavioral Science courses with Cultural Studies designation)",
+              "6"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "18"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "AE 311",
+              "3",
+              "AE 312",
+              "3"
+            ],
+            [
+              "AE 321",
+              "3",
+              "AE 323",
+              "3"
+            ],
+            [
+              "AE 352",
+              "3",
+              "AE 353",
+              "3"
+            ],
+            [
+              "ECE 205",
+              "3",
+              "AE 370",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "Language Other Than English (3rd level) course",
+              "4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "AE 442 (442 + 443 fulfills Advanced Composition requirement)",
+              "3",
+              "AE 443 (442 + 443 fulfills Advanced Composition requirement)",
+              "3"
+            ],
+            [
+              "AE 433",
+              "3",
+              "AE 461",
+              "2"
+            ],
+            [
+              "AE 460",
+              "2",
+              "Technical elective courses",
+              "9"
+            ],
+            [
+              "AE 483",
+              "2",
+              "Free elective course",
+              "1"
+            ],
+            [
+              "Technical elective course",
+              "3",
+              ""
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Aerospace Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Student learning outcomes are based on learning outcomes in line with the ABET accreditation process."
+      },
+      {
+        "type": "paragraph",
+        "content": "Aerospace Engineering graduates will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "An ability to communicate effectively with a range of audiences.",
+          "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Aerospace Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Aerospace Engineering website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Aerospace Engineering faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering"
+      }
+    ]
+  }
+}

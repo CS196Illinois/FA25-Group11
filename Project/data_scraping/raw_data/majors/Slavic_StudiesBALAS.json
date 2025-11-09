@@ -1,0 +1,41 @@
+{
+  "major_name": "Slavic Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/",
+  "sections": {
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Slavic Studies"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Proficiency in the target language associated with the major track of at least intermediate high level on the ACTFL scale, with some control of advanced low functions.",
+          "Improved and effective writing and communication skills in the English language.",
+          "Coherent knowledge and functional grasp of the culture(s) and history(ies) of the region or regions and peoples targeted by the major track.",
+          "Analytical and interpretive abilities making use of the critical tools and methodologies taught in our courses of literary and cultural study."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Slavic Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Slavic Languages & Literatures\nSlavic faculty\nslavic@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "overview of college admissions & requirements: LAS admissions information"
+      }
+    ]
+  }
+}

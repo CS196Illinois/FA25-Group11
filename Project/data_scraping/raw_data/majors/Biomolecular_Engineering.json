@@ -1,0 +1,1446 @@
+{
+  "major_name": "Chemical Engineering: Biomolecular Engineering, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-bs/biomolecular-engineering/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Chemical Engineering, Biomolecular Engineering Concentration (Specialized Curriculum)"
+      },
+      {
+        "type": "paragraph",
+        "content": "For those students who are pursuing a B.S. Degree in Chemical Engineering, students can choose to earn a concentration in Biomolecular Engineering, as well. This concentration builds upon the traditional principles of chemical engineering but specializes in biological and biotechnological systems to better prepare students who are interested in or plan to seek employment in the food, pharmaceutical, and biotechnology industries."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 129 hours",
+        "credit_requirement": "129"
+      },
+      {
+        "type": "paragraph",
+        "content": "A grade point average of 2.5 or higher in all courses required for the major earned on the UIUC campus is required in order to be accepted by the department as juniors and seniors."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation and Professional Development"
+      },
+      {
+        "type": "paragraph",
+        "content": "These courses introduce opportunities and resources the college, department, and curriculum offers students. They also provide background on the Chemical Engineering curriculum, what chemical engineers do, and the skills to work effectively and successfully in the engineering profession."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHBE 121",
+            "title": "CHBE 121",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundational Mathematics and Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "These courses stress the basic mathematical and scientific principles upon which the engineering discipline is based."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 202",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 202",
+              "CHEM 203",
+              "CHEM 204",
+              "CHEM 205"
+            ],
+            "title": "CHEM 202&CHEM 203&CHEM 204&CHEM 205",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 102",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 102",
+              "CHEM 103",
+              "CHEM 104",
+              "CHEM 105",
+              "CHEM 222",
+              "CHEM 223"
+            ],
+            "title": "CHEM 102&CHEM 103&CHEM 104&CHEM 105&CHEM 222&CHEM 223",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 257",
+            "type": "choice",
+            "options": [
+              "MATH 257",
+              "MATH 415"
+            ],
+            "title": "MATH 257",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 415",
+            "type": "choice",
+            "options": [
+              "MATH 415"
+            ],
+            "title": "orMATH 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 285",
+            "type": "choice",
+            "options": [
+              "MATH 285",
+              "MATH 441"
+            ],
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 441",
+            "type": "choice",
+            "options": [
+              "MATH 441"
+            ],
+            "title": "orMATH 441",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 214",
+            "title": "PHYS 214",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Chemical Engineering Technical Core"
+      },
+      {
+        "type": "paragraph",
+        "content": "These courses stress fundamental concepts and basic laboratory techniques that comprise the common intellectual understanding of chemical engineering and chemical science."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHBE 221",
+            "title": "CHBE 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHBE 321",
+            "title": "CHBE 321",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 421",
+            "title": "CHBE 421",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 422",
+            "title": "CHBE 422",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 424",
+            "title": "CHBE 424",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHBE 430",
+            "title": "CHBE 430",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 431",
+            "title": "CHBE 431",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 440",
+            "title": "CHBE 440",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 236",
+            "title": "CHEM 236",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 237",
+            "title": "CHEM 237",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CHEM 315",
+            "title": "CHEM 315",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 420",
+            "title": "CHEM 420",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CHEM 442",
+            "title": "CHEM 442",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 101",
+            "title": "CS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHBE 411",
+            "type": "choice",
+            "options": [
+              "CHBE 411",
+              "IE 300"
+            ],
+            "title": "CHBE 411",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "IE 300",
+            "type": "choice",
+            "options": [
+              "ORIE 300",
+              "IE 300",
+              "STAT 400"
+            ],
+            "title": "orIE 300"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Biomolecular Engineering Concentration Technical Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "MCB 450",
+            "title": "MCB 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Biomolecular Engineering Concentration Technical Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "These courses stress the rigorous analysis and design principles practiced in the major subdisciplines of chemical engineering, embodied in the standard chemical engineering major and biomolecular engineering concentration."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHBE 471",
+            "title": "CHBE 471",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 472",
+            "title": "CHBE 472",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 473",
+            "title": "CHBE 473",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 474",
+            "title": "CHBE 474",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 475",
+            "title": "CHBE 475",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 476",
+            "title": "CHBE 476",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 478",
+            "title": "CHBE 478",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 497",
+            "title": "CHBE 497",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 499",
+            "title": "CHBE 499",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ABE 436",
+            "title": "ABE 436",
+            "hours": ""
+          },
+          {
+            "code": "ABE 483",
+            "title": "ABE 483",
+            "hours": ""
+          },
+          {
+            "code": "ABE 488",
+            "title": "ABE 488",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 476",
+            "title": "BIOE 476",
+            "hours": ""
+          },
+          {
+            "code": "ECE 467",
+            "title": "ECE 467",
+            "hours": ""
+          },
+          {
+            "code": "ECE 480",
+            "title": "ECE 480",
+            "hours": ""
+          },
+          {
+            "code": "MSE 470",
+            "title": "MSE 470",
+            "hours": ""
+          },
+          {
+            "code": "MSE 473",
+            "title": "MSE 473",
+            "hours": ""
+          },
+          {
+            "code": "MSE 474",
+            "title": "MSE 474",
+            "hours": ""
+          },
+          {
+            "code": "TAM 461",
+            "title": "TAM 461",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ABE 436",
+            "title": "ABE 436",
+            "hours": ""
+          },
+          {
+            "code": "ABE 483",
+            "title": "ABE 483",
+            "hours": ""
+          },
+          {
+            "code": "ABE 488",
+            "title": "ABE 488",
+            "hours": ""
+          },
+          {
+            "code": "ATMS 420",
+            "title": "ATMS 420",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 476",
+            "title": "BIOE 476",
+            "hours": ""
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": ""
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": ""
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": ""
+          },
+          {
+            "code": "CEE 421",
+            "title": "CEE 421",
+            "hours": ""
+          },
+          {
+            "code": "CEE 422",
+            "title": "CEE 422",
+            "hours": ""
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": ""
+          },
+          {
+            "code": "CEE 440",
+            "title": "CEE 440",
+            "hours": ""
+          },
+          {
+            "code": "CEE 442",
+            "title": "CEE 442",
+            "hours": ""
+          },
+          {
+            "code": "CEE 443",
+            "title": "CEE 443",
+            "hours": ""
+          },
+          {
+            "code": "CEE 450",
+            "title": "CEE 450",
+            "hours": ""
+          },
+          {
+            "code": "CEE 452",
+            "title": "CEE 452",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 297",
+            "title": "CHBE 297",
+            "hours": ""
+          },
+          {
+            "code": "CHBE 397",
+            "title": "CHBE 397",
+            "hours": ""
+          },
+          {
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": ""
+          },
+          {
+            "code": "CS 411",
+            "title": "CS 411",
+            "hours": ""
+          },
+          {
+            "code": "CS 427",
+            "title": "CS 427",
+            "hours": ""
+          },
+          {
+            "code": "CS 440",
+            "title": "CS 440",
+            "hours": ""
+          },
+          {
+            "code": "CS 446",
+            "title": "CS 446",
+            "hours": ""
+          },
+          {
+            "code": "CS 450",
+            "title": "CS 450",
+            "hours": ""
+          },
+          {
+            "code": "CS 498",
+            "title": "CS 498",
+            "hours": ""
+          },
+          {
+            "code": "ECE 304",
+            "title": "ECE 304",
+            "hours": ""
+          },
+          {
+            "code": "ECE 313",
+            "title": "ECE 313",
+            "hours": ""
+          },
+          {
+            "code": "ECE 333",
+            "title": "ECE 333",
+            "hours": ""
+          },
+          {
+            "code": "ECE 380",
+            "title": "ECE 380",
+            "hours": ""
+          },
+          {
+            "code": "ECE 416",
+            "title": "ECE 416",
+            "hours": ""
+          },
+          {
+            "code": "ECE 444",
+            "title": "ECE 444",
+            "hours": ""
+          },
+          {
+            "code": "ECE 481",
+            "title": "ECE 481",
+            "hours": ""
+          },
+          {
+            "code": "ECE 490",
+            "title": "ECE 490",
+            "hours": ""
+          },
+          {
+            "code": "ME 400",
+            "title": "ME 400",
+            "hours": ""
+          },
+          {
+            "code": "ME 471",
+            "title": "ME 471",
+            "hours": ""
+          },
+          {
+            "code": "ME 482",
+            "title": "ME 482",
+            "hours": ""
+          },
+          {
+            "code": "ME 483",
+            "title": "ME 483",
+            "hours": ""
+          },
+          {
+            "code": "ME 487",
+            "title": "ME 487",
+            "hours": ""
+          },
+          {
+            "code": "MSE 304",
+            "title": "MSE 304",
+            "hours": ""
+          },
+          {
+            "code": "MSE 307",
+            "title": "MSE 307",
+            "hours": ""
+          },
+          {
+            "code": "MSE 308",
+            "title": "MSE 308",
+            "hours": ""
+          },
+          {
+            "code": "MSE 401",
+            "title": "MSE 401",
+            "hours": ""
+          },
+          {
+            "code": "MSE 402",
+            "title": "MSE 402",
+            "hours": ""
+          },
+          {
+            "code": "MSE 403",
+            "title": "MSE 403",
+            "hours": ""
+          },
+          {
+            "code": "MSE 406",
+            "title": "MSE 406",
+            "hours": ""
+          },
+          {
+            "code": "MSE 420",
+            "title": "MSE 420",
+            "hours": ""
+          },
+          {
+            "code": "MSE 441",
+            "title": "MSE 441",
+            "hours": ""
+          },
+          {
+            "code": "MSE 450",
+            "title": "MSE 450",
+            "hours": ""
+          },
+          {
+            "code": "MSE 457",
+            "title": "MSE 457",
+            "hours": ""
+          },
+          {
+            "code": "MSE 458",
+            "title": "MSE 458",
+            "hours": ""
+          },
+          {
+            "code": "MSE 460",
+            "title": "MSE 460",
+            "hours": ""
+          },
+          {
+            "code": "MSE 470",
+            "title": "MSE 470",
+            "hours": ""
+          },
+          {
+            "code": "MSE 473",
+            "title": "MSE 473",
+            "hours": ""
+          },
+          {
+            "code": "MSE 474",
+            "title": "MSE 474",
+            "hours": ""
+          },
+          {
+            "code": "MSE 480",
+            "title": "MSE 480",
+            "hours": ""
+          },
+          {
+            "code": "MSE 487",
+            "title": "MSE 487",
+            "hours": ""
+          },
+          {
+            "code": "MSE 489",
+            "title": "MSE 489",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 201",
+            "title": "NPRE 201",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 402",
+            "title": "NPRE 402",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 412",
+            "title": "NPRE 412",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 441",
+            "title": "NPRE 441",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 442",
+            "title": "NPRE 442",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 457",
+            "title": "NPRE 457",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 461",
+            "title": "NPRE 461",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 470",
+            "title": "NPRE 470",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 475",
+            "title": "NPRE 475",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 480",
+            "title": "NPRE 480",
+            "hours": ""
+          },
+          {
+            "code": "SE 411",
+            "title": "SE 411",
+            "hours": ""
+          },
+          {
+            "code": "TAM 211",
+            "title": "TAM 211",
+            "hours": ""
+          },
+          {
+            "code": "TAM 251",
+            "title": "TAM 251",
+            "hours": ""
+          },
+          {
+            "code": "TAM 461",
+            "title": "TAM 461",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ABE 425",
+            "title": "ABE 425",
+            "hours": ""
+          },
+          {
+            "code": "ABE 430",
+            "title": "ABE 430",
+            "hours": ""
+          },
+          {
+            "code": "ABE 497",
+            "title": "ABE 497",
+            "hours": ""
+          },
+          {
+            "code": "ABE 498",
+            "title": "ABE 498",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 445",
+            "title": "ANSC 445",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 450",
+            "title": "ANSC 450",
+            "hours": ""
+          },
+          {
+            "code": "ATMS 421",
+            "title": "ATMS 421",
+            "hours": ""
+          },
+          {
+            "code": "BADM 461",
+            "title": "BADM 461",
+            "hours": ""
+          },
+          {
+            "code": "BIOC 446",
+            "title": "BIOC 446",
+            "hours": ""
+          },
+          {
+            "code": "CEE 407",
+            "title": "CEE 407",
+            "hours": ""
+          },
+          {
+            "code": "CEE 497",
+            "title": "CEE 497",
+            "hours": ""
+          },
+          {
+            "code": "CEE 498",
+            "title": "CEE 498",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 436",
+            "title": "CHEM 436",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 437",
+            "title": "CHEM 437",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 444",
+            "title": "CHEM 444",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 445",
+            "title": "CHEM 445",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 483",
+            "title": "CHEM 483",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 497",
+            "title": "CHEM 497",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 414",
+            "title": "CPSC 414",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 415",
+            "title": "CPSC 415",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 418",
+            "title": "CPSC 418",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 419",
+            "title": "CPSC 419",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 453",
+            "title": "CPSC 453",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 414",
+            "title": "FSHN 414",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 418",
+            "title": "FSHN 418",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 426",
+            "title": "FSHN 426",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 428",
+            "title": "FSHN 428",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 460",
+            "title": "FSHN 460",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 465",
+            "title": "FSHN 465",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 471",
+            "title": "FSHN 471",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 480",
+            "title": "FSHN 480",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 481",
+            "title": "FSHN 481",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 483",
+            "title": "FSHN 483",
+            "hours": ""
+          },
+          {
+            "code": "GEOL 450",
+            "title": "GEOL 450",
+            "hours": ""
+          },
+          {
+            "code": "GEOL 451",
+            "title": "GEOL 451",
+            "hours": ""
+          },
+          {
+            "code": "GEOL 454",
+            "title": "GEOL 454",
+            "hours": ""
+          },
+          {
+            "code": "GEOL 470",
+            "title": "GEOL 470",
+            "hours": ""
+          },
+          {
+            "code": "IB 451",
+            "title": "IB 451",
+            "hours": ""
+          },
+          {
+            "code": "IS 467",
+            "title": "IS 467",
+            "hours": ""
+          },
+          {
+            "code": "MATH 402",
+            "title": "MATH 402",
+            "hours": ""
+          },
+          {
+            "code": "MATH 413",
+            "title": "MATH 413",
+            "hours": ""
+          },
+          {
+            "code": "MATH 417",
+            "title": "MATH 417",
+            "hours": ""
+          },
+          {
+            "code": "MATH 442",
+            "title": "MATH 442",
+            "hours": ""
+          },
+          {
+            "code": "MATH 446",
+            "title": "MATH 446",
+            "hours": ""
+          },
+          {
+            "code": "MATH 461",
+            "title": "MATH 461",
+            "hours": ""
+          },
+          {
+            "code": "MATH 487",
+            "title": "MATH 487",
+            "hours": ""
+          },
+          {
+            "code": "MCB 408",
+            "title": "MCB 408",
+            "hours": ""
+          },
+          {
+            "code": "MCB 424",
+            "title": "MCB 424",
+            "hours": ""
+          },
+          {
+            "code": "MCB 436",
+            "title": "MCB 436",
+            "hours": ""
+          },
+          {
+            "code": "MCB 450",
+            "title": "MCB 450",
+            "hours": ""
+          },
+          {
+            "code": "MCB 462",
+            "title": "MCB 462",
+            "hours": ""
+          },
+          {
+            "code": "MSE 497",
+            "title": "MSE 497",
+            "hours": ""
+          },
+          {
+            "code": "MSE 498",
+            "title": "MSE 498",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 483",
+            "title": "NPRE 483",
+            "hours": ""
+          },
+          {
+            "code": "NPRE 498",
+            "title": "NPRE 498",
+            "hours": ""
+          },
+          {
+            "code": "NRES 488",
+            "title": "NRES 488",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 435",
+            "title": "PHYS 435",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 470",
+            "title": "PHYS 470",
+            "hours": ""
+          },
+          {
+            "code": "SE 400",
+            "title": "SE 400",
+            "hours": ""
+          },
+          {
+            "code": "STAT 410",
+            "title": "STAT 410",
+            "hours": ""
+          },
+          {
+            "code": "STAT 420",
+            "title": "STAT 420",
+            "hours": ""
+          },
+          {
+            "code": "STAT 430",
+            "title": "STAT 430",
+            "hours": ""
+          },
+          {
+            "code": "STAT 440",
+            "title": "STAT 440",
+            "hours": ""
+          },
+          {
+            "code": "UP 406",
+            "title": "UP 406",
+            "hours": ""
+          },
+          {
+            "code": "UP 430",
+            "title": "UP 430",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Chemical Engineering, Biomolecular Engineering Concentration (Specialized Curriculum)"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "paragraph",
+        "content": "*The sample sequence below assumes that the student has placed into the Accelerated Chemistry courses."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ENG 100",
+              "1",
+              "CHBE 121",
+              "1"
+            ],
+            [
+              "CHEM 202",
+              "3",
+              "CHEM 204",
+              "3"
+            ],
+            [
+              "CHEM 203",
+              "2",
+              "CHEM 205",
+              "2"
+            ],
+            [
+              "MATH 221 or  220",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "General Education course (choose Humanitites Course with Cultural Studies designation)",
+              "3",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "Composition I or General Education course (choose a Social & Behavioral Studies course)",
+              "4",
+              "General Education course (choose a Social & Behavioral Sciences course) or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHBE 221",
+              "3",
+              "CHBE 321",
+              "4"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 285 or  441",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "PHYS 214",
+              "2"
+            ],
+            [
+              "CHEM 236",
+              "4",
+              "MATH 257 or  415",
+              "3"
+            ],
+            [
+              "CHEM 237",
+              "2",
+              "CS 101",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHBE 421",
+              "4",
+              "CHBE 422",
+              "4"
+            ],
+            [
+              "CHBE 411, IE  300, or STAT  400",
+              "3",
+              "CHBE 424",
+              "3"
+            ],
+            [
+              "CHEM 315",
+              "2",
+              "Technical Elective (400-level, List 1 or List 2)",
+              "3"
+            ],
+            [
+              "CHEM 420",
+              "2",
+              "MCB 450",
+              "3"
+            ],
+            [
+              "CHEM 442",
+              "4",
+              "Language Other Than English (3rd level)",
+              "4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHBE 430",
+              "4",
+              "CHBE 431",
+              "4"
+            ],
+            [
+              "CHBE 440",
+              "3",
+              "Technical Elective Course (Category A)",
+              "3"
+            ],
+            [
+              "Technical Elective course (Category A)",
+              "3",
+              "Technical Elective course (Category A or Category B)",
+              "3"
+            ],
+            [
+              "Technical Elective course (Category A)",
+              "3",
+              "Technical Elective course (Category A or Category B)",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities course with Cultural Studies designation)",
+              "3",
+              "General Education course (choose a Social & Behavioral Science Course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 129"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Chemical Engineering, Biomolecular Engineering Concentration (Specialized Curriculum)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Upon completing this program, students are expected to be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "Apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "Communicate effectively with a range of audiences.",
+          "Recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "Function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "Develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "Acquire and apply new knowledge as needed, using appropriate learning strategies.",
+          "An ability to analyze the chemistry and metabolism of macromolecules in biological processes and their relation to the regulation and processes of organisms, cells, and subcellular components."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Chemical Engineering, Biomolecular Engineering Concentration (Specialized Curriculum)"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Chemical & Biomolecular Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Chemical & Biomolecular Engineering faculty\nSCS Academic Advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

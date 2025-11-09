@@ -1,0 +1,675 @@
+{
+  "major_name": "Theatre: Lighting Design & Technology, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/lighting-design-technology/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre, Lighting Design & Technology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours. Twelve hours of 300 and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Core Requirements for all Theatre Majors"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "THEA 100",
+            "title": "THEA 100",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 200",
+            "title": "THEA 200",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 121",
+            "title": "THEA 121",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 122",
+            "title": "THEA 122",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 123",
+            "title": "THEA 123",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 208",
+            "title": "THEA 208",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 304",
+            "title": "THEA 304",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 364",
+            "title": "THEA 364",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 404",
+            "title": "THEA 404",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Lighting Design & Technology Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "THEA 100",
+            "title": "THEA 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "THEA 119",
+            "title": "THEA 119",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "THEA 491",
+            "title": "THEA 491",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 151",
+            "type": "choice",
+            "options": [
+              "THEA 151",
+              "THEA 153"
+            ],
+            "title": "THEA 151",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 153",
+            "type": "choice",
+            "options": [
+              "THEA 153"
+            ],
+            "title": "orTHEA 153",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 126",
+            "type": "choice",
+            "options": [
+              "THEA 126",
+              "THEA 222"
+            ],
+            "title": "THEA 126",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 222",
+            "type": "choice",
+            "options": [
+              "THEA 222"
+            ],
+            "title": "orTHEA 222",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 231",
+            "title": "THEA 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 300",
+            "title": "THEA 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "THEA 400",
+            "title": "THEA 400",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "THEA 405",
+            "title": "THEA 405",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 423",
+            "title": "THEA 423",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 426",
+            "title": "THEA 426",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 431",
+            "type": "choice",
+            "options": [
+              "THEA 431",
+              "THEA 432"
+            ],
+            "title": "THEA 431",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 432",
+            "type": "choice",
+            "options": [
+              "THEA 432"
+            ],
+            "title": "orTHEA 432",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 435",
+            "title": "THEA 435",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 437",
+            "title": "THEA 437",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 451",
+            "type": "choice",
+            "options": [
+              "THEA 451",
+              "THEA 452"
+            ],
+            "title": "THEA 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 452",
+            "type": "choice",
+            "options": [
+              "THEA 452"
+            ],
+            "title": "orTHEA 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 242",
+            "type": "choice",
+            "options": [
+              "THEA 242",
+              "THEA 243"
+            ],
+            "title": "THEA 242",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 243",
+            "type": "choice",
+            "options": [
+              "THEA 243"
+            ],
+            "title": "orTHEA 243",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 492",
+            "title": "THEA 492",
+            "hours": ""
+          },
+          {
+            "code": "THEA 493",
+            "title": "THEA 493",
+            "hours": ""
+          },
+          {
+            "code": "THEA 494",
+            "title": "THEA 494",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "General Non-Theatre Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for Bachelor of Fine Arts in Theatre, concentration in Lighting Design & Technology"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre, Lighting Design & Technology Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "THEA 100",
+              "1"
+            ],
+            [
+              "THEA 100",
+              "1",
+              "THEA 122",
+              "3"
+            ],
+            [
+              "THEA 121",
+              "3",
+              "THEA 231",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 200",
+              "1",
+              "THEA 200",
+              "1"
+            ],
+            [
+              "THEA 100",
+              "1",
+              "THEA 208",
+              "3"
+            ],
+            [
+              "THEA 123",
+              "3",
+              "THEA 405",
+              "2"
+            ],
+            [
+              "THEA 126 or  222",
+              "3",
+              "THEA 426",
+              "3"
+            ],
+            [
+              "THEA 435",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "THEA 437",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "18",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 119",
+              "1",
+              "THEA 119",
+              "1"
+            ],
+            [
+              "THEA 300",
+              "2",
+              "THEA 300",
+              "2"
+            ],
+            [
+              "THEA 304",
+              "3",
+              "THEA 364",
+              "3"
+            ],
+            [
+              "THEA 423",
+              "3",
+              "THEA 431 or  432",
+              "3"
+            ],
+            [
+              "THEA 153 or  151",
+              "3",
+              "General Non-Theatre Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "18"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 119",
+              "1",
+              "THEA 119",
+              "1"
+            ],
+            [
+              "THEA 400",
+              "2",
+              "THEA 400",
+              "2"
+            ],
+            [
+              "THEA 404",
+              "1",
+              "THEA 491",
+              "3"
+            ],
+            [
+              "THEA 451 or  452",
+              "3",
+              "General Non-Theatre Elective",
+              "3"
+            ],
+            [
+              "THEA 242 or  243",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "General Non-Theatre Elective",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "THEA 492 (or THEA 493 or THEA 494)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre, Lighting Design & Technology Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Student Learning Outcomes:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Communicate design and production ideas to collaborators through graphic skills, language and research and the ability to analyze and interpret creative, critical and theoretical works.",
+          "Demonstrates the practical application of learned methodologies including the ability to communicate ideas, concepts, and requirements in order to successfully fulfill a role related to lighting design for a stage production.",
+          "Demonstrates working knowledge of professional practices across genres of theatre, musical theatre, opera, dance and non-traditional venues and styles of design.",
+          "Gain the practical ability to see their designs come to life from concept through realization by collaborating on current productions with peers, faculty, staff and guest artists.",
+          "Demonstrates necessary skills and knowledge to acquire an entry-level position in the field of lighting design and technology including significant technical mastery, showing the capacity to produce work and solve problems independently."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre, Lighting Design & Technology Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Theatre"
+      },
+      {
+        "type": "paragraph",
+        "content": "Theatre Department website\nTheatre Department faculty\n4-122 Krannert Center for the Performing Arts, 500 South Goodwin Avenue, Urbana, IL 61801\n(217) 333-2371\ntheatre@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College Website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of the College of Fine & Applied Arts Admissions & Requirements\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

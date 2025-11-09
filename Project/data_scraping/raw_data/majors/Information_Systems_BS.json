@@ -1,0 +1,675 @@
+{
+  "major_name": "Information Systems, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/bus/information-systems-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Information Systems"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Core Curriculum"
+      },
+      {
+        "type": "paragraph",
+        "content": "Normally, students must register for no fewer than 12 hours or more than 18 hours in each semester. Students should take mathematics, economics, and accountancy courses in the semesters indicated in the sample schedule of courses. The computer science course must be taken during the first year. The computer science requirement no longer allows ACE 161 as an equivalent course.",
+        "course_codes": [
+          "ACE 161"
+        ],
+        "credit_requirement": "12"
+      },
+      {
+        "type": "paragraph",
+        "content": "Up to 4 hours of Kinesiology activity courses, numbered 100-110 may be counted toward the 124 hours for the degree. The same section of a course may not be repeated for credit. Credit is limited to a maximum of 12 credit hours for 199 courses. Students may receive foreign language credit for courses only 2 levels below highest level taken in high school. For example: 4 years of high school French-no credit below FR 102.",
+        "course_codes": [
+          "FR 102"
+        ],
+        "credit_requirement": "4"
+      },
+      {
+        "type": "paragraph",
+        "content": "Credit toward the 124 degree hours is not given for MATH 101. Once the math requirement is completed, lower level math courses cannot be taken for credit.",
+        "course_codes": [
+          "MATH 101"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Any course used to fill a specific degree requirement may not be taken on the credit-no credit grade option. Only free electives may be taken on the credit-no credit option. All finance and accountancy courses must be taken for a grade. It is recommended that all courses taken in the business administration area be taken for a grade."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 124 hours.",
+        "credit_requirement": "124"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Business Core Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ACCY 201",
+            "type": "sequence",
+            "sequence": [
+              "ACCY 201",
+              "ACCY 202"
+            ],
+            "title": "ACCY 201&ACCY 202",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "BUS 101",
+            "title": "BUS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BUS 201",
+            "title": "BUS 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BUS 301",
+            "title": "BUS 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BUS 401",
+            "title": "BUS 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 210",
+            "type": "sequence",
+            "sequence": [
+              "BADM 210",
+              "BADM 211"
+            ],
+            "title": "BADM 210&BADM 211",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "BADM 275",
+            "title": "BADM 275",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 300",
+            "title": "BADM 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 310",
+            "title": "BADM 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 320",
+            "title": "BADM 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 449",
+            "title": "BADM 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CMN 101",
+            "title": "CMN 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 105",
+            "title": "CS 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 102",
+            "type": "sequence",
+            "sequence": [
+              "ECON 102",
+              "ECON 103"
+            ],
+            "title": "ECON 102&ECON 103",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "FIN 221",
+            "title": "FIN 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 115",
+            "title": "MATH 115",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 220",
+            "title": "MATH 220",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 234",
+            "title": "MATH 234",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Information Systems, BS Major Core Requirements and Electives"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "BADM 350",
+            "title": "BADM 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 352",
+            "title": "BADM 352",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 353",
+            "title": "BADM 353",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 351",
+            "title": "BADM 351",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 356",
+            "title": "BADM 356",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 357",
+            "title": "BADM 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 453",
+            "title": "BADM 453",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 458",
+            "title": "BADM 458",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 358",
+            "title": "BADM 358",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 370",
+            "title": "BADM 370",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 372",
+            "title": "BADM 372",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 323",
+            "title": "BADM 323",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 324",
+            "title": "BADM 324",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 326",
+            "title": "BADM 326",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 329",
+            "title": "BADM 329",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 374",
+            "title": "BADM 374",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 375",
+            "title": "BADM 375",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 377",
+            "title": "BADM 377",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 379",
+            "title": "BADM 379",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 382",
+            "title": "BADM 382",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 358",
+            "title": "BADM 358",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 370",
+            "title": "BADM 370",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 372",
+            "title": "BADM 372",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Information Systems"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "BUS 101",
+              "3",
+              "ECON 103",
+              "3"
+            ],
+            [
+              "ECON 102",
+              "3",
+              "CS 105",
+              "3"
+            ],
+            [
+              "Composition I or CMN 101",
+              "4",
+              "FIN 221",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Composition I or CMN 101",
+              "3"
+            ],
+            [
+              "Business Core Math",
+              "3",
+              "General Education course",
+              "4"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BUS 201",
+              "3",
+              "BADM 211",
+              "3"
+            ],
+            [
+              "BADM 210",
+              "3",
+              "BADM 275",
+              "3"
+            ],
+            [
+              "ACCY 201",
+              "3",
+              "BADM 320",
+              "3"
+            ],
+            [
+              "BADM 310",
+              "3",
+              "ACCY 202",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BUS 301",
+              "3",
+              "BADM 352",
+              "3"
+            ],
+            [
+              "BADM 350",
+              "3",
+              "BADM 353",
+              "3"
+            ],
+            [
+              "BADM Information Systems Major Elective",
+              "3",
+              "BADM 300",
+              "3"
+            ],
+            [
+              "BADM Information Systems Program Elective",
+              "3",
+              "BADM Information Systems Major Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BUS 401",
+              "3",
+              "BADM 449",
+              "3"
+            ],
+            [
+              "BADM Information Systems Major Elective",
+              "3",
+              "BADM Information Systems Program Elective",
+              "3"
+            ],
+            [
+              "BADM Information Systems Program Elective",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 124"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Information Systems"
+      },
+      {
+        "type": "paragraph",
+        "content": "Upon completion of the program, students will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Use critical thinking and problem-solving skills to provide solutions to businesses that leverage information technology.",
+          "Understand the intersection of technology and businesses, and recommend solutions to improve business performance and efficiency."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Information Systems"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Gies Catalog"
+      },
+      {
+        "type": "paragraph",
+        "content": "Gies College of Business website"
+      }
+    ]
+  }
+}

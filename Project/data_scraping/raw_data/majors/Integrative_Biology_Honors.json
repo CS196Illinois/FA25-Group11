@@ -1,0 +1,1513 @@
+{
+  "major_name": "Integrative Biology: Honors Integrative Biology, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/honors/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Integrative Biology, Honors Integrative Biology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours for graduation: 120 hours",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work: Normally equates to 80-88 hours.",
+        "credit_requirement": "80-88"
+      },
+      {
+        "type": "paragraph",
+        "content": "No more than 8 hours of credit in 100-level courses in IB or MCB may be counted toward graduation.",
+        "level_requirement": "100",
+        "credit_requirement": "8"
+      },
+      {
+        "type": "paragraph",
+        "content": "Continuation in the Integrative Biology Honors Concentration requires a grade of B or better in each of IB 270, IB 271, and IB 372 and a 3.0 overall cumulative GPA.",
+        "course_codes": [
+          "IB 270",
+          "IB 271",
+          "IB 372"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Students should discuss alternate CHEM choices with the IB advising office. To earn the Chemistry minor students must choose 3 or 4 hour Chemistry courses, excluding research or independent study.",
+        "credit_requirement": "4"
+      },
+      {
+        "type": "paragraph",
+        "content": "Introductory chemistry should be completed prior to enrolling in IB 270.",
+        "course_codes": [
+          "IB 270"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Independent study equivalent to IB 490 in non-IB programs must first be approved by Director of IBH Concentration.",
+        "course_codes": [
+          "IB 490"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Students may count toward graduation no more than a combined maximum of 10 hours of IB 390 and IB 490 credit offered for independent study.",
+        "course_codes": [
+          "IB 390",
+          "IB 490"
+        ],
+        "credit_requirement": "10"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "IB 150",
+            "title": "IB 150",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MCB 150",
+            "title": "MCB 150",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": "4-5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221",
+            "hours": "4-5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "CHEM 202",
+            "title": "CHEM 202",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 203",
+            "title": "CHEM 203",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 204",
+            "title": "CHEM 204",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 205",
+            "title": "CHEM 205",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 104",
+            "title": "CHEM 104",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 105",
+            "title": "CHEM 105",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 236",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 236",
+              "CHEM 237"
+            ],
+            "title": "CHEM 236&CHEM 237",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 232",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 232",
+              "CHEM 233"
+            ],
+            "title": "CHEM 232&CHEM 233",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 211",
+            "type": "sequence",
+            "sequence": [
+              "PHYS 211",
+              "PHYS 212"
+            ],
+            "title": "PHYS 211&PHYS 212",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 101",
+            "type": "sequence",
+            "sequence": [
+              "PHYS 101",
+              "PHYS 102"
+            ],
+            "title": "PHYS 101&PHYS 102",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IB 270",
+            "title": "IB 270",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "IB 271",
+            "title": "IB 271",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "IB 372",
+            "title": "IB 372",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 231",
+            "type": "choice",
+            "options": [
+              "MATH 231",
+              "IB 494"
+            ],
+            "title": "MATH 231",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "IB 494",
+            "type": "choice",
+            "options": [
+              "IB 494",
+              "ORIB 494"
+            ],
+            "title": "orIB 494",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 312",
+            "title": "CHEM 312",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 332",
+            "title": "CHEM 332",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 360",
+            "title": "CHEM 360",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 437",
+            "title": "CHEM 437",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 440",
+            "title": "CHEM 440",
+            "hours": ""
+          },
+          {
+            "code": "MCB 450",
+            "title": "MCB 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 440",
+            "title": "STAT 440",
+            "hours": ""
+          },
+          {
+            "code": "NRES 421",
+            "title": "NRES 421",
+            "hours": ""
+          },
+          {
+            "code": "NRES 445",
+            "title": "NRES 445",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 440",
+            "title": "CPSC 440",
+            "hours": ""
+          },
+          {
+            "code": "IB 490",
+            "title": "IB 490",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "IB 303",
+            "title": "IB 303",
+            "hours": ""
+          },
+          {
+            "code": "IB 329",
+            "title": "IB 329",
+            "hours": ""
+          },
+          {
+            "code": "IB 348",
+            "title": "IB 348",
+            "hours": ""
+          },
+          {
+            "code": "IB 360",
+            "title": "IB 360",
+            "hours": ""
+          },
+          {
+            "code": "IB 361",
+            "title": "IB 361",
+            "hours": ""
+          },
+          {
+            "code": "IB 362",
+            "title": "IB 362",
+            "hours": ""
+          },
+          {
+            "code": "IB 364",
+            "title": "IB 364",
+            "hours": ""
+          },
+          {
+            "code": "IB 368",
+            "title": "IB 368",
+            "hours": ""
+          },
+          {
+            "code": "IB 392",
+            "title": "IB 392",
+            "hours": ""
+          },
+          {
+            "code": "IB 401",
+            "title": "IB 401",
+            "hours": ""
+          },
+          {
+            "code": "IB 405",
+            "title": "IB 405",
+            "hours": ""
+          },
+          {
+            "code": "IB 407",
+            "title": "IB 407",
+            "hours": ""
+          },
+          {
+            "code": "IB 411",
+            "title": "IB 411",
+            "hours": ""
+          },
+          {
+            "code": "IB 416",
+            "title": "IB 416",
+            "hours": ""
+          },
+          {
+            "code": "IB 420",
+            "title": "IB 420",
+            "hours": ""
+          },
+          {
+            "code": "IB 421",
+            "title": "IB 421",
+            "hours": ""
+          },
+          {
+            "code": "IB 426",
+            "title": "IB 426",
+            "hours": ""
+          },
+          {
+            "code": "IB 430",
+            "title": "IB 430",
+            "hours": ""
+          },
+          {
+            "code": "IB 431",
+            "title": "IB 431",
+            "hours": ""
+          },
+          {
+            "code": "IB 432",
+            "title": "IB 432",
+            "hours": ""
+          },
+          {
+            "code": "IB 433",
+            "title": "IB 433",
+            "hours": ""
+          },
+          {
+            "code": "IB 435",
+            "title": "IB 435",
+            "hours": ""
+          },
+          {
+            "code": "IB 438",
+            "title": "IB 438",
+            "hours": ""
+          },
+          {
+            "code": "IB 439",
+            "title": "IB 439",
+            "hours": ""
+          },
+          {
+            "code": "IB 440",
+            "title": "IB 440",
+            "hours": ""
+          },
+          {
+            "code": "IB 444",
+            "title": "IB 444",
+            "hours": ""
+          },
+          {
+            "code": "IB 450",
+            "title": "IB 450",
+            "hours": ""
+          },
+          {
+            "code": "IB 451",
+            "title": "IB 451",
+            "hours": ""
+          },
+          {
+            "code": "IB 452",
+            "title": "IB 452",
+            "hours": ""
+          },
+          {
+            "code": "IB 453",
+            "title": "IB 453",
+            "hours": ""
+          },
+          {
+            "code": "IB 460",
+            "title": "IB 460",
+            "hours": ""
+          },
+          {
+            "code": "IB 461",
+            "title": "IB 461",
+            "hours": ""
+          },
+          {
+            "code": "IB 462",
+            "title": "IB 462",
+            "hours": ""
+          },
+          {
+            "code": "IB 463",
+            "title": "IB 463",
+            "hours": ""
+          },
+          {
+            "code": "IB 464",
+            "title": "IB 464",
+            "hours": ""
+          },
+          {
+            "code": "IB 465",
+            "title": "IB 465",
+            "hours": ""
+          },
+          {
+            "code": "IB 467",
+            "title": "IB 467",
+            "hours": ""
+          },
+          {
+            "code": "IB 468",
+            "title": "IB 468",
+            "hours": ""
+          },
+          {
+            "code": "IB 471",
+            "title": "IB 471",
+            "hours": ""
+          },
+          {
+            "code": "IB 476",
+            "title": "IB 476",
+            "hours": ""
+          },
+          {
+            "code": "IB 478",
+            "title": "IB 478",
+            "hours": ""
+          },
+          {
+            "code": "IB 479",
+            "title": "IB 479",
+            "hours": ""
+          },
+          {
+            "code": "IB 480",
+            "title": "IB 480",
+            "hours": ""
+          },
+          {
+            "code": "IB 481",
+            "title": "IB 481",
+            "hours": ""
+          },
+          {
+            "code": "IB 482",
+            "title": "IB 482",
+            "hours": ""
+          },
+          {
+            "code": "IB 484",
+            "title": "IB 484",
+            "hours": ""
+          },
+          {
+            "code": "IB 494",
+            "title": "IB 494",
+            "hours": ""
+          },
+          {
+            "code": "IB 496",
+            "title": "IB 496",
+            "hours": ""
+          },
+          {
+            "code": "IB 497",
+            "title": "IB 497",
+            "hours": ""
+          },
+          {
+            "code": "ACE 310",
+            "title": "ACE 310",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 363",
+            "title": "ANSC 363",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 406",
+            "title": "ANSC 406",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 431",
+            "title": "ANSC 431",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 454",
+            "title": "ANSC 454",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 464",
+            "title": "ANSC 464",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 467",
+            "title": "ANSC 467",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 346",
+            "title": "ANTH 346",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 347",
+            "title": "ANTH 347",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 379",
+            "title": "ANTH 379",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 407",
+            "title": "ANTH 407",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 408",
+            "title": "ANTH 408",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 437",
+            "title": "ANTH 437",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 438",
+            "title": "ANTH 438",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 440",
+            "title": "ANTH 440",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 441",
+            "title": "ANTH 441",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 443",
+            "title": "ANTH 443",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 444",
+            "title": "ANTH 444",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 445",
+            "title": "ANTH 445",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 447",
+            "title": "ANTH 447",
+            "hours": ""
+          },
+          {
+            "code": "ATMS 421",
+            "title": "ATMS 421",
+            "hours": ""
+          },
+          {
+            "code": "BIOC 446",
+            "title": "BIOC 446",
+            "hours": ""
+          },
+          {
+            "code": "BIOC 455",
+            "title": "BIOC 455",
+            "hours": ""
+          },
+          {
+            "code": "BIOP 401",
+            "title": "BIOP 401",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 407",
+            "title": "CPSC 407",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 408",
+            "title": "CPSC 408",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 412",
+            "title": "CPSC 412",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 415",
+            "title": "CPSC 415",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 416",
+            "title": "CPSC 416",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 418",
+            "title": "CPSC 418",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 426",
+            "title": "CPSC 426",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 437",
+            "title": "CPSC 437",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 440",
+            "title": "CPSC 440",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 444",
+            "title": "CPSC 444",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 454",
+            "title": "CPSC 454",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 466",
+            "title": "CPSC 466",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 480",
+            "title": "CPSC 480",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 481",
+            "title": "CPSC 481",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 485",
+            "title": "CPSC 485",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 480",
+            "title": "FSHN 480",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 379",
+            "title": "GGIS 379",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 380",
+            "title": "GGIS 380",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 477",
+            "title": "GGIS 477",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 478",
+            "title": "GGIS 478",
+            "hours": ""
+          },
+          {
+            "code": "HK 342",
+            "title": "HK 342",
+            "hours": ""
+          },
+          {
+            "code": "HK 352",
+            "title": "HK 352",
+            "hours": ""
+          },
+          {
+            "code": "HK 353",
+            "title": "HK 353",
+            "hours": ""
+          },
+          {
+            "code": "HK 441",
+            "title": "HK 441",
+            "hours": ""
+          },
+          {
+            "code": "HK 448",
+            "title": "HK 448",
+            "hours": ""
+          },
+          {
+            "code": "HK 450",
+            "title": "HK 450",
+            "hours": ""
+          },
+          {
+            "code": "HK 452",
+            "title": "HK 452",
+            "hours": ""
+          },
+          {
+            "code": "HK 455",
+            "title": "HK 455",
+            "hours": ""
+          },
+          {
+            "code": "HK 457",
+            "title": "HK 457",
+            "hours": ""
+          },
+          {
+            "code": "LA 370",
+            "title": "LA 370",
+            "hours": ""
+          },
+          {
+            "code": "MCB 300",
+            "title": "MCB 300",
+            "hours": ""
+          },
+          {
+            "code": "MCB 301",
+            "title": "MCB 301",
+            "hours": ""
+          },
+          {
+            "code": "MCB 314",
+            "title": "MCB 314",
+            "hours": ""
+          },
+          {
+            "code": "MCB 316",
+            "title": "MCB 316",
+            "hours": ""
+          },
+          {
+            "code": "MCB 317",
+            "title": "MCB 317",
+            "hours": ""
+          },
+          {
+            "code": "MCB 320",
+            "title": "MCB 320",
+            "hours": ""
+          },
+          {
+            "code": "MCB 354",
+            "title": "MCB 354",
+            "hours": ""
+          },
+          {
+            "code": "MCB 364",
+            "title": "MCB 364",
+            "hours": ""
+          },
+          {
+            "code": "MCB 400",
+            "title": "MCB 400",
+            "hours": ""
+          },
+          {
+            "code": "MCB 401",
+            "title": "MCB 401",
+            "hours": ""
+          },
+          {
+            "code": "MCB 402",
+            "title": "MCB 402",
+            "hours": ""
+          },
+          {
+            "code": "MCB 406",
+            "title": "MCB 406",
+            "hours": ""
+          },
+          {
+            "code": "MCB 408",
+            "title": "MCB 408",
+            "hours": ""
+          },
+          {
+            "code": "MCB 410",
+            "title": "MCB 410",
+            "hours": ""
+          },
+          {
+            "code": "MCB 413",
+            "title": "MCB 413",
+            "hours": ""
+          },
+          {
+            "code": "MCB 419",
+            "title": "MCB 419",
+            "hours": ""
+          },
+          {
+            "code": "MCB 421",
+            "title": "MCB 421",
+            "hours": ""
+          },
+          {
+            "code": "MCB 424",
+            "title": "MCB 424",
+            "hours": ""
+          },
+          {
+            "code": "MCB 426",
+            "title": "MCB 426",
+            "hours": ""
+          },
+          {
+            "code": "MCB 428",
+            "title": "MCB 428",
+            "hours": ""
+          },
+          {
+            "code": "MCB 430",
+            "title": "MCB 430",
+            "hours": ""
+          },
+          {
+            "code": "MCB 431",
+            "title": "MCB 431",
+            "hours": ""
+          },
+          {
+            "code": "MCB 432",
+            "title": "MCB 432",
+            "hours": ""
+          },
+          {
+            "code": "MCB 433",
+            "title": "MCB 433",
+            "hours": ""
+          },
+          {
+            "code": "MCB 434",
+            "title": "MCB 434",
+            "hours": ""
+          },
+          {
+            "code": "MCB 435",
+            "title": "MCB 435",
+            "hours": ""
+          },
+          {
+            "code": "MCB 436",
+            "title": "MCB 436",
+            "hours": ""
+          },
+          {
+            "code": "MCB 442",
+            "title": "MCB 442",
+            "hours": ""
+          },
+          {
+            "code": "MCB 446",
+            "title": "MCB 446",
+            "hours": ""
+          },
+          {
+            "code": "MCB 460",
+            "title": "MCB 460",
+            "hours": ""
+          },
+          {
+            "code": "MCB 462",
+            "title": "MCB 462",
+            "hours": ""
+          },
+          {
+            "code": "MCB 465",
+            "title": "MCB 465",
+            "hours": ""
+          },
+          {
+            "code": "MCB 466",
+            "title": "MCB 466",
+            "hours": ""
+          },
+          {
+            "code": "MCB 471",
+            "title": "MCB 471",
+            "hours": ""
+          },
+          {
+            "code": "MCB 480",
+            "title": "MCB 480",
+            "hours": ""
+          },
+          {
+            "code": "MCB 493",
+            "title": "MCB 493",
+            "hours": ""
+          },
+          {
+            "code": "NRES 302",
+            "title": "NRES 302",
+            "hours": ""
+          },
+          {
+            "code": "NRES 325",
+            "title": "NRES 325",
+            "hours": ""
+          },
+          {
+            "code": "NRES 340",
+            "title": "NRES 340",
+            "hours": ""
+          },
+          {
+            "code": "NRES 351",
+            "title": "NRES 351",
+            "hours": ""
+          },
+          {
+            "code": "NRES 362",
+            "title": "NRES 362",
+            "hours": ""
+          },
+          {
+            "code": "NRES 407",
+            "title": "NRES 407",
+            "hours": ""
+          },
+          {
+            "code": "NRES 409",
+            "title": "NRES 409",
+            "hours": ""
+          },
+          {
+            "code": "NRES 415",
+            "title": "NRES 415",
+            "hours": ""
+          },
+          {
+            "code": "NRES 416",
+            "title": "NRES 416",
+            "hours": ""
+          },
+          {
+            "code": "NRES 418",
+            "title": "NRES 418",
+            "hours": ""
+          },
+          {
+            "code": "NRES 419",
+            "title": "NRES 419",
+            "hours": ""
+          },
+          {
+            "code": "NRES 420",
+            "title": "NRES 420",
+            "hours": ""
+          },
+          {
+            "code": "NRES 421",
+            "title": "NRES 421",
+            "hours": ""
+          },
+          {
+            "code": "NRES 427",
+            "title": "NRES 427",
+            "hours": ""
+          },
+          {
+            "code": "NRES 429",
+            "title": "NRES 429",
+            "hours": ""
+          },
+          {
+            "code": "NRES 438",
+            "title": "NRES 438",
+            "hours": ""
+          },
+          {
+            "code": "NRES 454",
+            "title": "NRES 454",
+            "hours": ""
+          },
+          {
+            "code": "NRES 455",
+            "title": "NRES 455",
+            "hours": ""
+          },
+          {
+            "code": "NRES 465",
+            "title": "NRES 465",
+            "hours": ""
+          },
+          {
+            "code": "NRES 471",
+            "title": "NRES 471",
+            "hours": ""
+          },
+          {
+            "code": "NRES 475",
+            "title": "NRES 475",
+            "hours": ""
+          },
+          {
+            "code": "NRES 482",
+            "title": "NRES 482",
+            "hours": ""
+          },
+          {
+            "code": "NRES 487",
+            "title": "NRES 487",
+            "hours": ""
+          },
+          {
+            "code": "NRES 488",
+            "title": "NRES 488",
+            "hours": ""
+          },
+          {
+            "code": "PLPA 403",
+            "title": "PLPA 403",
+            "hours": ""
+          },
+          {
+            "code": "PLPA 405",
+            "title": "PLPA 405",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 302",
+            "title": "PSYC 302",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 313",
+            "title": "PSYC 313",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 403",
+            "title": "PSYC 403",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 404",
+            "title": "PSYC 404",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 413",
+            "title": "PSYC 413",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 414",
+            "title": "PSYC 414",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 417",
+            "title": "PSYC 417",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 421",
+            "title": "PSYC 421",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 450",
+            "title": "PSYC 450",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 451",
+            "title": "PSYC 451",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 453",
+            "title": "PSYC 453",
+            "hours": ""
+          },
+          {
+            "code": "UP 406",
+            "title": "UP 406",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Integrative Biology, Honors Integrative Biology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LAS 101",
+              "1",
+              "MCB 150",
+              "4"
+            ],
+            [
+              "IB 150",
+              "4",
+              "CHEM 104 or  204",
+              "3"
+            ],
+            [
+              "CHEM 102 or  202",
+              "3",
+              "CHEM 105 or  205",
+              "1"
+            ],
+            [
+              "CHEM 103 or  203",
+              "1",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "IB 270",
+              "5",
+              "IB 271",
+              "5"
+            ],
+            [
+              "CHEM 232 or  236",
+              "4",
+              "CHEM 233 or  237",
+              "2"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "MATH 231 or IB  494",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Advanced Biological Science Elective course from list",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "IB 372",
+              "5",
+              "Advanced Chemistry course from list",
+              "3"
+            ],
+            [
+              "PHYS 101 or  211",
+              "4",
+              "PHYS 102 or  212",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "MCB 450",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "IB 490",
+              "2"
+            ],
+            [
+              "Free elective course",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "IB 490",
+              "2",
+              "IB 490",
+              "2"
+            ],
+            [
+              "Advanced Biological Science Elective course from list",
+              "4",
+              "Advanced Biological Science Elective course from list",
+              "3"
+            ],
+            [
+              "300-400 level Statistics course from list",
+              "3",
+              "Advanced Chemistry course from list",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Integrative Biology, Honors Integrative Biology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "By the time they graduate, an Integrative Biology Honors major should be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Synthesize and apply significant knowledge in Integrative Biology, including anatomy, development, ecology, evolution, genetics, molecular biology, physiology, and/or systematics.",
+          "Apply predictive models to biological phenomena and engage with the process of scientific inquiry.",
+          "Critically evaluate and communicate complex, dynamic scientific information.",
+          "Employ curiosity, inquiry, quantitative reasoning, and critical thinking in problem solving.",
+          "Create solutions for global and local biological challenges using interdisciplinary strategies.",
+          "Develop professional skills including ethics, proficiency in oral and written scientific communication, data analysis and interpretation, collaboration, and the ability to critically evaluate science-related news and information."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Integrative Biology, Honors Integrative Biology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Integrative Biology\nSchool of Integrative Biology website\nSchool of Integrative Biology faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising\nSIB Advising website\nSIB Advising email"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Liberal Arts and Sciences\nCollege of Liberal Arts and Sciences website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Admissions\nUniversity of Illinois Undergrad Admissions"
+      }
+    ]
+  }
+}

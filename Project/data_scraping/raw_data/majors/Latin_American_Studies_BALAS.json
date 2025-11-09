@@ -1,0 +1,316 @@
+{
+  "major_name": "Latin American Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/latin-american-studies-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Latin American Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Each student's course of study is devised in consultation with the Associate Director of the Center for Latin American and Caribbean Studies and is subject to the Associate Director's approval."
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60-75 hours). Please see your adviser.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To be eligible, a student must achieve at least a 3.5 grade point average in the major, complete a senior thesis, and receive the approval of the center's research committee."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours. Minimum required major and supporting course work: 33 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "LAST 170",
+            "title": "LAST 170",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LAST 490",
+            "title": "LAST 490",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Latin American Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition 1",
+              "3"
+            ],
+            [
+              "LAST 170",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Latin America course",
+              "3",
+              "Latin America course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Latin America course",
+              "3",
+              "Latin America in a Global Context course",
+              "3"
+            ],
+            [
+              "Latin America in a Global Context course",
+              "3",
+              "Latin America in a Global Context course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Latin America level course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "LAST 490",
+              "3",
+              "Latin America Advanced Language course",
+              "3"
+            ],
+            [
+              "Latin America in a Global Context course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Latin American Studies"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Strong Declarative Knowledge Base on Latin American Culture and its position in the broader global world\n\t\nStudents should understand the diversity and complexity of Latin American cultures and languages and their historical, cultural, political, and economic development.\nStudents should develop appropriate expertise on a sub-region or culture of Latin America and/or a thematic topic related to Latin America\nStudents should also be able to place their knowledge of Latin American in a broader global context.",
+          "Critical Thinking\n\nStudents should be able to critically and reasonably evaluate and formulate claims about social, cultural, political, historic, and economic issues related to Latin America in both academic and popular media.\nStudents should be able to critically and reasonably evaluate and apply their knowledge to real world problems.",
+          "Effective Written Communication\n\nStudents should be able to identify research problems, approach these problems with appropriate methodologies and effectively communicate the results.  They should be able to apply their knowledge to real world situations.\nStudents should be able to effectively communicate their knowledge of Latin American culture and language to a broad non-specialist audience.",
+          "Advanced Proficiency in Spanish or Portuguese OR Intermediate – High proficiency in an Indigenous Latin American Language - This will be assessed through completion of appropriate level course work and through OPI or equivalent testing."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Latin American Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Center for Latin American & Caribbean Studies website\nLatin American Studies faculty\nLatin American Studies email"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

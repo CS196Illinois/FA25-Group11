@@ -1,0 +1,526 @@
+{
+  "major_name": "Social Work, BSW",
+  "url": "https://catalog.illinois.edu/undergraduate/socw/social-work-bsw/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Social Work Major in Social Work"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental Distinction: The top 10% of the BSW graduating class will graduate with distinction."
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work: A minimum of 53 course hours of social work coursework, which includes 15 credit hours of combined agency-based field practicum (internship) and field seminar."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CMN 101",
+            "type": "sequence",
+            "sequence": [
+              "CMN 101",
+              "RHET 105"
+            ],
+            "title": "CMN 101&RHET 105",
+            "hours": "6-7",
+            "hours_min": 6,
+            "hours_max": 7
+          },
+          {
+            "code": "CMN 111",
+            "type": "sequence",
+            "sequence": [
+              "CMN 111",
+              "CMN 112"
+            ],
+            "title": "orCMN 111&CMN 112",
+            "hours": "6-7",
+            "hours_min": 6,
+            "hours_max": 7
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "SOCW 225",
+            "title": "SOCW 225",
+            "hours": ""
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": ""
+          },
+          {
+            "code": "ECON 202",
+            "title": "ECON 202",
+            "hours": ""
+          },
+          {
+            "code": "EPSY 280",
+            "title": "EPSY 280",
+            "hours": ""
+          },
+          {
+            "code": "SOC 280",
+            "title": "SOC 280",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 235",
+            "title": "PSYC 235",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "BSW Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "SOCW 200",
+            "title": "SOCW 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 300",
+            "title": "SOCW 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 401",
+            "title": "SOCW 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SOCW 402",
+            "title": "SOCW 402",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 403",
+            "title": "SOCW 403",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 410",
+            "title": "SOCW 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 427",
+            "title": "SOCW 427",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 451",
+            "title": "SOCW 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 461",
+            "title": "SOCW 461",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SOCW 470",
+            "title": "SOCW 470",
+            "hours": "15",
+            "hours_min": 15,
+            "hours_max": 15
+          },
+          {
+            "code": "SOCW 310",
+            "title": "SOCW 310",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 321",
+            "title": "SOCW 321",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 325",
+            "title": "SOCW 325",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 330",
+            "title": "SOCW 330",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 360",
+            "title": "SOCW 360",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 370",
+            "title": "SOCW 370",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 380",
+            "title": "SOCW 380",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 404",
+            "title": "SOCW 404",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 412",
+            "title": "SOCW 412",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 416",
+            "title": "SOCW 416",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 417",
+            "title": "SOCW 417",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 418",
+            "title": "SOCW 418",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 420",
+            "title": "SOCW 420",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 436",
+            "title": "SOCW 436",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 455",
+            "title": "SOCW 455",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 475",
+            "title": "SOCW 475",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 480",
+            "title": "SOCW 480",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Social Work Major in Social Work"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This may require up to three semesters of language depending on high school coursework or placement. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free Elective course",
+              "2",
+              "SOCW 200",
+              "3"
+            ],
+            [
+              "SOCW 225 (or equivalent statistics course)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "SOCW 300",
+              "3",
+              "SOCW elective course",
+              "3"
+            ],
+            [
+              "CMN 101",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "SOCW 401",
+              "4",
+              "SOCW 402",
+              "3"
+            ],
+            [
+              "SOCW 451",
+              "3",
+              "SOCW 410",
+              "3"
+            ],
+            [
+              "SOCW elective course",
+              "3",
+              "SOCW elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "SOCW 403",
+              "3",
+              "SOCW 470",
+              "15"
+            ],
+            [
+              "SOCW 427",
+              "3",
+              ""
+            ],
+            [
+              "SOCW 461",
+              "4",
+              ""
+            ],
+            [
+              "Free elective course",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Social Work Major in Social Work"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students graduating with the Bachelor of Social Work should be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Demonstrate ethical and professional behavior",
+          "Advance human rights and social, racial, economic, and environmental justice",
+          "Engage anti-racism, diversity, equity, and inclusion",
+          "Engage in practice-informed research and research-informed practice",
+          "Engage in Policy Practice",
+          "Engage with individuals, families, groups, organizations, and communities",
+          "Assess individuals, families, groups, organizations, and communities",
+          "Intervene with individuals, families, groups, organizations, and communities",
+          "Evaluate practice with individuals, families, groups, organizations, and communities"
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Social Work Major in Social Work"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Social Work"
+      },
+      {
+        "type": "paragraph",
+        "content": "Director of BSW program: Dora Watkins\nSchool of Social Work website\n1010 W. Nevada St., Urbana, IL 61801\n(217) 244-5246\nSocial Work email"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Social Work faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "BSW Advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Social Work Admissions\nUniversity of Illinois Undergrad Admissions"
+      }
+    ]
+  }
+}

@@ -1,0 +1,949 @@
+{
+  "major_name": "Nuclear, Plasma, and Radiological Engineering: Power, Safety & Environment, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/power-safety-environment/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, & Radiological Engineering with a concentration in Power, Safety & Environment"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours.",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Overall GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Technical GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "TGPA is required for NPRE 200 and NPRE 247. See Technical GPA to clarify requirements.",
+        "course_codes": [
+          "NPRE 200",
+          "NPRE 247"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level.  These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation and Professional Development"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "NPRE 100",
+            "title": "NPRE 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Introductory Economics Elective"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ECON 103"
+            ],
+            "title": "ECON 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 103",
+            "type": "choice",
+            "options": [
+              "ECON 103"
+            ],
+            "title": "orECON 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundational Mathematics and Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 257",
+            "title": "MATH 257",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, and Radiological Engineering Technical Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CS 101",
+            "title": "CS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 205",
+            "title": "ECE 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 310",
+            "type": "choice",
+            "options": [
+              "ME 310",
+              "TAM 335"
+            ],
+            "title": "ME 310",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 335",
+            "type": "choice",
+            "options": [
+              "TAM 335",
+              "RTAM 335"
+            ],
+            "title": "orTAM 335",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 200",
+            "title": "NPRE 200",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "NPRE 247",
+            "title": "NPRE 247",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 321",
+            "title": "NPRE 321",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 330",
+            "title": "NPRE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 349",
+            "title": "NPRE 349",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "NPRE 441",
+            "title": "NPRE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 445",
+            "title": "NPRE 445",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 449",
+            "title": "NPRE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 451",
+            "title": "NPRE 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 455",
+            "title": "NPRE 455",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 458",
+            "title": "NPRE 458",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 210",
+            "title": "TAM 210",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "TAM 212",
+            "title": "TAM 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Professional Concentration Area"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "NPRE 432",
+            "title": "NPRE 432",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "NPRE 412",
+            "title": "NPRE 412",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 413",
+            "title": "NPRE 413",
+            "hours": "2 or 3",
+            "hours_min": 2,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 430",
+            "title": "NPRE 430",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 442",
+            "title": "NPRE 442",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 457",
+            "title": "NPRE 457",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 461",
+            "title": "NPRE 461",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 480",
+            "title": "NPRE 480",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 498",
+            "title": "NPRE 498",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "NPRE 199",
+            "title": "NPRE 199",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "NPRE 201",
+            "title": "NPRE 201",
+            "hours": "2 or 3",
+            "hours_min": 2,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 398",
+            "title": "NPRE 398",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 470",
+            "title": "NPRE 470",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 475",
+            "title": "NPRE 475",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 481",
+            "title": "NPRE 481",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 483",
+            "title": "NPRE 483",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ME 320",
+            "title": "ME 320",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 400",
+            "title": "ME 400",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 402",
+            "title": "ME 402",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 404",
+            "title": "ME 404",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 410",
+            "title": "ME 410",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 411",
+            "title": "ME 411",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 420",
+            "title": "ME 420",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ECE 329",
+            "title": "ECE 329",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 310",
+            "title": "ECE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 330",
+            "title": "ECE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 476",
+            "title": "ECE 476",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 486",
+            "title": "ECE 486",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "TAM 251",
+            "title": "TAM 251",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 252",
+            "title": "TAM 252",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "TAM 424",
+            "title": "TAM 424",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 435",
+            "title": "TAM 435",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 445",
+            "title": "TAM 445",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 451",
+            "title": "TAM 451",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 456",
+            "title": "TAM 456",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 450",
+            "title": "CS 450",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ME 471",
+            "title": "ME 471",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 400",
+            "title": "STAT 400",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 201",
+            "title": "CEE 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 443",
+            "title": "CEE 443",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 444",
+            "title": "CEE 444",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 447",
+            "title": "CEE 447",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, & Radiological Engineering with a concentration in Power, Safety & Environment"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence. The curriculum sequence can also be viewed via dynamic and static curricular maps, which include prerequisite sequencing."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements. One of the SBS courses must be an introductory economics course (ECON 102 or ECON 103).  NPRE 481 will satisfy a technical elective requirement in the Professional Concentration Area and the Campus General Education Advanced Composition requirement.  If NPRE 481 is not selected, a separate Advanced Composition course must be taken.",
+        "course_codes": [
+          "ECON 102",
+          "ECON 103",
+          "NPRE 481",
+          "NPRE 481"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "NPRE 100",
+              "1",
+              "CS 101 (CS 124 may be substituted)",
+              "3"
+            ],
+            [
+              "MATH 221 (MATH 220 may be substituted)",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "ENG 100",
+              "1",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "Language Other Than English (3rd level) or Composition I course",
+              "4"
+            ],
+            [
+              "Composition I or Language Other Than English (3rd level) course",
+              "4",
+              "ECON 102 or ECON 103 (counts as General Education course)",
+              "3"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              ""
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 200",
+              "2",
+              "NPRE 247",
+              "3"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "ME 200",
+              "3"
+            ],
+            [
+              "TAM 210 (TAM 211 may be substituted)",
+              "2",
+              "TAM 212 (PHYS 325 may be substituted)",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 330 (or NPRE 321)",
+              "3",
+              "NPRE 349",
+              "2"
+            ],
+            [
+              "MATH 257",
+              "3",
+              "NPRE 451",
+              "3"
+            ],
+            [
+              "NPRE 445",
+              "4",
+              "NPRE 455",
+              "4"
+            ],
+            [
+              "TAM 335 (ME 310 may be substituted)",
+              "4",
+              "ECE 205",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "Technical elective course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 321 (or NPRE 330)",
+              "3",
+              "NPRE 441",
+              "4"
+            ],
+            [
+              "NPRE 432",
+              "2",
+              "NPRE 458",
+              "4"
+            ],
+            [
+              "Technical Elective",
+              "3",
+              "Technical elective course",
+              "3"
+            ],
+            [
+              "NPRE 449",
+              "3",
+              "Technical elective course",
+              "3"
+            ],
+            [
+              "Technical elective course",
+              "3",
+              ""
+            ],
+            [
+              "Free elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, & Radiological Engineering with a concentration in Power, Safety & Environment"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, & Radiological Website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, & Radiological Engineering Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions\nThe Grainger College of Engineering"
+      }
+    ]
+  }
+}

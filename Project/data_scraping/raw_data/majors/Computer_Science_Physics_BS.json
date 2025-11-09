@@ -1,0 +1,649 @@
+{
+  "major_name": "Computer Science + Physics, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-physics-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science plus Physics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Technical GPA: 2.0. TGPA is required for CS, Math, and Physics courses. See Technical GPA to clarify requirements."
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Overall GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation and Professional Development"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "PHYS 110",
+            "title": "PHYS 110",
+            "hours": "0",
+            "hours_min": 0,
+            "hours_max": 0
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundational Mathematics and Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 257",
+            "type": "choice",
+            "options": [
+              "MATH 257",
+              "MATH 416"
+            ],
+            "title": "MATH 257",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 416",
+            "type": "choice",
+            "options": [
+              "MATH 416"
+            ],
+            "title": "orMATH 416",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 213",
+            "title": "PHYS 213",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "PHYS 214",
+            "title": "PHYS 214",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CS 361",
+            "type": "choice",
+            "options": [
+              "CS 361",
+              "STAT 400"
+            ],
+            "title": "CS 361",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 400",
+            "type": "choice",
+            "options": [
+              "STAT 400"
+            ],
+            "title": "orSTAT 400",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Computer Science Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CS 124",
+            "title": "CS 124",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 128",
+            "title": "CS 128",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 173",
+            "title": "CS 173",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 222",
+            "title": "CS 222",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CS 225",
+            "title": "CS 225",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 233",
+            "type": "sequence",
+            "sequence": [
+              "CS 233",
+              "CS 341"
+            ],
+            "title": "CS 233&CS 341",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 340",
+            "title": "CS 340",
+            "hours": ""
+          },
+          {
+            "type": "sequence",
+            "sequence": [
+              "CS 400"
+            ],
+            "code": "CS 400",
+            "title": "& Two CS 400-level courses",
+            "hours": ""
+          },
+          {
+            "code": "CS 374",
+            "title": "CS 374",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 357",
+            "type": "choice",
+            "options": [
+              "CS 357",
+              "CS 450"
+            ],
+            "title": "CS 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 450",
+            "type": "choice",
+            "options": [
+              "CS 450",
+              "ORCS 450"
+            ],
+            "title": "orCS 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Physics Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "PHYS 225",
+            "title": "PHYS 225",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "PHYS 246",
+            "title": "PHYS 246",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "PHYS 325",
+            "title": "PHYS 325",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 435",
+            "title": "PHYS 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 486",
+            "type": "choice",
+            "options": [
+              "PHYS 486",
+              "PHYS 485"
+            ],
+            "title": "PHYS 486",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 485",
+            "type": "choice",
+            "options": [
+              "PHYS 485"
+            ],
+            "title": "orPHYS 485",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 446",
+            "title": "PHYS 446",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science plus Physics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "MATH 221 (MATH 220 may be substituted)",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "PHYS 110",
+              "0",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "ENG 100 (External transfer students take ENG 300.)",
+              "1",
+              "CS 128",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "CS 173",
+              "3"
+            ],
+            [
+              "Composition I or General Education (Choose a Humanities or Social/Behavioral Science course)",
+              "4-3",
+              "General Education  (Choose a Humanities or Social/Behavioral Science course) or Composition I",
+              "3-4"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "PHYS 213",
+              "2"
+            ],
+            [
+              "PHYS 225",
+              "2",
+              "PHYS 214",
+              "2"
+            ],
+            [
+              "CS 225",
+              "4",
+              "PHYS 246",
+              "2"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "CS 233 or  340",
+              "4-3"
+            ],
+            [
+              "",
+              "CS 222",
+              "1"
+            ],
+            [
+              "",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 257 (MATH 416 may be substituted.)",
+              "3",
+              "CS 357 (or CS 450)",
+              "3"
+            ],
+            [
+              "PHYS 325",
+              "3",
+              "PHYS 435",
+              "3"
+            ],
+            [
+              "CS 361 (STAT 400 may be substituted)",
+              "3",
+              "CS Technical Elective course",
+              "3"
+            ],
+            [
+              "PHYS Technical Elective course",
+              "3",
+              "PHYS Technical Elective course",
+              "3"
+            ],
+            [
+              "General Education (Advanced Composition) course",
+              "3",
+              "Language Other Than English (3rd level) course",
+              "4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PHYS 485 (PHYS 486 may be substituted)",
+              "3",
+              "PHYS 446",
+              "3"
+            ],
+            [
+              "CS 374",
+              "4",
+              "PHYS Technical Elective course",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "PHYS Technical Elective course",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "CS 341 (or CS Technical Elective course)",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science plus Physics"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Department of Physics Undergraduate Studies Office—together with guidance from the Physics Undergraduate Studies Committee—will work to collect, compile, evaluate, and report on the learning outcomes for its courses. This work will include, but not be limited to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Informal Early Feedback:\n\tStudents in each major-specific course will be invited to participate in a survey to help the department and instructors evaluate the students’ understanding of the course learning objectives, outcomes, and course goals. Summary reports will be made available to instructors and the department leadership.",
+          "Evaluation of Direct Student Learning and Other Summative Learning Assessments:\n\tFinal examinations (i.e., questions and student work) will be collected for evaluation of learning outcomes. This will include evaluation of the assessments’ usefulness in evaluation of learning outcomes, as well as the mastery of the outcomes by students. Anonymized student work will be used for the evaluation. Summary reports will be made available to instructors and the Department leadership.\n\tAdditionally, CS will follow its standard student outcomes assessment process for the core CS courses, in the same manner as it uses for continuous assessment of the CS BS program.",
+          "Indirect Evaluation of Student Learning:\n\tIndirect measures of student learning will include current enrollment, including demographic information.",
+          "Degree completion rates, including information regarding:"
+        ]
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Semesters to completion",
+          "Degree program requirements",
+          "Semesters to complete specified intra-degree program requirements",
+          "Choke-points in degree completion progression",
+          "Course updates and revisions",
+          "Desirable new courses",
+          "Demographic trends"
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science plus Physics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Physics website\nPhysics faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions\nThe Grainger College of Engineering"
+      }
+    ]
+  }
+}

@@ -74,6 +74,7 @@ def parse_course_table(table_data):
     [
         {'code': 'CS 124', 'title': 'Intro to Computer Science', 'hours': '3'},
         {'code': 'CS 128', 'title': 'Intro to CS II', 'hours': '3'},
+        {'type': 'choice', 'code': 'IS 307', 'options': ['IS 307', 'IS 308', 'IS 309'], 'hours': '3'},
         ...
     ]
     """
@@ -82,18 +83,58 @@ def parse_course_table(table_data):
     for item in table_data:
         course = {}
 
-        # Parse course code
-        if 'code' in item and item['code']:
-            code = parse_course_code(item['code'])
-            if isinstance(code, dict):  # Choice course
-                course.update(code)
-                course['code'] = item['code']
-            else:
-                course['code'] = code or item['code']
+        # Handle sequence courses (co-requisites that must be taken together)
+        if item.get('type') == 'sequence' and 'sequence' in item:
+            course['type'] = 'sequence'
+            course['sequence'] = []
+            for seq_code in item['sequence']:
+                normalized = normalize_course_code(seq_code)
+                if normalized:
+                    course['sequence'].append(normalized)
+            # Use first course as primary code
+            if course['sequence']:
+                course['code'] = course['sequence'][0]
+        # Handle choice courses (new format from improved scraper)
+        elif item.get('type') == 'choice' and 'options' in item:
+            # This is a choice course - student can pick one
+            course['type'] = 'choice'
+            course['options'] = []
+            for option_code in item['options']:
+                normalized = normalize_course_code(option_code)
+                if normalized:
+                    course['options'].append(normalized)
+            # Use first option as primary code
+            if course['options']:
+                course['code'] = course['options'][0]
+        else:
+            # Regular course - parse course code
+            if 'code' in item and item['code']:
+                codes = parse_course_code(item['code'])
+                if codes:
+                    if len(codes) == 1:
+                        course['code'] = codes[0]
+                    else:
+                        # Multiple codes found - treat as choice
+                        course['type'] = 'choice'
+                        course['options'] = codes
+                        course['code'] = codes[0]
+                else:
+                    course['code'] = normalize_course_code(item['code']) or item['code']
 
         # Parse credit hours
         if 'hours' in item and item['hours']:
             course['credits'] = parse_credit_hours(item['hours'])
+        
+        # Use structured credit hours if available (from improved scraper)
+        if 'hours_min' in item and 'hours_max' in item:
+            course['credits_min'] = item['hours_min']
+            course['credits_max'] = item['hours_max']
+            # Also set credits to range format if not already set
+            if 'credits' not in course:
+                if item['hours_min'] == item['hours_max']:
+                    course['credits'] = item['hours_min']
+                else:
+                    course['credits'] = f"{item['hours_min']}-{item['hours_max']}"
 
         # Add title if present
         if 'title' in item and item['title']:
@@ -169,7 +210,19 @@ def extract_all_course_codes_from_content(content_item):
         elif isinstance(table_data, list):
             # Course table format
             for item in table_data:
-                if 'code' in item:
+                # Handle sequence courses (co-requisites)
+                if item.get('type') == 'sequence' and 'sequence' in item:
+                    for seq_code in item['sequence']:
+                        normalized = normalize_course_code(seq_code)
+                        if normalized:
+                            course_codes.append(normalized)
+                # Handle choice courses (new format)
+                elif item.get('type') == 'choice' and 'options' in item:
+                    for option in item['options']:
+                        normalized = normalize_course_code(option)
+                        if normalized:
+                            course_codes.append(normalized)
+                elif 'code' in item:
                     codes = parse_course_code(item['code'])
                     course_codes.extend(codes)
     
@@ -201,6 +254,11 @@ def extract_requirement_groups(major_data):
         # Check if this is a section heading
         if item['type'] == 'paragraph':
             text = item['content']
+            
+            # Extract metadata from paragraph if present
+            level_req = item.get('level_requirement')
+            credit_req = item.get('credit_requirement')
+            para_course_codes = item.get('course_codes', [])
 
             # Heuristic: if paragraph is short and title-like, it might be a group name
             if len(text) < 150 and any(keyword in text.lower() for keyword in [
@@ -216,14 +274,24 @@ def extract_requirement_groups(major_data):
                     'group_name': text,
                     'courses': [],
                     'course_codes': set(),  # Track unique course codes
-                    'credits_required': None,
+                    'credits_required': credit_req,  # Use credit requirement if found
+                    'level_requirement': level_req,  # Track level requirement
                     'description': []
                 }
+                # Add course codes from paragraph if any
+                if para_course_codes:
+                    current_group['course_codes'].update(para_course_codes)
             elif current_group:
                 # Add text to group description
                 current_group['description'].append(text)
                 # Also extract course codes from description text
                 current_group['course_codes'].update(course_codes)
+                # Update credit requirement if found and not already set
+                if credit_req and not current_group.get('credits_required'):
+                    current_group['credits_required'] = credit_req
+                # Update level requirement if found
+                if level_req:
+                    current_group['level_requirement'] = level_req
 
         # Extract courses from tables
         elif item['type'] == 'table' and current_group:

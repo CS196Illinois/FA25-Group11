@@ -1,0 +1,471 @@
+{
+  "major_name": "Theatre, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours. Twelve hours of 300 and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Core Requirements for all Theatre Majors"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "THEA 100",
+            "title": "THEA 100",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 200",
+            "title": "THEA 200",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 121",
+            "title": "THEA 121",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 122",
+            "title": "THEA 122",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 123",
+            "title": "THEA 123",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 208",
+            "title": "THEA 208",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 304",
+            "title": "THEA 304",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 364",
+            "title": "THEA 364",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 404",
+            "title": "THEA 404",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Required Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "General Non-Theatre Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for Bachelor of Fine Arts in Theatre"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "THEA 100",
+              "1",
+              "THEA 100",
+              "1"
+            ],
+            [
+              "THEA 121",
+              "3",
+              "THEA 122",
+              "3"
+            ],
+            [
+              "FAA 101",
+              "1",
+              "Concentration Requirement",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 200",
+              "1",
+              "THEA 200",
+              "1"
+            ],
+            [
+              "THEA 123",
+              "3",
+              "THEA 208",
+              "3"
+            ],
+            [
+              "Concentration Requirement",
+              "3",
+              "Concentration Requirement",
+              "3"
+            ],
+            [
+              "Concentration Requirement",
+              "2",
+              "Concentration Requirement",
+              "2"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 304",
+              "3",
+              "THEA 364",
+              "3"
+            ],
+            [
+              "Concentration Requirement",
+              "3",
+              "Concentration Requirement",
+              "3"
+            ],
+            [
+              "Concentration Requirement",
+              "3",
+              "Concentration Requirement",
+              "3"
+            ],
+            [
+              "Concentration Requirement",
+              "3",
+              "Concentration Requirement",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "18",
+              "",
+              "18"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 404",
+              "1",
+              "Concentration Requirement",
+              "3"
+            ],
+            [
+              "Concentration Requirement",
+              "3",
+              "Concentration Requirement",
+              "3"
+            ],
+            [
+              "Concentration Requirement",
+              "3",
+              "Concentration Requirement",
+              "3"
+            ],
+            [
+              "Concentration Requirement",
+              "3",
+              "Concentration Requirement",
+              "2"
+            ],
+            [
+              "General Non-Theatre Elective",
+              "3",
+              "General Non-Theatre Elective",
+              "3"
+            ],
+            [
+              "General Non-Theatre Elective",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Demonstrates a mature, effective ability to analyze, interpret, write critically and creatively, and discuss thoughtfully in the field of theatre.",
+          "Demonstrates the practical application of learned methodologies including the ability to communicate ideas, concepts, and requirements in order to successfully fulfill the work of a theatre artist.",
+          "Demonstrates necessary skills and knowledge to acquire an entry-level position in the theatre field (with additional training for area-specific tracks) showing the capacity to work and solve problems independently and with initiative.",
+          "Demonstrates practical application of learned methodologies including the ability to communicate ideas, concepts, and outcomes of creative research."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Theatre"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department Head: Valleri Robinson\nDirector of Undergraduate Studies: Cynthia Kocher\nTheatre Department website\nTheatre Department faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fine & Applied Arts website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of the College of Fine & Applied Arts Admissions & Requirements\nUniversity of Illinois Undergrad Admissions\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

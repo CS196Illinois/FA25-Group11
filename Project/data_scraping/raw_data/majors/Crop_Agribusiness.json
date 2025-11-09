@@ -1,0 +1,569 @@
+{
+  "major_name": "Crop Sciences: Crop Agribusiness, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/crop-agribusiness/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Crop Sciences, Crop Agribusiness Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements Minimum hours required for graduation: 126 hours. ACES prescribed and elective courses: 35 hours, of which 20 hours must be completed in residence.",
+        "credit_requirement": "126"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements Minimum of 40 hours of upper-division coursework, generally at the 300 and 400 level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CMN 101",
+            "title": "CMN 101",
+            "hours": ""
+          },
+          {
+            "code": "ALEC 115",
+            "title": "ALEC 115",
+            "hours": ""
+          },
+          {
+            "code": "CMN 111",
+            "type": "sequence",
+            "sequence": [
+              "CMN 111",
+              "CMN 112"
+            ],
+            "title": "CMN 111&CMN 112",
+            "hours": ""
+          },
+          {
+            "code": "ACES 101",
+            "title": "ACES 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ACE 100"
+            ],
+            "title": "ECON 102",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ACE 100",
+            "type": "choice",
+            "options": [
+              "ACE 100",
+              "RACE 100"
+            ],
+            "title": "orACE 100",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 220",
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": ""
+          },
+          {
+            "code": "MATH 234",
+            "title": "MATH 234",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 241",
+            "title": "CPSC 241",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 102",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 102",
+              "CHEM 103"
+            ],
+            "title": "CHEM 102&CHEM 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CPSC 102",
+            "title": "CPSC 102",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CPSC 112",
+            "title": "CPSC 112",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CPSC 212",
+            "title": "CPSC 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CPSC 393",
+            "title": "CPSC 393",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 395",
+            "title": "CPSC 395",
+            "hours": ""
+          },
+          {
+            "code": "HORT 393",
+            "title": "HORT 393",
+            "hours": ""
+          },
+          {
+            "code": "HORT 395",
+            "title": "HORT 395",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 498",
+            "title": "CPSC 498",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "ACCY 200",
+            "type": "choice",
+            "options": [
+              "ACCY 200",
+              "ACCY 201"
+            ],
+            "title": "ACCY 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACCY 201",
+            "type": "choice",
+            "options": [
+              "ACCY 201"
+            ],
+            "title": "orACCY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 222",
+            "title": "ACE 222",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 231",
+            "title": "ACE 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 232",
+            "title": "ACE 232",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IB 103",
+            "title": "IB 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NRES 201",
+            "title": "NRES 201",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NRES 474",
+            "type": "choice",
+            "options": [
+              "NRES 474",
+              "NRES 488"
+            ],
+            "title": "NRES 474",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 488",
+            "type": "choice",
+            "options": [
+              "NRES 488"
+            ],
+            "title": "orNRES 488",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Crop Sciences, Crop Agribusiness Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "CPSC 102",
+              "2",
+              "CPSC 212",
+              "4"
+            ],
+            [
+              "CPSC 112",
+              "4",
+              "Calculus Option",
+              "4"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "Communication Option or Composition I",
+              "4"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "ECON 102 or ACE  100",
+              "3"
+            ],
+            [
+              "Composition I or Communication Option",
+              "3",
+              ""
+            ],
+            [
+              "ACES 101",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ACE 222",
+              "3",
+              "CPSC 241",
+              "3"
+            ],
+            [
+              "NRES 201",
+              "4",
+              "IB 103",
+              "4"
+            ],
+            [
+              "Advanced CPSC, PLPA, or HORT Elective course",
+              "3",
+              "Advanced CPSC, PLPA, or HORT Elective Course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "ACE 231",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              "ACCY 200 or  201",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Internship or Research Option",
+              "3",
+              "ACE 232",
+              "3"
+            ],
+            [
+              "Advanced CPSC, PLPA, or HORT Elective course",
+              "3",
+              "Advanced CPSC, PLPA, or HORT Elective course",
+              "3"
+            ],
+            [
+              "300- or 400-level ACE Course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "4",
+              "Free Elective course",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CPSC 498",
+              "1",
+              "NRES 474 or  488",
+              "3"
+            ],
+            [
+              "300- or 400-level ACE Course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "4"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 126"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Crop Sciences, Crop Agribusiness Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students graduating with the B.S. in Crop Sciences should be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Demonstrate knowledge in the key subject matter areas of applied plant biology; crop growth and development; crop management and protection; and soil science.",
+          "Demonstrate an ability to identify a problem and develop solutions using quantitative reasoning skills for analysis of biological data.",
+          "Demonstrate oral and written communication skills necessary to listen and make effective arguments, to share applied scientific concepts with the public, and to make use of a broad variety of media.",
+          "Demonstrate an ability to lead and function in multidisciplinary teams.",
+          "Demonstrate the ability to perform self-guided discovery in agricultural sciences, practicing skills of engagement to enhance intellectual curiosity."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Crop Sciences, Crop Agribusiness Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Crop Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Crop Sciences website\nAW-101 Turner Hall\nMC-046\n1102 S. Goodwin Ave.\nUrbana, IL 61801\n(217) 333-3420\ncropsciences@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Agricultural, Consumer & Environmental Sciences website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "ACES Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n217-333-3380\naces-academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising Website\n(217) 333-3570\nUndergraduate Advising Email: ugrad@cropsciences.illinois.edu\nGraduate Advising Email: grad@cropsciences.illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\nUniversity of Illinois Urbana-Champaign Graduate Admissions\n(217) 333-3380\nvisitACES@illinois.edu"
+      }
+    ]
+  }
+}

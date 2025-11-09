@@ -1,0 +1,536 @@
+{
+  "major_name": "Geology, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/geology-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Geology  (Specialized Curriculum)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Specialized Curriculum\nGraduation requires a grade point average of at least 2.0 overall and a 2.0 average in all required science and technical courses (geology, physics, mathematics, chemistry, and technical requirements listed below). The Department of Geology will supply upon request a Guide for Geology Undergraduates giving more information about the curriculum."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental Distinction: Students majoring in Geology can earn distinction, high distinction, and highest distinction upon graduation.  The requirements for these awards are:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Distinction: A minimum cumulative grade point average of 3.3, and have also completed an approved independent study project, approved senior thesis, or approved capstone"
+      },
+      {
+        "type": "paragraph",
+        "content": "High Distinction: A minimum cumulative grade point average of 3.5, and have also completed an approved independent study project, approved senior thesis, or approved capstone"
+      },
+      {
+        "type": "paragraph",
+        "content": "Highest Distinction: A minimum cumulative grade point average of 3.7, and also completed an approved senior thesis or approved research capstone"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 126 hours."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 104",
+            "title": "CHEM 104",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 105",
+            "title": "CHEM 105",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 202",
+            "title": "CHEM 202",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 203",
+            "title": "CHEM 203",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 204",
+            "title": "CHEM 204",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 205",
+            "title": "CHEM 205",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "GEOL 107",
+            "title": "GEOL 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 208",
+            "title": "GEOL 208",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 143",
+            "title": "GEOL 143",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GEOL 411",
+            "title": "GEOL 411",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 417",
+            "title": "GEOL 417",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "GEOL 432",
+            "title": "GEOL 432",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 436",
+            "title": "GEOL 436",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 440",
+            "title": "GEOL 440",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GEOL 450",
+            "type": "choice",
+            "options": [
+              "GEOL 450",
+              "GEOL 452"
+            ],
+            "title": "GEOL 450",
+            "hours": ""
+          },
+          {
+            "code": "GEOL 452",
+            "type": "choice",
+            "options": [
+              "GEOL 452"
+            ],
+            "title": "orGEOL 452"
+          },
+          {
+            "code": "GEOL 460",
+            "title": "GEOL 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221"
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": ""
+          },
+          {
+            "code": "MATH 225",
+            "type": "choice",
+            "options": [
+              "MATH 225",
+              "MATH 415"
+            ],
+            "title": "MATH 225",
+            "hours": ""
+          },
+          {
+            "code": "MATH 415",
+            "type": "choice",
+            "options": [
+              "MATH 415"
+            ],
+            "title": "orMATH 415"
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 211",
+            "type": "sequence",
+            "sequence": [
+              "PHYS 211",
+              "PHYS 212"
+            ],
+            "title": "PHYS 211&PHYS 212",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "PHYS 101",
+            "type": "sequence",
+            "sequence": [
+              "PHYS 101",
+              "PHYS 102"
+            ],
+            "title": "PHYS 101&PHYS 102",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IB 103",
+            "title": "IB 103",
+            "hours": ""
+          },
+          {
+            "code": "IB 104",
+            "title": "IB 104",
+            "hours": ""
+          },
+          {
+            "code": "CS 101",
+            "title": "CS 101",
+            "hours": ""
+          },
+          {
+            "code": "CS 125",
+            "title": "CS 125",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 440",
+            "title": "CPSC 440",
+            "hours": ""
+          },
+          {
+            "code": "STAT 400",
+            "title": "STAT 400",
+            "hours": ""
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": ""
+          },
+          {
+            "code": "MATH 441",
+            "title": "MATH 441",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 213",
+            "title": "PHYS 213",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 214",
+            "title": "PHYS 214",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Geology  (Specialized Curriculum)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "GEOL 208",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "3",
+              "General Education course or Composition 1",
+              "3"
+            ],
+            [
+              "CHEM 102 (or CHEM 202)",
+              "3",
+              "CHEM 104 (or CHEM 204)",
+              "3"
+            ],
+            [
+              "CHEM 103 (or CHEM 203)",
+              "2",
+              "CHEM 105 (or CHEM 205)",
+              "1"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "GEOL 107",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 220 (or MATH 221)",
+              "5",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "GEOL 143",
+              "3",
+              "GEOL 411",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "GEOL 432",
+              "4"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "PHYS 211 (or PHYS 101)",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PHYS 212 (or PHYS 102)",
+              "5",
+              "GEOL 417",
+              "6"
+            ],
+            [
+              "GEOL 440",
+              "4",
+              "GEOL 436",
+              "4"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 225 (or MATH 415)",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GEOL 450 (or GEOL 452)",
+              "4",
+              "GEOL 460",
+              "3"
+            ],
+            [
+              "Geology 300-400 level  course",
+              "3",
+              "Geology 300-400 level course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Technical Geology course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 126"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Geology  (Specialized Curriculum)"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Students will develop cross-disciplinary skills of observation, data collection, and spatial display of data (e.g., map making) related to geological materials, features, and processes.",
+          "Students will develop an understanding of the physical, chemical and mathematical theories fundamental to earth processes through rigorous coursework and research.",
+          "Students will develop and apply critical thinking skills to synthesize principles learned in the classroom, and data collected in the laboratory and in the field in order to evaluate hypotheses and solve geological problems.",
+          "Students will demonstrate the ability to communicate effectively scientific data, interpretations, and hypotheses through written and oral methods.",
+          "Students will hone and apply interpersonal skills in a professional setting through group work, research activities, and field studies."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Geology  (Specialized Curriculum)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Geology\nGeology website\nGeology email\nGeology faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Liberal Arts & Sciences\nLAS College website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising\nGeology advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Admissions\nLiberal Arts & Sciences Admissions & Requirements\nUniversity of Illinois Undergrad Admissions"
+      }
+    ]
+  }
+}

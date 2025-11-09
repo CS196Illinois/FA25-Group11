@@ -1,0 +1,255 @@
+{
+  "major_name": "Anthropology: Human Evolutionary Biology, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/human-evolutionary-biology/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Anthropology, Human Evolutionary Biology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60- 75 hours). Please see your adviser.",
+        "credit_requirement": "75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: The department may award distinction, high distinction, or highest distinction to any Anthropology major whose overall and major grade point averages are 3.25 or higher; and who successfully completes 33 hours of anthropology courses, including 4-6 hours of ANTH 494 and ANTH 495 resulting in an Honors Thesis. The level of distinction is based on evaluation of the honors thesis.  See the departmental academic advisor for details.",
+        "course_codes": [
+          "ANTH 494",
+          "ANTH 495"
+        ],
+        "credit_requirement": "33"
+      },
+      {
+        "type": "paragraph",
+        "content": "All students must discuss their selection of anthropology courses and supporting course work with a departmental adviser."
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Anthropology, Human Evolutionary Biology Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "Anthropology Core course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Anthropology Core course",
+              "3",
+              "Anthropology Core course",
+              "3"
+            ],
+            [
+              "Human Evolutionary Biology course",
+              "3",
+              "Human Evolutionary Biology course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Human Evolutionary Biology course",
+              "3",
+              "Human Evolutionary Biology course",
+              "3"
+            ],
+            [
+              "Human Evolutionary Biology course",
+              "3",
+              "Human Evolutionary Biology course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Additional Human Evolutionary Biology course",
+              "3",
+              "Additional Human Evolutionary Biology course",
+              "3"
+            ],
+            [
+              "Additional Human Evolutionary Biology course",
+              "3",
+              "Senior Capstone Project",
+              "3"
+            ],
+            [
+              "ANTH 444 or  445",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Anthropology, Human Evolutionary Biology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Anthropology website\nAnthropology faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "Anthropology advising\nAnthropology email"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

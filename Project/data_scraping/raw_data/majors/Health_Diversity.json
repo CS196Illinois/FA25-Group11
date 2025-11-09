@@ -1,0 +1,553 @@
+{
+  "major_name": "Interdisciplinary Health Sciences: Health Diversity, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-diversity/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Interdisciplinary Health Sciences, Health Diversity Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Summary of Degree Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The curriculum requires certain existing courses from the approved lists be taken as noted below. The prescribed courses prepare the student for upper division study and may be used to satisfy General Education Requirements provided they are on the appropriate General Education List."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHLH 101",
+            "title": "CHLH 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHLH 274",
+            "title": "CHLH 274",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHLH 456",
+            "title": "CHLH 456",
+            "hours": "2-4",
+            "hours_min": 2,
+            "hours_max": 4
+          },
+          {
+            "code": "KIN 122",
+            "title": "KIN 122",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 100",
+            "title": "RST 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 170",
+            "title": "SHS 170",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 120",
+            "title": "FSHN 120",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PSYC 100",
+            "title": "PSYC 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "REHB 330",
+            "title": "REHB 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IHLT 101",
+            "title": "IHLT 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "IHLT 102",
+            "title": "IHLT 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "IHLT 375",
+            "title": "IHLT 375",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "IHLT 474",
+            "title": "IHLT 474",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "IHLT 475",
+            "title": "IHLT 475",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Health Diversity Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "SOC 162",
+            "type": "choice",
+            "options": [
+              "SOC 162",
+              "GLBL 240"
+            ],
+            "title": "SOC 162",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GLBL 240",
+            "type": "choice",
+            "options": [
+              "GLBL 240"
+            ],
+            "title": "orGLBL 240",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHLH 409",
+            "title": "CHLH 409",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPS 310",
+            "title": "EPS 310",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 222",
+            "title": "SHS 222",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 421",
+            "title": "AFRO 421",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 143",
+            "title": "ANTH 143",
+            "hours": ""
+          },
+          {
+            "code": "CHLH 415",
+            "title": "CHLH 415",
+            "hours": ""
+          },
+          {
+            "code": "GLBL 100",
+            "title": "GLBL 100",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 322",
+            "title": "HDFS 322",
+            "hours": ""
+          },
+          {
+            "code": "HIST 263",
+            "title": "HIST 263",
+            "hours": ""
+          },
+          {
+            "code": "HIST 281",
+            "title": "HIST 281",
+            "hours": ""
+          },
+          {
+            "code": "IHLT 232",
+            "title": "IHLT 232",
+            "hours": ""
+          },
+          {
+            "code": "IHLT 498",
+            "title": "IHLT 498",
+            "hours": ""
+          },
+          {
+            "code": "LLS 387",
+            "title": "LLS 387",
+            "hours": ""
+          },
+          {
+            "code": "LLS 473",
+            "title": "LLS 473",
+            "hours": ""
+          },
+          {
+            "code": "LLS 479",
+            "title": "LLS 479",
+            "hours": ""
+          },
+          {
+            "code": "MACS 356",
+            "title": "MACS 356",
+            "hours": ""
+          },
+          {
+            "code": "RST/KIN 230",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 312",
+            "title": "PSYC 312",
+            "hours": ""
+          },
+          {
+            "code": "SHS 271",
+            "title": "SHS 271",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 300",
+            "title": "SOCW 300",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Interdisciplinary Health Sciences, Health Diversity Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "paragraph",
+        "content": "Pre-Health Profession Tracks will most likely be using elective classes to fulfill prerequisite coursework for the intended program."
+      },
+      {
+        "type": "paragraph",
+        "content": "IHLT 375, IHLT 474, and IHLT 475 must be taken sequentially in three different semesters, starting your third year. Your advisor will assign the semester in which you will start this sequence.",
+        "course_codes": [
+          "IHLT 375",
+          "IHLT 474",
+          "IHLT 475"
+        ]
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "IHLT 101",
+              "",
+              "RST 100",
+              "3"
+            ],
+            [
+              "IHLT 102",
+              "",
+              "FSHN 120",
+              "3"
+            ],
+            [
+              "KIN 122",
+              "",
+              "Language Other Than English (3rd level) or RHET 105",
+              "4"
+            ],
+            [
+              "CHLH 101",
+              "",
+              "General Education course",
+              "3"
+            ],
+            [
+              "RHET 105 or Language Other Than English (3rd level)",
+              "4",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "7",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PSYC 100",
+              "4",
+              "REHB 330",
+              ""
+            ],
+            [
+              "SHS 170",
+              "3",
+              "STAT 100",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Free Elective",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "13"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHLH 274",
+              "",
+              "IHLT 375",
+              ""
+            ],
+            [
+              "GLBL 240 or SOC 162",
+              "3",
+              "CHLH 409",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "",
+              "12",
+              "",
+              "9"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "IHLT 474",
+              "",
+              "IHLT 475",
+              ""
+            ],
+            [
+              "CHLH 456",
+              "3",
+              "SHS 222",
+              "3"
+            ],
+            [
+              "EPOL 310",
+              "4",
+              "Concentration Elective course",
+              "3"
+            ],
+            [
+              "Concentration Elective course",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "Concentration Elective course",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Free Elective",
+              "1"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 102"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Interdisciplinary Health Sciences, Health Diversity Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "I Health"
+      },
+      {
+        "type": "paragraph",
+        "content": "I Health Department website\nI Health faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Applied Health Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Applied Health Sciences College Catalog page\nApplied Health Sciences College website"
+      }
+    ]
+  }
+}

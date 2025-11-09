@@ -1,0 +1,756 @@
+{
+  "major_name": "Sustainable Design, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/sustainable-design-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science in Sustainable Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Sustainable Design Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "FAA 230",
+            "title": "FAA 230",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 101",
+            "title": "LA 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARCH 171",
+            "title": "ARCH 171",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 172",
+            "title": "ARCH 172",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FAA 201",
+            "title": "FAA 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTH 211",
+            "title": "ARTH 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 136",
+            "title": "UP 136",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 205",
+            "title": "UP 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 237",
+            "title": "ARCH 237",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 225",
+            "title": "ARTD 225",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 102",
+            "title": "ARTF 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 280",
+            "title": "LA 280",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FAA 330",
+            "title": "FAA 330",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "ARTD 326",
+            "title": "ARTD 326",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 321",
+            "title": "ARCH 321",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 451",
+            "title": "ARTD 451",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "FAA 430",
+            "title": "FAA 430",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FAA 431",
+            "title": "FAA 431",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Sustainable Design Major Electives"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTD 230",
+            "title": "ARTD 230",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 270",
+            "title": "ARTD 270",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ART 205",
+            "title": "ART 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ART 208",
+            "title": "ART 208",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ART 310",
+            "title": "ART 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTJ 398",
+            "title": "ARTJ 398",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 426",
+            "title": "ARTD 426",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTS 321",
+            "title": "ARTS 321",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 203",
+            "title": "UP 203",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 204",
+            "title": "UP 204",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 205",
+            "title": "UP 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 340",
+            "title": "UP 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 406",
+            "title": "UP 406",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 418",
+            "title": "UP 418",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 420",
+            "title": "UP 420",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 430",
+            "title": "UP 430",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 434",
+            "title": "UP 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 437",
+            "title": "UP 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 456",
+            "title": "UP 456",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 479",
+            "title": "UP 479",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 486",
+            "title": "UP 486",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 494",
+            "title": "UP 494",
+            "hours": "1-4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 210",
+            "title": "ARCH 210",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 231",
+            "title": "ARCH 231",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 237",
+            "title": "ARCH 237",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 273",
+            "title": "ARCH 273",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 416",
+            "title": "ARCH 416",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 417",
+            "title": "ARCH 417",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 222",
+            "title": "LA 222",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 314",
+            "title": "LA 314",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LA 370",
+            "title": "LA 370",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 446",
+            "title": "LA 446",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LA 466",
+            "title": "LA 466",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LA 480",
+            "title": "LA 480",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "FAA 491",
+            "title": "FAA 491",
+            "hours": "1 to 4",
+            "hours_min": 1,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for Bachelor of Science in Sustainable Design"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science in Sustainable Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This may require up to three semesters of language depending on high school coursework or placement. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "UP 136, ARCH  237, or UP  205",
+              "3"
+            ],
+            [
+              "ARCH 171",
+              "3",
+              "ARCH 172",
+              "3"
+            ],
+            [
+              "LA 101",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "FAA 201",
+              "3",
+              "Free Elective course",
+              "1"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 230",
+              "3",
+              "FAA 330",
+              "5"
+            ],
+            [
+              "ARTD 225, ARTF  102, or LA  280",
+              "3",
+              "SD Major Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "1"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARCH 321",
+              "3",
+              "ARTD 326",
+              "3"
+            ],
+            [
+              "SD Major Elective",
+              "3",
+              "ARTH 211",
+              "3"
+            ],
+            [
+              "SD Major Elective",
+              "3",
+              "SD Major Elective",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 430",
+              "3",
+              "FAA 431",
+              "5"
+            ],
+            [
+              "ARTD 451",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "SD Major Elective",
+              "3",
+              "Free Elective course",
+              "4"
+            ],
+            [
+              "Free Elective course",
+              "5",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 120"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science in Sustainable Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "Upon successful completion of a degree in Sustainable Design, students will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Have a deep level of understanding of the fundamentals of sustainability and their functional links to the built environment.",
+          "Have a deep level of understanding of the fundamentals of design thinking and practice.",
+          "Be proficient in applying basic principles of visual and material communication, including sketching, drafting, model-making, 2D and 3D design software and geographic information systems.",
+          "Be able to combine design theory and practice with sustainability principles to address environmental issues at the product, building, neighborhood, city, landscape and global levels.",
+          "Be comfortable working in multidisciplinary teams to solve complex design problems."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science in Sustainable Design"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sustainable Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "104 Architecture Building\n608 East Lorado Taft Drive"
+      },
+      {
+        "type": "paragraph",
+        "content": "Director: Professor Karin Hodgin Jones\nProgram Coordinator: Ashley Smart\nSustainable Design prospective student website\nsustaindesign@illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Fine and Applied Arts website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fine & Applied Arts Undergraduate Admissions & Requirements\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

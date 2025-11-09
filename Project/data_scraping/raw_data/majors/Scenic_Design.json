@@ -1,0 +1,634 @@
+{
+  "major_name": "Theatre: Scenic Design, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/scenic-design/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts in Theatre, Scenic Design Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours. Twelve hours of 300 and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Core Requirements for all Theatre Majors"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "THEA 100",
+            "title": "THEA 100",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 200",
+            "title": "THEA 200",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 121",
+            "title": "THEA 121",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 122",
+            "title": "THEA 122",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 123",
+            "title": "THEA 123",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 208",
+            "title": "THEA 208",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 304",
+            "title": "THEA 304",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 364",
+            "title": "THEA 364",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 404",
+            "title": "THEA 404",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Scenic Design Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "THEA 100",
+            "title": "THEA 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "THEA 119",
+            "title": "THEA 119",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "THEA 126",
+            "title": "THEA 126",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 222",
+            "title": "THEA 222",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 225",
+            "title": "THEA 225",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 300",
+            "title": "THEA 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "THEA 400",
+            "title": "THEA 400",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "THEA 415",
+            "title": "THEA 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 416",
+            "title": "THEA 416",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 425",
+            "title": "THEA 425",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 426",
+            "title": "THEA 426",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "THEA 427",
+            "title": "THEA 427",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 438",
+            "title": "THEA 438",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 458",
+            "title": "THEA 458",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 456",
+            "title": "THEA 456",
+            "hours": ""
+          },
+          {
+            "code": "THEA 457",
+            "title": "THEA 457",
+            "hours": ""
+          },
+          {
+            "code": "THEA 461",
+            "title": "THEA 461",
+            "hours": ""
+          },
+          {
+            "code": "THEA 212",
+            "title": "THEA 212",
+            "hours": ""
+          },
+          {
+            "code": "THEA 223",
+            "title": "THEA 223",
+            "hours": ""
+          },
+          {
+            "code": "THEA 231",
+            "title": "THEA 231",
+            "hours": ""
+          },
+          {
+            "code": "THEA 399",
+            "title": "THEA 399",
+            "hours": ""
+          },
+          {
+            "code": "THEA 420",
+            "title": "THEA 420",
+            "hours": ""
+          },
+          {
+            "code": "THEA 428",
+            "title": "THEA 428",
+            "hours": ""
+          },
+          {
+            "code": "THEA 447",
+            "title": "THEA 447",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "General Non-Theatre Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for Bachelor of Fine Arts in Theatre, concentration in Scenic Design"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts in Theatre, Scenic Design Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "THEA 100",
+              "1",
+              "THEA 100",
+              "1"
+            ],
+            [
+              "THEA 121",
+              "3",
+              "THEA 122",
+              "3"
+            ],
+            [
+              "THEA 119",
+              "1",
+              "THEA 119",
+              "1"
+            ],
+            [
+              "THEA 126",
+              "3",
+              "THEA 222",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "FAA 101",
+              "1",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "18"
+            ],
+            [
+              "Total Hours 34"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "THEA 100",
+              "1",
+              "THEA 200",
+              "2"
+            ],
+            [
+              "THEA 123",
+              "3",
+              "THEA 208",
+              "3"
+            ],
+            [
+              "THEA 225",
+              "3",
+              "THEA 438",
+              "3"
+            ],
+            [
+              "THEA 427",
+              "3",
+              "THEA 425",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 33"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "THEA 300",
+              "2",
+              "THEA 300",
+              "2"
+            ],
+            [
+              "THEA 304",
+              "3",
+              "THEA 364",
+              "3"
+            ],
+            [
+              "THEA 415",
+              "3",
+              "THEA 426",
+              "3"
+            ],
+            [
+              "THEA 426",
+              "3",
+              "THEA 458",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "THEA 119",
+              "1",
+              "THEA 119",
+              "1"
+            ],
+            [
+              "THEA 400",
+              "2",
+              "THEA 400",
+              "2"
+            ],
+            [
+              "THEA 404",
+              "1",
+              "THEA 212,  223,  231,  399,  420,  447, or  428",
+              "3"
+            ],
+            [
+              "THEA 416",
+              "3",
+              "General Non-Theatre Elective",
+              "3"
+            ],
+            [
+              "THEA 456,  457, or  461",
+              "3",
+              "General Non-Theatre Elective",
+              "3"
+            ],
+            [
+              "General Non-Theatre Elective",
+              "3",
+              "Free Elective course",
+              "2"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 128"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts in Theatre, Scenic Design Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Student Learning Outcomes:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Demonstrates a mature, effective ability to analyze, interpret, and discuss creative and theoretical works.",
+          "Demonstrates necessary knowledge of materials, tools, techniques, methodologies, and safe working habits of all essential theatrical production environments.",
+          "Demonstrates practical application of learned methodologies including the ability to communicate ideas, concepts, and requirements in order to successfully fulfill a collaborative role related to scenic design for a stage production.",
+          "Demonstrates working knowledge of professional practices across genres of theatre, musical theatre, and opera.",
+          "Demonstrates necessary skills and knowledge to acquire an entry-level position in the field of scenic design including significant technical mastery, showing the capacity to produce work and solve problems independently."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts in Theatre, Scenic Design Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Theatre"
+      },
+      {
+        "type": "paragraph",
+        "content": "Theatre Department website\nTheatre Department faculty\n4-122 Krannert Center for the Performing Arts, 500 South Goodwin Avenue, Urbana, IL 61801\n(217) 333-2371\ntheatre@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College Website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of the College of Fine & Applied Arts Admissions & Requirements\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,534 @@
+{
+  "major_name": "Music, BA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/music-ba/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts Major in Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students who wish to study voice or an instrument for credit are required to satisfy the instrumental or vocal qualifying audition designed for students outside the School of Music."
+      },
+      {
+        "type": "paragraph",
+        "content": "Credits earned in applied music lessons are generally considered elective."
+      },
+      {
+        "type": "paragraph",
+        "content": "A minimum of twelve hours of 400-level courses in Music must be taken on the Urbana-Champaign campus.",
+        "level_requirement": "400"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 100",
+            "title": "MUS 100",
+            "hours": "0",
+            "hours_min": 0,
+            "hours_max": 0
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 101",
+            "title": "MUS 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 102",
+            "title": "MUS 102",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 107",
+            "title": "MUS 107",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 108",
+            "title": "MUS 108",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 201",
+            "title": "MUS 201",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 202",
+            "title": "MUS 202",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 207",
+            "title": "MUS 207",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 208",
+            "title": "MUS 208",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 110",
+            "title": "MUS 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 313",
+            "title": "MUS 313",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 314",
+            "title": "MUS 314",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 172",
+            "title": "MUS 172",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 173",
+            "title": "MUS 173",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Concentration /  Option Coursework A Major Plan of Study Form must be completed and submitted to the School of Music Undergraduate Academic Advisor by the end of the fifth semester (60-75 hours). Please see your BA Music advisor, or the Undergraduate Academic Advisor, for assistance in completing the form.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for the Bachelor of Arts in Music"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts Major in Music"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "MUS 102",
+              "2"
+            ],
+            [
+              "MUS 100",
+              "0",
+              "MUS 108",
+              "2"
+            ],
+            [
+              "MUS 101",
+              "2",
+              "MUS 110",
+              "3"
+            ],
+            [
+              "MUS 107",
+              "2",
+              "MUS 172",
+              "2"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MUS 173",
+              "2",
+              "MUS 202",
+              "2"
+            ],
+            [
+              "MUS 201",
+              "2",
+              "MUS 208",
+              "2"
+            ],
+            [
+              "MUS 207",
+              "2",
+              "MUS 314",
+              "3"
+            ],
+            [
+              "MUS 313",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Advanced Musicology",
+              "3",
+              "Advanced Music Theory",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Major Plan of Study 400-level course",
+              "3"
+            ],
+            [
+              "Major Plan of Study 400-level course",
+              "3",
+              "Major Plan of Study 400-level course",
+              "3"
+            ],
+            [
+              "Major Plan of Study Supporting Elective",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Major Plan of Study Supporting Elective",
+              "3",
+              "Major Plan of Study or Free Elective",
+              "3"
+            ],
+            [
+              "Major Plan of Study Supporting Elective",
+              "4",
+              "Major Plan of Study or Free Elective",
+              "3"
+            ],
+            [
+              "Major Plan of Study or Free Elective",
+              "3",
+              "Major Plan of Study or Free Elective",
+              "3"
+            ],
+            [
+              "Major Plan of Study or Free Elective",
+              "3",
+              "Major Plan of Study or Free Elective",
+              "3"
+            ],
+            [
+              "Major Plan of Study or Free Elective",
+              "2",
+              "Major Plan of Study or Free Elective",
+              "1"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts Major in Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "Bachelor of Arts in Music graduates will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand, apply, and integrate foundational concepts of musical study in theory, aural skills, history, composition, improvisation, and keyboard competency, and do so independently and cooperatively.",
+          "Demonstrate the ability to learn independently, make inquiries, think critically, discover solutions, and integrate knowledge across both similar and varied areas of musical study.",
+          "Develop and demonstrate effective communication skills, including artistic self-expression, with diverse audiences through multiple media.",
+          "Acquire a basic understanding of diverse musical systems and traditions across the world, and develop a sensitivity to and awareness of cultural and societal differences, and their contribution to an interdependent global consciousness.",
+          "Acquire an understanding of professional and ethical responsibility as musicians and citizens, and demonstrate the ability to work professionally and effectively as leaders and collaborators.",
+          "Acquire a basic understanding of technology and professional skills, along with knowledge of specific technological developments within area of specialization.",
+          "Appreciate how music interacts in communities to enhance and engage social and cultural identities to enrich lifelong learning."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts Major in Music"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College Website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "University of Illinois Urbana-Champaign Undergrad Admissions\nFor admission requirements for the Bachelor of Arts in Music, please see the School of Music's Admissions website or contact the Music Admissions Office:  Music Admissions Office\nSchool of Music: 1114 W. Nevada Street, Room 2014\nUrbana, IL 61801\nPhone: (217) 244-7899\nmusicadmissions@illinois.edu"
+      }
+    ]
+  }
+}

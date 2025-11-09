@@ -1,0 +1,964 @@
+{
+  "major_name": "Computer Science + Animal Sciences, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/computer-science-animal-sciences-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Computer Science + Animal Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements Minimum hours required for graduation: 126 hours.",
+        "credit_requirement": "126"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements Minimum of 40 hours of upper-division coursework, generally at the 300 and 400 level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CMN 101",
+            "title": "CMN 101",
+            "hours": ""
+          },
+          {
+            "code": "ALEC 115",
+            "title": "ALEC 115",
+            "hours": ""
+          },
+          {
+            "code": "CMN 111",
+            "type": "sequence",
+            "sequence": [
+              "CMN 111",
+              "CMN 112"
+            ],
+            "title": "CMN 111&CMN 112",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 102",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 102",
+              "CHEM 103"
+            ],
+            "title": "CHEM 102&CHEM 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 104",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 104",
+              "CHEM 105"
+            ],
+            "title": "CHEM 104&CHEM 105",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ACE 100"
+            ],
+            "title": "ECON 102",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ACE 100",
+            "type": "choice",
+            "options": [
+              "ACE 100",
+              "RACE 100"
+            ],
+            "title": "orACE 100",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": "4 or 5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221",
+            "hours": "4 or 5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 225",
+            "type": "choice",
+            "options": [
+              "MATH 225",
+              "MATH 257"
+            ],
+            "title": "MATH 225",
+            "hours": "2 or 3",
+            "hours_min": 2,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 257",
+            "type": "choice",
+            "options": [
+              "MATH 257"
+            ],
+            "title": "orMATH 257",
+            "hours": "2 or 3",
+            "hours_min": 2,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 361",
+            "title": "CS 361",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 100",
+            "title": "CS 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CS 124",
+            "title": "CS 124",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 128",
+            "title": "CS 128",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 173",
+            "title": "CS 173",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 222",
+            "title": "CS 222",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CS 225",
+            "title": "CS 225",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 374",
+            "title": "CS 374",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 357",
+            "type": "choice",
+            "options": [
+              "CS 357",
+              "CS 421"
+            ],
+            "title": "CS 357",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 421",
+            "type": "choice",
+            "options": [
+              "ORCS 421",
+              "CS 421"
+            ],
+            "title": "orCS 421",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 233",
+            "type": "sequence",
+            "sequence": [
+              "CS 233",
+              "CS 341"
+            ],
+            "title": "CS 233&CS 341",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 340",
+            "title": "CS 340",
+            "hours": ""
+          },
+          {
+            "type": "sequence",
+            "sequence": [
+              "TWO 400"
+            ],
+            "code": "TWO 400",
+            "title": "& Two 400-level CS courses",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANSC 100",
+            "title": "ANSC 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ANSC 221",
+            "title": "ANSC 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 222",
+            "title": "ANSC 222",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 223",
+            "title": "ANSC 223",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 224",
+            "title": "ANSC 224",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ANSC 398",
+            "title": "ANSC 398",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ANSC 498",
+            "title": "ANSC 498",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ANSC 201",
+            "title": "ANSC 201",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 205",
+            "title": "ANSC 205",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 206",
+            "title": "ANSC 206",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 211",
+            "title": "ANSC 211",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 250",
+            "title": "ANSC 250",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 301",
+            "title": "ANSC 301",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 305",
+            "title": "ANSC 305",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 307",
+            "title": "ANSC 307",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 309",
+            "title": "ANSC 309",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 310",
+            "title": "ANSC 310",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 312",
+            "title": "ANSC 312",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 313",
+            "title": "ANSC 313",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 314",
+            "title": "ANSC 314",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 322",
+            "title": "ANSC 322",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 370",
+            "title": "ANSC 370",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 400",
+            "title": "ANSC 400",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 401",
+            "title": "ANSC 401",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 402",
+            "title": "ANSC 402",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 403",
+            "title": "ANSC 403",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 404",
+            "title": "ANSC 404",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 407",
+            "title": "ANSC 407",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 424",
+            "title": "ANSC 424",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 435",
+            "title": "ANSC 435",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 470",
+            "title": "ANSC 470",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 471",
+            "title": "ANSC 471",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 500",
+            "title": "ANSC 500",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 501",
+            "title": "ANSC 501",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 502",
+            "title": "ANSC 502",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 580",
+            "title": "ANSC 580",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 251",
+            "title": "ANSC 251",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 306",
+            "title": "ANSC 306",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 350",
+            "title": "ANSC 350",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 363",
+            "title": "ANSC 363",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 366",
+            "title": "ANSC 366",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 406",
+            "title": "ANSC 406",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 409",
+            "title": "ANSC 409",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 420",
+            "title": "ANSC 420",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 421",
+            "title": "ANSC 421",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 422",
+            "title": "ANSC 422",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 431",
+            "title": "ANSC 431",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 438",
+            "title": "ANSC 438",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 440",
+            "title": "ANSC 440",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 441",
+            "title": "ANSC 441",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 444",
+            "title": "ANSC 444",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 445",
+            "title": "ANSC 445",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 446",
+            "title": "ANSC 446",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 449",
+            "title": "ANSC 449",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 450",
+            "title": "ANSC 450",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 451",
+            "title": "ANSC 451",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 452",
+            "title": "ANSC 452",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 454",
+            "title": "ANSC 454",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 464",
+            "title": "ANSC 464",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 467",
+            "title": "ANSC 467",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 480",
+            "title": "ANSC 480",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 520",
+            "title": "ANSC 520",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 521",
+            "title": "ANSC 521",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 522",
+            "title": "ANSC 522",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 523",
+            "title": "ANSC 523",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 524",
+            "title": "ANSC 524",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 525",
+            "title": "ANSC 525",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 526",
+            "title": "ANSC 526",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 533",
+            "title": "ANSC 533",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 541",
+            "title": "ANSC 541",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 542",
+            "title": "ANSC 542",
+            "hours": ""
+          },
+          {
+            "code": "ANSC 543",
+            "title": "ANSC 543",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Computer Science + Animal Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "CS 100",
+              "1",
+              "CS 128",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "CS 173",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "Composition I or Communication Option",
+              "4",
+              "CHEM 102",
+              "3"
+            ],
+            [
+              "ANSC 100",
+              "4",
+              "CHEM 103",
+              "1"
+            ],
+            [
+              "",
+              "Composition I or Communication Option",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 222",
+              "1",
+              "Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "CS 225",
+              "4",
+              "CS 233 or  340",
+              "3"
+            ],
+            [
+              "CHEM 104",
+              "3",
+              "ANSC 223",
+              "3"
+            ],
+            [
+              "CHEM 105",
+              "1",
+              "ANSC 224",
+              "4"
+            ],
+            [
+              "ANSC 221",
+              "3",
+              "Applied Animal Sciences course",
+              "3"
+            ],
+            [
+              "ANSC 222",
+              "3",
+              ""
+            ],
+            [
+              "ANSC 398",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "17"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 225 or  257",
+              "2",
+              "CS 361",
+              "3"
+            ],
+            [
+              "Basic Animal Sciences course",
+              "3",
+              "CS 374",
+              "4"
+            ],
+            [
+              "Applied Animal Sciences course",
+              "3",
+              "Free Elective Course or CS 4XX",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "ECON 102 or ACE  100",
+              "3"
+            ],
+            [
+              "CS 341 (or CS 4XX)",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 357 or  421",
+              "3",
+              "ANSC 498",
+              "2"
+            ],
+            [
+              "Basic Animal Sciences course",
+              "3",
+              "Basic Animal Sciences course",
+              "3"
+            ],
+            [
+              "Applied Animal Sciences course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 126"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Computer Science + Animal Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students will be prepared to work with sensor technology, large data sets, and predictive analytics, all aimed at improving the health and well-being of production animals and pets."
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Computer Science + Animal Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Please see the Computer Science advisor in 1210 Siebel Center, as well as the Animal Sciences Undergraduate Curriculum Coordinator, Dr. David Miller, 116 Animal Sciences Lab."
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Animal Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Animal Sciences website\nAnimal Sciences Laboratory\n1207 West Gregory Drive\nUrbana, IL 61801\n217-333-3131\nansc@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Agricultural, Consumer & Environmental Sciences website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "ACES Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n217-333-3380\naces-academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising website\n217-333-3570\nanscadvising@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Undergrad Admissions\n217-333-3380\nvisitACES@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Computer Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Computer Science degree information\nCS + Crop Science website\nComputer Science website\nComputer Science faculty\nundergrad@cs.illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering\nThe Grainger College of Engineering Admissions"
+      }
+    ]
+  }
+}

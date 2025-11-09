@@ -1,0 +1,570 @@
+{
+  "major_name": "Business + Data Science, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/bus/business-data-science-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Business plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 124 hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "4-6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6-10"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "0-15"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "42"
+          },
+          {
+            "code": "ACCY 201",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ACCY 202",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 275",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 300",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 310",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 320",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 449",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BUS 101",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BUS 201",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BUS 401",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CMN 101",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ECON 102",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ECON 103",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "FIN 221",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "29-30"
+          },
+          {
+            "code": "STAT/CS/IS 107",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "STAT 207",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 307",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 277",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "IS 467",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "IS 477",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "4-5"
+          },
+          {
+            "code": "MATH 220",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 234",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "code": "MATH 227",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 257",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "12"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 350",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 351",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 352",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 353",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 380",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 381",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 382",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 383",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 311",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 312",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 313",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 314",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 374",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 375",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 377",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BADM 379",
+            "title": "",
+            "hours": "3"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Meaningful Research or Discovery Experience"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Business plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "BUS 101",
+              "3",
+              "ECON 103",
+              "3"
+            ],
+            [
+              "ECON 102",
+              "3",
+              "MATH 234 (or MATH 220 or MATH 221)",
+              "4"
+            ],
+            [
+              "STAT 107",
+              "4",
+              "FIN 221",
+              "3"
+            ],
+            [
+              "Composition I or CMN 101",
+              "4",
+              "CMN 101 (or Composition I)",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "18",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BUS 201",
+              "3",
+              "ACCY 202",
+              "3"
+            ],
+            [
+              "ACCY 201",
+              "3",
+              "MATH 227 or  257",
+              "3"
+            ],
+            [
+              "BADM 310",
+              "3",
+              "BADM 320",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BUS 301",
+              "3",
+              "CS 277",
+              "4"
+            ],
+            [
+              "BADM 275",
+              "3",
+              "IS 467",
+              "3"
+            ],
+            [
+              "STAT 207",
+              "4",
+              "BADM Specialization",
+              "3"
+            ],
+            [
+              "BADM 300",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "BADM Specialization",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BUS 401",
+              "3",
+              "BADM 449",
+              "3"
+            ],
+            [
+              "CS 307",
+              "4",
+              "IS 477",
+              "3"
+            ],
+            [
+              "BADM Specialization",
+              "3",
+              "BADM Specialization",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 124"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Business plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "The learning objectives related to student learning outcomes includes competence in selected concentration, data science, critical thinking, group work, communication. These outcomes are mapped to questions concerning student ability to use data analytics and problem solving to effectively understand real-world business issues, problem analysis and articulating conclusions, assuming leadership roles, grasp of international complexities effect business and data science."
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Business plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Gies College of Business\nCollege website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Office of Undergraduate Affairs \n1055 Business Instructional Facility\n515 East Gregory Drive\nChampaign, IL 61820\n(217) 333-2740"
+      },
+      {
+        "type": "paragraph",
+        "content": "Gies Office of Undergraduate Programs webpage\nGies Undergraduate Programs email"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising\nUndergraduate Advising website\n(217) 333-2740\nUndergraduate Advising email"
+      },
+      {
+        "type": "paragraph",
+        "content": "Admissions\nCollege Undergraduate Admissions\nUniversity of Illinois Undergrad Admissions\nUndergraduate Admissions email"
+      }
+    ]
+  }
+}

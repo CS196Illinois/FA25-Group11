@@ -1,0 +1,279 @@
+{
+  "major_name": "Kinesiology, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Kinesiology"
+      },
+      {
+        "type": "paragraph",
+        "content": "As of August, the Department of Kinesiology and Community Health is changing its name to the Department of Health and Kinesiology. Students who need information about registration, courses and rubrics can visit this page."
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Kinesiology"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All  students are required to meet with an academic advisor each semester to determine the actual course selection and sequence that works best for them based on their academic preparation and career goals/graduate school preparation, and to review remaining degree requirements and plan for upcoming semesters. Course availability is not guaranteed during the semester indicated in the sample sequence. Many factors may affect the plan, some of which include:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Advanced placement and/or dual credit earned prior to enrollment",
+          "LOTE (Language Other Than English) could be completed in high school",
+          "Degree requires 128 total hours",
+          "Correlate area courses determined by career or graduate program interests and can exceed 18 hour minimum",
+          "Enrichment programming such as study abroad, minors, internships, etc."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "KIN 125",
+              "1",
+              "CMN 101 or RHET  105",
+              "3-4"
+            ],
+            [
+              "KIN 140 or KIN 150",
+              "3",
+              "KIN 150 or KIN 140",
+              "3"
+            ],
+            [
+              "KIN 122 or CHLH 101",
+              "3",
+              "CHLH 101 or KIN 122",
+              "3"
+            ],
+            [
+              "RHET 105 or CMN  101",
+              "4-3",
+              "Elective course or Language Other Than English (3rd level)",
+              "3-4"
+            ],
+            [
+              "Correlate Area course",
+              "4",
+              "Correlate Area course",
+              "4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MCB 244",
+              "3",
+              "MCB 246",
+              "3"
+            ],
+            [
+              "MCB 245",
+              "2",
+              "MCB 247",
+              "2"
+            ],
+            [
+              "KIN 201",
+              "3",
+              "KIN 340 or KIN 259",
+              "3"
+            ],
+            [
+              "KIN 259 or KIN 340",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Correlate Area course",
+              "3"
+            ],
+            [
+              "Correlate Area course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "14"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "KIN 352 or KIN 355",
+              "3",
+              "KIN 355 or KIN 352",
+              "3"
+            ],
+            [
+              "KIN 300-level elective",
+              "3",
+              "KIN 300-level course course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Correlate Area course",
+              "5",
+              "Correlate Area course",
+              "5"
+            ],
+            [
+              "Correlate Area course or Free Elective",
+              "3",
+              "Correlate Area course or Free Elective",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "KIN 400-level elective",
+              "3",
+              "KIN 400-level elective",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free Elective or General Education course",
+              "3"
+            ],
+            [
+              "Free Elective or General Education course",
+              "3",
+              "Free Elective or Correlate Area course",
+              "5"
+            ],
+            [
+              "Free Elective or Correlate Area course",
+              "5",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Kinesiology"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Content Knowledge: Students will know and comprehend the significant theories, models, themes, and ideas in the biomechanical, physiological, behavioral, pedagogical, biological, socioeconomic, environmental, and sociocultural correlates of Kinesiology and Community Health.",
+          "Critical Thinking and Discovery: Students will comprehend and demonstrate ethical practices and the application of scientific findings and/or critical analysis in order to interpret, promote inquiry, propose solutions, and/or create new ideas related to health, rehabilitation, and/or human movement.",
+          "Awareness and Understanding: Students will understand and appreciate the diverse socioeconomic, behavioral, sociocultural, biological, environmental, philosophical, and historical factors that influence health, rehabilitation, and human movement.",
+          "Programming and Assessment: Students will apply best practices in developing, implementing, assessing, and evaluating programs and interventions related to health promotion, physical activity adoption and adherence, and the prevention and treatment of diseases.",
+          "Leadership and Engagement: Students will demonstrate leadership and effective communication skills, showcasing an appreciation and commitment to health and physical activity as they develop and sustain productive relationships and work for the common good at local, national, and global levels."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Kinesiology"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Health and Kinesiology"
+      },
+      {
+        "type": "paragraph",
+        "content": "Health and Kinesiology website\nHealth and Kinesiology faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Applied Health Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Applied Health Sciences College Catalog page\nApplied Health Sciences College website"
+      }
+    ]
+  }
+}

@@ -1,0 +1,326 @@
+{
+  "major_name": "Early Childhood Education: Professional Education - Non-Licensure, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/professional-education-non-licensure/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Early Childhood Education concentration in Professional Education - Non-Licensure (online)"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "ART 201",
+            "title": "ART 201",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CI 415",
+            "title": "CI 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 422",
+            "title": "CI 422",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 424",
+            "title": "CI 424",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 425",
+            "title": "CI 425",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 441",
+            "title": "CI 441",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 443",
+            "title": "CI 443",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 444",
+            "title": "CI 444",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 447",
+            "title": "CI 447",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 453",
+            "title": "CI 453",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CI 454",
+            "title": "CI 454",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CI 465",
+            "title": "CI 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 466",
+            "title": "CI 466",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 468",
+            "title": "CI 468",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDPR 410",
+            "title": "EDPR 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDPR 433",
+            "title": "EDPR 433",
+            "hours": "12",
+            "hours_min": 12,
+            "hours_max": 12
+          },
+          {
+            "code": "SPED 414",
+            "title": "SPED 414",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 465",
+            "title": "SPED 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Early Childhood Education concentration in Professional Education - Non-Licensure (online)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence below is representative for students who qualify for this program. The sample course sequence below indicates UIUC coursework only."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours",
+            "Summer Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "CI 415",
+              "3",
+              "CI 444",
+              "3",
+              "ART 201",
+              "2"
+            ],
+            [
+              "CI 422",
+              "3",
+              "CI 465",
+              "3",
+              "CI 468",
+              "3"
+            ],
+            [
+              "CI 425",
+              "3",
+              "CI 466",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "9",
+              "",
+              "9",
+              "",
+              "5"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours",
+              "Summer Semester",
+              "Hours"
+            ],
+            [
+              "CI 441",
+              "3",
+              "CI 447",
+              "3",
+              "CI 424",
+              "3"
+            ],
+            [
+              "CI 443",
+              "3",
+              "CI 453",
+              "2",
+              "SPED 465",
+              "3"
+            ],
+            [
+              "SPED 414",
+              "3",
+              "EDPR 410",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "9",
+              "",
+              "8",
+              "",
+              "6"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "",
+              ""
+            ],
+            [
+              "CI 454",
+              "2",
+              "",
+              ""
+            ],
+            [
+              "EDPR 433",
+              "12",
+              "",
+              ""
+            ],
+            [
+              "",
+              "14",
+              "",
+              "",
+              "",
+              ""
+            ],
+            [
+              "Total Hours 60"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Early Childhood Education concentration in Professional Education - Non-Licensure (online)"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Students will acquire deep knowledge of child development as it relates to the field of Education.",
+          "Students will effectively plan and implement relevant, culturally responsive and developmentally appropriate instruction children from infancy to age eight.",
+          "Students will use assessment data to drive decisions and solve problems in and out of the classroom.",
+          "Students will display the expectations of professionalism related to success in the field of education and beyond (fairness, commitment to collaboration, community, reflective practice, and attention to 21st century skills and practices)."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Early Childhood Education concentration in Professional Education - Non-Licensure (online)"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Education Building, 1310 S. Sixth Street, Champaign, IL 61820\nCollege of Education website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Department of Curriculum & Instruction"
+      },
+      {
+        "type": "paragraph",
+        "content": "306 Education Building\nDepartment of Curriculum & Instruction email: ci@education.illinois.edu\n(217) 244-8286\nDepartment of Curriculum & Instruction website\nDepartment of Curriculum & Instruction faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Early Childhood Professional Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Program Director: Anne Pradzinski\nEarly Childhood Professional Education Admissions website"
+      }
+    ]
+  }
+}

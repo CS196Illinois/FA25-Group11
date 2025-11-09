@@ -1,0 +1,572 @@
+{
+  "major_name": "Astronomy + Data Science, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/astronomy-data-science-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Astronomy plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work normally equates to 62-66 hours\nGeneral education: Students must complete the Campus General Education requirements including the campus general education language requirement.\nTwelve hours of 300 and 400-level courses must be taken on this campus.\nMinimum hours required for graduation: 120 hours\nDepartmental distinction: To graduate with distinction requires a specified minimum grade point average in all Computer Science, Statistics, Information Science, and Mathematics courses listed below. A GPA of 3.25 is required for Distinction, 3.5 for High Distinction, and 3.75 for Highest Distinction."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: normally equates to 62-66 hours. Twelve hours of 300- and 400-level courses in the major must be taken on this campus."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement. The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "4-6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6-10"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "0-20"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "28-31"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "title": "",
+            "hours": "4-5"
+          },
+          {
+            "code": "MATH 221",
+            "title": "or"
+          },
+          {
+            "hours": "2-4"
+          },
+          {
+            "code": "MATH 227",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 257",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 225",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 415",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "STAT/CS/IS 107",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "STAT 207",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 307",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 277",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IS 467",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "IS 477",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "31-32"
+          },
+          {
+            "code": "PHYS 211",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "PHYS 212",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "PHYS 213",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "PHYS 214",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MATH 231",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 241",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "ASTR 210",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ASTR 310",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "6-7"
+          },
+          {
+            "code": "ASTR 404",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ASTR 405",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ASTR 406",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ASTR 414",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "code": "ASTR 390",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ASTR 490",
+            "title": "or"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "62-66"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Astronomy plus Data Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "MATH 220 or  221",
+              "5",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "STAT 107 (or Composition I)",
+              "4",
+              "Composition I (or STAT 107)",
+              "4"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ASTR 210",
+              "3",
+              "PHYS 213",
+              "2"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "PHYS 214",
+              "2"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "STAT 207",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "1",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ASTR 310",
+              "3",
+              "ASTR 404,  405,  406, or  414",
+              "3"
+            ],
+            [
+              "MATH 257,  225,  227, or  415",
+              "3",
+              "CS 277",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "IS 467",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ASTR 404,  405,  406, or  414",
+              "3",
+              "ASTR 390 or  490",
+              "3"
+            ],
+            [
+              "CS 307",
+              "4",
+              "IS 477",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Astronomy plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Astronomy + Data Science program has learning objectives in both Astronomy and Data Science."
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "The Astronomy learning objectives are:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand the hierarchical architecture of the cosmos, increasing in scale from the Solar System to the Galaxy to the Universe, and decreasing in scale to atoms and their nuclei. Understand the interplay among these scales.",
+          "Define and use fundamental principles and techniques of astronomy and astrophysics.\n\t\nIdentify which principles should be applied to a specified situation.\nShow familiarity with astronomical observables and their physical origin.\nUnderstand and apply basic physics and computational techniques to solve problems in astronomy, and interpret the results.",
+          "Analyze astronomical data, and quantitative data generally.\n\t\nDemonstrate the ability to link observation and theory.\nDemonstrate the ability to draw qualitative conclusions from quantitative information, and vice versa.\nDemonstrate the ability to plan observational programs, use astronomical telescopes and instrumentation, and to analyze and present astronomical data.",
+          "Plan and perform guided research, or attain an advanced-level understanding of a topic of contemporary interest in astronomy.",
+          "Demonstrate the ability to communicate effectively both verbally and in writing."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "The Data Science learning objectives are:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Demonstrate proficiency with statistical and computational analysis of data.",
+          "Create informative and accurate visualizations of data.",
+          "Build and evaluate data-based models.",
+          "Describe, curate, and manage data.",
+          "Understand and manage issues of reproducibility in data science.",
+          "Understand and address ethical issues in data science such as access, bias, and privacy.",
+          "Apply data science skills and concepts in projects or research, and communicate and interpret the results of data analysis."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Astronomy plus Data Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Astronomy"
+      },
+      {
+        "type": "paragraph",
+        "content": "Astronomy website\nAstronomy Undergraduate Programs\nAstronomy email\nAstronomy faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts & Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "LAS College website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Data Science program website\nX+Data Science program email: plusdatascience@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Astronomy advising email\nCollege of LAS Advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Liberal Arts & Sciences Admissions & Requirements\nUniversity of Illinois Undergrad Admissions"
+      }
+    ]
+  }
+}

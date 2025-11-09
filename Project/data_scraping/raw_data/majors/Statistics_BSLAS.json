@@ -1,0 +1,457 @@
+{
+  "major_name": "Statistics, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/academic-units/stats/statistics-major/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences in Statistics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To graduate with distinction requires a specified minimum grade point average in all Computer Science, Statistics, and Mathematics courses listed below. A GPA of 3.25 is required for Distinction, 3.5 for High Distinction, and 3.75 for Highest Distinction."
+      },
+      {
+        "type": "paragraph",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work: Normally equates to 70-72 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "70-72"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "STAT 107",
+            "title": "STAT 107",
+            "hours": ""
+          },
+          {
+            "code": "STAT 200",
+            "title": "STAT 200",
+            "hours": ""
+          },
+          {
+            "code": "STAT 212",
+            "title": "STAT 212",
+            "hours": ""
+          },
+          {
+            "code": "MATH 257",
+            "title": "MATH 257",
+            "hours": ""
+          },
+          {
+            "code": "MATH 415",
+            "title": "MATH 415",
+            "hours": ""
+          },
+          {
+            "code": "MATH 416",
+            "title": "MATH 416",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "STAT 400",
+            "title": "STAT 400",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 410",
+            "title": "STAT 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 425",
+            "title": "STAT 425",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 426",
+            "title": "STAT 426",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "STAT 385",
+            "title": "STAT 385",
+            "hours": ""
+          },
+          {
+            "code": "STAT 424",
+            "title": "STAT 424",
+            "hours": ""
+          },
+          {
+            "code": "STAT 427",
+            "title": "STAT 427",
+            "hours": ""
+          },
+          {
+            "code": "STAT 428",
+            "title": "STAT 428",
+            "hours": ""
+          },
+          {
+            "code": "STAT 429",
+            "title": "STAT 429",
+            "hours": ""
+          },
+          {
+            "code": "STAT 430",
+            "title": "STAT 430",
+            "hours": ""
+          },
+          {
+            "code": "STAT 431",
+            "title": "STAT 431",
+            "hours": ""
+          },
+          {
+            "code": "STAT 432",
+            "title": "STAT 432",
+            "hours": ""
+          },
+          {
+            "code": "STAT 433",
+            "title": "STAT 433",
+            "hours": ""
+          },
+          {
+            "code": "STAT 434",
+            "title": "STAT 434",
+            "hours": ""
+          },
+          {
+            "code": "STAT 440",
+            "title": "STAT 440",
+            "hours": ""
+          },
+          {
+            "code": "STAT 443",
+            "title": "STAT 443",
+            "hours": ""
+          },
+          {
+            "code": "STAT 447",
+            "title": "STAT 447",
+            "hours": ""
+          },
+          {
+            "code": "STAT 448",
+            "title": "STAT 448",
+            "hours": ""
+          },
+          {
+            "code": "STAT 480",
+            "title": "STAT 480",
+            "hours": ""
+          },
+          {
+            "code": "MATH 444",
+            "type": "choice",
+            "options": [
+              "MATH 444",
+              "MATH 447"
+            ],
+            "title": "MATH 444",
+            "hours": ""
+          },
+          {
+            "code": "MATH 447",
+            "type": "choice",
+            "options": [
+              "MATH 447"
+            ],
+            "title": "orMATH 447"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences in Statistics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "STAT 107 or STAT 200 or STAT 212",
+              "3",
+              "STAT 385",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 257 or MATH 415 or MATH 416",
+              "3"
+            ],
+            [
+              "STAT 400",
+              "4",
+              "STAT 410",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "STAT 425",
+              "3",
+              "STAT 426",
+              "3"
+            ],
+            [
+              "Advanced Statistics Elective course",
+              "3",
+              "Advanced Statistics Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Advanced Statistics Elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences in Statistics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Statistics students will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Be able to apply mathematical and statistical reasoning to draw valid conclusions from data.",
+          "Communicate the results of a statistical analysis effectively in writing, through visualizations, and orally.",
+          "Be competent in the use of statistical software, in data management, and in writing statistical code.",
+          "Be adept in the use of modern methods of statistical computing, statistical learning, and data science.",
+          "Work effectively as part of a team."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences in Statistics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Statistics"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Statistics Undergraduate Advising",
+          "Statistics email: stat-undergrad@illinois.edu",
+          "Department of Statistics website",
+          "Department of Statistics faculty"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Overview of College Admissions & Requirements"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "College of Liberal Arts & Sciences Academics & Admissions",
+          "College of Liberal Arts & Sciences website"
+        ]
+      }
+    ]
+  }
+}

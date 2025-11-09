@@ -1,0 +1,397 @@
+{
+  "major_name": "Linguistics, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/linguistics-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences in Linguistics"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60-75 hours). Please see your adviser.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: Students are strongly encouraged to fulfill the requirements for completing their program with distinction. Candidates for the degree with distinction must register their candidacy with their advisers no later than the end of the second semester of the junior year. They must achieve a grade point average of at least 3.4 for the required 36 hours in linguistics, and register for at least 4 hours of LING 391 - Honors Individual Study, plus submit a senior honors thesis to the Department of Linguistics by the first day of the month preceding the month of graduation.",
+        "course_codes": [
+          "LING 391"
+        ],
+        "credit_requirement": "36"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: normally equates to 50-52 hours. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "50-52"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "LING 100",
+            "title": "LING 100",
+            "hours": ""
+          },
+          {
+            "code": "LING 210",
+            "title": "LING 210",
+            "hours": ""
+          },
+          {
+            "code": "LING 301",
+            "title": "LING 301",
+            "hours": ""
+          },
+          {
+            "code": "LING 302",
+            "title": "LING 302",
+            "hours": ""
+          },
+          {
+            "code": "LING 307",
+            "title": "LING 307",
+            "hours": ""
+          },
+          {
+            "code": "LING 401",
+            "title": "LING 401",
+            "hours": ""
+          },
+          {
+            "code": "LING 225",
+            "title": "LING 225",
+            "hours": ""
+          },
+          {
+            "code": "LING 250",
+            "title": "LING 250",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences in Linguistics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free Elective course",
+              "1",
+              "LING 225 or  250",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "Composition I or General Education course",
+              "3"
+            ],
+            [
+              "LING 100",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LING 301",
+              "3",
+              "LING 307",
+              "3"
+            ],
+            [
+              "LING 200-400 level Major Elective course",
+              "3",
+              "LING 200-400 level Major Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LING 401",
+              "3",
+              "LING 302",
+              "3"
+            ],
+            [
+              "LING 210",
+              "3",
+              "LING 200-400 level Major Elective course",
+              "3"
+            ],
+            [
+              "Second Language Other than English (1st Level)",
+              "4",
+              "Second Language Other than English (2nd level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Linguistically relevant area course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 32"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LING 200-400 Level Major Elective course",
+              "3",
+              "LING 200-400 level Major Elective course",
+              "3"
+            ],
+            [
+              "Linguistically relevant area course",
+              "3",
+              "Linguistically relevant area course",
+              "4"
+            ],
+            [
+              "Linguistically relevant area course",
+              "4",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "14",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 27"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 120"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences in Linguistics"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Analyze the phonological, morphological, syntactic, and semantic systems of language.",
+          "Compare how these systems vary across languages and change over time.",
+          "Formulate hypotheses about how languages are processed, how they are learned, and how they express social identity.",
+          "Apply linguistics to solve practical problems like how to teach languages effectively or how to implement language technologies.",
+          "Describe linguistic analyses and defend them using reproducible empirical evidence."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences in Linguistics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Linguistics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Linguistics Faculty\nDepartment of Linguistics Advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of LAS admissions & requirements"
+      }
+    ]
+  }
+}

@@ -1,0 +1,485 @@
+{
+  "major_name": "Information Sciences + Data Science, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-data-science-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "For the Degree of Bachelor of Science in Information Sciences + Data Science"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements."
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Data Science Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": "4-5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 234",
+              "MATH 221"
+            ],
+            "title": "orMATH 221"
+          },
+          {
+            "code": "MATH 227",
+            "type": "choice",
+            "options": [
+              "MATH 227",
+              "MATH 257"
+            ],
+            "title": "MATH 227",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 257",
+            "type": "choice",
+            "options": [
+              "MATH 257"
+            ],
+            "title": "orMATH 257",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT/CS/IS 107",
+            "title": "",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 207",
+            "title": "STAT 207",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 307",
+            "title": "CS 307",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 277",
+            "title": "CS 277",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "IS 467",
+            "title": "IS 467",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IS 477",
+            "title": "IS 477",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Information Sciences Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "IS 101",
+            "title": "IS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IS 202",
+            "title": "IS 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IS 204",
+            "title": "IS 204",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IS 205",
+            "title": "IS 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IS 206",
+            "title": "IS 206",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IS 308",
+            "type": "choice",
+            "options": [
+              "IS 308",
+              "IS 309"
+            ],
+            "title": "IS 308",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IS 309",
+            "type": "choice",
+            "options": [
+              "IS 310",
+              "ORIS 310",
+              "IS 309",
+              "ORIS 309"
+            ],
+            "title": "orIS 309"
+          },
+          {
+            "code": "IS 311",
+            "type": "choice",
+            "options": [
+              "IS 311",
+              "ORIS 311"
+            ],
+            "title": "orIS 311"
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Meaningful Research or Discovery Experience"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "IS 189",
+            "title": "IS 189",
+            "hours": "0 to 3",
+            "hours_min": 0,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Summary of Total Hours"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "For the Degree of Bachelor of Science in Information Sciences + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "IS 100",
+              "1",
+              "IS 202",
+              "3"
+            ],
+            [
+              "IS 101",
+              "3",
+              "IS 107",
+              "4"
+            ],
+            [
+              "MATH 220 (or 221 or 234)",
+              "5",
+              "IS 1XX-2XX Level Elective",
+              "3"
+            ],
+            [
+              "Comp. I or Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (3rd level) or Comp. I",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "1"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "IS 204",
+              "3",
+              "IS 206",
+              "3"
+            ],
+            [
+              "IS 1XX-2XX Level Elective",
+              "3",
+              "MATH 227 or  257",
+              "3"
+            ],
+            [
+              "STAT 207",
+              "4",
+              "IS 1XX-2XX Level Elective",
+              "3"
+            ],
+            [
+              "Meaningful Research or Discovery Experience",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "IS 308 (or 309 or 310 or 311)",
+              "3",
+              "IS 467",
+              "3"
+            ],
+            [
+              "IS 1XX-2XX Level Elective",
+              "3",
+              "CS 277",
+              "4"
+            ],
+            [
+              "IS 3XX-4XX Level Elective",
+              "3",
+              "IS 3XX-4XX Level Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Meaningful Research or Discovery Experience",
+              "1"
+            ],
+            [
+              "Meaningful Research or Discovery Experience",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 307",
+              "4",
+              "IS 477",
+              "3"
+            ],
+            [
+              "IS 3XX-4XX Level Elective",
+              "3",
+              "IS 3XX-4XX Level Elective",
+              "3"
+            ],
+            [
+              "Meaningful Research or Discovery Experience",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 123"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "For the Degree of Bachelor of Science in Information Sciences + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduates of the Bachelor of Science in Information Sciences + Data Science program will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand relationships among people, information, and technology.",
+          "Understand the history, theory, philosophy and methodologies of the field of information sciences.",
+          "Apply various approaches to research in the information sciences, including social science methods, data and text mining, digital humanities, historical approaches, and others.",
+          "Apply critical analytical skills to information issues.",
+          "Understand fundamental mathematical and programming tools for solving problems of information modeling, expression, and transformation.",
+          "Understand the data life cycle and be able to analyze, interpret, explain, qualify, and contextualize data at scale."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "For the Degree of Bachelor of Science in Information Sciences + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Information Sciences\nDean: Eunice Santos\nSchool of Information Sciences website\niSchool Faculty\n501 East Daniel Street, Champaign, IL 61820-6211\n(217) 244-3432, (800) 982-0914 (within the US)\nischool email"
+      }
+    ]
+  }
+}

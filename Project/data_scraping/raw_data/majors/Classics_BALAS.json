@@ -1,0 +1,285 @@
+{
+  "major_name": "Classics, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/classics-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Classics"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60-75 hours). Please see your adviser.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Majors choosing the Classical Civilization and Classical Archaeology concentrations are advised, but not required, to satisfy the campus general education language requirement with one of the classical languages."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: Students seeking departmental distinction must have at least a 3.5 average in relevant courses and should consult a member of the department's honors committee at the earliest opportunity."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students choose from the following concentrations:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Classical Civilizations"
+      },
+      {
+        "type": "paragraph",
+        "content": "Classical Languages"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Classics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "CLCV course",
+              "3"
+            ],
+            [
+              "CLCV course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "General Education course or Comp I",
+              "3"
+            ],
+            [
+              "Comp I or General Education course",
+              "4",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CLCV course",
+              "3",
+              "CLCV course",
+              "3"
+            ],
+            [
+              "CLCV course",
+              "3",
+              "CLCV course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CLCV course",
+              "3",
+              "CLCV 300- or 400- level course",
+              "3"
+            ],
+            [
+              "CLCV 300- or 400- level course",
+              "3",
+              "Supporting coursework",
+              "3"
+            ],
+            [
+              "Supporting coursework",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CLCV 300- or 400- level course",
+              "3",
+              "CLCV 300- or 400- level course",
+              "3"
+            ],
+            [
+              "Supporting coursework",
+              "3",
+              "Supporting coursework",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Classics"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Acquire and retain a detailed knowledge of Greek and Latin grammar, syntax, vocabulary, and modes of expression so as to be able to read literary and subliterary texts composed in Greek and Latin between roughly 800 BCE and 500 CE.",
+          "Situate knowledge of the languages within the cultural contexts in which they were used in order to understand the crucial role of language in social dynamics and cross-cultural communication.",
+          "Acquire facility with contemporary methods of literary and historical analysis sufficient to carry out original, self-directed research into cultures that made use of the Greek and Latin languages.",
+          "Acquire critical awareness of the place of Greek and Latin in western literary history in order to appreciate the powerful role of tradition in interpreting the texts and events of the past.",
+          "Acquire a detailed knowledge of the culture of Ancient Greek and Roman civilizations, especially the broader historical, social, and cultural contexts and their development."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Classics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Classics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Classics Faculty\nClassics advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts & Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

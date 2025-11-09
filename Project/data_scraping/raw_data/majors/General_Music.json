@@ -1,0 +1,995 @@
+{
+  "major_name": "Music Education: General Music, BME",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/music-education-bme/elementary-general-music/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Music Education in Music Education, General Music Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 130 hours.",
+        "credit_requirement": "130"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students who wish to study voice or an instrument for credit are required to satisfy the instrumental or vocal qualifying audition designed for students outside the School of Music."
+      },
+      {
+        "type": "paragraph",
+        "content": "A minimum of twelve hours of 400-level courses in Music must be taken on the Urbana-Champaign campus.",
+        "level_requirement": "400"
+      },
+      {
+        "type": "paragraph",
+        "content": "In order to be recommended for licensure with the Illinois State Board of Education, candidates are required to maintain a UIUC cumulative grade-point average of 2.5. All music education students must earn a grade of C- or better in all music and professional education courses required for licensure."
+      },
+      {
+        "type": "paragraph",
+        "content": "The School of Music teacher education program requires a content area  (music core, techniques courses, BME electives) GPA of 2.75, and professional education (professional education, concentration specialization courses) GPA of 2.5 (A=4.0)."
+      },
+      {
+        "type": "paragraph",
+        "content": "Candidates should consult their degree audit for a listing of courses used to compute these grade-point averages."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 100",
+            "title": "MUS 100",
+            "hours": "0",
+            "hours_min": 0,
+            "hours_max": 0
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Core"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Professional Education"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 090",
+            "title": "MUS 090",
+            "hours": "0",
+            "hours_min": 0,
+            "hours_max": 0
+          },
+          {
+            "code": "MUS 240",
+            "title": "MUS 240",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 243",
+            "title": "MUS 243",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 244",
+            "type": "choice",
+            "options": [
+              "MUS 244",
+              "EPOL 202"
+            ],
+            "title": "MUS 244",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "EPOL 202",
+            "type": "choice",
+            "options": [
+              "EPOL 202"
+            ],
+            "title": "orEPOL 202",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MUS 342",
+            "title": "MUS 342",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 343",
+            "title": "MUS 343",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 350",
+            "title": "MUS 350",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 434",
+            "title": "MUS 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 439",
+            "title": "MUS 439",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 242",
+            "type": "choice",
+            "options": [
+              "MUS 242",
+              "MUS 330"
+            ],
+            "title": "MUS 242",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 330",
+            "type": "choice",
+            "options": [
+              "RMUS 330",
+              "MUS 330"
+            ],
+            "title": "orMUS 330",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CI 473",
+            "title": "CI 473",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "EDPR 438",
+            "title": "EDPR 438",
+            "hours": ""
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "General Music Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "MUS 433",
+            "title": "MUS 433",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 437",
+            "title": "MUS 437",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 449",
+            "title": "MUS 449",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 140",
+            "title": "MUS 140",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 144",
+            "title": "MUS 144",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 146",
+            "title": "MUS 146",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 147",
+            "title": "MUS 147",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 148",
+            "title": "MUS 148",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 149",
+            "title": "MUS 149",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 151",
+            "title": "MUS 151",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 153",
+            "title": "MUS 153",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 154",
+            "title": "MUS 154",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 155",
+            "title": "MUS 155",
+            "hours": ".5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MUS 158",
+            "title": "MUS 158",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 199",
+            "title": "MUS 199",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUSC 101",
+            "title": "MUSC 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUSC 105",
+            "title": "MUSC 105",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUSC 115",
+            "title": "MUSC 115",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUSC 449",
+            "title": "MUSC 449",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 121",
+            "type": "choice",
+            "options": [
+              "MUS 121",
+              "MUS 122"
+            ],
+            "title": "MUS 121",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 122",
+            "type": "choice",
+            "options": [
+              "RMUS 123",
+              "MUS 123",
+              "MUS 122",
+              "RMUS 122"
+            ],
+            "title": "orMUS 122"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 166",
+            "title": "MUS 166",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 174",
+            "title": "MUS 174",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 175",
+            "title": "MUS 175",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 446",
+            "title": "MUS 446",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 499",
+            "title": "MUS 499",
+            "hours": "2-3",
+            "hours_min": 2,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Education Electives"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 106",
+            "title": "MUS 106",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 174",
+            "title": "MUS 174",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 175",
+            "title": "MUS 175",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 199",
+            "title": "MUS 199",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 330",
+            "title": "MUS 330",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 331",
+            "title": "MUS 331",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 332",
+            "title": "MUS 332",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 333",
+            "title": "MUS 333",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 336",
+            "title": "MUS 336",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 344",
+            "title": "MUS 344",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 346",
+            "title": "MUS 346",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 348",
+            "title": "MUS 348",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 404",
+            "title": "MUS 404",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 407",
+            "title": "MUS 407",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 409",
+            "title": "MUS 409",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 433",
+            "title": "MUS 433",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 435",
+            "title": "MUS 435",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 437",
+            "title": "MUS 437",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 440",
+            "title": "MUS 440",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 444",
+            "title": "MUS 444",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 446",
+            "title": "MUS 446",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 447",
+            "title": "MUS 447",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 449",
+            "title": "MUS 449",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 499",
+            "title": "MUS 499",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUSC 449",
+            "title": "MUSC 449",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "THEA 399",
+            "title": "THEA 399",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 453",
+            "title": "THEA 453",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 454",
+            "title": "THEA 454",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credit for the Bachelor of Music Education in Music Education, concentration in General Music"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Music Education in Music Education, General Music Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence. This sample curriculum plan makes the assumption that students will have demonstrated keyboard competency by proficiency examination when they matriculate or they will need to enroll in MUS 172 and/or MUS 173.",
+        "course_codes": [
+          "MUS 172",
+          "MUS 173"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This sample curriculum plan makes the assumption that the foreign language graduation requirement has been satisfied by completing three years of study of a single foreign language in high school.  See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "MUS 100",
+              "0",
+              "MUS 102",
+              "2"
+            ],
+            [
+              "MUS 101",
+              "2",
+              "MUS 108",
+              "2"
+            ],
+            [
+              "MUS 107",
+              "2",
+              "MUS 110",
+              "3"
+            ],
+            [
+              "MUS 133",
+              "3",
+              "MUS 240",
+              "1"
+            ],
+            [
+              "Applied Major Lessons",
+              "2",
+              "Applied Major Lessons",
+              "2"
+            ],
+            [
+              "Ensemble",
+              "1",
+              "Ensemble",
+              "1"
+            ],
+            [
+              "General Music Concentration course List B",
+              "2",
+              "EPSY 201",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "FAA 101",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MUS 201",
+              "2",
+              "MUS 202",
+              "2"
+            ],
+            [
+              "MUS 207",
+              "2",
+              "MUS 208",
+              "2"
+            ],
+            [
+              "MUS 313",
+              "3",
+              "MUS 314",
+              "3"
+            ],
+            [
+              "MUS 243",
+              "2",
+              "MUS 242 or  330",
+              "2"
+            ],
+            [
+              "MUS 343",
+              "3",
+              "Applied Major Lessons",
+              "2"
+            ],
+            [
+              "Applied Major Lessons",
+              "2",
+              "Ensemble",
+              "1"
+            ],
+            [
+              "Ensemble",
+              "1",
+              "General Music Concentration course List A",
+              "1"
+            ],
+            [
+              "General Music Concentration course List B",
+              "2",
+              "General Education course (choose a Quantitative Reasoning course that is also Natural Science)",
+              "3"
+            ],
+            [
+              "",
+              "Music Ed Elective",
+              "1"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MUS 350",
+              "5",
+              "MUS 434",
+              "3"
+            ],
+            [
+              "MUS 433",
+              "2",
+              "MUS 244 or EPOL  202",
+              "3"
+            ],
+            [
+              "General Music Concentration course List A",
+              "1",
+              "MUS 342",
+              "3"
+            ],
+            [
+              "Applied Major Lessons",
+              "2",
+              "MUS 437",
+              "2"
+            ],
+            [
+              "Ensemble",
+              "1",
+              "CI 473",
+              "2"
+            ],
+            [
+              "Music Ed Elective",
+              "1",
+              "General Music Concentration course List B",
+              "1"
+            ],
+            [
+              "General Education course (choose a Social/Behavioral Science course that is also NW or US Minority Cultural Studies)",
+              "3",
+              "General Music Concentration course List A",
+              "1"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Applied Major Lessons",
+              "2"
+            ],
+            [
+              "",
+              "Ensemble",
+              "1"
+            ],
+            [
+              "",
+              "18",
+              "",
+              "18"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MUS 090",
+              "0",
+              "EDPR 438",
+              "4"
+            ],
+            [
+              "MUS 439",
+              "3",
+              "EDPR 442",
+              "4"
+            ],
+            [
+              "MUS 449",
+              "2",
+              ""
+            ],
+            [
+              "Music Ed Electives",
+              "10",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "18",
+              "",
+              "8"
+            ],
+            [
+              "Total Hours 130"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Music Education in Music Education, General Music Concentration"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "The well prepared music teacher has in-depth understanding of content area knowledge that includes central concepts, methods of inquiry, structures of the discipline, and multiple forms of music literacy.",
+          "The well prepared music teacher plans and designs instruction based on content area knowledge; diverse styles, genres, and repertoires; diverse student characteristics; student performance data; curriculum goals; and the community context.",
+          "The well prepared music teacher differentiates instruction by using a variety of strategies that support critical and creative thinking, problem-solving, and continuous musical growth and learning.",
+          "The well prepared music teacher understands and uses appropriate formative and summative assessments for determining student needs, monitoring student progress, measuring student growth, and evaluating student outcomes.",
+          "The well prepared music teacher is an ethical and reflective practitioner who promotes a culture of professional inquiry."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Music Education in Music Education, General Music Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Fine & Applied Arts"
+      }
+    ]
+  }
+}

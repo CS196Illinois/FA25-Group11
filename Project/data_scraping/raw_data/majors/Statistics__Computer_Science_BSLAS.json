@@ -1,0 +1,480 @@
+{
+  "major_name": "Statistics & Computer Science, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/eng_las/statistics-computer-science-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Statistics & Computer Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CS 100",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "11-12"
+          },
+          {
+            "code": "MATH 257",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 415",
+            "title": "or"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 124",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 128",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 173",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 222",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "CS 225",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "hours": "8-11"
+          },
+          {
+            "code": "CS 233",
+            "title": "&CS 341",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 340",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 357",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 374",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 421",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3-4"
+          },
+          {
+            "code": "STAT 107",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 200",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 212",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 400",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "STAT 410",
+            "title": "",
+            "hours": "3 or 4"
+          },
+          {
+            "code": "STAT 425",
+            "title": "",
+            "hours": "3 or 4"
+          },
+          {
+            "code": "STAT 426",
+            "title": "",
+            "hours": "3 or 4"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "code": "STAT 428",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 431",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 432",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 434",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 448",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "code": "CS 410",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 411",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 412",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 446",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 481",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 482",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "68-72"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Statistics & Computer Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "STAT 107 (or STAT 200 or STAT 212)",
+              "4",
+              "CS 128",
+              "3"
+            ],
+            [
+              "CS 100",
+              "1",
+              "CS 173",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "MATH 220 (or MATH 221)",
+              "5",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "STAT 400",
+              "4",
+              "STAT 410",
+              "3"
+            ],
+            [
+              "CS 222",
+              "1",
+              "CS 233 (or CS 340)",
+              "3"
+            ],
+            [
+              "CS 225",
+              "4",
+              "MATH 257 (or MATH 415)",
+              "3"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "STAT 425",
+              "3",
+              "STAT 426",
+              "3"
+            ],
+            [
+              "CS 341 (or CS 400-level course)",
+              "4",
+              "CS 374",
+              "4"
+            ],
+            [
+              "CS 357",
+              "3",
+              "Free elective course or CS 400-level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 421",
+              "3",
+              "Computational Application Elective course",
+              "3"
+            ],
+            [
+              "Statistical Application Elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "12",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Statistics & Computer Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Statistics & Computer Science students will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Analyze complex problems and apply principles of statistical reasoning and computing to draw valid conclusions from data.",
+          "Design, implement, and evaluate a statistically-sound and computing-based answers to interdisciplinary, field-specific problems.",
+          "Apply mathematical, probabilistic, and computer science theory fundamentals to produce statistical and computing-based solutions.",
+          "Communicate the results of their analysis effectively in writing, through visualizations, and orally in a variety of professional contexts.",
+          "Excel in the use of software development, in data management, and in writing statistical code.",
+          "Be adept in the use of modern methods of computing, statistical machine learning, and data science.",
+          "Function effectively as a member or leader of a team engaged in activities appropriate to the program’s discipline."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Statistics & Computer Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Statistics"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Statistics Undergraduate Advising",
+          "Statistics email: stat-undergrad@illinois.edu",
+          "Statistics & Computer Science page",
+          "Department of Statistics website",
+          "Department of Statistics faculty"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Siebel School of Computing and Data Science​"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Computer Science Undergraduate Advising",
+          "Computer Science email: undergrad@cs.illinois.edu",
+          "Statistics & Computer Science page",
+          "Siebel School of Computing and Data Science website",
+          "Siebel School of Computing and Data Science faculty"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Overview of College Admissions & Requirements"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "College of Liberal Arts & Sciences Academics & Admissions",
+          "College of Liberal Arts & Sciences website",
+          "Grainger College of Engineering website"
+        ]
+      }
+    ]
+  }
+}

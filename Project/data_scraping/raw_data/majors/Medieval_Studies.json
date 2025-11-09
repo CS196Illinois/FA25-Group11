@@ -1,0 +1,574 @@
+{
+  "major_name": "Interdisciplinary Studies: Medieval Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/medieval-studies/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Interdisciplinary Studies, Medieval Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Academic Affairs Office before the end of the fifth semester (60-75 hours). Please see your advisor.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Substitution for specific courses listed below will be approved by the concentration advisor only in exceptional cases."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To be eligible for graduation with distinction, a student must have a college grade point average of 3.5, a major concentration grade point average of 3.5, completion of HUM 498\n with a grade of A, and completion of a semester paper in HUM 498\n that is judged to be deserving of \"distinction\" by a committee of at least two faculty members.",
+        "course_codes": [
+          "HUM 498",
+          "HUM 498"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "High distinction: To be eligible for graduation with high distinction, a student must have a college grade point average of 3.5, a major concentration grade point average of 3.7, and must have completed HUM 492 (instead of HUM 498) with a grade of A and a thesis in HUM 492 that is judged to be deserving of \"high distinction\" by a committee of at least two faculty members.",
+        "course_codes": [
+          "HUM 492",
+          "HUM 498",
+          "HUM 492"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Medieval Studies Concentration Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.  Minimum hours of required major and supporting course work: Normally equates to 45 or 49 hours. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The University and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "ENGL 202/MDVL 201/CWL 253",
+            "title": "ENGL 202/MDVL 201/CWL 253",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 111/MDVL 222",
+            "title": "ARTH 111/MDVL 222",
+            "hours": ""
+          },
+          {
+            "code": "ARTH/MDVL 222",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ARTH/MDVL 231",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST 141",
+            "title": "HIST 141",
+            "hours": ""
+          },
+          {
+            "code": "HIST/MDVL 245",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST/MDVL 247",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST/MDVL 255",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST/MDVL 345",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST 445/MDVL 444",
+            "title": "HIST 445/MDVL 444",
+            "hours": ""
+          },
+          {
+            "code": "ITAL/MDVL/CWL 240",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "SCAN/MDVL/REL/CWL 251",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "SCAN/MDVL/CWL 252",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MDVL/ARCH 412",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "EALC 240",
+            "title": "EALC 240",
+            "hours": ""
+          },
+          {
+            "code": "EALC/CWL 275",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "EALC 305/CWL 311",
+            "title": "EALC 305/CWL 311",
+            "hours": ""
+          },
+          {
+            "code": "EALC/ARTH 320",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST/EALC 220",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST 425/EALC 476/CWL 478",
+            "title": "HIST 425/EALC 476/CWL 478",
+            "hours": ""
+          },
+          {
+            "code": "REL/EALC 287",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CWL/REL/SAME 208",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST/AFST 111",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST/ANTH 130",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HIST 135",
+            "title": "HIST 135",
+            "hours": ""
+          },
+          {
+            "code": "HIST 432/REL 442/JS 442",
+            "title": "HIST 432/REL 442/JS 442",
+            "hours": ""
+          },
+          {
+            "code": "HIST 443/REL 434",
+            "title": "HIST 443/REL 434",
+            "hours": ""
+          },
+          {
+            "code": "LA 222/ARTH 219",
+            "title": "LA 222/ARTH 219",
+            "hours": ""
+          },
+          {
+            "code": "REL 106",
+            "title": "REL 106",
+            "hours": ""
+          },
+          {
+            "code": "REL/SAME 214",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "REL/SAME/CWL 223",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "REL/SAME 260",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "REL/CWL 283",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "REL/JS/MDVL 344",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Interdisciplinary Studies, Medieval Studies Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LAS 101",
+              "1",
+              "Medieval Europe course",
+              "3"
+            ],
+            [
+              "ENGL 202, MDVL  201, or CWL  253",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education course or Composition 1",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Classical and Medieval East Asia course",
+              "3",
+              "Classical and Medieval East Asia course",
+              "3"
+            ],
+            [
+              "Medieval Europe course",
+              "3",
+              "Medieval Central Asia, South Asia, the Mediterranean region, or Africa course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Medieval Central Asia, South Asia, the Mediterranean region, or Africa course",
+              "3",
+              "Medieval Studies 300- or 400-level course",
+              "3"
+            ],
+            [
+              "Medieval Studies 300- or 400-level course",
+              "3",
+              "Medieval Studies 300- or 400-level course",
+              "3"
+            ],
+            [
+              "Additional Medieval Studies Coursework",
+              "3",
+              "Additional Medieval Studies Coursework",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Medieval Studies 300- or 400-level course",
+              "3",
+              "Capstone Experience",
+              "3"
+            ],
+            [
+              "Additional Medieval Studies Coursework",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Interdisciplinary Studies, Medieval Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "After completing the Medieval Studies Concentration, students will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "A broad and deep knowledge of the world's medieval cultures (ca. 500 - ca. 1500 CE).",
+          "An understanding of the periods and movements, institutions, material culture, ideas, beliefs, and values of the diverse cultures that comprise the medieval globe.",
+          "A capstone experience involving original research in a medieval topic."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Interdisciplinary Studies, Medieval Studies Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Medieval Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Medieval Studies Faculty\nDirector: Professor Carol Symes (symes@illinois.edu)"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

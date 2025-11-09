@@ -1,0 +1,318 @@
+{
+  "major_name": "Russian, East European, & Eurasian Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/russian-east-european-eurasian-studies-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Russian, East European, & Eurasian Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60-75 hours). Please see your advisor.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To qualify for departmental distinction, a student must have at least a 3.5 GPA in the courses taken for Component 2 (see below) and must complete a senior thesis in consultation with a faculty member affiliated with the center. Students who wish to qualify for distinction in this major should consult with the center director at the beginning of the junior year or earlier to prepare a suitable plan."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: normally equates to 48 hours. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "48"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "REES 200",
+            "title": "REES 200",
+            "hours": ""
+          },
+          {
+            "code": "REES 201",
+            "title": "REES 201",
+            "hours": ""
+          },
+          {
+            "code": "REES 495",
+            "title": "REES 495",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Russian, East European, & Eurasian Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition 1",
+              "3"
+            ],
+            [
+              "Component 2 course",
+              "3",
+              "Component 2 course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Russian Language course",
+              "3",
+              "Russian Language course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "REES 200",
+              "3"
+            ],
+            [
+              "Component 2 course",
+              "3",
+              "Component 2 course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Component 2 course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "REES 201",
+              "3",
+              "REES 495",
+              "3"
+            ],
+            [
+              "Component 3 course",
+              "3",
+              "Component 3 course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Component 3 course",
+              "3",
+              "Component 3 course",
+              "3"
+            ],
+            [
+              "Component 3 course",
+              "3",
+              "Component 3 course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Russian, East European, & Eurasian Studies"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Global Competence and Intercultural Skills\n\nDefinition: REEES majors will engage and build productive relationships, founded in proficient language skills, with communities, organizations, and individuals across cultures, both at home and abroad.",
+          "Interdisciplinary Perspective\n\nDefinition: REEES majors will recognize and mobilize multiple types of data and forms of analysis, drawn from paradigms in the humanities and social sciences, to propose solutions to complex problems.",
+          "Analytical Reasoning and Broad Knowledge Base\n\nDefinition: REEES majors will critically analyze and evaluate interpretations of social, cultural, political, and economic phenomena, drawing on a broad knowledge base and research experience."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Russian, East European, & Eurasian Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Russian, East European, and Eurasian Center\nREEEC Faculty\nREEEC email"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Liberal Arts & Sciences\nCollege of LAS admissions and requirements"
+      }
+    ]
+  }
+}

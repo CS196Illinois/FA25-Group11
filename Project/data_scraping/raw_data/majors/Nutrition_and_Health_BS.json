@@ -1,0 +1,566 @@
+{
+  "major_name": "Nutrition and Health, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/nutrition-health-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Nutrition and Health"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements Minimum hours required for graduation: 126 hours.",
+        "credit_requirement": "126"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements Minimum of 40 hours of upper-division coursework, generally at the 300 and 400 level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "FSHN 123",
+            "title": "FSHN 123",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "FSHN 125",
+            "title": "FSHN 125",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CMN 101",
+            "type": "choice",
+            "options": [
+              "CMN 101",
+              "ALEC 115"
+            ],
+            "title": "CMN 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ALEC 115",
+            "type": "choice",
+            "options": [
+              "CMN 111",
+              "RCMN 111",
+              "CMN 112",
+              "ALEC 115"
+            ],
+            "title": "orALEC 115"
+          },
+          {
+            "code": "MATH 220",
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": ""
+          },
+          {
+            "code": "MATH 234",
+            "title": "MATH 234",
+            "hours": ""
+          },
+          {
+            "code": "ACE 262",
+            "title": "ACE 262",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 241",
+            "title": "CPSC 241",
+            "hours": ""
+          },
+          {
+            "code": "ECON 202",
+            "title": "ECON 202",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 235",
+            "title": "PSYC 235",
+            "hours": ""
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 102",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 102",
+              "CHEM 103"
+            ],
+            "title": "CHEM 102&CHEM 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 104",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 104",
+              "CHEM 105"
+            ],
+            "title": "CHEM 104&CHEM 105",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MCB 100",
+            "title": "MCB 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 101",
+            "title": "MCB 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 233",
+            "title": "CHEM 233",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MCB 244",
+            "title": "MCB 244",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 246",
+            "title": "MCB 246",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 450",
+            "title": "MCB 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 101",
+            "title": "FSHN 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 120",
+            "type": "choice",
+            "options": [
+              "FSHN 120",
+              "FSHN 220"
+            ],
+            "title": "FSHN 120",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "FSHN 220",
+            "type": "choice",
+            "options": [
+              "FSHN 220"
+            ],
+            "title": "orFSHN 220",
+            "hours": "3-4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "FSHN 322",
+            "title": "FSHN 322",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 417",
+            "title": "FSHN 417",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 420",
+            "title": "FSHN 420",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 422",
+            "title": "FSHN 422",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 424",
+            "title": "FSHN 424",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 426",
+            "title": "FSHN 426",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 427",
+            "title": "FSHN 427",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Nutrition and Health"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FSHN 123",
+              "1",
+              "CHEM 102",
+              "3"
+            ],
+            [
+              "Composition I or Speech",
+              "4",
+              "CHEM 103",
+              "1"
+            ],
+            [
+              "FSHN 101",
+              "3",
+              "Speech or Composition I",
+              "3"
+            ],
+            [
+              "Statistics Option",
+              "3",
+              "Calculus Option",
+              "4"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "",
+              "FSHN 125",
+              "1"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHEM 104",
+              "3",
+              "FSHN 426",
+              "3"
+            ],
+            [
+              "CHEM 105",
+              "1",
+              "FSHN 322",
+              "3"
+            ],
+            [
+              "FSHN 220",
+              "4",
+              "CHEM 232",
+              "4"
+            ],
+            [
+              "MCB 244",
+              "3",
+              "CHEM 233",
+              "2"
+            ],
+            [
+              "General Education Course",
+              "4",
+              "MCB 246",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "FSHN 420",
+              "3",
+              "FSHN 427",
+              "3"
+            ],
+            [
+              "MCB 100",
+              "3",
+              "Free Elective Course",
+              "4"
+            ],
+            [
+              "MCB 101",
+              "2",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free Elective Course",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free Elective Course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "FSHN 422",
+              "3",
+              "FSHN 424",
+              "3"
+            ],
+            [
+              "FSHN 417",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "MCB 450",
+              "3",
+              "General Education Course",
+              "4"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free Elective Course",
+              "3"
+            ],
+            [
+              "Free Elective Course",
+              "3",
+              "Free Elective course",
+              "4"
+            ],
+            [
+              "Free Elective Course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "18",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 126"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Nutrition and Health"
+      },
+      {
+        "type": "paragraph",
+        "content": "All graduates of the University of Illinois Urbana-Champaign Nutrition and Health BS will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Demonstrate critical thinking, problem solving and communication skills.",
+          "Understand basic sciences relevant to nutrition, research and application of nutrition and an awareness of social and economic factors in food.",
+          "Prepared to pursue careers in the food, health, and fitness industries, or enter medicine, dentistry, nursing, and other health professions."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Nutrition and Health"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Food Science and Human Nutrition"
+      },
+      {
+        "type": "paragraph",
+        "content": "Food Science and Human Nutrition Website\n260 Bevier Hall\n905 S. Goodwin Ave.\nUrbana, IL 61801\n217-244-4498\nfshn-general@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Agricultural, Consumer & Environmental Sciences Website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "ACES Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n217-333-3380\naces-academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising Website\n217-244-4498\nfshn-general@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Undergrad Admissions\n217-333-3380\nvisitACES@illinois.edu"
+      }
+    ]
+  }
+}

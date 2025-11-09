@@ -1,0 +1,635 @@
+{
+  "major_name": "Art Education, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/art-education-bfa/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts in Art Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 130 hours. To be recommended for licensure, candidates are required to maintain a UIUC cumulative grade-point average of 2.5 (A=4.0).",
+        "credit_requirement": "130"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in Art and Design."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "First Year Curriculum"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ARTF 101",
+            "title": "ARTF 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTE 101",
+            "title": "ARTE 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTH 110",
+            "title": "ARTH 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 103",
+            "title": "ARTF 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 105",
+            "title": "ARTF 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 102",
+            "title": "ARTF 102",
+            "hours": ""
+          },
+          {
+            "code": "ARTF 104",
+            "title": "ARTF 104",
+            "hours": ""
+          },
+          {
+            "code": "ARTF 106",
+            "title": "ARTF 106",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Art education courses are applicable to professional education requirements for teacher certification."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTE 202",
+            "title": "ARTE 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTE 301",
+            "title": "ARTE 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTE 303",
+            "title": "ARTE 303",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTE 304",
+            "title": "ARTE 304",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTE 393",
+            "title": "ARTE 393",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTE 400",
+            "title": "ARTE 400",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Professional Education"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "EPOL 201",
+            "type": "choice",
+            "options": [
+              "EPOL 201",
+              "EPOL 202"
+            ],
+            "title": "EPOL 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPOL 202",
+            "type": "choice",
+            "options": [
+              "EPOL 202"
+            ],
+            "title": "orEPOL 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 405",
+            "title": "SPED 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 473",
+            "title": "CI 473",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Student Teaching"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ARTE 401",
+            "title": "ARTE 401",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "EDPR 438",
+            "title": "EDPR 438",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art and Design"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ARTS 251",
+            "title": "ARTS 251",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTS 354",
+            "type": "choice",
+            "options": [
+              "ARTS 354",
+              "ARTS 252"
+            ],
+            "title": "ARTS 354",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTS 252",
+            "type": "choice",
+            "options": [
+              "ARTS 252"
+            ],
+            "title": "orARTS 252",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art History"
+      },
+      {
+        "type": "paragraph",
+        "content": "Art & Design Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of credits for Bachelor of Fine Arts in Art Education"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts in Art Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English.  For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "ARTE 101",
+              "2"
+            ],
+            [
+              "ARTF 101",
+              "2",
+              "ARTF 105",
+              "3"
+            ],
+            [
+              "ARTH 110",
+              "3",
+              "ARTS 251",
+              "3"
+            ],
+            [
+              "ARTF ### (Drawing Category)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "ARTF 103",
+              "3",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTE 202",
+              "3",
+              "ARTE 301",
+              "3"
+            ],
+            [
+              "EPSY 201",
+              "3",
+              "ARTS 354 or  252",
+              "3"
+            ],
+            [
+              "One additional 3D course (200-level or above)",
+              "3",
+              "EPOL 201 or  202",
+              "3"
+            ],
+            [
+              "Art History course (200-level or above)",
+              "3",
+              "General Education course (choose a Humanities & the Arts course with NW Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "General Education course (choose a QR course with Nat Sci designation)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              "Free Elective course",
+              "2"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 34"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTE 303",
+              "3",
+              "ARTE 393",
+              "3"
+            ],
+            [
+              "ARTE 304",
+              "2",
+              "CI 473",
+              "3"
+            ],
+            [
+              "One additional 4D course (200-level or above)",
+              "3",
+              "SPED 405",
+              "3"
+            ],
+            [
+              "Art History course (200-level or above)",
+              "3",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in major)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "18"
+            ],
+            [
+              "Total Hours 35"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTE 400",
+              "3",
+              "ARTE 401",
+              "4"
+            ],
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in major)",
+              "3",
+              "EDPR 438",
+              "5"
+            ],
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in major)",
+              "3",
+              "EDPR 442",
+              "5"
+            ],
+            [
+              "Art History course (200-level or above)",
+              "3",
+              ""
+            ],
+            [
+              "Free Elective course",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 130"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts in Art Education"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Learning Outcomes"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students graduating with the BFA in Art Education should be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand the diverse characteristics and abilities of their students and how individuals develop and learn within the context of their social, economic, cultural, linguistic, and academic experiences. Our graduates are prepared to use these experiences to create instructional opportunities that maximize student learning in diverse art education settings such as schools, museums, and community centers.",
+          "Understand art content area knowledge, including central concepts, methods of inquiry, structures of the disciplines, and content area literacy. Our graduates are prepared to create meaningful learning experiences for students through both art content area and pedagogical knowledge.",
+          "Plan and design instruction for diverse art education settings based upon content area knowledge, diverse student characteristics, student performance data, curriculum goals, and the community contexts.",
+          "Create safe and healthy art education learning environments that facilitate cultural and linguistic responsiveness, emotional well-being, self-efficacy, positive social interaction, mutual respect, active engagement, academic risk-taking, self-motivation, and personal goal-setting.",
+          "Differentiate instruction by using a variety of strategies that support critical and creative thinking, problem-solving, and continuous growth and learning. Our graduates understand that art education settings are dynamic, thus requiring ongoing modification of instruction to enhance learning for each student.",
+          "Enact critical, inclusive, and empowering expressions of art education that challenge and redress systemic injustices related to social identities such as race, ethnicity, class, age, gender, sexuality, dis/ability, nationality, and religion.",
+          "Possess foundational knowledge of reading, writing, and oral communication within art education (e.g., curriculum and lesson planning, assessment tools, etc.) and recognize and address how student reading, writing, and oral communication facilitates the acquisition of knowledge in art education.",
+          "Understand the purposes, characteristics, and limitations of different types of assessments in art education and develop and implement a range of assessment tools for teaching and learning in art education.",
+          "Build and maintain collaborative relationships with colleagues, students, parents or guardians, and community members to foster the development of their students.",
+          "Exhibit ethical, reflective, and professional practices, while providing leadership in their educational settings and advocating for students, parents or guardians, and the profession."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts in Art Education"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Art & Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Art & Design\nArt & Design Faculty\nCoordinator of Undergrad Academic Affairs: Michael Foellmer\n143 Art and Design Building, Champaign, IL 61820\n(217) 244-8462"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fine & Applied Arts"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "University of Illinois Urbana-Champaign Undergrad Admissions\nFAA Undergraduate Advising\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

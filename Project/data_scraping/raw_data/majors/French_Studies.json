@@ -1,0 +1,255 @@
+{
+  "major_name": "French: French Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/french-balas/french-studies/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in French, French Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60 - 75 hours). Please see your adviser.",
+        "credit_requirement": "75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: A student must have at least a 3.45 LAS cumulative grade point average, complete a senior thesis FR 492, and complete two additional advanced-level courses in French or in supporting course work. Consult the honors adviser for details.",
+        "course_codes": [
+          "FR 492"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 37 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in French, French Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition 1",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "FR 205",
+              "2",
+              "FR 211",
+              "3"
+            ],
+            [
+              "FR 207",
+              "3",
+              "FR 300-400 level elective course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "FR 212",
+              "3",
+              "FR 313 (previously FR 213)",
+              "3"
+            ],
+            [
+              "FR 300-400 level literature course",
+              "3",
+              "FR 314",
+              "3"
+            ],
+            [
+              "FR 335 (or FR 336 or FR 337)",
+              "3",
+              "FR 335 (or FR 336 or FR 337)",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "FR 300-400 level Literature course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "FR 301 (or FR 335)",
+              "3",
+              "FR 300-400 level elective course",
+              "3"
+            ],
+            [
+              "FR 300-400 level elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in French, French Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of French & Italian website\nFrench & Italian faculty\nFrench & Italian advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

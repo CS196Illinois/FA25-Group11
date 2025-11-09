@@ -1,0 +1,346 @@
+{
+  "major_name": "Geology: Earth & Environmental Sciences, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/geology-bslas/earth-environmental-sciences/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Geology (Sciences & Letters), Earth & Environmental Sciences Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental Distinction: Students majoring in Geology can earn distinction, high distinction, and highest distinction upon graduation.  The requirements for these awards are:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Distinction: A minimum cumulative grade point average of 3.3, and have also completed an approved independent study project, approved senior thesis, or approved capstone"
+      },
+      {
+        "type": "paragraph",
+        "content": "High Distinction: A minimum cumulative grade point average of 3.5, and have also completed an approved independent study project, approved senior thesis, or approved capstone"
+      },
+      {
+        "type": "paragraph",
+        "content": "Highest Distinction: A minimum cumulative grade point average of 3.7, and also completed an approved senior thesis or approved research capstone"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 43 hours including at least 26 hours in Geology. Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "GEOL 107",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "GEOL 208",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHEM 102",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CHEM 103",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": "4-5"
+          },
+          {
+            "code": "MATH 220",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "or"
+          },
+          {
+            "code": "MATH 234",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ATMS 140",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "GEOL 118",
+            "title": "or"
+          },
+          {
+            "code": "GEOL 333",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "GEOL 432",
+            "title": "or"
+          },
+          {
+            "code": "GEOL 380",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "hours": "10-12"
+          },
+          {
+            "hours": "6-8"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Geology (Sciences & Letters), Earth & Environmental Sciences Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "GEOL 208",
+              "4"
+            ],
+            [
+              "GEOL 107",
+              "4",
+              "Free elective course",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "3",
+              "General Education course or Composition 1",
+              "3"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              ""
+            ],
+            [
+              "CHEM 103",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ATMS 140 (or GEOL 118)",
+              "3",
+              "GEOL 333 (or GEOL 432)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "MATH 220 (or MATH 221 or MATH 234)",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GEOL 380",
+              "4",
+              "Geology 300-400 level course",
+              "3"
+            ],
+            [
+              "300-400 level Environmental Studies elective course from list",
+              "3",
+              "300-400 level Environmental Studies elective course from list",
+              "3"
+            ],
+            [
+              "Geology 300- 400 level course",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Geology 300-400 level course",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Geology (Sciences & Letters), Earth & Environmental Sciences Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Geology\nGeology website\nGeology email\nGeology faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Liberal Arts & Sciences\nLAS College website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising\nGeology advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Admissions\nLiberal Arts & Sciences Admissions & Requirements\nUniversity of Illinois Undergrad Admissions"
+      }
+    ]
+  }
+}

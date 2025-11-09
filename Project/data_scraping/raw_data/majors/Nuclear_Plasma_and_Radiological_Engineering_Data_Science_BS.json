@@ -1,0 +1,680 @@
+{
+  "major_name": "Nuclear, Plasma, and Radiological Engineering + Data Science, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-data-science-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, and Radiological Engineering + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours.",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Overall GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Technical GPA: 2.0"
+      },
+      {
+        "type": "paragraph",
+        "content": "TGPA is required for NPRE 200 and NPRE 247. See Technical GPA to clarify requirements.",
+        "course_codes": [
+          "NPRE 200",
+          "NPRE 247"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, and Radiological Engineering Orientation and Professional Development"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "NPRE 100",
+            "title": "NPRE 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Introductory Economics Elective"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ECON 103"
+            ],
+            "title": "ECON 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 103",
+            "type": "choice",
+            "options": [
+              "ECON 103"
+            ],
+            "title": "orECON 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, and Radiological Engineering Mathematics and Science Foundations"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, and Radiological Engineering Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 310",
+            "type": "choice",
+            "options": [
+              "ME 310",
+              "TAM 335"
+            ],
+            "title": "ME 310",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 335",
+            "type": "choice",
+            "options": [
+              "TAM 335",
+              "RTAM 335"
+            ],
+            "title": "orTAM 335",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 200",
+            "title": "NPRE 200",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "NPRE 247",
+            "title": "NPRE 247",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 321",
+            "title": "NPRE 321",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 330",
+            "title": "NPRE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 349",
+            "title": "NPRE 349",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "NPRE 441",
+            "title": "NPRE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 445",
+            "title": "NPRE 445",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NPRE 449",
+            "title": "NPRE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 451",
+            "title": "NPRE 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 455",
+            "title": "NPRE 455",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "TAM 210",
+            "title": "TAM 210",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "TAM 212",
+            "title": "TAM 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Data Science Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 227",
+            "type": "choice",
+            "options": [
+              "MATH 227",
+              "MATH 257"
+            ],
+            "title": "MATH 227",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 257",
+            "type": "choice",
+            "options": [
+              "MATH 257"
+            ],
+            "title": "orMATH 257",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT/CS/IS 107",
+            "title": "",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 207",
+            "title": "STAT 207",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 307",
+            "title": "CS 307",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 277",
+            "title": "CS 277",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "IS 467",
+            "title": "IS 467",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IS 477",
+            "title": "IS 477",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NPRE 458",
+            "title": "NPRE 458",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, and Radiological Engineering + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements. One of the SBS courses must be an introductory economics course (ECON 102 or ECON 103). NPRE 481 will satisfy the Campus General Education Advanced Composition requirement.  If NPRE 481 is not selected, a separate Advanced Composition course must be taken.",
+        "course_codes": [
+          "ECON 102",
+          "ECON 103",
+          "NPRE 481",
+          "NPRE 481"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "NPRE 100",
+              "1",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "MATH 221 (MATH 220 may be substituted)",
+              "4",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "ENG 100",
+              "1",
+              "Composition I or Language other than English (3rd level) course",
+              "4"
+            ],
+            [
+              "Composition I or Language other than English (3rd level) course",
+              "4",
+              "STAT 107",
+              "4"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              ""
+            ],
+            [
+              "CHEM 103",
+              "1",
+              ""
+            ],
+            [
+              "ECON 102 or  103",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 200",
+              "2",
+              "NPRE 247",
+              "3"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "ME 200",
+              "3"
+            ],
+            [
+              "TAM 210",
+              "2",
+              "TAM 212",
+              "3"
+            ],
+            [
+              "STAT 207",
+              "4",
+              "MATH 227 or  257",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 330",
+              "3",
+              "NPRE 349",
+              "2"
+            ],
+            [
+              "NPRE 445",
+              "4",
+              "NPRE 451",
+              "3"
+            ],
+            [
+              "TAM 335 (ME 310 may be substituted)",
+              "4",
+              "NPRE 455",
+              "4"
+            ],
+            [
+              "CS 277",
+              "4",
+              "CS 307",
+              "4"
+            ],
+            [
+              "Free Elective Course",
+              "2",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "NPRE 321",
+              "3",
+              "NPRE 441",
+              "4"
+            ],
+            [
+              "NPRE 449",
+              "3",
+              "NPRE 458",
+              "4"
+            ],
+            [
+              "IS 467",
+              "3",
+              "IS 477",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "General Education course (Advanced Composition)",
+              "3",
+              "Free Elective Course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, and Radiological Engineering + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Student learning outcomes are based on learning outcomes in line with the ABET accreditation process for Nuclear Engineering."
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, & Radiological Engineering + Data Science graduates will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "An ability to communicate effectively with a range of audiences.",
+          "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Further, the Department of Nuclear, Plasma, and Radiological Engineering has undergraduate curriculum program education objectives (PEOs) that prepare our graduates to succeed in early career (two to five years post-graduation) professional activities in paths related to the NPRE discipline. Student learning outcomes represent process-orientated activities that either directly or in combination prepare students to satisfy all program educational objectives upon completion of the BS NPRE + Data Science degree program. These PEOs are:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "To succeed as engineers in the 21st Century in a globally-connected technological environment in which best practices are shared internationally free of borders.",
+          "To advance in career paths associated with the NPRE disciplines, including commercial nuclear power, plasma sciences and technology, and radiological sciences related opportunities.",
+          "To pursue further academic growth, obtaining advanced degrees in disciplines related, but not limited, to the disciplines associated with NPRE technical areas.",
+          "To provide leadership to professional and societal communities in a general way and in ways specific to the NPRE disciplines.",
+          "To engage in life-long learning and professional development, staying abreast of the ever-evolving technological landscape related to the NPRE disciplines.",
+          "To contribute to society in a professional, responsible and ethical manner."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Nuclear, Plasma, and Radiological Engineering + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Nuclear, Plasma, & Radiological Website\nNuclear, Plasma, & Radiological Engineering Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions\nThe Grainger College of Engineering"
+      }
+    ]
+  }
+}

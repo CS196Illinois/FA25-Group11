@@ -1,0 +1,297 @@
+{
+  "major_name": "Engineering Mechanics, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/engineering-mechanics-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Engineering Mechanics"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Engineering Mechanics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence. The curriculum sequence can also be viewed via dynamic and static curricular maps, which include prerequisite sequencing."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements.  ME 470 \nand TAM 324 will each satisfy a core course requirement and the Campus General Education Advanced Composition requirement.",
+        "course_codes": [
+          "ME 470",
+          "TAM 324"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "TAM 195",
+              "1",
+              "CS 101 (CS 124 or ECE 220 may be substituted.)",
+              "3"
+            ],
+            [
+              "MATH 221 (MATH 220 may be substituted)",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "ENG 100",
+              "1",
+              "ME 170 or Composition I course",
+              "3-4"
+            ],
+            [
+              "Composition I course or ME 170",
+              "4-3",
+              ""
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "TAM 211",
+              "3",
+              "TAM 212",
+              "3"
+            ],
+            [
+              "MATH 257",
+              "3",
+              "MATH 241",
+              "4"
+            ],
+            [
+              "CHEM 104",
+              "3",
+              "PHYS 212",
+              "4"
+            ],
+            [
+              "CHEM 105",
+              "1",
+              "TAM 251",
+              "3"
+            ],
+            [
+              "TAM 270",
+              "3",
+              "TAM 252",
+              "1"
+            ],
+            [
+              "ME 290",
+              "0",
+              ""
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "TAM 335",
+              "4",
+              "TAM 324",
+              "4"
+            ],
+            [
+              "MATH 441",
+              "3",
+              "TAM 412",
+              "4"
+            ],
+            [
+              "ME 200",
+              "3",
+              "PHYS 213",
+              "2"
+            ],
+            [
+              "ECE 205 (ECE 110 and either ECE 210 or ECE 211 may be substituted)",
+              "3",
+              "PHYS 214",
+              "2"
+            ],
+            [
+              "Language Other Than English (3rd level) course",
+              "4",
+              "TAM 445",
+              "4"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 442",
+              "3",
+              "Secondary Field elective course or ME 470",
+              "3"
+            ],
+            [
+              "ME 470 (or Secondary Field elective course)",
+              "3",
+              "Secondary Field Eeective course",
+              "3"
+            ],
+            [
+              "TAM 470",
+              "3",
+              "Secondary Field elective course",
+              "3"
+            ],
+            [
+              "Secondary Field elective course",
+              "3",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course)",
+              "3",
+              "Free elective course",
+              "4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Engineering Mechanics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Student learning outcomes are based on learning outcomes in line with the ABET accreditation process."
+      },
+      {
+        "type": "paragraph",
+        "content": "Engineering Mechanics graduates will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "An ability to communicate effectively with a range of audiences.",
+          "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Current Student Learning Outcomes"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Engineering Mechanics"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Mechanical Science & Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Mechanical Science & Engineering Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions\nThe Grainger College of Engineering"
+      }
+    ]
+  }
+}

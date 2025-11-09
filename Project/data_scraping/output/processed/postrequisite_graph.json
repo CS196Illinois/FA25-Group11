@@ -1,0 +1,6706 @@
+{
+  "AAS 100": [
+    "AAS 211",
+    "AAS 287",
+    "AAS 290",
+    "AAS 315"
+  ],
+  "AAS 120": [
+    "AAS 211",
+    "AAS 287",
+    "AAS 315"
+  ],
+  "MATH 220": [
+    "ABE 227",
+    "ABE 228",
+    "ACE 300",
+    "ACE 504",
+    "ACE 562",
+    "ACE 563",
+    "ARCH 232",
+    "ASTR 310",
+    "ATMS 202",
+    "CHEM 202",
+    "CS 101",
+    "CS 173",
+    "CS 277",
+    "CS 361",
+    "ECE 317",
+    "ECE 401",
+    "ECON 202",
+    "ECON 203",
+    "ECON 303",
+    "ECON 402",
+    "ECON 442",
+    "ENG 471",
+    "FIN 453",
+    "FSHN 201",
+    "FSHN 460",
+    "FSHN 469",
+    "GEOL 460",
+    "GEOL 470",
+    "GEOL 560",
+    "IB 494",
+    "MATH 213",
+    "MATH 225",
+    "MATH 231",
+    "MATH 257",
+    "MATH 299",
+    "MCB 432",
+    "MUS 105",
+    "NRES 403",
+    "NRES 421",
+    "NRES 427",
+    "NRES 429",
+    "NRES 490",
+    "PHYS 100"
+  ],
+  "MATH 221": [
+    "ABE 227",
+    "ABE 228",
+    "ABE 426",
+    "ACE 300",
+    "ACE 504",
+    "ACE 562",
+    "ACE 563",
+    "ARCH 232",
+    "ATMS 202",
+    "CHEM 202",
+    "CS 101",
+    "CS 173",
+    "CS 277",
+    "CS 361",
+    "ECE 317",
+    "ECON 202",
+    "ECON 203",
+    "ECON 303",
+    "ENG 471",
+    "FIN 453",
+    "GEOL 460",
+    "GEOL 470",
+    "IB 494",
+    "MATH 213",
+    "MATH 225",
+    "MATH 231",
+    "MATH 257",
+    "MATH 299",
+    "MCB 432",
+    "NRES 403",
+    "NRES 421",
+    "NRES 427",
+    "NRES 429",
+    "NRES 490",
+    "PHYS 100"
+  ],
+  "MATH 234": [
+    "ABE 227",
+    "ABE 228",
+    "ACE 300",
+    "ACE 562",
+    "ACE 563",
+    "CS 277",
+    "ECE 317",
+    "ECON 202",
+    "ECON 203",
+    "ECON 303",
+    "ETMA 339",
+    "FIN 453",
+    "NRES 201",
+    "NRES 351",
+    "NRES 403",
+    "NRES 421",
+    "NRES 427",
+    "NRES 429",
+    "NRES 490"
+  ],
+  "MATH 241": [
+    "ABE 340",
+    "AE 311",
+    "AE 323",
+    "ASRM 401",
+    "ATMS 301",
+    "ATMS 302",
+    "ATMS 303",
+    "ATMS 304",
+    "ATMS 305",
+    "ATMS 410",
+    "ATMS 420",
+    "ATMS 514",
+    "CEE 202",
+    "CHBE 321",
+    "CHBE 421",
+    "CHEM 440",
+    "CS 101",
+    "CS 357",
+    "GEOL 451",
+    "GEOL 452",
+    "IE 300",
+    "MATH 285",
+    "MATH 314",
+    "ME 200",
+    "MSE 206",
+    "NPRE 321",
+    "PHYS 212",
+    "PHYS 213",
+    "TAM 210",
+    "TAM 211"
+  ],
+  "ABE 227": [
+    "ABE 341"
+  ],
+  "ABE 228": [
+    "ABE 341"
+  ],
+  "TAM 212": [
+    "ABE 361",
+    "AE 202",
+    "AE 352",
+    "AE 353",
+    "ME 370",
+    "SE 310",
+    "SE 320",
+    "TAM 335",
+    "TAM 412"
+  ],
+  "CS 101": [
+    "ABE 412",
+    "ABE 426",
+    "BIOE 205",
+    "BIOE 210",
+    "BIOE 510",
+    "CEE 201",
+    "CEE 202",
+    "CEE 320",
+    "CHBE 221",
+    "CHBE 440",
+    "CS 357",
+    "IS 305",
+    "MATH 257",
+    "MCB 419",
+    "ME 447",
+    "NPRE 247",
+    "PHYS 371",
+    "PHYS 407",
+    "SE 310",
+    "SE 320"
+  ],
+  "MATH 257": [
+    "ABE 412",
+    "ABE 426",
+    "AE 352",
+    "AE 353",
+    "BIOE 310",
+    "CEE 201",
+    "CHBE 413",
+    "CHBE 461",
+    "CHEM 444",
+    "CS 307",
+    "CS 357",
+    "CS 361",
+    "ECE 305",
+    "ECE 313",
+    "ECE 364",
+    "ECE 470",
+    "ECE 584",
+    "FIN 453",
+    "IE 310",
+    "IE 524",
+    "ME 543",
+    "SE 424",
+    "TAM 210",
+    "TAM 211",
+    "TAM 412"
+  ],
+  "ECE 205": [
+    "ABE 425",
+    "BIOE 414",
+    "ECE 206",
+    "ECE 333",
+    "ECE 340"
+  ],
+  "MATH 285": [
+    "ABE 426",
+    "ABE 476",
+    "AE 312",
+    "AE 321",
+    "AE 323",
+    "AE 352",
+    "AE 353",
+    "ATMS 405",
+    "ATMS 406",
+    "ATMS 411",
+    "ATMS 502",
+    "BIOE 205",
+    "BIOE 360",
+    "BIOE 504",
+    "BIOE 510",
+    "CEE 555",
+    "CEE 557",
+    "CHBE 440",
+    "CHBE 451",
+    "CHBE 461",
+    "ECE 210",
+    "ECE 211",
+    "ECE 380",
+    "GEOL 506",
+    "GEOL 552",
+    "ME 310",
+    "ME 320",
+    "ME 505",
+    "MSE 401",
+    "MSE 405",
+    "NPRE 247",
+    "NPRE 349",
+    "NPRE 445",
+    "NPRE 448",
+    "NPRE 470",
+    "PHYS 325",
+    "PHYS 435",
+    "PHYS 508",
+    "SE 320",
+    "TAM 412",
+    "TAM 531",
+    "TAM 532",
+    "TAM 541",
+    "TAM 551"
+  ],
+  "IE 300": [
+    "ABE 426",
+    "CEE 340",
+    "CEE 438",
+    "CHBE 415",
+    "ECE 314",
+    "ECE 418",
+    "ECE 484",
+    "IE 330",
+    "IE 370",
+    "IE 371",
+    "IE 431",
+    "IE 522",
+    "IE 529",
+    "IE 533",
+    "SE 495",
+    "SE 524"
+  ],
+  "ECE 313": [
+    "ABE 426",
+    "CS 473",
+    "ECE 307",
+    "ECE 314",
+    "ECE 365",
+    "ECE 417",
+    "ECE 418",
+    "ECE 446",
+    "ECE 459",
+    "ECE 460",
+    "ECE 461",
+    "ECE 468",
+    "ECE 484",
+    "ECE 513",
+    "ECE 534",
+    "ECE 541",
+    "ECE 547",
+    "ECE 551",
+    "ECE 553",
+    "ECE 554",
+    "ECE 558",
+    "ECE 588"
+  ],
+  "STAT 400": [
+    "ABE 426",
+    "ABE 526",
+    "ASRM 441",
+    "ASRM 442",
+    "ASRM 461",
+    "ASRM 462",
+    "ASRM 533",
+    "BIOE 505",
+    "CEE 438",
+    "CEE 473",
+    "CHBE 415",
+    "CS 473",
+    "CS 545",
+    "CS 574",
+    "ECE 417",
+    "ECE 418",
+    "ECE 484",
+    "ECE 534",
+    "ECON 574",
+    "FIN 591",
+    "MATH 467",
+    "STAT 448"
+  ],
+  "CS 124": [
+    "ABE 426",
+    "BIOE 205",
+    "BIOE 210",
+    "CEE 201",
+    "CEE 202",
+    "CS 128",
+    "CS 173",
+    "CS 357",
+    "ECE 484",
+    "MUS 105",
+    "MUS 205",
+    "MUS 305",
+    "PHYS 371",
+    "PHYS 407",
+    "SE 310",
+    "SE 320"
+  ],
+  "ECE 220": [
+    "ABE 426",
+    "CS 173",
+    "CS 225",
+    "CS 357",
+    "ECE 385",
+    "ECE 391",
+    "ECE 408",
+    "ECE 462",
+    "ECE 479",
+    "ECE 484"
+  ],
+  "TAM 335": [
+    "ABE 454",
+    "ABE 476",
+    "AE 412",
+    "CEE 437",
+    "CEE 451",
+    "CEE 452",
+    "CEE 457",
+    "CEE 473",
+    "CEE 553",
+    "CEE 555",
+    "ME 320",
+    "ME 412",
+    "ME 420",
+    "NPRE 349",
+    "SE 494",
+    "TAM 435"
+  ],
+  "NRES 201": [
+    "ABE 454",
+    "ABE 455",
+    "CPSC 412",
+    "HORT 341",
+    "HORT 442",
+    "NRES 418",
+    "NRES 419",
+    "NRES 436",
+    "NRES 438",
+    "NRES 471",
+    "NRES 474",
+    "NRES 475",
+    "NRES 482",
+    "NRES 487",
+    "NRES 488",
+    "NRES 572"
+  ],
+  "CEE 350": [
+    "ABE 455",
+    "ABE 457",
+    "CEE 450",
+    "CEE 453",
+    "CEE 457",
+    "CEE 458",
+    "CEE 552"
+  ],
+  "NRES 401": [
+    "ABE 455"
+  ],
+  "CEE 380": [
+    "ABE 455",
+    "CEE 483"
+  ],
+  "ABE 457": [
+    "ABE 458"
+  ],
+  "ABE 340": [
+    "ABE 466",
+    "ABE 488"
+  ],
+  "ME 200": [
+    "ABE 466",
+    "ABE 488",
+    "AE 512",
+    "CEE 340",
+    "ME 310",
+    "ME 320",
+    "ME 404",
+    "ME 505",
+    "NPRE 448"
+  ],
+  "PHYS 213": [
+    "ABE 476",
+    "CEE 340",
+    "PHYS 360",
+    "PHYS 407",
+    "PHYS 427"
+  ],
+  "CHBE 321": [
+    "ABE 488",
+    "CHBE 422",
+    "CHBE 461",
+    "CHBE 478",
+    "CHBE 481",
+    "CHBE 525"
+  ],
+  "MATH 225": [
+    "ABE 526",
+    "AE 352",
+    "AE 353",
+    "CHBE 413",
+    "CHEM 442",
+    "CHEM 444",
+    "CS 307",
+    "CS 357",
+    "CS 361",
+    "ECE 470",
+    "TAM 412"
+  ],
+  "ECON 102": [
+    "ACCY 201",
+    "ACE 251",
+    "ACE 270",
+    "ACE 300",
+    "ACE 310",
+    "ACE 427",
+    "ACE 430",
+    "ECON 302",
+    "ECON 303",
+    "ECON 450",
+    "ECON 483",
+    "ECON 500",
+    "ECON 501",
+    "FIN 221",
+    "FIN 241",
+    "GGIS 205",
+    "NRES 325"
+  ],
+  "ECON 103": [
+    "ACCY 201",
+    "ECON 303",
+    "ECON 450",
+    "ECON 501",
+    "FIN 221",
+    "GGIS 205"
+  ],
+  "ACCY 201": [
+    "ACCY 202",
+    "ACCY 290",
+    "ACE 345"
+  ],
+  "ACCY 202": [
+    "ACCY 290",
+    "ACCY 301",
+    "ACCY 302",
+    "ACCY 312"
+  ],
+  "ACCY 302": [
+    "ACCY 301",
+    "ACCY 304"
+  ],
+  "BADM 210": [
+    "ACCY 302",
+    "BADM 211",
+    "BADM 361",
+    "BADM 374"
+  ],
+  "ACCY 301": [
+    "ACCY 302",
+    "ACCY 303",
+    "ACCY 304"
+  ],
+  "FIN 221": [
+    "ACCY 303",
+    "ACE 446",
+    "FIN 300"
+  ],
+  "ACCY 304": [
+    "ACCY 405",
+    "ACCY 415"
+  ],
+  "FIN 300": [
+    "ACCY 511",
+    "ACE 428",
+    "FIN 321",
+    "FIN 411",
+    "FIN 412",
+    "FIN 413",
+    "FIN 416",
+    "FIN 418",
+    "FIN 422",
+    "FIN 428",
+    "FIN 434",
+    "FIN 435",
+    "FIN 444",
+    "FIN 445",
+    "FIN 446",
+    "FIN 461",
+    "FIN 463",
+    "FIN 490"
+  ],
+  "ACCY 405": [
+    "ACCY 515"
+  ],
+  "ACCY 312": [
+    "ACCY 550",
+    "ACCY 551",
+    "ACCY 552",
+    "ACCY 556"
+  ],
+  "ACCY 557": [
+    "ACCY 561"
+  ],
+  "ACCY 576": [
+    "ACCY 577",
+    "ACCY 578"
+  ],
+  "MATH 463": [
+    "ACCY 585",
+    "ASRM 461",
+    "ASRM 561",
+    "CS 473",
+    "CS 545",
+    "CS 574",
+    "ECE 541"
+  ],
+  "ECON 502": [
+    "ACCY 585",
+    "ACE 505",
+    "ECON 503",
+    "ECON 512",
+    "ECON 520",
+    "ECON 521",
+    "ECON 522",
+    "ECON 523",
+    "FIN 591"
+  ],
+  "ACCY 592": [
+    "ACCY 594"
+  ],
+  "ACE 240": [
+    "ACE 241",
+    "ACE 243",
+    "ACE 344",
+    "ACE 349",
+    "ACE 441",
+    "ACE 445",
+    "ACE 446"
+  ],
+  "ACE 100": [
+    "ACE 251",
+    "ACE 270",
+    "ACE 300",
+    "ACE 310",
+    "ACE 427",
+    "ACE 430",
+    "NRES 325"
+  ],
+  "ACE 262": [
+    "ACE 264",
+    "ACE 427",
+    "ACE 435",
+    "ACE 562",
+    "ETMA 339"
+  ],
+  "ACE 161": [
+    "ACE 360"
+  ],
+  "CS 105": [
+    "ACE 360",
+    "BADM 211",
+    "CS 357",
+    "ETMA 339",
+    "IS 305"
+  ],
+  "ACE 222": [
+    "ACE 428"
+  ],
+  "ACE 231": [
+    "ACE 431"
+  ],
+  "BADM 320": [
+    "ACE 431",
+    "BADM 321",
+    "BADM 322",
+    "BADM 323",
+    "BADM 324",
+    "BADM 325",
+    "BADM 326",
+    "BADM 327",
+    "BADM 329",
+    "BADM 330",
+    "BADM 364",
+    "BADM 382",
+    "BADM 420"
+  ],
+  "ACE 349": [
+    "ACE 441"
+  ],
+  "FIN 230": [
+    "ACE 441"
+  ],
+  "ACE 300": [
+    "ACE 445",
+    "ACE 455"
+  ],
+  "ECON 302": [
+    "ACE 445",
+    "ACE 455",
+    "ACE 510",
+    "ECON 399",
+    "ECON 402",
+    "ECON 411",
+    "ECON 420",
+    "ECON 440",
+    "ECON 442",
+    "ECON 471",
+    "ECON 480",
+    "ECON 481",
+    "ECON 483",
+    "ECON 484",
+    "ECON 510",
+    "ECON 513",
+    "ECON 514",
+    "ECON 530",
+    "ECON 531",
+    "ECON 540",
+    "ECON 541",
+    "ECON 549"
+  ],
+  "ACE 345": [
+    "ACE 446"
+  ],
+  "ACE 360": [
+    "ACE 446"
+  ],
+  "ECON 500": [
+    "ACE 501",
+    "ACE 502",
+    "ACE 503",
+    "ACE 520",
+    "ACE 527",
+    "ACE 528",
+    "ACE 531",
+    "ACE 542",
+    "ACE 557",
+    "ACE 559",
+    "ACE 571",
+    "ECON 505",
+    "ECON 511",
+    "ECON 512",
+    "ECON 519",
+    "ECON 520",
+    "ECON 522"
+  ],
+  "ECON 506": [
+    "ACE 501",
+    "ACE 530",
+    "ECON 507"
+  ],
+  "ACE 501": [
+    "ACE 502",
+    "ACE 557",
+    "ACE 559"
+  ],
+  "MATH 231": [
+    "ACE 504",
+    "ARCH 232",
+    "ASRM 210",
+    "ATMS 410",
+    "BIOE 210",
+    "CEE 201",
+    "CHBE 411",
+    "CS 101",
+    "MATH 241",
+    "MATH 284",
+    "MATH 347",
+    "MCB 432",
+    "MSE 201",
+    "NPRE 200",
+    "NPRE 442",
+    "PHYS 211",
+    "STAT 400"
+  ],
+  "ACE 562": [
+    "ACE 520",
+    "ACE 527",
+    "ACE 532",
+    "ACE 564"
+  ],
+  "ACE 563": [
+    "ACE 520"
+  ],
+  "ECON 507": [
+    "ACE 527",
+    "ACE 530",
+    "FIN 593",
+    "FIN 594"
+  ],
+  "ACE 500": [
+    "ACE 531",
+    "ACE 557",
+    "ACE 559"
+  ],
+  "ACE 564": [
+    "ACE 532"
+  ],
+  "ECON 535": [
+    "ACE 532",
+    "ECON 536",
+    "ECON 551",
+    "ECON 576"
+  ],
+  "MATH 124": [
+    "ACE 563"
+  ],
+  "ACE 561": [
+    "ACE 569"
+  ],
+  "ADV 150": [
+    "ADV 222",
+    "ADV 396"
+  ],
+  "STAT 100": [
+    "ADV 281",
+    "GGIS 477",
+    "HDFS 330",
+    "JOUR 410",
+    "NRES 340",
+    "UP 317"
+  ],
+  "ADV 200": [
+    "ADV 281"
+  ],
+  "ADV 250": [
+    "ADV 333",
+    "ADV 360",
+    "ADV 483",
+    "ADV 498"
+  ],
+  "ADV 284": [
+    "ADV 333",
+    "ADV 360",
+    "ADV 461",
+    "ADV 483"
+  ],
+  "ADV 310": [
+    "ADV 350",
+    "ADV 410"
+  ],
+  "ADV 281": [
+    "ADV 378",
+    "ADV 396",
+    "ADV 484",
+    "ADV 494",
+    "ADV 497"
+  ],
+  "CS 225": [
+    "ADV 492",
+    "CS 210",
+    "CS 211",
+    "CS 222",
+    "CS 233",
+    "CS 340",
+    "CS 341",
+    "CS 374",
+    "CS 464",
+    "CS 465",
+    "ECE 479",
+    "ECE 549",
+    "IE 523",
+    "IE 531"
+  ],
+  "ADV 360": [
+    "ADV 498"
+  ],
+  "ADV 390": [
+    "ADV 498"
+  ],
+  "ADV 587": [
+    "ADV 588"
+  ],
+  "ADV 588": [
+    "ADV 598",
+    "ADV 599"
+  ],
+  "AE 352": [
+    "AE 302",
+    "AE 442",
+    "AE 461",
+    "AE 483",
+    "AE 504",
+    "AE 554",
+    "ECE 456",
+    "TAM 416"
+  ],
+  "AE 202": [
+    "AE 311",
+    "AE 312",
+    "AE 483",
+    "AE 484"
+  ],
+  "TAM 210": [
+    "AE 321",
+    "AE 323",
+    "TAM 212",
+    "TAM 251"
+  ],
+  "TAM 211": [
+    "AE 321",
+    "AE 323",
+    "CEE 331",
+    "TAM 212",
+    "TAM 251"
+  ],
+  "AE 321": [
+    "AE 323",
+    "AE 370",
+    "AE 461",
+    "AE 528",
+    "AE 529",
+    "MSE 456"
+  ],
+  "MATH 284": [
+    "AE 352",
+    "CHBE 440"
+  ],
+  "AE 311": [
+    "AE 370",
+    "AE 412",
+    "AE 442",
+    "AE 460",
+    "AE 484",
+    "AE 512",
+    "AE 564",
+    "ME 501"
+  ],
+  "AE 312": [
+    "AE 370",
+    "AE 512",
+    "AE 564",
+    "TAM 435"
+  ],
+  "AE 323": [
+    "AE 370",
+    "AE 442"
+  ],
+  "ME 310": [
+    "AE 412",
+    "ME 320",
+    "ME 412",
+    "ME 420",
+    "NPRE 349",
+    "TAM 435"
+  ],
+  "AE 442": [
+    "AE 443",
+    "AE 542"
+  ],
+  "AE 353": [
+    "AE 483",
+    "ECE 456"
+  ],
+  "AE 370": [
+    "AE 483"
+  ],
+  "PHYS 212": [
+    "AE 483",
+    "ASTR 404",
+    "ASTR 405",
+    "ASTR 406",
+    "ASTR 414",
+    "ATMS 304",
+    "ATMS 411",
+    "BIOE 205",
+    "CHEM 442",
+    "CHEM 444",
+    "ECE 205",
+    "ECE 210",
+    "ECE 211",
+    "GEOL 451",
+    "MCB 419",
+    "ME 487",
+    "NPRE 321",
+    "NPRE 442",
+    "NPRE 445",
+    "NPRE 470",
+    "PHYS 214",
+    "PHYS 222",
+    "PHYS 225",
+    "PHYS 360",
+    "PHYS 371"
+  ],
+  "AE 504": [
+    "AE 508"
+  ],
+  "AE 412": [
+    "AE 514"
+  ],
+  "TAM 451": [
+    "AE 522",
+    "AE 523",
+    "AE 527",
+    "AE 528",
+    "AE 529",
+    "AE 560",
+    "CEE 575",
+    "CEE 586",
+    "TAM 534",
+    "TAM 559"
+  ],
+  "TAM 551": [
+    "AE 522",
+    "AE 523",
+    "AE 560",
+    "CEE 570",
+    "CEE 571",
+    "CEE 575",
+    "CEE 577",
+    "ME 570",
+    "TAM 514",
+    "TAM 518",
+    "TAM 524",
+    "TAM 545",
+    "TAM 552",
+    "TAM 557",
+    "TAM 559"
+  ],
+  "TAM 428": [
+    "AE 525",
+    "AE 526"
+  ],
+  "AE 443": [
+    "AE 542"
+  ],
+  "ME 470": [
+    "AE 542"
+  ],
+  "ECE 445": [
+    "AE 542"
+  ],
+  "ECE 411": [
+    "AE 542",
+    "ECE 511",
+    "ECE 522",
+    "ECE 542"
+  ],
+  "CS 492": [
+    "AE 542",
+    "CS 493",
+    "CS 494"
+  ],
+  "CS 493": [
+    "AE 542"
+  ],
+  "CEE 465": [
+    "AE 542"
+  ],
+  "AE 542": [
+    "AE 543"
+  ],
+  "TAM 416": [
+    "AE 554"
+  ],
+  "TAM 412": [
+    "AE 554",
+    "ME 543",
+    "TAM 416",
+    "TAM 514"
+  ],
+  "ECE 515": [
+    "AE 555",
+    "AE 556",
+    "ECE 517",
+    "ECE 528",
+    "ECE 553",
+    "ECE 554",
+    "ECE 555",
+    "ECE 557",
+    "ECE 568",
+    "ME 547",
+    "ME 561",
+    "ME 562"
+  ],
+  "AE 460": [
+    "AE 564"
+  ],
+  "AFAS 112": [
+    "AFAS 221"
+  ],
+  "AFAS 221": [
+    "AFAS 222"
+  ],
+  "AFAS 222": [
+    "AFAS 331"
+  ],
+  "AFAS 331": [
+    "AFAS 332"
+  ],
+  "AFAS 332": [
+    "AFAS 341"
+  ],
+  "AFAS 341": [
+    "AFAS 342"
+  ],
+  "AFRO 100": [
+    "AFRO 220",
+    "AFRO 224",
+    "AFRO 298",
+    "AFRO 373",
+    "AFRO 383",
+    "AFRO 495",
+    "GWS 380"
+  ],
+  "AFRO 101": [
+    "AFRO 290",
+    "AFRO 298",
+    "AFRO 372",
+    "AFRO 373",
+    "AFRO 383"
+  ],
+  "HIST 276": [
+    "AFRO 290",
+    "AFRO 372",
+    "AFRO 373",
+    "AFRO 398"
+  ],
+  "HIST 172": [
+    "AFRO 290"
+  ],
+  "PS 201": [
+    "AFRO 290"
+  ],
+  "SOC 225": [
+    "AFRO 372"
+  ],
+  "AFRO 261": [
+    "AFRO 373"
+  ],
+  "ENGL 260": [
+    "AFRO 373",
+    "AFRO 398"
+  ],
+  "AFRO 103": [
+    "AFRO 383"
+  ],
+  "AFRO 224": [
+    "AFRO 398"
+  ],
+  "HIST 275": [
+    "AFRO 398"
+  ],
+  "ENGL 259": [
+    "AFRO 398"
+  ],
+  "PSYC 201": [
+    "AFRO 410",
+    "PSYC 332",
+    "PSYC 333",
+    "PSYC 353",
+    "PSYC 455"
+  ],
+  "AFRO 220": [
+    "AFRO 495"
+  ],
+  "AFRO 500": [
+    "AFRO 597",
+    "AFRO 598"
+  ],
+  "AGCM 220": [
+    "AGCM 380"
+  ],
+  "AGED 220": [
+    "AGED 250",
+    "AGED 420"
+  ],
+  "AGED 250": [
+    "AGED 350"
+  ],
+  "AGED 420": [
+    "AGED 421",
+    "AGED 450"
+  ],
+  "AIS 501": [
+    "AIS 502",
+    "AIS 503"
+  ],
+  "AIS 502": [
+    "AIS 503"
+  ],
+  "ALEC 490": [
+    "ALEC 491",
+    "ALEC 492"
+  ],
+  "ALEC 505": [
+    "ALEC 545"
+  ],
+  "ALEC 545": [
+    "ALEC 595"
+  ],
+  "ANSC 100": [
+    "ANSC 103",
+    "ANSC 201",
+    "ANSC 221",
+    "ANSC 222",
+    "ANSC 223",
+    "ANSC 224",
+    "ANSC 363"
+  ],
+  "CHEM 102": [
+    "ANSC 221",
+    "ANSC 222",
+    "ANSC 409",
+    "ATMS 420",
+    "CHBE 121",
+    "CHBE 458",
+    "CHEM 103",
+    "CHEM 104",
+    "CHEM 105",
+    "CHEM 150",
+    "CHEM 360",
+    "CPSC 382",
+    "GEOL 333",
+    "GEOL 380",
+    "HORT 363",
+    "IB 452",
+    "MCB 244",
+    "MCB 245",
+    "MCB 246",
+    "MCB 247",
+    "MCB 250",
+    "ME 330",
+    "ME 483",
+    "MSE 280",
+    "NPRE 470",
+    "NRES 201",
+    "NRES 401",
+    "NRES 429"
+  ],
+  "ANSC 221": [
+    "ANSC 223",
+    "ANSC 224",
+    "ANSC 307",
+    "ANSC 406",
+    "ANSC 409",
+    "ANSC 435",
+    "ANSC 454",
+    "ANSC 464",
+    "ANSC 467"
+  ],
+  "ANSC 223": [
+    "ANSC 301",
+    "ANSC 307",
+    "ANSC 322",
+    "ANSC 401",
+    "ANSC 402",
+    "ANSC 403",
+    "ANSC 420",
+    "ANSC 421",
+    "ANSC 422",
+    "ANSC 424",
+    "ANSC 467"
+  ],
+  "ANSC 224": [
+    "ANSC 301",
+    "ANSC 306",
+    "ANSC 307",
+    "ANSC 403",
+    "ANSC 431",
+    "ANSC 438"
+  ],
+  "ANSC 222": [
+    "ANSC 306",
+    "ANSC 307",
+    "ANSC 454",
+    "ANSC 464",
+    "ANSC 467",
+    "ANSC 520"
+  ],
+  "ANSC 211": [
+    "ANSC 312"
+  ],
+  "CHEM 236": [
+    "ANSC 350",
+    "BIOC 455",
+    "CHEM 237",
+    "CHEM 312",
+    "CHEM 360",
+    "CHEM 436",
+    "MCB 354",
+    "MCB 450",
+    "MSE 474"
+  ],
+  "ANSC 250": [
+    "ANSC 370",
+    "ANSC 470"
+  ],
+  "ANSC 201": [
+    "ANSC 400"
+  ],
+  "ANSC 431": [
+    "ANSC 403"
+  ],
+  "IB 104": [
+    "ANSC 406",
+    "CPSC 352"
+  ],
+  "ANSC 207": [
+    "ANSC 407"
+  ],
+  "ANSC 307": [
+    "ANSC 407"
+  ],
+  "IB 100": [
+    "ANSC 409",
+    "CPSC 437",
+    "IB 407"
+  ],
+  "MCB 450": [
+    "ANSC 421",
+    "ANSC 520",
+    "ANSC 522",
+    "BIOC 455",
+    "BIOP 401",
+    "CB 467",
+    "CB 514",
+    "CHBE 478",
+    "CHEM 474",
+    "CPSC 566",
+    "CPSC 588",
+    "FSHN 420",
+    "FSHN 521",
+    "FSHN 522",
+    "FSHN 527",
+    "IB 421",
+    "MCB 400",
+    "MCB 424",
+    "MCB 468",
+    "MSE 474",
+    "NUTR 511"
+  ],
+  "ANSC 350": [
+    "ANSC 421",
+    "ANSC 451",
+    "ANSC 522"
+  ],
+  "ANSC 322": [
+    "ANSC 424"
+  ],
+  "ANSC 422": [
+    "ANSC 424",
+    "ANSC 526"
+  ],
+  "CPSC 440": [
+    "ANSC 445",
+    "CPSC 444",
+    "CPSC 540",
+    "CPSC 541",
+    "CPSC 543",
+    "CPSC 554"
+  ],
+  "MCB 100": [
+    "ANSC 451",
+    "FSHN 471",
+    "FSHN 472",
+    "MCB 101"
+  ],
+  "MCB 300": [
+    "ANSC 451",
+    "FSHN 471",
+    "MCB 301",
+    "MCB 421",
+    "MCB 426",
+    "MCB 428",
+    "MCB 430",
+    "MCB 431",
+    "MCB 435",
+    "MCB 438",
+    "PATH 433"
+  ],
+  "MCB 424": [
+    "ANSC 451",
+    "MCB 534"
+  ],
+  "ANSC 450": [
+    "ANSC 454"
+  ],
+  "MATH 112": [
+    "ANSC 480",
+    "CHEM 101",
+    "CHEM 102",
+    "CHEM 108",
+    "CPSC 440",
+    "CS 105",
+    "CS 124",
+    "CS 125",
+    "EPSY 280",
+    "IS 203",
+    "MATH 103",
+    "MATH 115",
+    "MATH 117",
+    "MATH 124",
+    "MATH 234",
+    "STAT 100"
+  ],
+  "ANSC 298": [
+    "ANSC 498"
+  ],
+  "ANSC 420": [
+    "ANSC 522"
+  ],
+  "ANSC 480": [
+    "ANSC 580"
+  ],
+  "ANTH 102": [
+    "ANTH 243",
+    "ANTH 347",
+    "ANTH 358"
+  ],
+  "ANTH 143": [
+    "ANTH 243",
+    "ANTH 343"
+  ],
+  "ANTH 246": [
+    "ANTH 247",
+    "ANTH 346"
+  ],
+  "ANTH 240": [
+    "ANTH 347",
+    "ANTH 358"
+  ],
+  "ANTH 104": [
+    "ANTH 352",
+    "ANTH 353",
+    "ANTH 372"
+  ],
+  "ANTH 270": [
+    "ANTH 352",
+    "ANTH 353",
+    "ANTH 372"
+  ],
+  "ANTH 230": [
+    "ANTH 379",
+    "ANTH 466"
+  ],
+  "ANTH 347": [
+    "ANTH 447"
+  ],
+  "ANTH 103": [
+    "ANTH 466",
+    "MUS 416"
+  ],
+  "ARAB 201": [
+    "ARAB 202"
+  ],
+  "ARAB 210": [
+    "ARAB 211"
+  ],
+  "ARAB 202": [
+    "ARAB 403"
+  ],
+  "ARAB 403": [
+    "ARAB 404"
+  ],
+  "ARAB 404": [
+    "ARAB 405"
+  ],
+  "ARAB 405": [
+    "ARAB 406"
+  ],
+  "ARAB 406": [
+    "ARAB 407"
+  ],
+  "ARAB 407": [
+    "ARAB 408"
+  ],
+  "ARCH 171": [
+    "ARCH 172",
+    "FAA 330"
+  ],
+  "PHYS 101": [
+    "ARCH 232",
+    "ENG 471",
+    "FSHN 201",
+    "FSHN 460",
+    "GGIS 406",
+    "NRES 429",
+    "PHYS 102",
+    "PHYS 420"
+  ],
+  "ARCH 172": [
+    "ARCH 273"
+  ],
+  "ARCH 273": [
+    "ARCH 274"
+  ],
+  "ARCH 274": [
+    "ARCH 371"
+  ],
+  "ARCH 371": [
+    "ARCH 372"
+  ],
+  "ARCH 210": [
+    "ARCH 402",
+    "ARCH 403",
+    "ARCH 409",
+    "ARCH 410",
+    "ARCH 411",
+    "ARCH 412",
+    "ARCH 414",
+    "ARCH 415",
+    "ARCH 416",
+    "ARCH 417",
+    "ARCH 418"
+  ],
+  "ARTH 111": [
+    "ARCH 410",
+    "ARCH 411",
+    "ARCH 412"
+  ],
+  "CLCV 131": [
+    "ARCH 410",
+    "ARCH 411"
+  ],
+  "CLCV 132": [
+    "ARCH 411"
+  ],
+  "ARTH 112": [
+    "ARCH 414",
+    "ARCH 415",
+    "ARCH 416",
+    "ARCH 417"
+  ],
+  "ARCH 232": [
+    "ARCH 433",
+    "ARCH 435",
+    "ARCH 536",
+    "ARCH 551",
+    "ARCH 558"
+  ],
+  "ARCH 231": [
+    "ARCH 435",
+    "ARCH 471"
+  ],
+  "ARCH 433": [
+    "ARCH 435",
+    "ARCH 536",
+    "ARCH 550",
+    "ARCH 551"
+  ],
+  "ARCH 471": [
+    "ARCH 472"
+  ],
+  "ARCH 372": [
+    "ARCH 473"
+  ],
+  "ARCH 473": [
+    "ARCH 474"
+  ],
+  "ARCH 410": [
+    "ARCH 511"
+  ],
+  "ARCH 411": [
+    "ARCH 511",
+    "ARCH 512"
+  ],
+  "ARCH 412": [
+    "ARCH 512"
+  ],
+  "ARCH 414": [
+    "ARCH 513"
+  ],
+  "ARCH 415": [
+    "ARCH 516"
+  ],
+  "ARCH 416": [
+    "ARCH 516"
+  ],
+  "ARCH 417": [
+    "ARCH 516"
+  ],
+  "ARCH 419": [
+    "ARCH 518"
+  ],
+  "ARCH 321": [
+    "ARCH 522",
+    "ARCH 525"
+  ],
+  "ARCH 521": [
+    "ARCH 522",
+    "ARCH 525"
+  ],
+  "ARCH 434": [
+    "ARCH 537"
+  ],
+  "ARCH 536": [
+    "ARCH 538",
+    "ARCH 557",
+    "ARCH 574",
+    "ARCH 575"
+  ],
+  "ARCH 537": [
+    "ARCH 538",
+    "ARCH 575"
+  ],
+  "ARCH 551": [
+    "ARCH 552",
+    "ARCH 553",
+    "ARCH 557",
+    "ARCH 560"
+  ],
+  "ARCH 550": [
+    "ARCH 553"
+  ],
+  "ARCH 560": [
+    "ARCH 553",
+    "ARCH 554"
+  ],
+  "ARCH 553": [
+    "ARCH 555",
+    "ARCH 556"
+  ],
+  "ARCH 554": [
+    "ARCH 556"
+  ],
+  "ARCH 555": [
+    "ARCH 556"
+  ],
+  "ARCH 517": [
+    "ARCH 577"
+  ],
+  "LA 505": [
+    "ARCH 598"
+  ],
+  "ARCH 563": [
+    "ARCH 598"
+  ],
+  "LA 563": [
+    "ARCH 598"
+  ],
+  "ARTD 201": [
+    "ARTD 202"
+  ],
+  "ARTD 202": [
+    "ARTD 228",
+    "ARTD 301"
+  ],
+  "ARTD 301": [
+    "ARTD 302"
+  ],
+  "ARTD 218": [
+    "ARTD 318"
+  ],
+  "ARTD 222": [
+    "ARTD 333",
+    "ARTD 452"
+  ],
+  "ARTD 333": [
+    "ARTD 371"
+  ],
+  "ARTD 318": [
+    "ARTD 371",
+    "ARTD 418",
+    "ARTD 452"
+  ],
+  "ARTD 302": [
+    "ARTD 401"
+  ],
+  "ARTD 401": [
+    "ARTD 402"
+  ],
+  "ARTD 371": [
+    "ARTD 471"
+  ],
+  "ARTD 501": [
+    "ARTD 502"
+  ],
+  "ARTD 502": [
+    "ARTD 503"
+  ],
+  "ARTD 503": [
+    "ARTD 504"
+  ],
+  "ARTD 504": [
+    "ARTD 505"
+  ],
+  "ARTD 505": [
+    "ARTD 506"
+  ],
+  "ARTD 510": [
+    "ARTD 511"
+  ],
+  "ARTE 202": [
+    "ARTE 301",
+    "ARTE 304"
+  ],
+  "ARTE 304": [
+    "ARTE 303",
+    "ARTE 400"
+  ],
+  "ARTE 301": [
+    "ARTE 400"
+  ],
+  "ARTE 303": [
+    "ARTE 400"
+  ],
+  "ARTE 400": [
+    "ARTE 401"
+  ],
+  "EDPR 438": [
+    "ARTE 401"
+  ],
+  "EDPR 442": [
+    "ARTE 401"
+  ],
+  "ARTH 242": [
+    "ARTH 361"
+  ],
+  "ARTH 350": [
+    "ARTH 550"
+  ],
+  "ARTH 351": [
+    "ARTH 550"
+  ],
+  "ARTF 102": [
+    "ARTS 250"
+  ],
+  "ARTF 104": [
+    "ARTS 250"
+  ],
+  "ARTF 106": [
+    "ARTS 250"
+  ],
+  "ARTS 264": [
+    "ARTS 265",
+    "ARTS 267",
+    "ARTS 365"
+  ],
+  "ARTS 265": [
+    "ARTS 266",
+    "ARTS 364"
+  ],
+  "ARTS 210": [
+    "ARTS 310"
+  ],
+  "ARTS 252": [
+    "ARTS 351"
+  ],
+  "ARTS 251": [
+    "ARTS 352",
+    "ARTS 354"
+  ],
+  "ARTS 245": [
+    "ARTS 355"
+  ],
+  "ARTS 280": [
+    "ARTS 381"
+  ],
+  "ARTS 354": [
+    "ARTS 455"
+  ],
+  "ARTS 364": [
+    "ARTS 461"
+  ],
+  "ARTS 355": [
+    "ARTS 465"
+  ],
+  "ASRM 401": [
+    "ASRM 441",
+    "ASRM 442",
+    "ASRM 461",
+    "ASRM 462",
+    "ASRM 471",
+    "ASRM 533",
+    "ASRM 561",
+    "ASRM 569"
+  ],
+  "ASRM 441": [
+    "ASRM 442"
+  ],
+  "STAT 408": [
+    "ASRM 461",
+    "STAT 409"
+  ],
+  "ASRM 402": [
+    "ASRM 461",
+    "ASRM 510"
+  ],
+  "STAT 409": [
+    "ASRM 461",
+    "STAT 448"
+  ],
+  "ASRM 461": [
+    "ASRM 462"
+  ],
+  "ASRM 210": [
+    "ASRM 471"
+  ],
+  "ASRM 471": [
+    "ASRM 472",
+    "ASRM 575"
+  ],
+  "ASRM 390": [
+    "ASRM 490"
+  ],
+  "PHYS 211": [
+    "ASTR 210",
+    "ASTR 310",
+    "ATMS 301",
+    "ATMS 302",
+    "ATMS 420",
+    "ATMS 514",
+    "BIOE 201",
+    "CEE 340",
+    "CHEM 442",
+    "CHEM 444",
+    "ENG 471",
+    "GEOL 452",
+    "GEOL 552",
+    "MSE 201",
+    "MSE 206",
+    "MSE 280",
+    "NPRE 247",
+    "PHYS 100",
+    "PHYS 212",
+    "PHYS 213",
+    "PHYS 221",
+    "PHYS 246",
+    "PHYS 360",
+    "PHYS 420",
+    "TAM 210",
+    "TAM 211"
+  ],
+  "ASTR 210": [
+    "ASTR 310",
+    "ASTR 350",
+    "ASTR 404",
+    "ASTR 405",
+    "ASTR 406",
+    "ASTR 414"
+  ],
+  "ASTR 100": [
+    "ASTR 350"
+  ],
+  "ASTR 121": [
+    "ASTR 350"
+  ],
+  "ASTR 122": [
+    "ASTR 350"
+  ],
+  "ASTR 404": [
+    "ASTR 401",
+    "ASTR 501"
+  ],
+  "ASTR 405": [
+    "ASTR 401",
+    "ASTR 505"
+  ],
+  "ASTR 406": [
+    "ASTR 401",
+    "ASTR 506",
+    "ASTR 507"
+  ],
+  "ASTR 414": [
+    "ASTR 401"
+  ],
+  "ASTR 310": [
+    "ASTR 404",
+    "ASTR 405",
+    "ASTR 406",
+    "ASTR 414"
+  ],
+  "PHYS 436": [
+    "ASTR 502",
+    "ASTR 504",
+    "MSE 580",
+    "PHYS 505",
+    "PHYS 514",
+    "PHYS 515",
+    "PHYS 541"
+  ],
+  "PHYS 427": [
+    "ASTR 502",
+    "ASTR 504",
+    "PHYS 504",
+    "PHYS 514",
+    "PHYS 552",
+    "PHYS 560"
+  ],
+  "PHYS 486": [
+    "ASTR 502",
+    "ASTR 504",
+    "ECE 532",
+    "ECE 536",
+    "ECE 574",
+    "PHYS 460",
+    "PHYS 470",
+    "PHYS 487",
+    "PHYS 504",
+    "PHYS 513",
+    "PHYS 540"
+  ],
+  "STAT 107": [
+    "ATMS 207",
+    "ETMA 339",
+    "MATH 227",
+    "STAT 207",
+    "STAT 385",
+    "UP 317"
+  ],
+  "ATMS 201": [
+    "ATMS 301",
+    "ATMS 302",
+    "ATMS 303",
+    "ATMS 307",
+    "ATMS 315",
+    "ATMS 324",
+    "ATMS 391",
+    "ATMS 410",
+    "ATMS 423"
+  ],
+  "ATMS 301": [
+    "ATMS 306",
+    "ATMS 312",
+    "ATMS 314",
+    "ATMS 405",
+    "ATMS 406",
+    "ATMS 424"
+  ],
+  "ATMS 302": [
+    "ATMS 312",
+    "ATMS 314",
+    "ATMS 405",
+    "ATMS 406",
+    "ATMS 424"
+  ],
+  "ATMS 303": [
+    "ATMS 313",
+    "ATMS 314",
+    "ATMS 380"
+  ],
+  "ATMS 305": [
+    "ATMS 325"
+  ],
+  "ATMS 304": [
+    "ATMS 405"
+  ],
+  "ATMS 313": [
+    "ATMS 413"
+  ],
+  "ATMS 500": [
+    "ATMS 514"
+  ],
+  "ATMS 517": [
+    "ATMS 521",
+    "ATMS 523"
+  ],
+  "ATMS 520": [
+    "ATMS 521"
+  ],
+  "BADM 310": [
+    "BADM 311",
+    "BADM 312",
+    "BADM 313"
+  ],
+  "BADM 332": [
+    "BADM 333"
+  ],
+  "BADM 335": [
+    "BADM 336"
+  ],
+  "BADM 352": [
+    "BADM 358"
+  ],
+  "BADM 211": [
+    "BADM 361",
+    "BADM 362",
+    "BADM 373"
+  ],
+  "BADM 353": [
+    "BADM 371"
+  ],
+  "BADM 350": [
+    "BADM 372"
+  ],
+  "ECON 203": [
+    "BADM 374",
+    "ECON 442",
+    "ECON 471",
+    "ECON 506"
+  ],
+  "BADM 380": [
+    "BADM 383"
+  ],
+  "BADM 346": [
+    "BADM 446"
+  ],
+  "BADM 367": [
+    "BADM 460",
+    "BADM 461"
+  ],
+  "BADM 366": [
+    "BADM 461"
+  ],
+  "BADM 460": [
+    "BADM 461"
+  ],
+  "BADM 532": [
+    "BADM 533"
+  ],
+  "MBA 502": [
+    "BADM 564",
+    "MBA 500",
+    "MBA 520"
+  ],
+  "BASQ 401": [
+    "BASQ 402"
+  ],
+  "PSYC 224": [
+    "BCOG 458",
+    "PHIL 351",
+    "PSYC 321",
+    "PSYC 331",
+    "PSYC 361"
+  ],
+  "PSYC 248": [
+    "BCOG 458",
+    "PSYC 321",
+    "PSYC 331"
+  ],
+  "PHIL 270": [
+    "BCOG 458"
+  ],
+  "BCS 101": [
+    "BCS 102"
+  ],
+  "BCS 102": [
+    "BCS 201"
+  ],
+  "BCS 201": [
+    "BCS 202"
+  ],
+  "BCS 301": [
+    "BCS 302"
+  ],
+  "CHEM 440": [
+    "BIOC 446",
+    "CHEM 420",
+    "CHEM 445",
+    "CHEM 447",
+    "MSE 473"
+  ],
+  "MCB 251": [
+    "BIOC 455",
+    "MCB 317",
+    "MCB 400",
+    "MCB 408",
+    "MCB 420"
+  ],
+  "MCB 354": [
+    "BIOC 455",
+    "BIOC 460",
+    "BIOC 492",
+    "BIOP 401",
+    "CB 467",
+    "CB 551",
+    "CHEM 474",
+    "IB 421",
+    "MCB 400",
+    "MCB 406",
+    "MCB 408",
+    "MCB 424",
+    "MCB 426",
+    "MCB 430",
+    "MCB 432",
+    "MCB 438",
+    "MCB 466",
+    "MCB 468",
+    "PATH 433"
+  ],
+  "BIOC 455": [
+    "BIOC 460",
+    "BIOC 492"
+  ],
+  "BIOE 120": [
+    "BIOE 200"
+  ],
+  "CHEM 104": [
+    "BIOE 201",
+    "CEE 300",
+    "CEE 330",
+    "CHBE 221",
+    "CHBE 458",
+    "CHEM 222",
+    "CHEM 236",
+    "CHEM 440",
+    "CPSC 382",
+    "ENG 471",
+    "FSHN 260",
+    "GEOL 432",
+    "GEOL 460",
+    "GEOL 560",
+    "IB 452",
+    "MCB 250",
+    "MSE 201",
+    "NRES 351",
+    "NRES 419",
+    "NRES 475",
+    "NRES 487",
+    "NRES 490",
+    "PHYS 550"
+  ],
+  "MCB 150": [
+    "BIOE 201",
+    "BIOE 202",
+    "BIOE 206",
+    "BIOE 476",
+    "IB 203",
+    "IB 270",
+    "IB 271",
+    "IB 420",
+    "IB 426",
+    "MCB 151",
+    "MCB 250",
+    "MCB 316",
+    "MCB 436",
+    "MSE 473"
+  ],
+  "BIOE 206": [
+    "BIOE 202",
+    "BIOE 302",
+    "BIOE 404",
+    "BIOE 460",
+    "BIOE 476",
+    "BIOE 479",
+    "BIOE 510"
+  ],
+  "BIOE 205": [
+    "BIOE 302",
+    "BIOE 414"
+  ],
+  "MCB 252": [
+    "BIOE 302",
+    "MCB 253",
+    "MCB 300",
+    "MCB 317",
+    "MCB 320",
+    "MCB 354",
+    "MCB 364",
+    "MCB 400",
+    "MCB 401",
+    "MCB 402",
+    "MCB 408",
+    "MCB 410",
+    "MCB 413",
+    "MCB 419",
+    "MCB 432",
+    "MCB 461",
+    "MCB 462",
+    "MCB 465",
+    "MCB 466",
+    "MCB 468",
+    "MCB 471",
+    "MCB 480",
+    "MSE 470",
+    "NE 330"
+  ],
+  "BIOE 302": [
+    "BIOE 303",
+    "BIOE 400",
+    "BIOE 404",
+    "BIOE 420"
+  ],
+  "BIOE 202": [
+    "BIOE 306",
+    "BIOE 460"
+  ],
+  "BIOE 210": [
+    "BIOE 310",
+    "CS 357",
+    "NE 412"
+  ],
+  "BIOE 201": [
+    "BIOE 360"
+  ],
+  "BIOE 303": [
+    "BIOE 400",
+    "BIOE 420"
+  ],
+  "BIOE 414": [
+    "BIOE 400",
+    "BIOE 415",
+    "BIOE 420"
+  ],
+  "BIOE 415": [
+    "BIOE 400",
+    "BIOE 420"
+  ],
+  "CS 374": [
+    "BIOE 404",
+    "CS 473",
+    "CS 521",
+    "CS 581",
+    "CS 588",
+    "IE 519"
+  ],
+  "BIOE 310": [
+    "BIOE 404",
+    "NE 412"
+  ],
+  "ECE 210": [
+    "BIOE 414",
+    "ECE 307",
+    "ECE 310",
+    "ECE 329",
+    "ECE 330",
+    "ECE 333",
+    "ECE 340",
+    "ECE 342",
+    "ECE 403",
+    "ECE 461",
+    "ECE 486",
+    "ECE 552"
+  ],
+  "BIOE 504": [
+    "BIOE 507"
+  ],
+  "BIOE 571": [
+    "BIOE 572"
+  ],
+  "BIOE 485": [
+    "BIOE 580",
+    "BIOE 586"
+  ],
+  "BIOE 580": [
+    "BIOE 586",
+    "BIOE 589"
+  ],
+  "BIOE 588": [
+    "BIOE 589"
+  ],
+  "BIOP 582": [
+    "BIOP 581",
+    "BIOP 583"
+  ],
+  "BIOP 583": [
+    "BIOP 581",
+    "BIOP 582"
+  ],
+  "BIOP 581": [
+    "BIOP 582",
+    "BIOP 583"
+  ],
+  "RUSS 302": [
+    "BULG 481"
+  ],
+  "BUS 101": [
+    "BUS 201",
+    "BUS 302"
+  ],
+  "BUS 201": [
+    "BUS 301"
+  ],
+  "BUS 301": [
+    "BUS 401",
+    "BUS 402"
+  ],
+  "CATL 401": [
+    "CATL 402"
+  ],
+  "IB 150": [
+    "CB 551",
+    "IB 151",
+    "IB 203",
+    "IB 270",
+    "IB 271",
+    "IB 303",
+    "IB 407",
+    "IB 420",
+    "IB 432",
+    "IB 439",
+    "IB 471",
+    "IB 482"
+  ],
+  "VM 607": [
+    "CB 646",
+    "PATH 519",
+    "PATH 527",
+    "VCM 635",
+    "VM 608"
+  ],
+  "MCB 400": [
+    "CDB 595"
+  ],
+  "TAM 251": [
+    "CEE 300",
+    "CEE 310",
+    "CEE 360",
+    "CEE 380",
+    "ME 330",
+    "ME 370",
+    "ME 483",
+    "MSE 455",
+    "SE 310",
+    "TAM 252",
+    "TAM 445",
+    "TAM 451",
+    "TAM 456",
+    "TAM 461",
+    "TAM 541"
+  ],
+  "CEE 202": [
+    "CEE 310",
+    "CEE 320",
+    "CEE 340",
+    "CEE 350",
+    "CEE 438",
+    "CEE 441",
+    "CEE 473",
+    "CEE 574"
+  ],
+  "CEE 201": [
+    "CEE 320",
+    "CEE 340",
+    "CEE 350",
+    "CEE 434"
+  ],
+  "CHEM 204": [
+    "CEE 330",
+    "CHBE 221",
+    "CHBE 458",
+    "CHEM 205",
+    "CHEM 236",
+    "CHEM 440",
+    "CHEM 442",
+    "CHEM 444",
+    "CPSC 382",
+    "ENG 471"
+  ],
+  "IE 310": [
+    "CEE 340",
+    "CEE 512",
+    "IE 311",
+    "IE 360",
+    "IE 361",
+    "IE 370",
+    "IE 371",
+    "IE 510",
+    "IE 513",
+    "SE 495"
+  ],
+  "STAT 200": [
+    "CEE 340",
+    "STAT 385",
+    "UP 317"
+  ],
+  "CEE 300": [
+    "CEE 401",
+    "ME 371",
+    "MSE 456",
+    "TAM 524"
+  ],
+  "CEE 310": [
+    "CEE 415",
+    "CEE 419",
+    "CEE 512"
+  ],
+  "CEE 330": [
+    "CEE 434",
+    "CEE 437",
+    "CEE 440",
+    "CEE 443",
+    "CEE 449"
+  ],
+  "CEE 331": [
+    "CEE 437",
+    "CEE 441",
+    "CEE 451",
+    "CEE 452",
+    "CEE 457"
+  ],
+  "CEE 437": [
+    "CEE 442"
+  ],
+  "CEE 443": [
+    "CEE 444",
+    "CEE 537",
+    "CEE 538",
+    "CEE 543",
+    "GEOL 571"
+  ],
+  "CHEM 360": [
+    "CEE 444"
+  ],
+  "CEE 360": [
+    "CEE 460",
+    "CEE 461",
+    "CEE 470",
+    "CEE 473"
+  ],
+  "CEE 460": [
+    "CEE 465",
+    "CEE 562"
+  ],
+  "CEE 461": [
+    "CEE 465",
+    "CEE 562"
+  ],
+  "CEE 340": [
+    "CEE 493"
+  ],
+  "CEE 401": [
+    "CEE 502",
+    "CEE 503",
+    "CEE 504"
+  ],
+  "CEE 483": [
+    "CEE 505",
+    "CEE 509",
+    "CEE 581",
+    "CEE 582",
+    "CEE 583",
+    "CEE 586",
+    "CEE 588",
+    "CEE 589",
+    "CEE 590",
+    "CEE 593"
+  ],
+  "CEE 442": [
+    "CEE 537",
+    "CEE 538",
+    "CEE 544",
+    "ME 512"
+  ],
+  "CEE 444": [
+    "CEE 538"
+  ],
+  "NRES 490": [
+    "CEE 543"
+  ],
+  "CEE 450": [
+    "CEE 549",
+    "CEE 554",
+    "CEE 556"
+  ],
+  "CEE 451": [
+    "CEE 551",
+    "CEE 558",
+    "CEE 559",
+    "ME 512"
+  ],
+  "CEE 434": [
+    "CEE 552"
+  ],
+  "CEE 457": [
+    "CEE 557",
+    "GEOL 571",
+    "GEOL 572",
+    "GEOL 579"
+  ],
+  "TAM 445": [
+    "CEE 576",
+    "ME 570",
+    "TAM 545",
+    "TAM 557"
+  ],
+  "CEE 470": [
+    "CEE 576",
+    "CEE 578",
+    "ME 570"
+  ],
+  "CEE 570": [
+    "CEE 577",
+    "TAM 574"
+  ],
+  "CEE 586": [
+    "CEE 587"
+  ],
+  "ATMS 421": [
+    "CEE 592"
+  ],
+  "NRES 439": [
+    "CEE 592"
+  ],
+  "UP 456": [
+    "CEE 592"
+  ],
+  "UP 480": [
+    "CEE 592"
+  ],
+  "NRES 454": [
+    "CEE 592",
+    "NRES 455",
+    "NRES 465"
+  ],
+  "UP 418": [
+    "CEE 592",
+    "UP 519"
+  ],
+  "CHEM 202": [
+    "CHBE 121",
+    "CHBE 458",
+    "CHEM 104",
+    "CHEM 150",
+    "CHEM 203",
+    "CHEM 204",
+    "CHEM 360",
+    "CPSC 382"
+  ],
+  "CHBE 221": [
+    "CHBE 321",
+    "CHBE 421"
+  ],
+  "MATH 227": [
+    "CHBE 413",
+    "CS 307",
+    "FIN 453"
+  ],
+  "CHBE 411": [
+    "CHBE 415"
+  ],
+  "CHBE 421": [
+    "CHBE 422",
+    "CHBE 440",
+    "CHBE 451",
+    "CHBE 475",
+    "CHBE 476",
+    "CHBE 481",
+    "CHBE 513",
+    "ME 512"
+  ],
+  "CHBE 422": [
+    "CHBE 424",
+    "CHBE 430",
+    "CHBE 431",
+    "CHBE 475",
+    "CHBE 476",
+    "CHBE 481",
+    "CHBE 565"
+  ],
+  "CHBE 424": [
+    "CHBE 430",
+    "CHBE 431"
+  ],
+  "CHEM 444": [
+    "CHBE 553",
+    "CHEM 516",
+    "CHEM 520",
+    "CHEM 544"
+  ],
+  "CHEM 103": [
+    "CHEM 105",
+    "GEOL 333",
+    "GEOL 380",
+    "HORT 363"
+  ],
+  "CHEM 101": [
+    "CHEM 150",
+    "FSHN 422",
+    "MCB 244",
+    "MCB 245",
+    "MCB 246",
+    "MCB 247"
+  ],
+  "CHEM 222": [
+    "CHEM 150",
+    "CHEM 223",
+    "CHEM 236",
+    "CHEM 442",
+    "CHEM 444",
+    "NRES 572"
+  ],
+  "CHEM 203": [
+    "CHEM 202",
+    "CHEM 204"
+  ],
+  "CHEM 205": [
+    "CHEM 204"
+  ],
+  "CHEM 105": [
+    "CHEM 222",
+    "FSHN 260",
+    "GEOL 432",
+    "GEOL 460",
+    "GEOL 560"
+  ],
+  "CHEM 237": [
+    "CHEM 315",
+    "CHEM 436",
+    "CHEM 437"
+  ],
+  "CHEM 223": [
+    "CHEM 315"
+  ],
+  "CHEM 233": [
+    "CHEM 315",
+    "CHEM 332",
+    "CHEM 436",
+    "CHEM 437"
+  ],
+  "CHEM 312": [
+    "CHEM 317",
+    "CHEM 512"
+  ],
+  "CHEM 442": [
+    "CHEM 420",
+    "CHEM 445",
+    "CHEM 447",
+    "CHEM 483",
+    "CHEM 540",
+    "CHEM 544",
+    "ECE 481"
+  ],
+  "CHEM 332": [
+    "CHEM 437",
+    "CHEM 474",
+    "CHEM 530",
+    "CHEM 532",
+    "CHEM 534"
+  ],
+  "CHEM 436": [
+    "CHEM 437",
+    "CHEM 474",
+    "CHEM 530",
+    "CHEM 532",
+    "CHEM 534"
+  ],
+  "PHYS 102": [
+    "CHEM 440",
+    "GEOL 450",
+    "MCB 419",
+    "NPRE 442"
+  ],
+  "PHYS 214": [
+    "CHEM 442",
+    "CHEM 444",
+    "ECE 304",
+    "ECE 305",
+    "ECE 340",
+    "MSE 304",
+    "MSE 405",
+    "PHYS 370",
+    "PHYS 407",
+    "PHYS 427",
+    "PHYS 486"
+  ],
+  "CHEM 472": [
+    "CHEM 445",
+    "MSE 473"
+  ],
+  "BIOC 446": [
+    "CHEM 445"
+  ],
+  "MCB 446": [
+    "CHEM 445"
+  ],
+  "CI 403": [
+    "CHEM 495",
+    "CI 404"
+  ],
+  "CHEM 516": [
+    "CHEM 518"
+  ],
+  "CHEM 315": [
+    "CHEM 520"
+  ],
+  "CHEM 420": [
+    "CHEM 520"
+  ],
+  "CHEM 532": [
+    "CHEM 538"
+  ],
+  "CHEM 534": [
+    "CHEM 538"
+  ],
+  "CHEM 540": [
+    "CHEM 542",
+    "CHEM 546",
+    "CHEM 548",
+    "CHEM 550"
+  ],
+  "CHEM 544": [
+    "CHEM 546"
+  ],
+  "CHIN 201": [
+    "CHIN 202"
+  ],
+  "CHIN 202": [
+    "CHIN 203"
+  ],
+  "CHIN 203": [
+    "CHIN 204"
+  ],
+  "CHIN 241": [
+    "CHIN 242"
+  ],
+  "CHIN 204": [
+    "CHIN 305"
+  ],
+  "CHIN 242": [
+    "CHIN 305"
+  ],
+  "CHIN 305": [
+    "CHIN 306"
+  ],
+  "CI 401": [
+    "CI 402",
+    "CI 403"
+  ],
+  "CI 405": [
+    "CI 402",
+    "CI 406"
+  ],
+  "CI 410": [
+    "CI 402"
+  ],
+  "CI 402": [
+    "CI 404"
+  ],
+  "CI 406": [
+    "CI 407",
+    "EDPR 432"
+  ],
+  "EPSY 236": [
+    "CI 420",
+    "EPSY 401",
+    "EPSY 402"
+  ],
+  "EPOL 201": [
+    "CI 420",
+    "EPOL 395"
+  ],
+  "CI 420": [
+    "CI 421",
+    "CI 442",
+    "EDPR 432"
+  ],
+  "MATH 103": [
+    "CI 430",
+    "CI 431",
+    "CI 442"
+  ],
+  "CI 430": [
+    "CI 432"
+  ],
+  "CI 431": [
+    "CI 432",
+    "SPED 452",
+    "SPED 453"
+  ],
+  "CI 443": [
+    "CI 441"
+  ],
+  "CI 421": [
+    "CI 445"
+  ],
+  "CI 450": [
+    "CI 451"
+  ],
+  "EDPR 432": [
+    "CI 454"
+  ],
+  "CI 465": [
+    "CI 466"
+  ],
+  "CI 467": [
+    "CI 476",
+    "CI 567",
+    "CI 585"
+  ],
+  "CI 433": [
+    "CI 477",
+    "CI 517"
+  ],
+  "CI 480": [
+    "CI 483",
+    "CI 486",
+    "CI 487"
+  ],
+  "CI 486": [
+    "CI 488"
+  ],
+  "CI 487": [
+    "CI 488"
+  ],
+  "CI 503": [
+    "CI 504",
+    "CI 506"
+  ],
+  "CI 504": [
+    "CI 506"
+  ],
+  "CI 477": [
+    "CI 517"
+  ],
+  "EPSY 480": [
+    "CI 518",
+    "EPSY 471",
+    "EPSY 549",
+    "EPSY 580"
+  ],
+  "CI 509": [
+    "CI 538"
+  ],
+  "CI 519": [
+    "CI 538"
+  ],
+  "EPSY 577": [
+    "CI 538",
+    "EPSY 575"
+  ],
+  "EPSY 578": [
+    "CI 538",
+    "EPSY 575"
+  ],
+  "CI 476": [
+    "CI 561",
+    "CI 570",
+    "CI 582",
+    "CI 585"
+  ],
+  "CI 575": [
+    "CI 576",
+    "CI 577"
+  ],
+  "CI 576": [
+    "CI 577"
+  ],
+  "CLCV 111": [
+    "CLCV 206"
+  ],
+  "CLCV 115": [
+    "CLCV 206"
+  ],
+  "CLE 613": [
+    "CLE 614",
+    "CLE 798"
+  ],
+  "CLE 786": [
+    "CLE 688"
+  ],
+  "CLE 732": [
+    "CLE 733"
+  ],
+  "CLE 660": [
+    "CLE 737"
+  ],
+  "CLE 670": [
+    "CLE 744",
+    "CLE 745"
+  ],
+  "CMN 111": [
+    "CMN 112",
+    "CMN 215"
+  ],
+  "CMN 101": [
+    "CMN 211",
+    "CMN 215",
+    "CMN 323",
+    "FSHN 329"
+  ],
+  "CMN 112": [
+    "CMN 215"
+  ],
+  "CMN 502": [
+    "CMN 503"
+  ],
+  "CPSC 112": [
+    "CPSC 326",
+    "CPSC 412",
+    "CPSC 413",
+    "CPSC 415",
+    "CPSC 418",
+    "CPSC 431",
+    "HORT 101",
+    "HORT 435"
+  ],
+  "IB 103": [
+    "CPSC 352",
+    "CPSC 416",
+    "CPSC 418",
+    "CPSC 431",
+    "CPSC 437",
+    "CPSC 453",
+    "CPSC 486",
+    "HORT 240",
+    "HORT 344",
+    "HORT 361",
+    "HORT 362",
+    "HORT 363",
+    "HORT 421",
+    "IB 407",
+    "IB 420",
+    "NRES 302",
+    "NRES 419"
+  ],
+  "CPSC 212": [
+    "CPSC 407",
+    "CPSC 408",
+    "CPSC 426",
+    "CPSC 428",
+    "CPSC 527",
+    "PLPA 403",
+    "PLPA 405",
+    "PLPA 509"
+  ],
+  "CPSC 113": [
+    "CPSC 413"
+  ],
+  "HORT 100": [
+    "CPSC 416",
+    "HORT 101",
+    "HORT 341",
+    "HORT 360",
+    "HORT 361",
+    "HORT 362",
+    "HORT 363",
+    "HORT 421",
+    "HORT 435"
+  ],
+  "CPSC 426": [
+    "CPSC 428",
+    "CPSC 526"
+  ],
+  "CPSC 241": [
+    "CPSC 442",
+    "ETMA 339"
+  ],
+  "CPSC 352": [
+    "CPSC 452",
+    "CPSC 453",
+    "CPSC 466",
+    "CPSC 486",
+    "CPSC 554",
+    "CPSC 563",
+    "CPSC 566",
+    "HORT 447"
+  ],
+  "CPSC 453": [
+    "CPSC 454"
+  ],
+  "CPSC 270": [
+    "CPSC 473"
+  ],
+  "CPSC 418": [
+    "CPSC 518"
+  ],
+  "CPSC 484": [
+    "CPSC 518",
+    "CPSC 526",
+    "CPSC 588"
+  ],
+  "CS 125": [
+    "CS 126",
+    "CS 128",
+    "CS 173",
+    "CS 233",
+    "CS 357",
+    "IS 305",
+    "ME 447"
+  ],
+  "CS 128": [
+    "CS 222",
+    "CS 225",
+    "CS 233",
+    "CS 340",
+    "MUS 205",
+    "MUS 305"
+  ],
+  "CS 126": [
+    "CS 225"
+  ],
+  "CS 173": [
+    "CS 225",
+    "CS 233",
+    "CS 374"
+  ],
+  "MATH 213": [
+    "CS 225",
+    "CS 233",
+    "CS 374",
+    "IE 533"
+  ],
+  "MATH 314": [
+    "CS 225"
+  ],
+  "MATH 347": [
+    "CS 225",
+    "MATH 424",
+    "MATH 427"
+  ],
+  "STAT 207": [
+    "CS 277",
+    "CS 307",
+    "FIN 453",
+    "MATH 467"
+  ],
+  "CS 233": [
+    "CS 341",
+    "CS 461",
+    "ECE 391",
+    "ECE 425",
+    "ECE 462"
+  ],
+  "CS 400": [
+    "CS 402"
+  ],
+  "CS 401": [
+    "CS 403"
+  ],
+  "CS 341": [
+    "CS 461",
+    "ECE 411"
+  ],
+  "ECE 391": [
+    "CS 461",
+    "ECE 411",
+    "ECE 522",
+    "ECE 527"
+  ],
+  "CS 340": [
+    "CS 461"
+  ],
+  "ECE 374": [
+    "CS 473",
+    "CS 521",
+    "CS 581",
+    "CS 588"
+  ],
+  "CS 361": [
+    "CS 473",
+    "CS 545",
+    "CS 581",
+    "ECE 417"
+  ],
+  "STAT 361": [
+    "CS 473",
+    "CS 545",
+    "CS 581"
+  ],
+  "MATH 362": [
+    "CS 473",
+    "TAM 557"
+  ],
+  "CS 429": [
+    "CS 527"
+  ],
+  "CS 473": [
+    "CS 544",
+    "CS 574",
+    "CS 579",
+    "CS 580",
+    "ECE 526"
+  ],
+  "CSE 414": [
+    "CS 544",
+    "CS 574",
+    "CS 579"
+  ],
+  "MATH 473": [
+    "CS 544",
+    "CS 574",
+    "CS 579"
+  ],
+  "CS 555": [
+    "CS 554",
+    "TAM 574"
+  ],
+  "CSE 510": [
+    "CS 554"
+  ],
+  "MATH 552": [
+    "CS 554"
+  ],
+  "CS 461": [
+    "CS 563"
+  ],
+  "ECE 422": [
+    "CS 563"
+  ],
+  "CS 465": [
+    "CS 565",
+    "CS 567",
+    "CS 568"
+  ],
+  "ECE 484": [
+    "CS 588"
+  ],
+  "CW 104": [
+    "CW 200",
+    "CW 204",
+    "CW 460"
+  ],
+  "CW 106": [
+    "CW 200",
+    "CW 206",
+    "CW 460"
+  ],
+  "CZCH 101": [
+    "CZCH 102"
+  ],
+  "CZCH 102": [
+    "CZCH 201"
+  ],
+  "CZCH 201": [
+    "CZCH 202"
+  ],
+  "DANC 160": [
+    "DANC 232",
+    "DANC 260"
+  ],
+  "DANC 262": [
+    "DANC 259",
+    "DANC 362"
+  ],
+  "DANC 259": [
+    "DANC 262",
+    "DANC 362"
+  ],
+  "DANC 301": [
+    "DANC 302",
+    "DANC 303"
+  ],
+  "DANC 302": [
+    "DANC 303"
+  ],
+  "DANC 260": [
+    "DANC 360",
+    "DANC 470"
+  ],
+  "DANC 240": [
+    "DANC 441"
+  ],
+  "DANC 360": [
+    "DANC 460"
+  ],
+  "MUS 106": [
+    "DANC 464",
+    "MUS 206",
+    "MUS 404"
+  ],
+  "DANC 375": [
+    "DANC 496"
+  ],
+  "DANC 496": [
+    "DANC 497"
+  ],
+  "DANC 362": [
+    "DANC 499"
+  ],
+  "DANC 541": [
+    "DANC 542"
+  ],
+  "ECE 110": [
+    "ECE 145",
+    "ECE 210",
+    "ECE 211",
+    "ECE 217",
+    "ECE 385"
+  ],
+  "ECE 120": [
+    "ECE 145",
+    "ECE 220",
+    "IS 305"
+  ],
+  "ECE 310": [
+    "ECE 311",
+    "ECE 402",
+    "ECE 403",
+    "ECE 417",
+    "ECE 418",
+    "ECE 420",
+    "ECE 456",
+    "ECE 513",
+    "ECE 537",
+    "ECE 547",
+    "ECE 551",
+    "ECE 558",
+    "ECE 560",
+    "ECE 581"
+  ],
+  "RHET 105": [
+    "ECE 316",
+    "ECE 496",
+    "FSHN 329",
+    "PLPA 200"
+  ],
+  "ECE 342": [
+    "ECE 343",
+    "ECE 453",
+    "ECE 464",
+    "ECE 482",
+    "ECE 483"
+  ],
+  "ECE 329": [
+    "ECE 350",
+    "ECE 416",
+    "ECE 437",
+    "ECE 453",
+    "ECE 456",
+    "ECE 460",
+    "ECE 468",
+    "ECE 472",
+    "NPRE 429",
+    "NPRE 523",
+    "PHYS 401",
+    "PHYS 427",
+    "PHYS 486"
+  ],
+  "ECE 385": [
+    "ECE 411",
+    "ECE 425",
+    "ECE 445"
+  ],
+  "ECE 401": [
+    "ECE 417"
+  ],
+  "ECE 330": [
+    "ECE 431",
+    "ECE 476"
+  ],
+  "ECE 340": [
+    "ECE 441",
+    "ECE 443",
+    "ECE 444",
+    "ECE 457",
+    "ECE 488",
+    "ECE 518",
+    "ECE 532",
+    "ECE 538",
+    "MSE 460",
+    "MSE 461"
+  ],
+  "ECE 350": [
+    "ECE 447",
+    "ECE 450",
+    "ECE 451",
+    "ECE 452",
+    "ECE 454",
+    "ECE 457",
+    "ECE 458",
+    "ECE 488",
+    "ECE 529",
+    "ECE 575"
+  ],
+  "ECE 453": [
+    "ECE 447"
+  ],
+  "ECE 459": [
+    "ECE 463",
+    "ECE 562"
+  ],
+  "ECE 460": [
+    "ECE 467",
+    "ECE 529",
+    "ECE 564",
+    "ECE 569"
+  ],
+  "ECE 343": [
+    "ECE 469"
+  ],
+  "ECE 464": [
+    "ECE 469",
+    "ECE 530"
+  ],
+  "MSE 401": [
+    "ECE 481",
+    "MSE 307",
+    "MSE 402",
+    "MSE 403",
+    "MSE 420",
+    "MSE 443",
+    "MSE 500",
+    "MSE 522",
+    "MSE 584"
+  ],
+  "PHYS 460": [
+    "ECE 481",
+    "MSE 460",
+    "MSE 584"
+  ],
+  "PHYS 485": [
+    "ECE 487",
+    "ECE 572",
+    "NPRE 527",
+    "PHYS 460",
+    "PHYS 470",
+    "PHYS 540",
+    "PHYS 550",
+    "PHYS 580"
+  ],
+  "ECE 487": [
+    "ECE 495",
+    "ECE 536",
+    "ECE 574"
+  ],
+  "ECE 496": [
+    "ECE 499"
+  ],
+  "ECE 408": [
+    "ECE 508"
+  ],
+  "ECE 511": [
+    "ECE 512"
+  ],
+  "ECE 416": [
+    "ECE 514"
+  ],
+  "ECE 486": [
+    "ECE 515",
+    "ME 562"
+  ],
+  "ECE 444": [
+    "ECE 518"
+  ],
+  "ECE 481": [
+    "ECE 518"
+  ],
+  "ECE 425": [
+    "ECE 527",
+    "ECE 582"
+  ],
+  "ECE 476": [
+    "ECE 530",
+    "ECE 573",
+    "ECE 576",
+    "ECE 588"
+  ],
+  "ECE 520": [
+    "ECE 531",
+    "ECE 540",
+    "ECE 545",
+    "ECE 546",
+    "ECE 570",
+    "ECE 571",
+    "ECE 575",
+    "ECE 577"
+  ],
+  "ECE 535": [
+    "ECE 539"
+  ],
+  "CS 357": [
+    "ECE 540"
+  ],
+  "ECE 534": [
+    "ECE 543",
+    "ECE 555",
+    "ECE 561",
+    "ECE 563",
+    "ECE 566",
+    "ECE 567"
+  ],
+  "TAM 518": [
+    "ECE 545"
+  ],
+  "ECE 461": [
+    "ECE 562"
+  ],
+  "MATH 564": [
+    "ECE 563",
+    "ECE 567"
+  ],
+  "MSE 405": [
+    "ECE 564",
+    "MSE 580",
+    "MSE 581"
+  ],
+  "ECE 431": [
+    "ECE 568"
+  ],
+  "PHYS 505": [
+    "ECE 571"
+  ],
+  "ECE 530": [
+    "ECE 573",
+    "ECE 576"
+  ],
+  "ECE 572": [
+    "ECE 574"
+  ],
+  "ECE 483": [
+    "ECE 581"
+  ],
+  "ECE 482": [
+    "ECE 582"
+  ],
+  "ECE 441": [
+    "ECE 585"
+  ],
+  "ECE 549": [
+    "ECE 587"
+  ],
+  "ECON 202": [
+    "ECON 203",
+    "ECON 399",
+    "ECON 402",
+    "ECON 506",
+    "ETMA 339",
+    "GGIS 439"
+  ],
+  "ECON 303": [
+    "ECON 420",
+    "ECON 471",
+    "ECON 513",
+    "ECON 514",
+    "ECON 530",
+    "ECON 531",
+    "ECON 540",
+    "ECON 541"
+  ],
+  "ECON 503": [
+    "ECON 504",
+    "ECON 520",
+    "ECON 521",
+    "ECON 523"
+  ],
+  "STAT 578": [
+    "ECON 504",
+    "ECON 576"
+  ],
+  "ECON 501": [
+    "ECON 505",
+    "ECON 512",
+    "ECON 519",
+    "ECON 520"
+  ],
+  "ECON 471": [
+    "ECON 506"
+  ],
+  "ECON 530": [
+    "ECON 533",
+    "ECON 547",
+    "ECON 572",
+    "ECON 581"
+  ],
+  "ECON 531": [
+    "ECON 534"
+  ],
+  "ECON 532": [
+    "ECON 535",
+    "ECON 536"
+  ],
+  "ECON 533": [
+    "ECON 547",
+    "ECON 550",
+    "ECON 555",
+    "ECON 556",
+    "ECON 557",
+    "ECON 562",
+    "ECON 585"
+  ],
+  "ECON 534": [
+    "ECON 550",
+    "ECON 555",
+    "ECON 556",
+    "ECON 557",
+    "ECON 562",
+    "ECON 585"
+  ],
+  "ECON 574": [
+    "ECON 575",
+    "ECON 577"
+  ],
+  "ECON 580": [
+    "ECON 581"
+  ],
+  "LING 301": [
+    "EIL 465",
+    "LING 410"
+  ],
+  "LING 302": [
+    "EIL 465",
+    "LING 410"
+  ],
+  "LING 307": [
+    "EIL 465"
+  ],
+  "ENG 110": [
+    "ENG 411"
+  ],
+  "ENGL 200": [
+    "ENGL 209",
+    "ENGL 255"
+  ],
+  "ENVS 301": [
+    "ENVS 492"
+  ],
+  "PSYC 100": [
+    "EPSY 236",
+    "HDFS 405",
+    "HK 340",
+    "IE 340",
+    "PHIL 351",
+    "PSYC 201",
+    "PSYC 204",
+    "PSYC 210",
+    "PSYC 216",
+    "PSYC 220",
+    "PSYC 224",
+    "PSYC 235",
+    "PSYC 238",
+    "PSYC 239",
+    "PSYC 245",
+    "PSYC 248",
+    "PSYC 250",
+    "PSYC 296",
+    "PSYC 302",
+    "PSYC 306",
+    "PSYC 308",
+    "PSYC 312",
+    "PSYC 320",
+    "PSYC 324",
+    "PSYC 328",
+    "PSYC 340",
+    "PSYC 361",
+    "PSYC 365",
+    "PSYC 396",
+    "PSYC 496",
+    "SPED 322"
+  ],
+  "EPSY 201": [
+    "EPSY 400",
+    "EPSY 401",
+    "EPSY 402"
+  ],
+  "PSYC 238": [
+    "EPSY 420",
+    "PSYC 324",
+    "PSYC 336",
+    "PSYC 379",
+    "PSYC 402"
+  ],
+  "EPSY 420": [
+    "EPSY 492"
+  ],
+  "EPSY 510": [
+    "EPSY 521"
+  ],
+  "EPSY 470": [
+    "EPSY 570"
+  ],
+  "EPSY 471": [
+    "EPSY 570"
+  ],
+  "EPSY 580": [
+    "EPSY 574",
+    "EPSY 575",
+    "EPSY 579",
+    "EPSY 581",
+    "EPSY 582",
+    "ERAM 560"
+  ],
+  "EPSY 574": [
+    "EPSY 575"
+  ],
+  "EPSY 581": [
+    "EPSY 579",
+    "EPSY 585",
+    "EPSY 587",
+    "EPSY 589",
+    "PSYC 594"
+  ],
+  "EPSY 582": [
+    "EPSY 585",
+    "EPSY 587",
+    "PSYC 594"
+  ],
+  "PSYC 506": [
+    "EPSY 585",
+    "PSYC 507",
+    "PSYC 548",
+    "PSYC 563"
+  ],
+  "PSYC 507": [
+    "EPSY 585",
+    "EPSY 589"
+  ],
+  "EPSY 585": [
+    "EPSY 586"
+  ],
+  "PSYC 490": [
+    "EPSY 586"
+  ],
+  "ERAM 550": [
+    "ERAM 511"
+  ],
+  "ERAM 511": [
+    "ERAM 512"
+  ],
+  "ERAM 565": [
+    "ERAM 566"
+  ],
+  "ERAM 566": [
+    "ERAM 567"
+  ],
+  "ERAM 581": [
+    "ERAM 582",
+    "ERAM 583"
+  ],
+  "ERAM 582": [
+    "ERAM 583"
+  ],
+  "ESL 111": [
+    "ESL 112"
+  ],
+  "ESL 511": [
+    "ESL 512",
+    "ESL 535"
+  ],
+  "ESL 521": [
+    "ESL 522",
+    "ESL 535"
+  ],
+  "ESL 515": [
+    "ESL 592"
+  ],
+  "ETMA 100": [
+    "ETMA 234"
+  ],
+  "ETMA 421": [
+    "ETMA 425"
+  ],
+  "ETMA 422": [
+    "ETMA 425"
+  ],
+  "ETMA 430": [
+    "ETMA 439"
+  ],
+  "EURO 501": [
+    "EURO 599"
+  ],
+  "EURO 502": [
+    "EURO 599"
+  ],
+  "FAA 230": [
+    "FAA 430"
+  ],
+  "FAA 330": [
+    "FAA 430"
+  ],
+  "FAA 430": [
+    "FAA 431"
+  ],
+  "FAA 250": [
+    "FAA 450"
+  ],
+  "FIN 321": [
+    "FIN 415",
+    "FIN 418",
+    "FIN 419",
+    "FIN 422",
+    "FIN 424",
+    "FIN 425",
+    "FIN 453"
+  ],
+  "FIN 412": [
+    "FIN 416"
+  ],
+  "FIN 241": [
+    "FIN 444",
+    "FIN 445",
+    "FIN 446"
+  ],
+  "FIN 445": [
+    "FIN 448"
+  ],
+  "CS 307": [
+    "FIN 453",
+    "MATH 467"
+  ],
+  "FIN 411": [
+    "FIN 453"
+  ],
+  "FIN 391": [
+    "FIN 463"
+  ],
+  "FIN 512": [
+    "FIN 513",
+    "FIN 537"
+  ],
+  "FIN 513": [
+    "FIN 514"
+  ],
+  "FIN 516": [
+    "FIN 517"
+  ],
+  "FIN 521": [
+    "FIN 522"
+  ],
+  "FIN 504": [
+    "FIN 529"
+  ],
+  "IE 522": [
+    "FIN 537",
+    "IE 583"
+  ],
+  "FIN 541": [
+    "FIN 544",
+    "FIN 545",
+    "FIN 546",
+    "FIN 547"
+  ],
+  "FIN 511": [
+    "FIN 552",
+    "FIN 589"
+  ],
+  "FIN 570": [
+    "FIN 572"
+  ],
+  "FIN 583": [
+    "FIN 582"
+  ],
+  "FIN 585": [
+    "FIN 586"
+  ],
+  "FIN 591": [
+    "FIN 593",
+    "FIN 594"
+  ],
+  "FLTE 471": [
+    "FLTE 475",
+    "SPAN 477",
+    "SPAN 580"
+  ],
+  "FR 101": [
+    "FR 102",
+    "FR 501"
+  ],
+  "FR 102": [
+    "FR 103",
+    "FR 133",
+    "FR 501"
+  ],
+  "FR 103": [
+    "FR 104",
+    "FR 134"
+  ],
+  "FR 133": [
+    "FR 134"
+  ],
+  "FR 104": [
+    "FR 205",
+    "FR 207",
+    "FR 215"
+  ],
+  "FR 134": [
+    "FR 205",
+    "FR 207"
+  ],
+  "FR 207": [
+    "FR 211",
+    "FR 212",
+    "FR 309",
+    "FR 311",
+    "FR 312",
+    "FR 314",
+    "FR 319",
+    "FR 322",
+    "FR 323",
+    "FR 324",
+    "FR 337",
+    "FR 390"
+  ],
+  "FR 205": [
+    "FR 299",
+    "FR 313",
+    "FR 390"
+  ],
+  "FR 211": [
+    "FR 301",
+    "FR 309",
+    "FR 311",
+    "FR 312",
+    "FR 319",
+    "FR 322",
+    "FR 323",
+    "FR 324",
+    "FR 335",
+    "FR 336",
+    "FR 337"
+  ],
+  "FR 212": [
+    "FR 301",
+    "FR 309",
+    "FR 311",
+    "FR 312",
+    "FR 313",
+    "FR 319",
+    "FR 322",
+    "FR 323",
+    "FR 324",
+    "FR 335",
+    "FR 336",
+    "FR 337"
+  ],
+  "FR 413": [
+    "FR 416"
+  ],
+  "FR 314": [
+    "FR 443"
+  ],
+  "FR 500": [
+    "FR 501"
+  ],
+  "FSHN 101": [
+    "FSHN 232",
+    "FSHN 320"
+  ],
+  "FSHN 220": [
+    "FSHN 250",
+    "FSHN 251",
+    "FSHN 320",
+    "FSHN 322",
+    "FSHN 329",
+    "FSHN 420",
+    "FSHN 422",
+    "FSHN 423",
+    "FSHN 426",
+    "FSHN 427",
+    "FSHN 428"
+  ],
+  "FSHN 120": [
+    "FSHN 320",
+    "FSHN 322",
+    "FSHN 329",
+    "FSHN 422",
+    "FSHN 426",
+    "FSHN 427"
+  ],
+  "FSHN 232": [
+    "FSHN 340",
+    "FSHN 466"
+  ],
+  "FSHN 249": [
+    "FSHN 340"
+  ],
+  "FSHN 345": [
+    "FSHN 340"
+  ],
+  "FSHN 414": [
+    "FSHN 416",
+    "FSHN 418",
+    "FSHN 419",
+    "FSHN 426",
+    "FSHN 427",
+    "FSHN 464",
+    "FSHN 481",
+    "FSHN 483",
+    "FSHN 519",
+    "FSHN 563"
+  ],
+  "FSHN 416": [
+    "FSHN 418",
+    "FSHN 466"
+  ],
+  "FSHN 514": [
+    "FSHN 419"
+  ],
+  "FSHN 471": [
+    "FSHN 419",
+    "FSHN 466",
+    "FSHN 472",
+    "FSHN 475",
+    "FSHN 481",
+    "FSHN 483",
+    "FSHN 574",
+    "FSHN 576"
+  ],
+  "FSHN 573": [
+    "FSHN 419",
+    "FSHN 576"
+  ],
+  "FSHN 481": [
+    "FSHN 419",
+    "FSHN 482"
+  ],
+  "FSHN 482": [
+    "FSHN 419",
+    "FSHN 466"
+  ],
+  "FSHN 420": [
+    "FSHN 421",
+    "FSHN 429",
+    "FSHN 459",
+    "FSHN 521",
+    "FSHN 522",
+    "FSHN 524",
+    "FSHN 552"
+  ],
+  "FSHN 322": [
+    "FSHN 421"
+  ],
+  "FSHN 340": [
+    "FSHN 439",
+    "FSHN 443"
+  ],
+  "FSHN 439": [
+    "FSHN 443"
+  ],
+  "FSHN 442": [
+    "FSHN 443"
+  ],
+  "FSHN 329": [
+    "FSHN 459"
+  ],
+  "FSHN 429": [
+    "FSHN 459"
+  ],
+  "FSHN 201": [
+    "FSHN 460"
+  ],
+  "FSHN 302": [
+    "FSHN 466",
+    "FSHN 502"
+  ],
+  "FSHN 419": [
+    "FSHN 466"
+  ],
+  "FSHN 472": [
+    "FSHN 466"
+  ],
+  "FSHN 484": [
+    "FSHN 466"
+  ],
+  "FSHN 418": [
+    "FSHN 466",
+    "FSHN 519"
+  ],
+  "MCB 250": [
+    "FSHN 471",
+    "IB 360",
+    "MCB 251",
+    "MCB 252",
+    "MCB 300",
+    "MCB 301",
+    "MCB 316",
+    "MCB 317",
+    "MCB 354",
+    "MCB 400",
+    "MCB 408",
+    "MCB 424",
+    "MCB 432",
+    "MCB 461",
+    "MCB 465",
+    "MCB 471"
+  ],
+  "FSHN 175": [
+    "FSHN 475"
+  ],
+  "FSHN 460": [
+    "FSHN 481",
+    "FSHN 483"
+  ],
+  "FSHN 483": [
+    "FSHN 484"
+  ],
+  "MCB 244": [
+    "FSHN 521",
+    "FSHN 522",
+    "HK 354",
+    "IB 360",
+    "MCB 246",
+    "NUTR 511"
+  ],
+  "MCB 246": [
+    "FSHN 521",
+    "FSHN 522",
+    "NUTR 511"
+  ],
+  "FSHN 426": [
+    "FSHN 527",
+    "NUTR 511"
+  ],
+  "FSHN 427": [
+    "FSHN 527"
+  ],
+  "FSHN 590": [
+    "FSHN 591"
+  ],
+  "GEOL 110": [
+    "GEOL 201",
+    "GEOL 333",
+    "GEOL 380"
+  ],
+  "GEOL 143": [
+    "GEOL 201",
+    "GEOL 350"
+  ],
+  "GEOL 100": [
+    "GEOL 208",
+    "GEOL 333",
+    "GEOL 380",
+    "LA 250"
+  ],
+  "GEOL 104": [
+    "GEOL 208",
+    "GEOL 333",
+    "GEOL 380"
+  ],
+  "GEOL 107": [
+    "GEOL 208",
+    "GEOL 333",
+    "GEOL 380",
+    "GEOL 411",
+    "GEOL 450",
+    "GEOL 460",
+    "GGIS 406"
+  ],
+  "GEOL 111": [
+    "GEOL 350"
+  ],
+  "GEOL 208": [
+    "GEOL 390",
+    "GEOL 391",
+    "GEOL 401",
+    "GEOL 416",
+    "GEOL 432",
+    "GEOL 440",
+    "GEOL 490",
+    "GEOL 491"
+  ],
+  "GEOL 411": [
+    "GEOL 416",
+    "GEOL 417",
+    "GEOL 507",
+    "GEOL 511",
+    "GEOL 512",
+    "GEOL 540"
+  ],
+  "GEOL 440": [
+    "GEOL 416",
+    "GEOL 417",
+    "GEOL 540"
+  ],
+  "GEOL 432": [
+    "GEOL 417",
+    "GEOL 436"
+  ],
+  "GEOL 401": [
+    "GEOL 506",
+    "GEOL 507"
+  ],
+  "GEOL 470": [
+    "GEOL 507",
+    "GEOL 571",
+    "GEOL 572",
+    "GEOL 579"
+  ],
+  "GEOL 452": [
+    "GEOL 552",
+    "GEOL 553"
+  ],
+  "GEOL 450": [
+    "GEOL 553"
+  ],
+  "GEOL 460": [
+    "GEOL 560",
+    "GEOL 571"
+  ],
+  "GEOL 560": [
+    "GEOL 571"
+  ],
+  "CEE 557": [
+    "GEOL 571"
+  ],
+  "GEOL 562": [
+    "GEOL 579"
+  ],
+  "GER 104": [
+    "GER 211",
+    "GER 299"
+  ],
+  "GER 211": [
+    "GER 212",
+    "GER 320"
+  ],
+  "GER 320": [
+    "GER 321"
+  ],
+  "GER 331": [
+    "GER 332",
+    "GER 420"
+  ],
+  "GER 212": [
+    "GER 401"
+  ],
+  "GER 401": [
+    "GER 403"
+  ],
+  "GER 465": [
+    "GER 455",
+    "GER 520",
+    "GER 530"
+  ],
+  "GER 500": [
+    "GER 501"
+  ],
+  "GGIS 379": [
+    "GGIS 380",
+    "GGIS 381",
+    "GGIS 412",
+    "GGIS 473",
+    "GGIS 479",
+    "NRES 455"
+  ],
+  "ESE 379": [
+    "GGIS 380",
+    "GGIS 479",
+    "GGIS 489"
+  ],
+  "GGIS 103": [
+    "GGIS 406",
+    "GGIS 408",
+    "GGIS 476",
+    "LA 250"
+  ],
+  "HK 209": [
+    "GGIS 439"
+  ],
+  "SOC 280": [
+    "GGIS 439",
+    "PSYC 333",
+    "SOC 380"
+  ],
+  "GGIS 224": [
+    "GGIS 476"
+  ],
+  "GGIS 280": [
+    "GGIS 477"
+  ],
+  "GGIS 477": [
+    "GGIS 478"
+  ],
+  "GGIS 471": [
+    "GGIS 491"
+  ],
+  "GGIS 407": [
+    "GGIS 507",
+    "GGIS 527"
+  ],
+  "GLBL 250": [
+    "GLBL 450"
+  ],
+  "GLBL 200": [
+    "GLBL 492",
+    "GLBL 494"
+  ],
+  "GLBL 494": [
+    "GLBL 495"
+  ],
+  "GLBL 100": [
+    "GLBL 499"
+  ],
+  "GLBL 500": [
+    "GLBL 520",
+    "GLBL 572",
+    "GLBL 573"
+  ],
+  "GLBL 570": [
+    "GLBL 580"
+  ],
+  "GRK 101": [
+    "GRK 102"
+  ],
+  "GRK 102": [
+    "GRK 201"
+  ],
+  "GRK 201": [
+    "GRK 202",
+    "GRK 411"
+  ],
+  "GRKM 201": [
+    "GRKM 202"
+  ],
+  "GRKM 202": [
+    "GRKM 403"
+  ],
+  "GRKM 403": [
+    "GRKM 404"
+  ],
+  "GRKM 404": [
+    "GRKM 453"
+  ],
+  "GRKM 453": [
+    "GRKM 454"
+  ],
+  "GSD 511": [
+    "GSD 512",
+    "GSD 513",
+    "GSD 520",
+    "GSD 521",
+    "GSD 522",
+    "GSD 523",
+    "GSD 529",
+    "GSD 530",
+    "GSD 531",
+    "GSD 540",
+    "GSD 541",
+    "GSD 550",
+    "GSD 551",
+    "GSD 560",
+    "GSD 561"
+  ],
+  "GSD 512": [
+    "GSD 513"
+  ],
+  "GSD 500": [
+    "GSD 515"
+  ],
+  "GWS 100": [
+    "GWS 317",
+    "GWS 366",
+    "GWS 370",
+    "GWS 380",
+    "GWS 385"
+  ],
+  "GWS 201": [
+    "GWS 317",
+    "GWS 366",
+    "GWS 370",
+    "GWS 385"
+  ],
+  "GWS 202": [
+    "GWS 317",
+    "GWS 366",
+    "GWS 370",
+    "GWS 385"
+  ],
+  "GWS 250": [
+    "GWS 380"
+  ],
+  "HDFS 105": [
+    "HDFS 208",
+    "HDFS 290",
+    "HDFS 301",
+    "HDFS 305",
+    "HDFS 310",
+    "HDFS 340",
+    "HDFS 350",
+    "HDFS 405",
+    "HDFS 445"
+  ],
+  "PSYC 216": [
+    "HDFS 301",
+    "PSYC 318",
+    "PSYC 320",
+    "PSYC 324",
+    "PSYC 361",
+    "PSYC 363"
+  ],
+  "HDFS 120": [
+    "HDFS 320",
+    "HDFS 425"
+  ],
+  "SOC 100": [
+    "HDFS 320",
+    "HDFS 340",
+    "LLS 320",
+    "SOC 225",
+    "SOC 273",
+    "SOC 275",
+    "SOC 310",
+    "SOC 364",
+    "SOC 373",
+    "SOC 380",
+    "SOC 396",
+    "SOC 400",
+    "SOC 450",
+    "SOC 470",
+    "SOC 496"
+  ],
+  "HDFS 382": [
+    "HDFS 383"
+  ],
+  "HDFS 383": [
+    "HDFS 384"
+  ],
+  "HDFS 384": [
+    "HDFS 385"
+  ],
+  "HDFS 301": [
+    "HDFS 401"
+  ],
+  "HDFS 290": [
+    "HDFS 401",
+    "HDFS 445"
+  ],
+  "HDFS 501": [
+    "HDFS 503",
+    "HDFS 528"
+  ],
+  "HDFS 521": [
+    "HDFS 527",
+    "HDFS 528"
+  ],
+  "HDFS 450": [
+    "HDFS 550"
+  ],
+  "HDFS 590": [
+    "HDFS 582",
+    "HDFS 594"
+  ],
+  "HDFS 594": [
+    "HDFS 597"
+  ],
+  "HEBR 201": [
+    "HEBR 202"
+  ],
+  "HEBR 405": [
+    "HEBR 406"
+  ],
+  "HEBR 205": [
+    "HEBR 407"
+  ],
+  "HEBR 406": [
+    "HEBR 407"
+  ],
+  "HIST 492": [
+    "HIST 493",
+    "HIST 499"
+  ],
+  "HIST 499": [
+    "HIST 493"
+  ],
+  "EALC 500": [
+    "HIST 521"
+  ],
+  "HIST 520": [
+    "HIST 521"
+  ],
+  "HIST 593": [
+    "HIST 594"
+  ],
+  "HK 140": [
+    "HK 340"
+  ],
+  "HK 522": [
+    "HK 523"
+  ],
+  "PATH 517": [
+    "HK 528",
+    "PATH 560"
+  ],
+  "HK 527": [
+    "HK 531",
+    "HK 533"
+  ],
+  "HK 513": [
+    "HK 531"
+  ],
+  "HK 517": [
+    "HK 533"
+  ],
+  "HK 551": [
+    "HK 553"
+  ],
+  "HNDI 201": [
+    "HNDI 202"
+  ],
+  "HNDI 202": [
+    "HNDI 403"
+  ],
+  "HNDI 403": [
+    "HNDI 404",
+    "HNDI 412"
+  ],
+  "HNDI 404": [
+    "HNDI 405"
+  ],
+  "HNDI 405": [
+    "HNDI 406"
+  ],
+  "HORT 106": [
+    "HORT 101"
+  ],
+  "IB 420": [
+    "HORT 442",
+    "IB 421",
+    "IB 542"
+  ],
+  "HT 511": [
+    "HT 510",
+    "HT 512"
+  ],
+  "HT 512": [
+    "HT 511"
+  ],
+  "HT 510": [
+    "HT 511"
+  ],
+  "IB 270": [
+    "IB 271"
+  ],
+  "IB 302": [
+    "IB 360",
+    "IB 460",
+    "IB 463",
+    "IB 464",
+    "IB 467",
+    "IB 471"
+  ],
+  "IB 203": [
+    "IB 368",
+    "IB 435",
+    "IB 451",
+    "IB 453",
+    "IB 461",
+    "IB 462",
+    "NRES 348",
+    "NRES 429",
+    "NRES 438"
+  ],
+  "NRES 219": [
+    "IB 368",
+    "NRES 348",
+    "NRES 362",
+    "NRES 418",
+    "NRES 419",
+    "NRES 420",
+    "NRES 429",
+    "NRES 436",
+    "NRES 438",
+    "NRES 439",
+    "NRES 456",
+    "NRES 465",
+    "NRES 482",
+    "NRES 485"
+  ],
+  "IB 271": [
+    "IB 372"
+  ],
+  "BIOP 401": [
+    "IB 421"
+  ],
+  "IB 329": [
+    "IB 430",
+    "IB 431"
+  ],
+  "IB 468": [
+    "IB 467"
+  ],
+  "IB 361": [
+    "IB 481"
+  ],
+  "IE 523": [
+    "IE 525"
+  ],
+  "INFO 407": [
+    "INFO 427",
+    "IS 327"
+  ],
+  "IS 204": [
+    "IS 236",
+    "IS 304",
+    "IS 370"
+  ],
+  "IS 226": [
+    "IS 236"
+  ],
+  "IS 101": [
+    "IS 249",
+    "IS 269"
+  ],
+  "IS 202": [
+    "IS 249",
+    "IS 269",
+    "IS 308",
+    "IS 309",
+    "IS 311",
+    "IS 490"
+  ],
+  "IS 236": [
+    "IS 304"
+  ],
+  "IS 205": [
+    "IS 305",
+    "IS 327"
+  ],
+  "IS 107": [
+    "IS 327"
+  ],
+  "IS 507": [
+    "IS 517"
+  ],
+  "IS 505": [
+    "IS 521",
+    "IS 530",
+    "IS 561",
+    "IS 575",
+    "IS 585"
+  ],
+  "IS 501": [
+    "IS 521",
+    "IS 530",
+    "IS 575",
+    "IS 585"
+  ],
+  "IS 517": [
+    "IS 557"
+  ],
+  "ITAL 101": [
+    "ITAL 102"
+  ],
+  "ITAL 102": [
+    "ITAL 103"
+  ],
+  "ITAL 103": [
+    "ITAL 104"
+  ],
+  "ITAL 104": [
+    "ITAL 200",
+    "ITAL 210",
+    "ITAL 390"
+  ],
+  "ITAL 210": [
+    "ITAL 310",
+    "ITAL 380"
+  ],
+  "ITAL 310": [
+    "ITAL 450"
+  ],
+  "JAPN 201": [
+    "JAPN 202"
+  ],
+  "JAPN 202": [
+    "JAPN 203"
+  ],
+  "JAPN 203": [
+    "JAPN 204"
+  ],
+  "JAPN 204": [
+    "JAPN 305"
+  ],
+  "JAPN 305": [
+    "JAPN 306"
+  ],
+  "JOUR 200": [
+    "JOUR 210"
+  ],
+  "JOUR 210": [
+    "JOUR 215",
+    "JOUR 315",
+    "JOUR 335",
+    "JOUR 472",
+    "JOUR 480",
+    "JOUR 481"
+  ],
+  "JOUR 340": [
+    "JOUR 217",
+    "JOUR 317",
+    "JOUR 318",
+    "JOUR 417",
+    "JOUR 440",
+    "JOUR 445"
+  ],
+  "JOUR 445": [
+    "JOUR 217"
+  ],
+  "JOUR 217": [
+    "JOUR 317"
+  ],
+  "JOUR 215": [
+    "JOUR 335",
+    "JOUR 340",
+    "JOUR 425",
+    "JOUR 440"
+  ],
+  "JOUR 317": [
+    "JOUR 417"
+  ],
+  "JOUR 240": [
+    "JOUR 440"
+  ],
+  "MACS 150": [
+    "JOUR 440",
+    "MACS 260"
+  ],
+  "MACS 260": [
+    "JOUR 440",
+    "MACS 370",
+    "MACS 371"
+  ],
+  "JOUR 315": [
+    "JOUR 483"
+  ],
+  "KOR 201": [
+    "KOR 202"
+  ],
+  "KOR 202": [
+    "KOR 203"
+  ],
+  "KOR 203": [
+    "KOR 204"
+  ],
+  "KOR 221": [
+    "KOR 222"
+  ],
+  "KOR 222": [
+    "KOR 241"
+  ],
+  "KOR 241": [
+    "KOR 242"
+  ],
+  "KOR 204": [
+    "KOR 305"
+  ],
+  "KOR 305": [
+    "KOR 306"
+  ],
+  "LA 280": [
+    "LA 233",
+    "LA 281",
+    "LA 482"
+  ],
+  "LA 233": [
+    "LA 234",
+    "LA 280"
+  ],
+  "LA 234": [
+    "LA 281",
+    "LA 335"
+  ],
+  "LA 314": [
+    "LA 315"
+  ],
+  "LA 335": [
+    "LA 336"
+  ],
+  "LA 241": [
+    "LA 342"
+  ],
+  "LA 342": [
+    "LA 343"
+  ],
+  "LA 336": [
+    "LA 437",
+    "LA 438"
+  ],
+  "LA 352": [
+    "LA 452"
+  ],
+  "LA 452": [
+    "LA 453"
+  ],
+  "LA 281": [
+    "LA 482"
+  ],
+  "LA 390": [
+    "LA 490"
+  ],
+  "LA 513": [
+    "LA 515"
+  ],
+  "LA 433": [
+    "LA 533",
+    "LA 534"
+  ],
+  "LA 534": [
+    "LA 537",
+    "LA 539"
+  ],
+  "LA 538": [
+    "LA 592"
+  ],
+  "LAS 195": [
+    "LAS 205"
+  ],
+  "LAS 291": [
+    "LAS 292"
+  ],
+  "LAST 170": [
+    "LAST 490"
+  ],
+  "LAT 101": [
+    "LAT 102"
+  ],
+  "LAT 102": [
+    "LAT 201"
+  ],
+  "LAT 202": [
+    "LAT 411"
+  ],
+  "LEAD 140": [
+    "LEAD 170"
+  ],
+  "LEAD 260": [
+    "LEAD 460"
+  ],
+  "LER 100": [
+    "LER 320"
+  ],
+  "LER 110": [
+    "LER 320"
+  ],
+  "LER 593": [
+    "LER 510",
+    "LER 526",
+    "LER 527",
+    "LER 545"
+  ],
+  "LING 100": [
+    "LING 270",
+    "LING 301",
+    "LING 302",
+    "LING 304",
+    "LING 307"
+  ],
+  "LING 501": [
+    "LING 516",
+    "LING 541",
+    "LING 551"
+  ],
+  "LING 502": [
+    "LING 516",
+    "LING 520",
+    "LING 542"
+  ],
+  "LING 507": [
+    "LING 547",
+    "LING 551"
+  ],
+  "LING 542": [
+    "LING 582"
+  ],
+  "LLS 100": [
+    "LLS 320",
+    "LLS 385",
+    "LLS 387"
+  ],
+  "LLS 385": [
+    "LLS 490"
+  ],
+  "MACS 140": [
+    "MACS 260"
+  ],
+  "MACS 480": [
+    "MACS 370"
+  ],
+  "MACS 481": [
+    "MACS 370"
+  ],
+  "MACS 370": [
+    "MACS 480",
+    "MACS 481"
+  ],
+  "MATH 115": [
+    "MATH 220",
+    "NRES 201"
+  ],
+  "MATH 424": [
+    "MATH 425"
+  ],
+  "CS 277": [
+    "MATH 467"
+  ],
+  "MATH 500": [
+    "MATH 501",
+    "MATH 503",
+    "MATH 511",
+    "MATH 512",
+    "MATH 526",
+    "MATH 530"
+  ],
+  "MATH 501": [
+    "MATH 502",
+    "MATH 505",
+    "MATH 506"
+  ],
+  "MATH 542": [
+    "MATH 510"
+  ],
+  "MATH 510": [
+    "MATH 512"
+  ],
+  "MATH 511": [
+    "MATH 512"
+  ],
+  "MATH 518": [
+    "MATH 519",
+    "MATH 520"
+  ],
+  "MATH 525": [
+    "MATH 526"
+  ],
+  "MATH 526": [
+    "MATH 527",
+    "MATH 533"
+  ],
+  "MATH 531": [
+    "MATH 532"
+  ],
+  "MATH 540": [
+    "MATH 541",
+    "MATH 561",
+    "STAT 533"
+  ],
+  "MATH 541": [
+    "MATH 545",
+    "MATH 546",
+    "MATH 547"
+  ],
+  "MATH 553": [
+    "MATH 554"
+  ],
+  "MATH 561": [
+    "MATH 562",
+    "STAT 575"
+  ],
+  "MATH 570": [
+    "MATH 571",
+    "MATH 574"
+  ],
+  "MATH 580": [
+    "MATH 581",
+    "MATH 582",
+    "MATH 583",
+    "MATH 584",
+    "MATH 585",
+    "MATH 586"
+  ],
+  "MBA 501": [
+    "MBA 500",
+    "MBA 520"
+  ],
+  "MBA 503": [
+    "MBA 520"
+  ],
+  "MBA 504": [
+    "MBA 520"
+  ],
+  "MBA 505": [
+    "MBA 520"
+  ],
+  "MCB 245": [
+    "MCB 247"
+  ],
+  "MCB 253": [
+    "MCB 317",
+    "MCB 364",
+    "MCB 400",
+    "MCB 408"
+  ],
+  "MCB 314": [
+    "MCB 418",
+    "MCB 460"
+  ],
+  "MCB 301": [
+    "MCB 428"
+  ],
+  "STAT 212": [
+    "MCB 432",
+    "STAT 385"
+  ],
+  "MCB 317": [
+    "MCB 474"
+  ],
+  "MCB 290": [
+    "MCB 492"
+  ],
+  "MCB 430": [
+    "MCB 520"
+  ],
+  "MCB 421": [
+    "MCB 521",
+    "PLPA 509"
+  ],
+  "MCB 426": [
+    "MCB 526"
+  ],
+  "MCB 431": [
+    "MCB 532"
+  ],
+  "MCB 502": [
+    "MCB 545"
+  ],
+  "MCB 582": [
+    "MCB 581",
+    "MCB 583"
+  ],
+  "MCB 581": [
+    "MCB 582",
+    "MCB 583"
+  ],
+  "ME 170": [
+    "ME 270"
+  ],
+  "ME 270": [
+    "ME 370"
+  ],
+  "ME 370": [
+    "ME 371"
+  ],
+  "TAM 324": [
+    "ME 371"
+  ],
+  "ME 330": [
+    "ME 371",
+    "MSE 456",
+    "TAM 524"
+  ],
+  "ME 320": [
+    "ME 412",
+    "ME 420"
+  ],
+  "ME 404": [
+    "ME 504",
+    "ME 505"
+  ],
+  "ME 420": [
+    "ME 512",
+    "ME 520",
+    "ME 522"
+  ],
+  "ME 411": [
+    "ME 512",
+    "ME 521"
+  ],
+  "ME 543": [
+    "ME 547"
+  ],
+  "ME 540": [
+    "ME 547"
+  ],
+  "ECE 517": [
+    "ME 547"
+  ],
+  "ECE 528": [
+    "ME 562"
+  ],
+  "ME 460": [
+    "ME 562"
+  ],
+  "ME 592": [
+    "ME 593"
+  ],
+  "MILS 101": [
+    "MILS 301"
+  ],
+  "MILS 102": [
+    "MILS 301"
+  ],
+  "MILS 201": [
+    "MILS 301"
+  ],
+  "MILS 202": [
+    "MILS 301"
+  ],
+  "MILS 301": [
+    "MILS 302",
+    "MILS 341"
+  ],
+  "MILS 312": [
+    "MILS 341"
+  ],
+  "MILS 302": [
+    "MILS 341"
+  ],
+  "MILS 314": [
+    "MILS 341"
+  ],
+  "MILS 341": [
+    "MILS 342"
+  ],
+  "MSE 182": [
+    "MSE 183",
+    "MSE 201"
+  ],
+  "MSE 201": [
+    "MSE 307",
+    "MSE 401",
+    "MSE 402",
+    "MSE 403",
+    "MSE 405",
+    "MSE 406"
+  ],
+  "MSE 307": [
+    "MSE 308"
+  ],
+  "MSE 406": [
+    "MSE 308",
+    "MSE 440",
+    "MSE 441"
+  ],
+  "MSE 280": [
+    "MSE 401"
+  ],
+  "MSE 206": [
+    "MSE 406",
+    "MSE 455",
+    "MSE 456"
+  ],
+  "MSE 420": [
+    "MSE 422",
+    "MSE 522"
+  ],
+  "MSE 402": [
+    "MSE 443"
+  ],
+  "MSE 304": [
+    "MSE 460",
+    "MSE 466"
+  ],
+  "MSE 403": [
+    "MSE 470",
+    "MSE 473",
+    "MSE 522"
+  ],
+  "MSE 308": [
+    "MSE 494"
+  ],
+  "MSE 494": [
+    "MSE 495"
+  ],
+  "MSE 500": [
+    "MSE 501"
+  ],
+  "PHYS 560": [
+    "MSE 501",
+    "MSE 582",
+    "MSE 584",
+    "PHYS 561",
+    "PHYS 567"
+  ],
+  "MSE 422": [
+    "MSE 522"
+  ],
+  "MSE 501": [
+    "MSE 582",
+    "MSE 584"
+  ],
+  "MUSE 200": [
+    "MUSE 389"
+  ],
+  "MUS 101": [
+    "MUS 102",
+    "MUS 105",
+    "MUS 173",
+    "MUS 205"
+  ],
+  "MUS 103": [
+    "MUS 104"
+  ],
+  "MUS 107": [
+    "MUS 108",
+    "MUS 173",
+    "MUS 435",
+    "MUS 436"
+  ],
+  "MUS 174": [
+    "MUS 160",
+    "MUS 175"
+  ],
+  "MUS 202": [
+    "MUS 160",
+    "MUS 400",
+    "MUS 404",
+    "MUS 408",
+    "MUS 426",
+    "MUS 442",
+    "MUS 454",
+    "MUS 455"
+  ],
+  "MUS 208": [
+    "MUS 160",
+    "MUS 400",
+    "MUS 404",
+    "MUS 408",
+    "MUS 426",
+    "MUS 442",
+    "MUS 454",
+    "MUS 455"
+  ],
+  "MUS 160": [
+    "MUS 161"
+  ],
+  "MUS 172": [
+    "MUS 163",
+    "MUS 173"
+  ],
+  "MUS 173": [
+    "MUS 163",
+    "MUS 174"
+  ],
+  "MUS 163": [
+    "MUS 164"
+  ],
+  "MUS 166": [
+    "MUS 167",
+    "MUS 362"
+  ],
+  "MUS 102": [
+    "MUS 174",
+    "MUS 201",
+    "MUS 205",
+    "MUS 242",
+    "MUS 360"
+  ],
+  "MUS 108": [
+    "MUS 174",
+    "MUS 201",
+    "MUS 207",
+    "MUS 242",
+    "MUS 360"
+  ],
+  "MUS 201": [
+    "MUS 175",
+    "MUS 202"
+  ],
+  "MUS 207": [
+    "MUS 175",
+    "MUS 202",
+    "MUS 208"
+  ],
+  "CS 222": [
+    "MUS 205",
+    "MUS 305"
+  ],
+  "MUS 240": [
+    "MUS 244",
+    "MUS 342",
+    "MUS 344",
+    "MUS 346",
+    "MUS 350",
+    "MUS 438",
+    "MUS 439",
+    "MUS 449"
+  ],
+  "MUS 105": [
+    "MUS 305"
+  ],
+  "MUS 205": [
+    "MUS 305"
+  ],
+  "MUS 110": [
+    "MUS 313"
+  ],
+  "MUS 313": [
+    "MUS 314",
+    "MUS 410",
+    "MUS 411",
+    "MUS 412",
+    "MUS 413",
+    "MUS 414",
+    "MUS 415",
+    "MUS 418"
+  ],
+  "MUS 314": [
+    "MUS 317",
+    "MUS 410",
+    "MUS 411",
+    "MUS 412",
+    "MUS 413",
+    "MUS 414",
+    "MUS 415",
+    "MUS 418"
+  ],
+  "MUS 317": [
+    "MUS 318"
+  ],
+  "MUS 127": [
+    "MUS 327"
+  ],
+  "MUS 128": [
+    "MUS 328"
+  ],
+  "MUS 129": [
+    "MUS 329"
+  ],
+  "MUS 242": [
+    "MUS 330",
+    "MUS 332",
+    "MUS 333",
+    "MUS 348"
+  ],
+  "MUS 348": [
+    "MUS 330"
+  ],
+  "MUS 330": [
+    "MUS 331"
+  ],
+  "MUS 350": [
+    "MUS 344",
+    "MUS 346"
+  ],
+  "MUS 342": [
+    "MUS 350",
+    "MUS 439",
+    "MUS 449"
+  ],
+  "MUS 343": [
+    "MUS 350",
+    "MUS 439",
+    "MUS 449"
+  ],
+  "MUS 167": [
+    "MUS 360"
+  ],
+  "MUS 360": [
+    "MUS 361"
+  ],
+  "MUS 362": [
+    "MUS 363"
+  ],
+  "MUS 363": [
+    "MUS 364",
+    "MUS 574"
+  ],
+  "MUS 364": [
+    "MUS 365"
+  ],
+  "MUS 368": [
+    "MUS 369"
+  ],
+  "MUS 209": [
+    "MUS 401",
+    "MUS 402"
+  ],
+  "MUS 407": [
+    "MUS 401",
+    "MUS 402",
+    "MUS 409"
+  ],
+  "MUS 403": [
+    "MUS 405"
+  ],
+  "MUS 206": [
+    "MUS 406"
+  ],
+  "MUSC 101": [
+    "MUS 454",
+    "MUS 455"
+  ],
+  "MUS 175": [
+    "MUS 454",
+    "MUS 455"
+  ],
+  "MUS 454": [
+    "MUS 455"
+  ],
+  "MUS 161": [
+    "MUS 456"
+  ],
+  "MUS 460": [
+    "MUS 461"
+  ],
+  "MUS 422": [
+    "MUS 472"
+  ],
+  "MUSC 468": [
+    "MUS 472"
+  ],
+  "MUS 504": [
+    "MUS 508"
+  ],
+  "MUS 511": [
+    "MUS 512",
+    "MUS 519"
+  ],
+  "MUS 512": [
+    "MUS 516",
+    "MUS 519",
+    "MUS 520"
+  ],
+  "MUS 533": [
+    "MUS 534",
+    "MUS 569"
+  ],
+  "MUS 361": [
+    "MUS 548"
+  ],
+  "MUS 548": [
+    "MUS 549"
+  ],
+  "MUS 532": [
+    "MUS 569"
+  ],
+  "MUS 574": [
+    "MUS 575"
+  ],
+  "NE 100": [
+    "NE 330"
+  ],
+  "NE 330": [
+    "NE 430",
+    "NE 431"
+  ],
+  "NEUR 542": [
+    "NEUR 543"
+  ],
+  "NPRE 321": [
+    "NPRE 421"
+  ],
+  "NPRE 421": [
+    "NPRE 423",
+    "NPRE 522",
+    "NPRE 523"
+  ],
+  "NPRE 451": [
+    "NPRE 423"
+  ],
+  "PHYS 435": [
+    "NPRE 429",
+    "NPRE 523",
+    "PHYS 401",
+    "PHYS 427",
+    "PHYS 436",
+    "PHYS 460",
+    "PHYS 486",
+    "PHYS 540"
+  ],
+  "NPRE 330": [
+    "NPRE 430",
+    "NPRE 432"
+  ],
+  "NPRE 445": [
+    "NPRE 435",
+    "NPRE 441",
+    "NPRE 451"
+  ],
+  "NPRE 200": [
+    "NPRE 445"
+  ],
+  "NPRE 455": [
+    "NPRE 448",
+    "NPRE 449",
+    "NPRE 555"
+  ],
+  "NPRE 349": [
+    "NPRE 449"
+  ],
+  "NPRE 247": [
+    "NPRE 455",
+    "NPRE 501"
+  ],
+  "NPRE 449": [
+    "NPRE 458"
+  ],
+  "NPRE 501": [
+    "NPRE 511",
+    "NPRE 558"
+  ],
+  "NPRE 429": [
+    "NPRE 526",
+    "NPRE 527"
+  ],
+  "ECE 452": [
+    "NPRE 527"
+  ],
+  "NPRE 430": [
+    "NPRE 531"
+  ],
+  "NPRE 448": [
+    "NPRE 558"
+  ],
+  "NPRE 555": [
+    "NPRE 560"
+  ],
+  "NRES 348": [
+    "NRES 407",
+    "NRES 409",
+    "NRES 480"
+  ],
+  "NRES 419": [
+    "NRES 416"
+  ],
+  "NRES 302": [
+    "NRES 416"
+  ],
+  "LA 450": [
+    "NRES 419",
+    "NRES 420"
+  ],
+  "NRES 287": [
+    "NRES 428",
+    "NRES 456"
+  ],
+  "PHYS 140": [
+    "NRES 429"
+  ],
+  "ACE 210": [
+    "NRES 439"
+  ],
+  "NRES 417": [
+    "NRES 517",
+    "NRES 527"
+  ],
+  "NRES 440": [
+    "NRES 593"
+  ],
+  "NRES 593": [
+    "NRES 595"
+  ],
+  "NS 204": [
+    "NS 307"
+  ],
+  "NS 303": [
+    "NS 308"
+  ],
+  "ANSC 520": [
+    "NUTR 511"
+  ],
+  "VM 608": [
+    "PATH 516",
+    "PATH 555",
+    "PATH 560",
+    "VCM 635",
+    "VCM 636",
+    "VM 652"
+  ],
+  "PATH 433": [
+    "PATH 519"
+  ],
+  "PATH 545": [
+    "PATH 546",
+    "PATH 547",
+    "PATH 559"
+  ],
+  "PATH 557": [
+    "PATH 558"
+  ],
+  "PATH 546": [
+    "PATH 559"
+  ],
+  "PATH 524": [
+    "PATH 560"
+  ],
+  "PERS 201": [
+    "PERS 202"
+  ],
+  "PERS 202": [
+    "PERS 403"
+  ],
+  "PERS 403": [
+    "PERS 404"
+  ],
+  "PHIL 101": [
+    "PHIL 351",
+    "PHYS 420"
+  ],
+  "PHIL 102": [
+    "PHIL 351"
+  ],
+  "PHIL 202": [
+    "PHIL 360",
+    "PHIL 499"
+  ],
+  "PHIL 203": [
+    "PHIL 499"
+  ],
+  "PHIL 206": [
+    "PHIL 499"
+  ],
+  "PHIL 222": [
+    "PHIL 499"
+  ],
+  "PHIL 223": [
+    "PHIL 499"
+  ],
+  "PHYS 100": [
+    "PHYS 221",
+    "PHYS 222"
+  ],
+  "PHYS 225": [
+    "PHYS 325"
+  ],
+  "PHYS 325": [
+    "PHYS 326",
+    "PHYS 401",
+    "PHYS 407",
+    "PHYS 435",
+    "PHYS 450",
+    "PHYS 485",
+    "TAM 335"
+  ],
+  "PHYS 246": [
+    "PHYS 371",
+    "PHYS 446"
+  ],
+  "PHYS 394": [
+    "PHYS 395"
+  ],
+  "PHYS 496": [
+    "PHYS 499"
+  ],
+  "PHYS 508": [
+    "PHYS 509",
+    "TAM 561"
+  ],
+  "PHYS 326": [
+    "PHYS 510"
+  ],
+  "PHYS 487": [
+    "PHYS 514",
+    "PHYS 550",
+    "PHYS 552",
+    "PHYS 580"
+  ],
+  "PHYS 515": [
+    "PHYS 516"
+  ],
+  "PHYS 523": [
+    "PHYS 524"
+  ],
+  "PHYS 504": [
+    "PHYS 554",
+    "PHYS 563",
+    "PHYS 569"
+  ],
+  "PHYS 580": [
+    "PHYS 560",
+    "PHYS 569",
+    "PHYS 570",
+    "PHYS 581"
+  ],
+  "PHYS 581": [
+    "PHYS 561",
+    "PHYS 570",
+    "PHYS 582"
+  ],
+  "PHYS 582": [
+    "PHYS 575",
+    "PHYS 583"
+  ],
+  "PHYS 575": [
+    "PHYS 576"
+  ],
+  "PHYS 590": [
+    "PHYS 591"
+  ],
+  "PHYS 591": [
+    "PHYS 592"
+  ],
+  "POL 101": [
+    "POL 102"
+  ],
+  "POL 102": [
+    "POL 201"
+  ],
+  "POL 201": [
+    "POL 202"
+  ],
+  "POL 202": [
+    "POL 301"
+  ],
+  "POL 301": [
+    "POL 302"
+  ],
+  "POL 401": [
+    "POL 402"
+  ],
+  "PORT 400": [
+    "PORT 401"
+  ],
+  "PORT 401": [
+    "PORT 402"
+  ],
+  "PSM 501": [
+    "PSM 502"
+  ],
+  "PSM 502": [
+    "PSM 503"
+  ],
+  "PS 100": [
+    "PS 220",
+    "PS 230",
+    "PS 383",
+    "PS 458",
+    "PS 482"
+  ],
+  "PS 101": [
+    "PS 220",
+    "PS 230",
+    "PS 301",
+    "PS 302",
+    "PS 303",
+    "PS 304",
+    "PS 305",
+    "PS 306",
+    "PS 307",
+    "PS 309",
+    "PS 310",
+    "PS 311",
+    "PS 314",
+    "PS 315",
+    "PS 316",
+    "PS 317",
+    "PS 318",
+    "PS 319",
+    "PS 320",
+    "PS 321",
+    "PS 322",
+    "PS 323",
+    "PS 328",
+    "PS 329"
+  ],
+  "PS 301": [
+    "PS 305"
+  ],
+  "PS 302": [
+    "PS 305"
+  ],
+  "PS 214": [
+    "PS 325"
+  ],
+  "PS 224": [
+    "PS 325"
+  ],
+  "PS 225": [
+    "PS 325"
+  ],
+  "PS 240": [
+    "PS 340",
+    "PS 341",
+    "PS 343",
+    "PS 344",
+    "PS 345",
+    "PS 346",
+    "PS 347",
+    "PS 348",
+    "PS 351",
+    "PS 352",
+    "PS 353",
+    "PS 355",
+    "PS 356",
+    "PS 357",
+    "PS 358",
+    "PS 359",
+    "PS 381",
+    "PS 385",
+    "PS 397"
+  ],
+  "PS 241": [
+    "PS 340",
+    "PS 341",
+    "PS 343",
+    "PS 344",
+    "PS 345",
+    "PS 346",
+    "PS 347",
+    "PS 348",
+    "PS 351",
+    "PS 352",
+    "PS 353",
+    "PS 355",
+    "PS 356",
+    "PS 357",
+    "PS 358",
+    "PS 359",
+    "PS 381",
+    "PS 385",
+    "PS 397"
+  ],
+  "PS 281": [
+    "PS 340",
+    "PS 379",
+    "PS 380",
+    "PS 394",
+    "PS 395",
+    "PS 396",
+    "PS 398",
+    "PS 441",
+    "PS 481",
+    "PS 482",
+    "PS 486",
+    "PS 487",
+    "PS 488"
+  ],
+  "PS 270": [
+    "PS 371",
+    "PS 372",
+    "PS 373",
+    "PS 376",
+    "PS 377"
+  ],
+  "PS 280": [
+    "PS 379",
+    "PS 380",
+    "PS 382",
+    "PS 384",
+    "PS 386",
+    "PS 387",
+    "PS 390",
+    "PS 391",
+    "PS 392",
+    "PS 394",
+    "PS 395",
+    "PS 396",
+    "PS 398",
+    "PS 399",
+    "PS 441",
+    "PS 481",
+    "PS 482",
+    "PS 486",
+    "PS 487",
+    "PS 488"
+  ],
+  "PS 283": [
+    "PS 382",
+    "PS 384",
+    "PS 386",
+    "PS 387",
+    "PS 390",
+    "PS 391",
+    "PS 394",
+    "PS 395",
+    "PS 396",
+    "PS 441",
+    "PS 481",
+    "PS 487",
+    "PS 488"
+  ],
+  "PS 180": [
+    "PS 482",
+    "PS 486"
+  ],
+  "PS 282": [
+    "PS 486"
+  ],
+  "PS 511": [
+    "PS 512"
+  ],
+  "PS 521": [
+    "PS 522"
+  ],
+  "PS 525": [
+    "PS 526"
+  ],
+  "PS 530": [
+    "PS 531"
+  ],
+  "PS 531": [
+    "PS 532"
+  ],
+  "PS 540": [
+    "PS 541",
+    "PS 543",
+    "PS 546"
+  ],
+  "PS 541": [
+    "PS 543",
+    "PS 546"
+  ],
+  "PS 580": [
+    "PS 581",
+    "PS 582",
+    "PS 583",
+    "PS 584",
+    "PS 585",
+    "PS 587",
+    "PS 589"
+  ],
+  "PSYC 210": [
+    "PSYC 311",
+    "PSYC 313",
+    "PSYC 402",
+    "PSYC 445",
+    "PSYC 451"
+  ],
+  "PSYC 235": [
+    "PSYC 331",
+    "PSYC 332",
+    "PSYC 333",
+    "PSYC 334",
+    "PSYC 350",
+    "PSYC 353",
+    "PSYC 363",
+    "PSYC 490"
+  ],
+  "PSYC 230": [
+    "PSYC 334"
+  ],
+  "PSYC 239": [
+    "PSYC 336"
+  ],
+  "PSYC 340": [
+    "PSYC 341"
+  ],
+  "PSYC 250": [
+    "PSYC 350"
+  ],
+  "PSYC 204": [
+    "PSYC 445"
+  ],
+  "PSYC 220": [
+    "PSYC 445"
+  ],
+  "PSYC 245": [
+    "PSYC 455"
+  ],
+  "PSYC 398": [
+    "PSYC 498"
+  ],
+  "PSYC 498": [
+    "PSYC 499"
+  ],
+  "PSYC 530": [
+    "PSYC 533"
+  ],
+  "PSYC 538": [
+    "PSYC 546"
+  ],
+  "PSYC 539": [
+    "PSYC 546"
+  ],
+  "PSYC 532": [
+    "PSYC 546"
+  ],
+  "PSYC 545": [
+    "PSYC 546"
+  ],
+  "PSYC 594": [
+    "PSYC 588"
+  ],
+  "STAT 571": [
+    "PSYC 588"
+  ],
+  "REL 214": [
+    "REL 223"
+  ],
+  "REL 104": [
+    "REL 291"
+  ],
+  "REL 286": [
+    "REL 291"
+  ],
+  "RHET 101": [
+    "RHET 102"
+  ],
+  "RST 130": [
+    "RST 205",
+    "RST 429",
+    "RST 430",
+    "RST 485"
+  ],
+  "RST 100": [
+    "RST 240",
+    "RST 300",
+    "RST 340",
+    "RST 485",
+    "RST 501"
+  ],
+  "RST 210": [
+    "RST 240",
+    "RST 360",
+    "RST 410",
+    "RST 460",
+    "RST 485"
+  ],
+  "RST 260": [
+    "RST 265"
+  ],
+  "RST 325": [
+    "RST 301",
+    "RST 410",
+    "RST 460",
+    "RST 485"
+  ],
+  "RST 240": [
+    "RST 410",
+    "RST 460",
+    "RST 485"
+  ],
+  "RST 120": [
+    "RST 429",
+    "RST 485"
+  ],
+  "RST 150": [
+    "RST 429",
+    "RST 450",
+    "RST 485"
+  ],
+  "RST 460": [
+    "RST 465"
+  ],
+  "RST 101": [
+    "RST 485"
+  ],
+  "RST 200": [
+    "RST 485"
+  ],
+  "RST 255": [
+    "RST 485"
+  ],
+  "RST 480": [
+    "RST 485"
+  ],
+  "RST 370": [
+    "RST 504"
+  ],
+  "RST 410": [
+    "RST 512"
+  ],
+  "RST 512": [
+    "RST 519",
+    "RST 580"
+  ],
+  "RST 515": [
+    "RST 519"
+  ],
+  "RST 516": [
+    "RST 519"
+  ],
+  "RST 550": [
+    "RST 551"
+  ],
+  "RST 501": [
+    "RST 580",
+    "RST 585",
+    "RST 588"
+  ],
+  "RUSS 101": [
+    "RUSS 102"
+  ],
+  "RUSS 102": [
+    "RUSS 201"
+  ],
+  "RUSS 201": [
+    "RUSS 202"
+  ],
+  "RUSS 202": [
+    "RUSS 290",
+    "RUSS 301"
+  ],
+  "RUSS 301": [
+    "RUSS 302"
+  ],
+  "RUSS 401": [
+    "RUSS 402"
+  ],
+  "RUSS 402": [
+    "RUSS 501"
+  ],
+  "RUSS 501": [
+    "RUSS 502"
+  ],
+  "SBC 502": [
+    "SBC 509"
+  ],
+  "SBC 511": [
+    "SBC 512"
+  ],
+  "SCAN 101": [
+    "SCAN 102"
+  ],
+  "SCAN 102": [
+    "SCAN 103"
+  ],
+  "SCAN 103": [
+    "SCAN 104"
+  ],
+  "SCAN 305": [
+    "SCAN 306"
+  ],
+  "SCAN 104": [
+    "SCAN 494"
+  ],
+  "SCAN 505": [
+    "SCAN 506"
+  ],
+  "SE 310": [
+    "SE 311",
+    "SE 312"
+  ],
+  "SE 312": [
+    "SE 311"
+  ],
+  "SE 311": [
+    "SE 312",
+    "SE 410",
+    "SE 494"
+  ],
+  "ECE 211": [
+    "SE 320"
+  ],
+  "SE 320": [
+    "SE 410",
+    "SE 420",
+    "SE 422",
+    "SE 423",
+    "SE 424"
+  ],
+  "SE 261": [
+    "SE 495"
+  ],
+  "SE 290": [
+    "SE 495"
+  ],
+  "SE 494": [
+    "SE 495"
+  ],
+  "SE 424": [
+    "SE 524",
+    "SE 525"
+  ],
+  "SHS 121": [
+    "SHS 221"
+  ],
+  "SHS 221": [
+    "SHS 321"
+  ],
+  "SHS 300": [
+    "SHS 470",
+    "SHS 512"
+  ],
+  "SHS 301": [
+    "SHS 470",
+    "SHS 512"
+  ],
+  "SHS 480": [
+    "SHS 481",
+    "SHS 482"
+  ],
+  "SHS 481": [
+    "SHS 482"
+  ],
+  "SHS 410": [
+    "SHS 510"
+  ],
+  "SHS 320": [
+    "SHS 520"
+  ],
+  "SHS 551": [
+    "SHS 554"
+  ],
+  "SHS 553": [
+    "SHS 556",
+    "SHS 563"
+  ],
+  "SHS 240": [
+    "SHS 557"
+  ],
+  "SHS 450": [
+    "SHS 557"
+  ],
+  "SHS 451": [
+    "SHS 557"
+  ],
+  "SHS 541": [
+    "SHS 558"
+  ],
+  "SHS 550": [
+    "SHS 560"
+  ],
+  "SHS 475": [
+    "SHS 576"
+  ],
+  "SHS 477": [
+    "SHS 577"
+  ],
+  "SHS 577": [
+    "SHS 578"
+  ],
+  "SHS 555": [
+    "SHS 579"
+  ],
+  "SHS 557": [
+    "SHS 579",
+    "SHS 595"
+  ],
+  "SNSK 201": [
+    "SNSK 202"
+  ],
+  "SOC 101": [
+    "SOC 225",
+    "SOC 273",
+    "SOC 275",
+    "SOC 310",
+    "SOC 364",
+    "SOC 373",
+    "SOC 380",
+    "SOC 396",
+    "SOC 400",
+    "SOC 450",
+    "SOC 470",
+    "SOC 496"
+  ],
+  "SOC 163": [
+    "SOC 225",
+    "SOC 273",
+    "SOC 275",
+    "SOC 310",
+    "SOC 364",
+    "SOC 373",
+    "SOC 380",
+    "SOC 396",
+    "SOC 400",
+    "SOC 450",
+    "SOC 470",
+    "SOC 496"
+  ],
+  "SOC 275": [
+    "SOC 375"
+  ],
+  "SOC 200": [
+    "SOC 400",
+    "SOC 500"
+  ],
+  "SOC 380": [
+    "SOC 450",
+    "SOC 480"
+  ],
+  "SOC 500": [
+    "SOC 501"
+  ],
+  "SOC 598": [
+    "SOC 599"
+  ],
+  "SOCW 200": [
+    "SOCW 322",
+    "SOCW 401"
+  ],
+  "SOCW 401": [
+    "SOCW 402",
+    "SOCW 403",
+    "SOCW 404",
+    "SOCW 461"
+  ],
+  "SOCW 461": [
+    "SOCW 470"
+  ],
+  "SOCW 400": [
+    "SOCW 500",
+    "SOCW 501",
+    "SOCW 502",
+    "SOCW 503",
+    "SOCW 504",
+    "SOCW 505",
+    "SOCW 506",
+    "SOCW 507",
+    "SOCW 508",
+    "SOCW 509",
+    "SOCW 521",
+    "SOCW 522",
+    "SOCW 526"
+  ],
+  "SOCW 552": [
+    "SOCW 509"
+  ],
+  "SOCW 531": [
+    "SOCW 532"
+  ],
+  "SOCW 532": [
+    "SOCW 533"
+  ],
+  "SOCW 575": [
+    "SOCW 576"
+  ],
+  "SOCW 516": [
+    "SOCW 580"
+  ],
+  "SOCW 593": [
+    "SOCW 594"
+  ],
+  "SPAN 101": [
+    "SPAN 102"
+  ],
+  "SPAN 102": [
+    "SPAN 130"
+  ],
+  "SPAN 122": [
+    "SPAN 130"
+  ],
+  "SPAN 130": [
+    "SPAN 141",
+    "SPAN 142"
+  ],
+  "SPAN 141": [
+    "SPAN 200",
+    "SPAN 202",
+    "SPAN 204",
+    "SPAN 208",
+    "SPAN 228",
+    "SPAN 232",
+    "SPAN 299"
+  ],
+  "SPAN 142": [
+    "SPAN 200",
+    "SPAN 202",
+    "SPAN 204",
+    "SPAN 208",
+    "SPAN 228",
+    "SPAN 232",
+    "SPAN 299"
+  ],
+  "SPAN 228": [
+    "SPAN 250",
+    "SPAN 252",
+    "SPAN 254",
+    "SPAN 295",
+    "SPAN 303",
+    "SPAN 308",
+    "SPAN 310",
+    "SPAN 312",
+    "SPAN 316",
+    "SPAN 318",
+    "SPAN 320",
+    "SPAN 324",
+    "SPAN 326",
+    "SPAN 330",
+    "SPAN 332",
+    "SPAN 399"
+  ],
+  "SPAN 252": [
+    "SPAN 305",
+    "SPAN 307",
+    "SPAN 309",
+    "SPAN 490"
+  ],
+  "SPAN 310": [
+    "SPAN 490"
+  ],
+  "SPAN 312": [
+    "SPAN 490"
+  ],
+  "SPAN 316": [
+    "SPAN 490"
+  ],
+  "SPAN 318": [
+    "SPAN 490"
+  ],
+  "SPAN 320": [
+    "SPAN 490"
+  ],
+  "SPAN 324": [
+    "SPAN 490"
+  ],
+  "SPAN 326": [
+    "SPAN 490"
+  ],
+  "SPAN 580": [
+    "SPAN 588"
+  ],
+  "SPED 117": [
+    "SPED 317",
+    "SPED 322"
+  ],
+  "EDPR 420": [
+    "SPED 426"
+  ],
+  "SPED 435": [
+    "SPED 436"
+  ],
+  "SPED 436": [
+    "SPED 437"
+  ],
+  "SPED 317": [
+    "SPED 440"
+  ],
+  "SPED 517": [
+    "SPED 440",
+    "SPED 521"
+  ],
+  "SPED 440": [
+    "SPED 441",
+    "SPED 461"
+  ],
+  "SPED 524": [
+    "SPED 441",
+    "SPED 566"
+  ],
+  "EDPR 250": [
+    "SPED 441"
+  ],
+  "SPED 446": [
+    "SPED 447",
+    "SPED 448"
+  ],
+  "SPED 452": [
+    "SPED 453"
+  ],
+  "SPED 470": [
+    "SPED 471"
+  ],
+  "SPED 501": [
+    "SPED 503",
+    "SPED 507"
+  ],
+  "SPED 503": [
+    "SPED 507"
+  ],
+  "SPED 505": [
+    "SPED 507"
+  ],
+  "SPED 426": [
+    "SPED 526"
+  ],
+  "SPED 465": [
+    "SPED 566"
+  ],
+  "SPED 592": [
+    "SPED 593"
+  ],
+  "STAT 510": [
+    "STAT 525",
+    "STAT 527",
+    "STAT 528",
+    "STAT 546"
+  ],
+  "STAT 511": [
+    "STAT 527",
+    "STAT 528",
+    "STAT 546",
+    "STAT 575",
+    "STAT 576"
+  ],
+  "STAT 527": [
+    "STAT 528"
+  ],
+  "STAT 575": [
+    "STAT 576"
+  ],
+  "STAT 553": [
+    "STAT 576"
+  ],
+  "SWAH 201": [
+    "SWAH 202"
+  ],
+  "SWAH 403": [
+    "SWAH 404"
+  ],
+  "SWAH 404": [
+    "SWAH 405"
+  ],
+  "SWAH 405": [
+    "SWAH 406"
+  ],
+  "SWAH 406": [
+    "SWAH 407"
+  ],
+  "SWAH 407": [
+    "SWAH 408"
+  ],
+  "TAM 542": [
+    "TAM 514",
+    "TAM 570"
+  ],
+  "TAM 541": [
+    "TAM 518",
+    "TAM 542",
+    "TAM 549",
+    "TAM 555",
+    "TAM 561"
+  ],
+  "TAM 514": [
+    "TAM 518"
+  ],
+  "TAM 531": [
+    "TAM 518",
+    "TAM 537"
+  ],
+  "TAM 435": [
+    "TAM 531",
+    "TAM 532",
+    "TAM 534"
+  ],
+  "TAM 532": [
+    "TAM 536",
+    "TAM 537",
+    "TAM 538"
+  ],
+  "TAM 552": [
+    "TAM 554",
+    "TAM 555"
+  ],
+  "MSE 440": [
+    "TAM 555"
+  ],
+  "TE 250": [
+    "TE 390"
+  ],
+  "TE 566": [
+    "TE 567"
+  ],
+  "THEA 170": [
+    "THEA 175"
+  ],
+  "THEA 101": [
+    "THEA 208"
+  ],
+  "THEA 122": [
+    "THEA 208",
+    "THEA 212",
+    "THEA 220"
+  ],
+  "THEA 208": [
+    "THEA 211",
+    "THEA 220",
+    "THEA 304"
+  ],
+  "THEA 126": [
+    "THEA 223",
+    "THEA 419",
+    "THEA 420",
+    "THEA 422",
+    "THEA 424"
+  ],
+  "THEA 175": [
+    "THEA 270",
+    "THEA 271"
+  ],
+  "THEA 270": [
+    "THEA 275"
+  ],
+  "THEA 360": [
+    "THEA 361"
+  ],
+  "THEA 275": [
+    "THEA 371",
+    "THEA 372",
+    "THEA 373",
+    "THEA 374"
+  ],
+  "THEA 372": [
+    "THEA 371",
+    "THEA 373",
+    "THEA 374",
+    "THEA 375",
+    "THEA 376",
+    "THEA 377",
+    "THEA 378"
+  ],
+  "THEA 373": [
+    "THEA 371",
+    "THEA 372",
+    "THEA 374",
+    "THEA 375",
+    "THEA 376",
+    "THEA 377",
+    "THEA 378"
+  ],
+  "THEA 374": [
+    "THEA 371",
+    "THEA 372",
+    "THEA 373",
+    "THEA 375",
+    "THEA 376",
+    "THEA 377",
+    "THEA 378"
+  ],
+  "THEA 371": [
+    "THEA 372",
+    "THEA 373",
+    "THEA 374",
+    "THEA 375",
+    "THEA 376",
+    "THEA 377",
+    "THEA 378"
+  ],
+  "THEA 376": [
+    "THEA 375",
+    "THEA 377",
+    "THEA 378",
+    "THEA 471",
+    "THEA 472",
+    "THEA 473",
+    "THEA 474",
+    "THEA 479"
+  ],
+  "THEA 377": [
+    "THEA 375",
+    "THEA 376",
+    "THEA 378",
+    "THEA 471",
+    "THEA 472",
+    "THEA 473",
+    "THEA 474",
+    "THEA 479"
+  ],
+  "THEA 378": [
+    "THEA 375",
+    "THEA 376",
+    "THEA 377",
+    "THEA 471",
+    "THEA 472",
+    "THEA 473",
+    "THEA 474",
+    "THEA 479"
+  ],
+  "THEA 375": [
+    "THEA 376",
+    "THEA 377",
+    "THEA 378",
+    "THEA 471",
+    "THEA 472",
+    "THEA 473",
+    "THEA 474",
+    "THEA 479"
+  ],
+  "THEA 231": [
+    "THEA 405",
+    "THEA 437"
+  ],
+  "THEA 211": [
+    "THEA 411"
+  ],
+  "THEA 212": [
+    "THEA 412"
+  ],
+  "THEA 225": [
+    "THEA 425"
+  ],
+  "THEA 427": [
+    "THEA 428",
+    "THEA 469"
+  ],
+  "THEA 223": [
+    "THEA 430"
+  ],
+  "THEA 419": [
+    "THEA 430",
+    "THEA 519"
+  ],
+  "THEA 425": [
+    "THEA 437"
+  ],
+  "THEA 242": [
+    "THEA 441"
+  ],
+  "THEA 153": [
+    "THEA 454",
+    "THEA 497"
+  ],
+  "THEA 454": [
+    "THEA 455"
+  ],
+  "THEA 428": [
+    "THEA 469"
+  ],
+  "THEA 472": [
+    "THEA 471",
+    "THEA 473",
+    "THEA 474",
+    "THEA 475",
+    "THEA 476",
+    "THEA 477",
+    "THEA 478"
+  ],
+  "THEA 473": [
+    "THEA 471",
+    "THEA 472",
+    "THEA 474",
+    "THEA 475",
+    "THEA 476",
+    "THEA 477",
+    "THEA 478"
+  ],
+  "THEA 474": [
+    "THEA 471",
+    "THEA 472",
+    "THEA 473",
+    "THEA 475",
+    "THEA 476",
+    "THEA 477",
+    "THEA 478"
+  ],
+  "THEA 471": [
+    "THEA 472",
+    "THEA 473",
+    "THEA 474",
+    "THEA 475",
+    "THEA 476",
+    "THEA 477",
+    "THEA 478"
+  ],
+  "THEA 476": [
+    "THEA 475",
+    "THEA 477",
+    "THEA 478"
+  ],
+  "THEA 477": [
+    "THEA 475",
+    "THEA 476",
+    "THEA 478"
+  ],
+  "THEA 478": [
+    "THEA 475",
+    "THEA 476",
+    "THEA 477"
+  ],
+  "THEA 475": [
+    "THEA 476",
+    "THEA 477",
+    "THEA 478"
+  ],
+  "THEA 453": [
+    "THEA 497"
+  ],
+  "THEA 497": [
+    "THEA 498"
+  ],
+  "THEA 422": [
+    "THEA 522"
+  ],
+  "THEA 430": [
+    "THEA 530"
+  ],
+  "THEA 572": [
+    "THEA 571",
+    "THEA 573",
+    "THEA 574"
+  ],
+  "THEA 573": [
+    "THEA 571",
+    "THEA 572",
+    "THEA 574"
+  ],
+  "THEA 574": [
+    "THEA 571",
+    "THEA 572",
+    "THEA 573"
+  ],
+  "THEA 571": [
+    "THEA 572",
+    "THEA 573",
+    "THEA 574"
+  ],
+  "TRST 501": [
+    "TRST 502"
+  ],
+  "TRST 503": [
+    "TRST 508"
+  ],
+  "TRST 541": [
+    "TRST 543"
+  ],
+  "TRST 542": [
+    "TRST 543"
+  ],
+  "TURK 201": [
+    "TURK 202"
+  ],
+  "TURK 202": [
+    "TURK 403"
+  ],
+  "TURK 403": [
+    "TURK 404"
+  ],
+  "TURK 404": [
+    "TURK 405"
+  ],
+  "TURK 405": [
+    "TURK 406"
+  ],
+  "UKR 101": [
+    "UKR 102"
+  ],
+  "UKR 102": [
+    "UKR 201"
+  ],
+  "UKR 201": [
+    "UKR 202"
+  ],
+  "UP 101": [
+    "UP 203",
+    "UP 204"
+  ],
+  "UP 116": [
+    "UP 316",
+    "UP 317"
+  ],
+  "UP 312": [
+    "UP 347"
+  ],
+  "UP 347": [
+    "UP 357",
+    "UP 447",
+    "UP 455",
+    "UP 456",
+    "UP 457",
+    "UP 478"
+  ],
+  "UP 426": [
+    "UP 436"
+  ],
+  "UP 517": [
+    "UP 520",
+    "UP 570"
+  ],
+  "UP 570": [
+    "UP 520"
+  ],
+  "UP 501": [
+    "UP 580"
+  ],
+  "VCM 507": [
+    "VCM 509",
+    "VCM 513",
+    "VCM 514",
+    "VCM 515",
+    "VCM 560"
+  ],
+  "VCM 509": [
+    "VCM 513",
+    "VCM 514",
+    "VCM 515"
+  ],
+  "VCM 513": [
+    "VCM 514"
+  ],
+  "VCM 568": [
+    "VCM 569"
+  ],
+  "VM 606": [
+    "VCM 635",
+    "VCM 641",
+    "VCM 643",
+    "VCM 645",
+    "VM 607"
+  ],
+  "VCM 646": [
+    "VCM 656"
+  ],
+  "VCM 626": [
+    "VCM 657"
+  ],
+  "VCM 690": [
+    "VCM 672"
+  ],
+  "VCM 672": [
+    "VCM 688"
+  ],
+  "VM 601": [
+    "VCM 690",
+    "VM 606"
+  ],
+  "VCM 688": [
+    "VCM 695"
+  ],
+  "VM 616": [
+    "VM 617"
+  ],
+  "VM 652": [
+    "VM 653"
+  ],
+  "VM 653": [
+    "VM 655"
+  ],
+  "WLOF 201": [
+    "WLOF 202"
+  ],
+  "WLOF 202": [
+    "WLOF 403"
+  ],
+  "WLOF 403": [
+    "WLOF 404"
+  ],
+  "WLOF 404": [
+    "WLOF 405"
+  ],
+  "WLOF 405": [
+    "WLOF 406"
+  ],
+  "WLOF 406": [
+    "WLOF 407"
+  ],
+  "YDSH 101": [
+    "YDSH 102"
+  ],
+  "YDSH 102": [
+    "YDSH 103"
+  ],
+  "YDSH 103": [
+    "YDSH 104"
+  ]
+}

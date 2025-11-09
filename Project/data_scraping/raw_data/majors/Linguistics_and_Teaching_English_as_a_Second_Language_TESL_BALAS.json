@@ -1,0 +1,439 @@
+{
+  "major_name": "Linguistics & Teaching English as a Second Language, BALAS (TESL)",
+  "url": "https://catalog.illinois.edu/undergraduate/las/linguistics-teaching-english-second-language-tesl-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Linguistics & Teaching English as a Second Language (TESL)"
+      },
+      {
+        "type": "paragraph",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work:Minimum required course work equates to a total of 41 credit hours of Linguistics and TESL courses, including at least 8 hours of foreign languages. Please see your academic advisor. A Major Plan of Study Form must be completed and submitted to the LAS Student Academic Affairs Office before the end of the fifth semester (60-75 hours). Twelve hours of 300- and 400-level courses must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "8"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours. Students will complete 40 hours of upper-division coursework (these hours can be drawn from all elements of the degree).",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work. Minimum required course work equates to a total of 41 credit hours of Linguistics and TESL courses, including at least 8 hours of foreign languages. Please see your academic advisor. A Major Plan of Study Form must be completed and submitted to the LAS Student Academic Affairs Office before the end of the fifth semester (60-75 hours)Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "8"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "LING 100",
+            "title": "LING 100",
+            "hours": ""
+          },
+          {
+            "code": "LING 222",
+            "type": "choice",
+            "options": [
+              "LING 222",
+              "LING 250"
+            ],
+            "title": "LING 222",
+            "hours": ""
+          },
+          {
+            "code": "LING 250",
+            "type": "choice",
+            "options": [
+              "LING 250"
+            ],
+            "title": "orLING 250"
+          },
+          {
+            "code": "LING 301",
+            "title": "LING 301",
+            "hours": ""
+          },
+          {
+            "code": "LING 302",
+            "title": "LING 302",
+            "hours": ""
+          },
+          {
+            "code": "LING 307",
+            "title": "LING 307",
+            "hours": ""
+          },
+          {
+            "code": "EIL 411",
+            "title": "EIL 411",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "EIL 422",
+            "title": "EIL 422",
+            "hours": ""
+          },
+          {
+            "code": "EIL 445",
+            "title": "EIL 445",
+            "hours": ""
+          },
+          {
+            "code": "EIL 488",
+            "title": "EIL 488",
+            "hours": ""
+          },
+          {
+            "code": "EIL 456",
+            "title": "EIL 456",
+            "hours": ""
+          },
+          {
+            "code": "EIL 460",
+            "title": "EIL 460",
+            "hours": ""
+          },
+          {
+            "code": "LING 450",
+            "title": "LING 450",
+            "hours": ""
+          },
+          {
+            "code": "LING 489",
+            "title": "LING 489",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "EIL 465",
+            "title": "EIL 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Linguistics & Teaching English as a Second Language (TESL)"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free Elective course",
+              "1",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "LING 100",
+              "3",
+              "LING 222 or  250",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LING 301",
+              "3",
+              "LING 302",
+              "3"
+            ],
+            [
+              "EIL 411",
+              "4",
+              "Advanced TESL Elective course from list",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LING 307",
+              "3",
+              "Advanced TESL Elective course",
+              "3"
+            ],
+            [
+              "Advanced TESL Elective course from list",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Second Language Other than English (1st level)",
+              "4",
+              "Second Language Other than English (2nd level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 32"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Advanced TESL Elective course from list",
+              "3",
+              "EIL 465",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "14",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 26"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 120"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Linguistics & Teaching English as a Second Language (TESL)"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Linguistics & Teaching English as a Second Language (TESL)"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Linguistics"
+      },
+      {
+        "type": "paragraph",
+        "content": "Linguistics Faculty\nLinguistics Advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts & Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

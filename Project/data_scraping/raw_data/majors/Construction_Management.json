@@ -1,0 +1,1028 @@
+{
+  "major_name": "Engineering Technology & Management for Agricultural Systems: Construction Management, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/construction-management/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Engineering Technology & Management for Agricultural Systems, Construction Management concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Concentration Requirements:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements Minimum hours required for graduation: 126 hours.",
+        "credit_requirement": "126"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements Minimum of 40 hours of upper-division coursework, generally at the 300 and 400 level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "ACES 101",
+            "title": "ACES 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CMN 101",
+            "title": "CMN 101",
+            "hours": ""
+          },
+          {
+            "code": "ALEC 115",
+            "title": "ALEC 115",
+            "hours": ""
+          },
+          {
+            "code": "CMN 111",
+            "type": "sequence",
+            "sequence": [
+              "CMN 111",
+              "CMN 112"
+            ],
+            "title": "CMN 111&CMN 112",
+            "hours": ""
+          },
+          {
+            "code": "AGCM 220",
+            "title": "AGCM 220",
+            "hours": ""
+          },
+          {
+            "code": "BADM 340",
+            "title": "BADM 340",
+            "hours": ""
+          },
+          {
+            "code": "BTW 250",
+            "title": "BTW 250",
+            "hours": ""
+          },
+          {
+            "code": "BTW 261",
+            "title": "BTW 261",
+            "hours": ""
+          },
+          {
+            "code": "ECE 316",
+            "title": "ECE 316",
+            "hours": ""
+          },
+          {
+            "code": "ESE 360",
+            "title": "ESE 360",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 311",
+            "title": "ETMA 311",
+            "hours": ""
+          },
+          {
+            "code": "NRES 419",
+            "title": "NRES 419",
+            "hours": ""
+          },
+          {
+            "code": "PLPA 200",
+            "title": "PLPA 200",
+            "hours": ""
+          },
+          {
+            "code": "ACE 262",
+            "title": "ACE 262",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 241",
+            "title": "CPSC 241",
+            "hours": ""
+          },
+          {
+            "code": "ECON 202",
+            "title": "ECON 202",
+            "hours": ""
+          },
+          {
+            "code": "STAT 107",
+            "title": "STAT 107",
+            "hours": ""
+          },
+          {
+            "code": "MATH 234",
+            "title": "MATH 234",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 102",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 102",
+              "CHEM 103"
+            ],
+            "title": "CHEM 102&CHEM 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 101",
+            "title": "PHYS 101",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "CHEM 104",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 104",
+              "CHEM 105"
+            ],
+            "title": "CHEM 104&CHEM 105",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "PHYS 102",
+            "title": "PHYS 102",
+            "hours": ""
+          },
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ACE 100"
+            ],
+            "title": "ECON 102",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ACE 100",
+            "type": "choice",
+            "options": [
+              "ACE 100",
+              "RACE 100"
+            ],
+            "title": "orACE 100",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 105",
+            "title": "CS 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ETMA 100",
+            "title": "ETMA 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ETMA 339",
+            "title": "ETMA 339",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ETMA 421",
+            "type": "choice",
+            "options": [
+              "ETMA 421",
+              "ETMA 422"
+            ],
+            "title": "ETMA 421",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ETMA 422",
+            "type": "choice",
+            "options": [
+              "ETMA 422"
+            ],
+            "title": "orETMA 422",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ETMA 430",
+            "title": "ETMA 430",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ETMA 439",
+            "title": "ETMA 439",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ACCY 200",
+            "title": "ACCY 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACCY 201",
+            "title": "ACCY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACCY 202",
+            "title": "ACCY 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 210",
+            "title": "ACE 210",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 221",
+            "title": "ACE 221",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ACE 240",
+            "title": "ACE 240",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 310",
+            "title": "ACE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 345",
+            "title": "ACE 345",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 346",
+            "title": "ACE 346",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 432",
+            "title": "ACE 432",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ACE 435",
+            "title": "ACE 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 300",
+            "title": "BADM 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 310",
+            "title": "BADM 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 311",
+            "title": "BADM 311",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 312",
+            "title": "BADM 312",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 313",
+            "title": "BADM 313",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 314",
+            "title": "BADM 314",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 320",
+            "title": "BADM 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FIN 230",
+            "title": "FIN 230",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LER 290",
+            "title": "LER 290",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LEAD 260",
+            "title": "LEAD 260",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LEAD 340",
+            "title": "LEAD 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LEAD 425",
+            "title": "LEAD 425",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 361",
+            "title": "SE 361",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 400",
+            "title": "SE 400",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "TE 230",
+            "title": "TE 230",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TE 450",
+            "title": "TE 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARCH 101",
+            "title": "ARCH 101",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 464",
+            "title": "ETMA 464",
+            "hours": ""
+          },
+          {
+            "code": "LEAD 260",
+            "title": "LEAD 260",
+            "hours": ""
+          },
+          {
+            "code": "LER 100",
+            "title": "LER 100",
+            "hours": ""
+          },
+          {
+            "code": "NRES 201",
+            "title": "NRES 201",
+            "hours": ""
+          },
+          {
+            "code": "UP 101",
+            "title": "UP 101",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 232",
+            "title": "ETMA 232",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ETMA 371",
+            "title": "ETMA 371",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ETMA 372",
+            "title": "ETMA 372",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ETMA 130",
+            "title": "ETMA 130",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 132",
+            "title": "ETMA 132",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 233",
+            "title": "ETMA 233",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 234",
+            "title": "ETMA 234",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 262",
+            "title": "ETMA 262",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 295",
+            "title": "ETMA 295",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 352",
+            "title": "ETMA 352",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 363",
+            "title": "ETMA 363",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 396",
+            "title": "ETMA 396",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 425",
+            "title": "ETMA 425",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 435",
+            "title": "ETMA 435",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 496",
+            "title": "ETMA 496",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CEE 320",
+            "title": "CEE 320",
+            "hours": ""
+          },
+          {
+            "code": "CEE 420",
+            "title": "CEE 420",
+            "hours": ""
+          },
+          {
+            "code": "CEE 421",
+            "title": "CEE 421",
+            "hours": ""
+          },
+          {
+            "code": "CEE 422",
+            "title": "CEE 422",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 300",
+            "title": "BADM 300",
+            "hours": ""
+          },
+          {
+            "code": "BADM 310",
+            "title": "BADM 310",
+            "hours": ""
+          },
+          {
+            "code": "BADM 320",
+            "title": "BADM 320",
+            "hours": ""
+          },
+          {
+            "code": "FIN 221",
+            "title": "FIN 221",
+            "hours": ""
+          },
+          {
+            "code": "FIN 241",
+            "title": "FIN 241",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "GGIS 410",
+            "title": "GGIS 410",
+            "hours": ""
+          },
+          {
+            "code": "LER 330",
+            "title": "LER 330",
+            "hours": ""
+          },
+          {
+            "code": "UP 406",
+            "title": "UP 406",
+            "hours": ""
+          },
+          {
+            "code": "UP 446",
+            "title": "UP 446",
+            "hours": ""
+          },
+          {
+            "code": "UP 475",
+            "title": "UP 475",
+            "hours": ""
+          },
+          {
+            "code": "UP 480",
+            "title": "UP 480",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ACE 345",
+            "title": "ACE 345",
+            "hours": ""
+          },
+          {
+            "code": "ESE 482",
+            "title": "ESE 482",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Engineering Technology & Management for Agricultural Systems: Construction Management concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ETMA 100",
+              "3",
+              "CHEM 102",
+              "3"
+            ],
+            [
+              "ACES 101",
+              "2",
+              "CHEM 103",
+              "1"
+            ],
+            [
+              "Composition I or Communication Option",
+              "3",
+              "Communication Option or Composition I",
+              "4"
+            ],
+            [
+              "ECON 102 or ACE  100",
+              "3",
+              "MATH 234",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "ETMA Elective",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "PHYS 101",
+              "5",
+              "CHEM 104 or PHYS  102",
+              "3"
+            ],
+            [
+              "CS 105",
+              "3",
+              "CHEM 105 (or Free Elective course)",
+              "1"
+            ],
+            [
+              "ETMA 232",
+              "3",
+              "Statistics course",
+              "3"
+            ],
+            [
+              "Business Elective",
+              "3",
+              "ETMA Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Introductory-Related Course",
+              "3"
+            ],
+            [
+              "",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 33"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ETMA 372",
+              "3",
+              "ETMA 339",
+              "3"
+            ],
+            [
+              "ETMA 421 or  422",
+              "3",
+              "ETMA 371",
+              "3"
+            ],
+            [
+              "ETMA Elective",
+              "3",
+              "Concentration Elective",
+              "3"
+            ],
+            [
+              "Introductory-Related Course",
+              "2",
+              "Business Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Advanced ETMA Communication course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ETMA 430",
+              "2",
+              "ETMA 439",
+              "4"
+            ],
+            [
+              "ETMA Elective",
+              "2",
+              "Concentration Elective",
+              "3"
+            ],
+            [
+              "Concentration Elective",
+              "3",
+              "Concentration Elective",
+              "3"
+            ],
+            [
+              "Concentration Elective",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Concentration Elective",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 32"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 126"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Engineering Technology & Management for Agricultural Systems: Construction Management concentration"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Provide academic and technical knowledge and experiences needed for success in an increasingly technological agricultural industry and world.",
+          "Enhance students' abilities to formulate questions and find solutions both individually and as a part of a team.",
+          "Improve students’ abilities to communication both written and oral forms.",
+          "Enhance the use and understanding of mathematics and calculation for analysis in technology and business.",
+          "Provide opportunities to learn and enhance professional and ethical values and leadership skills.",
+          "Understand their role in society and the social and cultural implications of practice in their profession.",
+          "Recognize the need for and develop the abilities to engage in life-long learning."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Engineering Technology & Management for Agricultural Systems: Construction Management concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Agricultural & Biological Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Agricultural & Biological Engineering Department website\n338 Agricultural Engineering Sciences Building\n1304 West Pennsylvania Avenue\nUrbana, IL 61801\n(217) 333-3570\nabe@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Agricultural, Consumer & Environmental Sciences website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "ACES Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n217-333-3380\naces-academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "ABE Advising website\n(217) 333-3570\ntsm-etm-abe-advising@rt.aces.illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\n(217) 333-3380\nvisitACES@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "The Grainger College of Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering website"
+      }
+    ]
+  }
+}

@@ -1,0 +1,726 @@
+{
+  "major_name": "Dance, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/dance-bfa/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Dance"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 130 hours.",
+        "credit_requirement": "130"
+      },
+      {
+        "type": "paragraph",
+        "content": "Dance coursework grade point average minimum: 2.75"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 150",
+            "title": "DANC 150",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "DANC 160",
+            "title": "DANC 160",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 245",
+            "title": "DANC 245",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "DANC 256",
+            "title": "DANC 256",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 260",
+            "title": "DANC 260",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "DANC 270",
+            "title": "DANC 270",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DANC 360",
+            "title": "DANC 360",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "DANC 460",
+            "title": "DANC 460",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 209",
+            "title": "DANC 209",
+            "hours": ""
+          },
+          {
+            "code": "DANC 212",
+            "title": "DANC 212",
+            "hours": ""
+          },
+          {
+            "code": "DANC 316",
+            "title": "DANC 316",
+            "hours": ""
+          },
+          {
+            "code": "DANC 456",
+            "title": "DANC 456",
+            "hours": ""
+          },
+          {
+            "code": "DANC 468",
+            "title": "DANC 468",
+            "hours": ""
+          },
+          {
+            "code": "DANC 470",
+            "title": "DANC 470",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "DANC 259",
+            "title": "DANC 259",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "DANC 262",
+            "title": "DANC 262",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "DANC 362",
+            "title": "DANC 362",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 465",
+            "title": "DANC 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "DANC 220",
+            "title": "DANC 220",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 232",
+            "title": "DANC 232",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "DANC 131",
+            "title": "DANC 131",
+            "hours": ""
+          },
+          {
+            "code": "DANC 231",
+            "title": "DANC 231",
+            "hours": ""
+          },
+          {
+            "code": "DANC 330",
+            "title": "DANC 330",
+            "hours": ""
+          },
+          {
+            "code": "DANC 331",
+            "title": "DANC 331",
+            "hours": ""
+          },
+          {
+            "code": "DANC 431",
+            "title": "DANC 431",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "DANC 162",
+            "title": "DANC 162",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 240",
+            "title": "DANC 240",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DANC 345",
+            "title": "DANC 345",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DANC 350",
+            "title": "DANC 350",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 370",
+            "title": "DANC 370",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 441",
+            "title": "DANC 441",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DANC 495",
+            "title": "DANC 495",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "DANC 375",
+            "title": "DANC 375",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 498",
+            "title": "DANC 498",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "DANC 499",
+            "title": "DANC 499",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for the Bachelor of Fine Arts in Dance"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Dance"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "FAA 101",
+              "1",
+              "DANC 150",
+              "1"
+            ],
+            [
+              "DANC 150",
+              "1",
+              "DANC 160",
+              "2"
+            ],
+            [
+              "DANC 160",
+              "2",
+              "DANC 270",
+              "1"
+            ],
+            [
+              "DANC 270",
+              "1",
+              "DANC 232",
+              "2"
+            ],
+            [
+              "General Education course",
+              "3",
+              "DANC 162",
+              "1"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "Free Elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "DANC 150",
+              "1",
+              "DANC 245",
+              "1"
+            ],
+            [
+              "DANC 256",
+              "1",
+              "DANC 260",
+              "3"
+            ],
+            [
+              "DANC 260",
+              "2",
+              "DANC 362",
+              "2"
+            ],
+            [
+              "DANC 270",
+              "1",
+              "DANC 220",
+              "1"
+            ],
+            [
+              "DANC 259",
+              "2",
+              "Production Course List course",
+              "1"
+            ],
+            [
+              "DANC 262",
+              "2",
+              "DANC 240",
+              "3"
+            ],
+            [
+              "DANC 220",
+              "1",
+              "DANC 350",
+              "4"
+            ],
+            [
+              "DANC 232",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "Free Elective course",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "18"
+            ],
+            [
+              "Total Hours 34"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "DANC 245",
+              "1",
+              "DANC 375",
+              "1"
+            ],
+            [
+              "DANC 360",
+              "2",
+              "Focused Electives",
+              "3"
+            ],
+            [
+              "DANC 362",
+              "2",
+              "Physical Practice course from '5 hours' list",
+              "2"
+            ],
+            [
+              "Physical Practice course from '5 hours' list",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "DANC 220",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "DANC 345",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "DANC 441",
+              "3",
+              "Free Elective course",
+              "2"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              ""
+            ],
+            [
+              "DANC 370",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 34"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "DANC 460",
+              "2",
+              "DANC 460",
+              "2"
+            ],
+            [
+              "Production Course List course",
+              "1",
+              "Production Course List course",
+              "1"
+            ],
+            [
+              "DANC 495",
+              "1",
+              "DANC 495",
+              "1"
+            ],
+            [
+              "DANC 498",
+              "1",
+              "DANC 498",
+              "1"
+            ],
+            [
+              "DANC 499",
+              "1",
+              "DANC 499",
+              "1"
+            ],
+            [
+              "Physical Practice course from '5 hours' list",
+              "1",
+              "Course in School of Art + Design, School of Music, or Theatre Department",
+              "3"
+            ],
+            [
+              "DANC 220",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Focused Electives",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 130"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Dance"
+      },
+      {
+        "type": "paragraph",
+        "content": "Upon graduation, new alumni of the Bachelor of Fine Arts program will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Dance with full mind-body awareness, energy, skill, musicality, passion, and imagination in African- and European-informed movement practices.",
+          "Confidently teach a class that evinces deep physical and contextual understanding of a movement practice while paying attention to community building, safety, inclusiveness, and strategic educational engagement.",
+          "Communicate ideas about dance through physicality, written, and oral platforms, both in-person and online, in publication or publicity that evidence clarity and consideration of multiple perspectives.",
+          "Utilize technology and various media both as a creative tool and as a means for increasing positive visibility for dance.",
+          "Articulate the socio-political, cultural, historical impact of dance and its potential to contribute to global dialogue and inquiry.",
+          "Participate in and develop creative processes, conduct choreographic and performative research, and disseminate that research in theatrical events.",
+          "Utilize various approaches to the body and understand the context in which those approaches were founded.",
+          "Model good citizenship and community-building in their future environments."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Dance"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Dance"
+      },
+      {
+        "type": "paragraph",
+        "content": "Dance Department Website\ndance@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College Website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of the College of Fine & Applied Arts Admissions & Requirements\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,533 @@
+{
+  "major_name": "Theatre: Theatre Studies, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/theatre-studies/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre, Theatre Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 128 hours. Twelve hours of 300 and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Core Requirements for all Theatre Majors"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "THEA 100",
+            "title": "THEA 100",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 200",
+            "title": "THEA 200",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 121",
+            "title": "THEA 121",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 122",
+            "title": "THEA 122",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 123",
+            "title": "THEA 123",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 208",
+            "title": "THEA 208",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 304",
+            "title": "THEA 304",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 364",
+            "title": "THEA 364",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 404",
+            "title": "THEA 404",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Theatre Studies Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "THEA 175",
+            "title": "THEA 175",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 211",
+            "title": "THEA 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 212",
+            "title": "THEA 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 220",
+            "title": "THEA 220",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 391",
+            "title": "THEA 391",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 392",
+            "title": "THEA 392",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 400",
+            "title": "THEA 400",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 218",
+            "title": "THEA 218",
+            "hours": ""
+          },
+          {
+            "code": "THEA 270",
+            "title": "THEA 270",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "THEA 410",
+            "title": "THEA 410",
+            "hours": ""
+          },
+          {
+            "code": "THEA 411",
+            "title": "THEA 411",
+            "hours": ""
+          },
+          {
+            "code": "THEA 412",
+            "title": "THEA 412",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "General Non-Theatre Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for Bachelor of Fine Arts in Theatre, concentration in Theatre Studies"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre, Theatre Studies Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "THEA 100",
+              "1",
+              "THEA 100",
+              "1"
+            ],
+            [
+              "THEA 121",
+              "3",
+              "THEA 122",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "FAA 101",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 200",
+              "1",
+              "THEA 200",
+              "1"
+            ],
+            [
+              "THEA 123",
+              "3",
+              "THEA 218 (or THEA 270 or other 200-level THEA course)",
+              "3"
+            ],
+            [
+              "THEA 175",
+              "3",
+              "Supporting Professional Elective",
+              "3"
+            ],
+            [
+              "THEA 208",
+              "3",
+              "General Non-Theatre Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 211",
+              "3",
+              "THEA 364",
+              "3"
+            ],
+            [
+              "THEA 304",
+              "3",
+              "Supporting Professional Elective",
+              "3"
+            ],
+            [
+              "300 or 400 level Theatre course",
+              "3",
+              "THEA 212",
+              "3"
+            ],
+            [
+              "Supporting Professional Elective",
+              "3",
+              "THEA 400",
+              "1"
+            ],
+            [
+              "General Non-Theatre Elective",
+              "3",
+              "300 or 400 level Theatre course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              "General Non-Theatre Elective",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "THEA 404",
+              "1",
+              "300 or 400 level Theatre course",
+              "3"
+            ],
+            [
+              "300 or 400 level Theatre course",
+              "3",
+              "THEA 400",
+              "1"
+            ],
+            [
+              "THEA 400",
+              "1",
+              "THEA 410 (or THEA 411 or THEA 412)",
+              "3"
+            ],
+            [
+              "THEA 220",
+              "3",
+              "THEA 392",
+              "2"
+            ],
+            [
+              "THEA 391",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "THEA 410 (or THEA 411 or THEA 412)",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre, Theatre Studies Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Student Learning Outcomes:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Demonstrates a mature, effective ability to analyze, interpret, write critically and creatively, and discuss thoughtfully in the field of theatre and performance.",
+          "Demonstrates ability to actively engage in the collaborative process in preparation, construction, and performance of works for the stage. Demonstrates comprehension of theory and application of practices in areas of emphasis through production related activities.",
+          "Demonstrates necessary skills and knowledge to acquire an entry-level position in the theatre showing the capacity to work and solve problems independently and with initiative (demonstrated through participation in a professional internship).",
+          "Demonstrates practical application of learned methodologies including the ability to communicate ideas, concepts, and outcomes of creative research (demonstrated in public presentation of a senior thesis project)."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Fine Arts Major in Theatre, Theatre Studies Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Theatre"
+      },
+      {
+        "type": "paragraph",
+        "content": "Theatre Department website\nTheatre Department faculty\n4-122 Krannert Center for the Performing Arts, 500 South Goodwin Avenue, Urbana, IL 61801\n(217) 333-2371\ntheatre@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College Website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of the College of Fine & Applied Arts Admissions & Requirements\nUniversity of Illinois Undergrad Admissions\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

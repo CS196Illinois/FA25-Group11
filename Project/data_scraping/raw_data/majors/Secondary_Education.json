@@ -1,0 +1,533 @@
+{
+  "major_name": "Computer Science + Education: Secondary Education, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/secondary-education/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Computer Science + Education, Secondary Education concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "To graduate from the Computer Science and Education curriculum, a student must complete all courses with a traditional letter grade."
+      },
+      {
+        "type": "paragraph",
+        "content": "In order to be recommended for licensure, candidates are required to maintain University of Illinois at Urbana-Champaign, cumulative, content area, and professional education grade point averages of 2.5 (A=4.0). Candidates in teaching licensure programs must maintain a C- or better in ALL content and professional education coursework. Candidates should consult their adviser or the Council on Teacher Education for the list of courses used to compute these grade point averages. For teacher education licensure requirements applicable to all curricula, see the Council on Teacher Education."
+      },
+      {
+        "type": "paragraph",
+        "content": "Licensure requirements are subject to change without notice as a result of new mandates from the Illinois State Board of Education or the Illinois General Assembly."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "EDUC 101",
+            "title": "EDUC 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "The following degree requirements also meet general education course requirements and must be selected from the campus General Education course list."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 124",
+            "title": "CS 124",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 128",
+            "title": "CS 128",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 173",
+            "title": "CS 173",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 222",
+            "title": "CS 222",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CS 225",
+            "title": "CS 225",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 374",
+            "title": "CS 374",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 233",
+            "type": "sequence",
+            "sequence": [
+              "CS 233",
+              "CS 341"
+            ],
+            "title": "CS 233&CS 341",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 340",
+            "title": "CS 340",
+            "hours": ""
+          },
+          {
+            "title": "& Two CS 4XX",
+            "hours": ""
+          },
+          {
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": ""
+          },
+          {
+            "code": "CS 421",
+            "title": "CS 421",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 361",
+            "title": "CS 361",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": "4-5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221",
+            "hours": "4-5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 225",
+            "title": "MATH 225",
+            "hours": ""
+          },
+          {
+            "code": "MATH 227",
+            "title": "MATH 227",
+            "hours": ""
+          },
+          {
+            "code": "MATH 257",
+            "title": "MATH 257",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CI 401",
+            "title": "CI 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 403",
+            "title": "CI 403",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 404",
+            "title": "CI 404",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 473",
+            "title": "CI 473",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": "12",
+            "hours_min": 12,
+            "hours_max": 12
+          },
+          {
+            "code": "EDUC 201",
+            "title": "EDUC 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDUC 202",
+            "title": "EDUC 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 485",
+            "title": "EPSY 485",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 405",
+            "title": "SPED 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Computer Science + Education, Secondary Education concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English.  For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "EDUC 101",
+              "1",
+              "Composition I or General Education course",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "EDUC 201",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "CS 128",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level) or Elective course",
+              "4",
+              "CS 173",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 222",
+              "1",
+              "CS 233 or  340",
+              "4"
+            ],
+            [
+              "CS 225",
+              "4",
+              "CS 361",
+              "3"
+            ],
+            [
+              "EPSY 201",
+              "3",
+              "EDUC 202",
+              "3"
+            ],
+            [
+              "MATH 257,  227, or  225",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 341 (or CS 400-level course)",
+              "4",
+              "CI 401",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "CI 473",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "CS 374",
+              "4"
+            ],
+            [
+              "Elective course",
+              "3",
+              "Elective course (or CS 400-level course)",
+              "3"
+            ],
+            [
+              "Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "13"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CI 403",
+              "3",
+              "CI 404",
+              "3"
+            ],
+            [
+              "CS 357 or  421",
+              "3",
+              "EDPR 442",
+              "12"
+            ],
+            [
+              "EPSY 485",
+              "3",
+              ""
+            ],
+            [
+              "SPED 405",
+              "3",
+              ""
+            ],
+            [
+              "Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Computer Science + Education, Secondary Education concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Education Building\n1310 S. Sixth Street, Champaign, IL 61820\nCollege of Education website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Department of Curriculum & Instruction"
+      },
+      {
+        "type": "paragraph",
+        "content": "306 Education Building \nDepartment of Curriculum & Instruction email\n217-244-8286\nDepartment of Curriculum & Instruction website\nDepartment of Curriculum & Instruction faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Office of Undergraduate Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "110 Education Building \nStudent Academic Affairs email \n217-333-2800\nAdmissions & Academics website\nStudent Academic Affairs website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Computer Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Thomas M. Siebel Center for Computer Science\n201 N Goodwin Avenue, Urbana, IL 61801\nDepartment of Computer Science website\nDepartment of Computer Science faculty\nComputer Science + Education website"
+      }
+    ]
+  }
+}

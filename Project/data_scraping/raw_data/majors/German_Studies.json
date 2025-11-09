@@ -1,0 +1,437 @@
+{
+  "major_name": "Germanic Studies: German Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/german-studies/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Germanic Studies, German Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: normally equates to 34 hours in German. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "34"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "GER 211",
+            "title": "GER 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GER 212",
+            "title": "GER 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GER 420",
+            "title": "GER 420",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GER 103",
+            "title": "GER 103",
+            "hours": ""
+          },
+          {
+            "code": "GER 104",
+            "title": "GER 104",
+            "hours": ""
+          },
+          {
+            "code": "GER 201",
+            "title": "GER 201",
+            "hours": ""
+          },
+          {
+            "code": "GER 205",
+            "title": "GER 205",
+            "hours": ""
+          },
+          {
+            "code": "GER 250",
+            "type": "choice",
+            "options": [
+              "GER 250",
+              "GER 251"
+            ],
+            "title": "GER 250",
+            "hours": ""
+          },
+          {
+            "code": "GER 251",
+            "type": "choice",
+            "options": [
+              "RGER 251",
+              "GER 251"
+            ],
+            "title": "orGER 251"
+          },
+          {
+            "code": "GER 260",
+            "type": "choice",
+            "options": [
+              "GER 260",
+              "GER 261"
+            ],
+            "title": "GER 260",
+            "hours": ""
+          },
+          {
+            "code": "GER 261",
+            "type": "choice",
+            "options": [
+              "RGER 261",
+              "GER 261"
+            ],
+            "title": "orGER 261"
+          },
+          {
+            "code": "GER 270",
+            "title": "GER 270",
+            "hours": ""
+          },
+          {
+            "code": "GER 331",
+            "title": "GER 331",
+            "hours": ""
+          },
+          {
+            "code": "GER 332",
+            "title": "GER 332",
+            "hours": ""
+          },
+          {
+            "code": "GER 385",
+            "title": "GER 385",
+            "hours": ""
+          },
+          {
+            "code": "GER 401",
+            "title": "GER 401",
+            "hours": ""
+          },
+          {
+            "code": "GER 403",
+            "title": "GER 403",
+            "hours": ""
+          },
+          {
+            "code": "GER 465",
+            "title": "GER 465",
+            "hours": ""
+          },
+          {
+            "code": "GER 470",
+            "title": "GER 470",
+            "hours": ""
+          },
+          {
+            "code": "GER 471",
+            "title": "GER 471",
+            "hours": ""
+          },
+          {
+            "code": "GER 472",
+            "title": "GER 472",
+            "hours": ""
+          },
+          {
+            "code": "GER 473",
+            "title": "GER 473",
+            "hours": ""
+          },
+          {
+            "code": "GER 493",
+            "title": "GER 493",
+            "hours": ""
+          },
+          {
+            "code": "GER 494",
+            "title": "GER 494",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Germanic Studies, German Studies Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GER 211",
+              "3",
+              "GER 212",
+              "3"
+            ],
+            [
+              "GER course from list",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GER course from list",
+              "3",
+              "GER course from list",
+              "3"
+            ],
+            [
+              "GER course from list",
+              "3",
+              "GER 300-400 level course from list",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GER 300-400 level course from list",
+              "3",
+              "GER 420",
+              "4"
+            ],
+            [
+              "GER 300-400 level course from list",
+              "3",
+              "GER 300-400 level course from list",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Germanic Studies, German Studies Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "department website: https://www.germanic.illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "department faculty: Germanic Languages & Literatures Faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "advising: German advising"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "college website: https://las.illinois.edu/"
+      }
+    ]
+  }
+}

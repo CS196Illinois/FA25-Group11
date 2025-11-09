@@ -1,0 +1,547 @@
+{
+  "major_name": "Journalism, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/media/journalism-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Journalism"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours for graduation is 124, to include a minimum of 40 hours of upper-division coursework generally at the 300- and 400-level. These hours can be drawn from all elements of the degree.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "All required courses must be taken for a letter grade."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "JOUR 200",
+            "title": "JOUR 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "JOUR 205",
+            "type": "choice",
+            "options": [
+              "JOUR 205",
+              "JOUR 452"
+            ],
+            "title": "JOUR 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "JOUR 452",
+            "type": "choice",
+            "options": [
+              "JOUR 452"
+            ],
+            "title": "orJOUR 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "JOUR 210",
+            "title": "JOUR 210",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "JOUR 215",
+            "title": "JOUR 215",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "JOUR 250",
+            "type": "choice",
+            "options": [
+              "JOUR 250",
+              "JOUR 456"
+            ],
+            "title": "JOUR 250",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "JOUR 456",
+            "type": "choice",
+            "options": [
+              "JOUR 456"
+            ],
+            "title": "orJOUR 456",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "JOUR 310",
+            "type": "choice",
+            "options": [
+              "JOUR 310",
+              "JOUR 311"
+            ],
+            "title": "JOUR 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "JOUR 311",
+            "type": "choice",
+            "options": [
+              "JOUR 311"
+            ],
+            "title": "orJOUR 311",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "JOUR 315",
+            "title": "JOUR 315",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 340",
+            "title": "JOUR 340",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 425",
+            "title": "JOUR 425",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "JOUR 335",
+            "title": "JOUR 335",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 400",
+            "title": "JOUR 400",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 410",
+            "title": "JOUR 410",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 430",
+            "title": "JOUR 430",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 440",
+            "title": "JOUR 440",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 445",
+            "title": "JOUR 445",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 471",
+            "title": "JOUR 471",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 472",
+            "title": "JOUR 472",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 480",
+            "title": "JOUR 480",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 482",
+            "title": "JOUR 482",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 483",
+            "title": "JOUR 483",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "JOUR 450",
+            "title": "JOUR 450",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 451",
+            "title": "JOUR 451",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 454",
+            "title": "JOUR 454",
+            "hours": ""
+          },
+          {
+            "code": "JOUR 460",
+            "title": "JOUR 460",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "STAT 107",
+            "title": "STAT 107",
+            "hours": ""
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": ""
+          },
+          {
+            "code": "SOC 280",
+            "title": "SOC 280",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 235",
+            "title": "PSYC 235",
+            "hours": ""
+          },
+          {
+            "code": "ECON 202",
+            "title": "ECON 202",
+            "hours": ""
+          },
+          {
+            "code": "EPSY 280",
+            "title": "EPSY 280",
+            "hours": ""
+          },
+          {
+            "code": "UP 116",
+            "title": "UP 116",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Journalism"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Electives are additional courses to help students achieve 124 hours required for the degree. Journalism Electives are any additional Journalism courses not already counting toward the major requirements. These electives can often be any level, but students should check with their advisor for specific guidance.",
+        "credit_requirement": "124"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This may require up to three semesters of language depending on high school coursework or placement. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "JOUR 200",
+              "3",
+              "JOUR 210",
+              "4"
+            ],
+            [
+              "Journalism Elective",
+              "3",
+              "Statistical Methods course",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course or Language Other than English (3rd level)",
+              "3",
+              "Language Other than English (3rd level) or General Education course",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 33"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "JOUR 205 or  452",
+              "3",
+              "Intermediate Skills course",
+              "4"
+            ],
+            [
+              "JOUR 215",
+              "4",
+              "JOUR 250 or  456",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Minor/Specialization Course",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 32"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "JOUR 310 or  311",
+              "3",
+              "Advanced Skills course",
+              "3"
+            ],
+            [
+              "Intermediate Skills course",
+              "4",
+              "Journalism Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Minor/Specialization course",
+              "3"
+            ],
+            [
+              "Minor/Specialization course",
+              "3",
+              "Minor/Specialization course",
+              "3"
+            ],
+            [
+              "Minor/Specialization course",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Advanced Skills course",
+              "3",
+              "Advanced Skills course",
+              "4"
+            ],
+            [
+              "Context course",
+              "3",
+              "Journalism Elective",
+              "3"
+            ],
+            [
+              "Minor/Specialization course",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 28"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 124"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Journalism"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand and apply theory and law related to journalism and the First Amendment in the United States.",
+          "Communicate and present information clearly and effectively across a variety of media platforms.",
+          "Apply critical thinking and various research methods—including numerical, statistical, and data visualization techniques—to evaluate information and accurately communicate relevant facts.",
+          "Understand and apply current and emerging tools and technologies in multimedia journalism to tell impactful and innovative stories that engage modern audiences.",
+          "Understand the history of journalism and the role of news professionals and institutions in shaping the development of the media industry and the nation.",
+          "Understand and apply principles and practices of ethical journalism in the pursuit of truth, accuracy, and fairness.",
+          "Practice journalism that respectfully and accurately represents people who are often ignored or misrepresented.",
+          "Critically evaluate journalism products for accuracy, fairness, clarity, style, and grammar."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Journalism"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Journalism"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Journalism faculty\njourn@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Media"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Media admissions & degree requirements"
+      }
+    ]
+  }
+}

@@ -13,7 +13,8 @@
       },
       {
         "type": "paragraph",
-        "content": "Minimum hours required for graduation: 128 hours."
+        "content": "Minimum hours required for graduation: 128 hours.",
+        "credit_requirement": "128"
       },
       {
         "type": "paragraph",
@@ -29,7 +30,9 @@
       },
       {
         "type": "paragraph",
-        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
       },
       {
         "type": "paragraph",
@@ -47,40 +50,10 @@
         "type": "table",
         "content": [
           {
-            "hours": "4-6"
-          },
-          {
-            "hours": "3"
-          },
-          {
-            "hours": "6"
-          },
-          {
-            "hours": "6"
-          },
-          {
             "hours": ""
           },
           {
-            "hours": "6"
-          },
-          {
-            "hours": "3"
-          },
-          {
-            "hours": "3"
-          },
-          {
-            "hours": "3"
-          },
-          {
-            "hours": "6-10"
-          },
-          {
             "hours": ""
-          },
-          {
-            "hours": "0-15"
           }
         ]
       },
@@ -92,24 +65,38 @@
         "type": "table",
         "content": [
           {
-            "code": "ENG 100",
-            "title": "",
-            "hours": "1"
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
           },
           {
             "hours": ""
           },
           {
-            "code": "CS 210",
-            "title": "",
-            "hours": "2 or 3"
+            "code": "CS 210",
+            "type": "choice",
+            "options": [
+              "CS 210",
+              "CS 211"
+            ],
+            "title": "CS 210",
+            "hours": "2 or 3",
+            "hours_min": 2,
+            "hours_max": 3
           },
           {
-            "code": "CS 211",
-            "title": "or"
-          },
-          {
-            "hours": "3-4"
+            "code": "CS 211",
+            "type": "choice",
+            "options": [
+              "CS 211",
+              "ORCS 211"
+            ],
+            "title": "orCS 211",
+            "hours": "2 or 3",
+            "hours_min": 2,
+            "hours_max": 3
           }
         ]
       },
@@ -121,45 +108,60 @@
         "type": "table",
         "content": [
           {
-            "code": "MATH 221",
-            "title": "",
-            "hours": "4"
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "MATH 231",
-            "title": "",
-            "hours": "3"
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "MATH 241",
-            "title": "",
-            "hours": "4"
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "MATH 257",
-            "title": "",
-            "hours": "3"
+            "code": "MATH 257",
+            "type": "choice",
+            "options": [
+              "MATH 257",
+              "MATH 415"
+            ],
+            "title": "MATH 257",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "MATH 415",
-            "title": "or"
+            "code": "MATH 415",
+            "type": "choice",
+            "options": [
+              "MATH 415",
+              "MATH 416"
+            ],
+            "title": "orMATH 415"
           },
           {
-            "code": "MATH 416",
-            "title": "or"
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "PHYS 211",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "PHYS 212",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "hours": "3"
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
             "hours": ""
@@ -169,9 +171,6 @@
           },
           {
             "hours": ""
-          },
-          {
-            "hours": "25"
           }
         ]
       },
@@ -183,62 +182,81 @@
         "type": "table",
         "content": [
           {
-            "code": "CS 124",
-            "title": "",
-            "hours": "3"
+            "code": "CS 124",
+            "title": "CS 124",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 128",
-            "title": "",
-            "hours": "3"
+            "code": "CS 128",
+            "title": "CS 128",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 173",
-            "title": "",
-            "hours": "3"
+            "code": "CS 173",
+            "title": "CS 173",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 222",
-            "title": "",
-            "hours": "1"
+            "code": "CS 222",
+            "title": "CS 222",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
           },
           {
-            "code": "CS 225",
-            "title": "",
-            "hours": "4"
+            "code": "CS 225",
+            "title": "CS 225",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 233",
-            "title": "",
-            "hours": "4"
+            "code": "CS 233",
+            "title": "CS 233",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 341",
-            "title": "",
-            "hours": "4"
+            "code": "CS 341",
+            "title": "CS 341",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 357",
-            "title": "",
-            "hours": "3"
+            "code": "CS 357",
+            "title": "CS 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 361",
-            "title": "",
-            "hours": "3"
+            "code": "CS 361",
+            "title": "CS 361",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 374",
-            "title": "",
-            "hours": "4"
+            "code": "CS 374",
+            "title": "CS 374",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 421",
-            "title": "",
-            "hours": "3"
-          },
-          {
-            "hours": "35"
+            "code": "CS 421",
+            "title": "CS 421",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           }
         ]
       },
@@ -250,7 +268,101 @@
         "type": "table",
         "content": [
           {
-            "hours": "18"
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 411",
+            "title": "CS 411",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 415",
+            "title": "CS 415",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 417",
+            "title": "CS 417",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 425",
+            "title": "CS 425",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 427",
+            "title": "CS 427",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 428",
+            "title": "CS 428",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 429",
+            "title": "CS 429",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 437",
+            "title": "CS 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 465",
+            "title": "CS 465",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 467",
+            "title": "CS 467",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 493",
+            "title": "CS 493",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 494",
+            "title": "CS 494",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 497",
+            "title": "CS 497",
+            "hours": "1 to 3",
+            "hours_min": 1,
+            "hours_max": 3
           },
           {
             "hours": ""
@@ -259,914 +371,1169 @@
             "hours": ""
           },
           {
-            "code": "CS 411",
-            "title": "",
-            "hours": "3 or 4"
+            "hours": ""
           },
           {
-            "code": "CS 415",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 407",
+            "title": "CS 407",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 417",
-            "title": "",
-            "hours": "3"
+            "code": "CS 409",
+            "title": "CS 409",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 425",
-            "title": "",
-            "hours": "4"
+            "code": "CS 422",
+            "title": "CS 422",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 427",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 426",
+            "title": "CS 426",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 428",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 427",
+            "title": "CS 427",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 429",
-            "title": "",
-            "hours": "3"
+            "code": "CS 428",
+            "title": "CS 428",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 437",
-            "title": "",
-            "hours": "3"
+            "code": "CS 429",
+            "title": "CS 429",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 465",
-            "title": "",
-            "hours": "4"
+            "code": "CS 474",
+            "title": "CS 474",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 467",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 476",
+            "title": "CS 476",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 493",
-            "title": "",
-            "hours": "3"
+            "code": "CS 477",
+            "title": "CS 477",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 494",
-            "title": "",
-            "hours": "3"
+            "code": "CS 492",
+            "title": "CS 492",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 497",
-            "title": "",
-            "hours": "1 to 3"
+            "code": "CS 493",
+            "title": "CS 493",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 494",
+            "title": "CS 494",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 521",
+            "title": "CS 521",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 522",
+            "title": "CS 522",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 524",
+            "title": "CS 524",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 526",
+            "title": "CS 526",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 527",
+            "title": "CS 527",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 576",
+            "title": "CS 576",
+            "hours": "2 to 4",
+            "hours_min": 2,
+            "hours_max": 4
           },
           {
             "hours": ""
           },
           {
-            "hours": ""
+            "code": "CS 407",
+            "title": "CS 407",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 413",
+            "title": "CS 413",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 473",
+            "title": "CS 473",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 474",
+            "title": "CS 474",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 475",
+            "title": "CS 475",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 476",
+            "title": "CS 476",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 477",
+            "title": "CS 477",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 481",
+            "title": "CS 481",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 482",
+            "title": "CS 482",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 539",
+            "title": "CS 539",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 571",
+            "title": "CS 571",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 572",
+            "title": "CS 572",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 574",
+            "title": "CS 574",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 575",
+            "title": "CS 575",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 576",
+            "title": "CS 576",
+            "hours": "2 to 4",
+            "hours_min": 2,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 579",
+            "title": "CS 579",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 580",
+            "title": "CS 580",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 581",
+            "title": "CS 581",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 583",
+            "title": "CS 583",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 584",
+            "title": "CS 584",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 586",
+            "title": "CS 586",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
             "hours": ""
           },
           {
-            "code": "CS 407",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 410",
+            "title": "CS 410",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 409",
-            "title": "",
-            "hours": "3"
+            "code": "CS 411",
+            "title": "CS 411",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 422",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 412",
+            "title": "CS 412",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 426",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 414",
+            "title": "CS 414",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 427",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 416",
+            "title": "CS 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 428",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 434",
+            "title": "CS 434",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 429",
-            "title": "",
-            "hours": "3"
+            "code": "CS 440",
+            "title": "CS 440",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 474",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 441",
+            "title": "CS 441",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 476",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 442",
+            "title": "CS 442",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 477",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 443",
+            "title": "CS 443",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 492",
-            "title": "",
-            "hours": "3"
+            "code": "CS 444",
+            "title": "CS 444",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 493",
-            "title": "",
-            "hours": "3"
+            "code": "CS 445",
+            "title": "CS 445",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 494",
-            "title": "",
-            "hours": "3"
+            "code": "CS 446",
+            "title": "CS 446",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 521",
-            "title": "",
-            "hours": "4"
+            "code": "CS 447",
+            "title": "CS 447",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 522",
-            "title": "",
-            "hours": "4"
+            "code": "CS 448",
+            "title": "CS 448",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 524",
-            "title": "",
-            "hours": "4"
+            "code": "CS 464",
+            "title": "CS 464",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 526",
-            "title": "",
-            "hours": "4"
+            "code": "CS 466",
+            "title": "CS 466",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 527",
-            "title": "",
-            "hours": "4"
+            "code": "CS 467",
+            "title": "CS 467",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 576",
-            "title": "",
-            "hours": "2 to 4"
+            "code": "CS 469",
+            "title": "CS 469",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 470",
+            "title": "CS 470",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 510",
+            "title": "CS 510",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 511",
+            "title": "CS 511",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 512",
+            "title": "CS 512",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 514",
+            "title": "CS 514",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 540",
+            "title": "CS 540",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 542",
+            "title": "CS 542",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 543",
+            "title": "CS 543",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 544",
+            "title": "CS 544",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 545",
+            "title": "CS 545",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 546",
+            "title": "CS 546",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 562",
+            "title": "CS 562",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 567",
+            "title": "CS 567",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 576",
+            "title": "CS 576",
+            "hours": "2 to 4",
+            "hours_min": 2,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 582",
+            "title": "CS 582",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
             "hours": ""
           },
           {
-            "code": "CS 407",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 409",
+            "title": "CS 409",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 413",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 415",
+            "title": "CS 415",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 473",
-            "title": "",
-            "hours": "4"
+            "code": "CS 416",
+            "title": "CS 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 474",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 417",
+            "title": "CS 417",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 475",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 441",
+            "title": "CS 441",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 476",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 442",
+            "title": "CS 442",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 477",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 460",
+            "title": "CS 460",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 481",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 461",
+            "title": "CS 461",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 482",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 463",
+            "title": "CS 463",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 539",
-            "title": "",
-            "hours": "4"
+            "code": "CS 464",
+            "title": "CS 464",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 571",
-            "title": "",
-            "hours": "4"
+            "code": "CS 465",
+            "title": "CS 465",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 572",
-            "title": "",
-            "hours": "4"
+            "code": "CS 467",
+            "title": "CS 467",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 574",
-            "title": "",
-            "hours": "4"
+            "code": "CS 468",
+            "title": "CS 468",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 575",
-            "title": "",
-            "hours": "4"
+            "code": "CS 469",
+            "title": "CS 469",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 576",
-            "title": "",
-            "hours": "2 to 4"
+            "code": "CS 470",
+            "title": "CS 470",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 579",
-            "title": "",
-            "hours": "4"
+            "code": "CS 500",
+            "title": "CS 500",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 580",
-            "title": "",
-            "hours": "4"
+            "code": "CS 514",
+            "title": "CS 514",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 581",
-            "title": "",
-            "hours": "4"
+            "code": "CS 562",
+            "title": "CS 562",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 583",
-            "title": "",
-            "hours": "4"
+            "code": "CS 563",
+            "title": "CS 563",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 584",
-            "title": "",
-            "hours": "4"
+            "code": "CS 565",
+            "title": "CS 565",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 586",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "hours": ""
-          },
-          {
-            "code": "CS 410",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 411",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 412",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 414",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 416",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 434",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 440",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 441",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 442",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 443",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 444",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 445",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 446",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 447",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 448",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 464",
-            "title": "",
-            "hours": "3"
-          },
-          {
-            "code": "CS 466",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 467",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 469",
-            "title": "",
-            "hours": "3"
-          },
-          {
-            "code": "CS 470",
-            "title": "",
-            "hours": "3"
-          },
-          {
-            "code": "CS 510",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 511",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 512",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 514",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 540",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 542",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 543",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 544",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 545",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 546",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 562",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 567",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 576",
-            "title": "",
-            "hours": "2 to 4"
-          },
-          {
-            "code": "CS 582",
-            "title": "",
-            "hours": "4"
+            "code": "CS 567",
+            "title": "CS 567",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
             "hours": ""
           },
           {
-            "code": "CS 409",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 409",
+            "title": "CS 409",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 415",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 414",
+            "title": "CS 414",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 416",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 415",
+            "title": "CS 415",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 417",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 416",
+            "title": "CS 416",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 441",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 417",
+            "title": "CS 417",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 442",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 418",
+            "title": "CS 418",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 460",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 419",
+            "title": "CS 419",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 461",
-            "title": "",
-            "hours": "4"
+            "code": "CS 445",
+            "title": "CS 445",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 463",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 448",
+            "title": "CS 448",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 464",
-            "title": "",
-            "hours": "3"
+            "code": "CS 465",
+            "title": "CS 465",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 465",
-            "title": "",
-            "hours": "4"
+            "code": "CS 467",
+            "title": "CS 467",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 467",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 468",
+            "title": "CS 468",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
           },
           {
-            "code": "CS 468",
-            "title": "",
-            "hours": "3"
+            "code": "CS 469",
+            "title": "CS 469",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 469",
-            "title": "",
-            "hours": "3"
+            "code": "CS 519",
+            "title": "CS 519",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 470",
-            "title": "",
-            "hours": "3"
+            "code": "CS 545",
+            "title": "CS 545",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 500",
-            "title": "",
-            "hours": "4"
+            "code": "CS 565",
+            "title": "CS 565",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 514",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 562",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 563",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 565",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 567",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "hours": ""
-          },
-          {
-            "code": "CS 409",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 414",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 415",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 416",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 417",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 418",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 419",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 445",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 448",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 465",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 467",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 468",
-            "title": "",
-            "hours": "3"
-          },
-          {
-            "code": "CS 469",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 519",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 545",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 565",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 567",
-            "title": "",
-            "hours": "4"
+            "code": "CS 567",
+            "title": "CS 567",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
             "hours": ""
           },
           {
-            "code": "CS 419",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 419",
+            "title": "CS 419",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 435",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 435",
+            "title": "CS 435",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 450",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 450",
+            "title": "CS 450",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 466",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 466",
+            "title": "CS 466",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 482",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 482",
+            "title": "CS 482",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 483",
-            "title": "",
-            "hours": "4"
+            "code": "CS 483",
+            "title": "CS 483",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 484",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 484",
+            "title": "CS 484",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 519",
-            "title": "",
-            "hours": "4"
+            "code": "CS 519",
+            "title": "CS 519",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 554",
-            "title": "",
-            "hours": "4"
+            "code": "CS 554",
+            "title": "CS 554",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 555",
-            "title": "",
-            "hours": "4"
+            "code": "CS 555",
+            "title": "CS 555",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 556",
-            "title": "",
-            "hours": "4"
+            "code": "CS 556",
+            "title": "CS 556",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 558",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "hours": ""
-          },
-          {
-            "code": "CS 407",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 423",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 424",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 425",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 431",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 435",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 436",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 437",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 438",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 439",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 460",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 461",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 463",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 483",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 484",
-            "title": "",
-            "hours": "3 or 4"
-          },
-          {
-            "code": "CS 523",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 524",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 525",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 537",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 538",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 539",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 562",
-            "title": "",
-            "hours": "4"
-          },
-          {
-            "code": "CS 563",
-            "title": "",
-            "hours": "4"
+            "code": "CS 558",
+            "title": "CS 558",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
             "hours": ""
           },
           {
-            "code": "CS 423",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 407",
+            "title": "CS 407",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 424",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 423",
+            "title": "CS 423",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 426",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 424",
+            "title": "CS 424",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 431",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 425",
+            "title": "CS 425",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 433",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 431",
+            "title": "CS 431",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 434",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 435",
+            "title": "CS 435",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 437",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 436",
+            "title": "CS 436",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 484",
-            "title": "",
-            "hours": "3 or 4"
+            "code": "CS 437",
+            "title": "CS 437",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 523",
-            "title": "",
-            "hours": "4"
+            "code": "CS 438",
+            "title": "CS 438",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 526",
-            "title": "",
-            "hours": "4"
+            "code": "CS 439",
+            "title": "CS 439",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 533",
-            "title": "",
-            "hours": "4"
+            "code": "CS 460",
+            "title": "CS 460",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 534",
-            "title": "",
-            "hours": "4"
+            "code": "CS 461",
+            "title": "CS 461",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 536",
-            "title": "",
-            "hours": "4"
+            "code": "CS 463",
+            "title": "CS 463",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 541",
-            "title": "",
-            "hours": "4"
+            "code": "CS 483",
+            "title": "CS 483",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           },
           {
-            "code": "CS 584",
-            "title": "",
-            "hours": "4"
+            "code": "CS 484",
+            "title": "CS 484",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
           },
           {
-            "code": "CS 588",
-            "title": "",
-            "hours": "4"
+            "code": "CS 523",
+            "title": "CS 523",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 524",
+            "title": "CS 524",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 525",
+            "title": "CS 525",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 537",
+            "title": "CS 537",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 538",
+            "title": "CS 538",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 539",
+            "title": "CS 539",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 562",
+            "title": "CS 562",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 563",
+            "title": "CS 563",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 423",
+            "title": "CS 423",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 424",
+            "title": "CS 424",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 426",
+            "title": "CS 426",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 431",
+            "title": "CS 431",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 433",
+            "title": "CS 433",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 434",
+            "title": "CS 434",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 437",
+            "title": "CS 437",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 484",
+            "title": "CS 484",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 523",
+            "title": "CS 523",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 526",
+            "title": "CS 526",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 533",
+            "title": "CS 533",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 534",
+            "title": "CS 534",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 536",
+            "title": "CS 536",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 541",
+            "title": "CS 541",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 584",
+            "title": "CS 584",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 588",
+            "title": "CS 588",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
           }
         ]
       },
@@ -1175,30 +1542,8 @@
         "content": "Advanced Electives"
       },
       {
-        "type": "table",
-        "content": [
-          {
-            "hours": "6"
-          },
-          {
-            "hours": "6"
-          }
-        ]
-      },
-      {
         "type": "paragraph",
         "content": "Free Electives"
-      },
-      {
-        "type": "table",
-        "content": [
-          {
-            "hours": "24-25"
-          },
-          {
-            "hours": "128"
-          }
-        ]
       }
     ],
     "sample_sequence": [
@@ -1217,7 +1562,10 @@
       },
       {
         "type": "paragraph",
-        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements. If the option of CS 211 is chosen, it will satisfy a core course requirement and the Campus General Education Advanced Composition requirement."
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements. If the option of CS 211 is chosen, it will satisfy a core course requirement and the Campus General Education Advanced Composition requirement.",
+        "course_codes": [
+          "CS 211"
+        ]
       },
       {
         "type": "paragraph",

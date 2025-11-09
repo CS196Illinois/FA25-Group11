@@ -1,0 +1,350 @@
+{
+  "major_name": "Interdisciplinary Studies: Jewish Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/jewish-studies/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Interdisciplinary Studies, Jewish Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "All substitutions must be approved by the Advisor in the Program in Jewish Culture and Society Office. Substitution for specific courses listed will be approved by the concentration advisor only in exceptional cases."
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Academic Affairs Office before the end of the fifth semester (60-75 hours). Please see your advisor.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To be eligible for graduation with distinction, a student must have a college grade point average of 3.5, a major concentration grade point average of 3.5, completion of HUM 498 with a grade of A, and completion of a semester paper in HUM 498 that is judged to be deserving of \"distinction\" by a committee of at least two faculty members.",
+        "course_codes": [
+          "HUM 498",
+          "HUM 498"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "High distinction: To be eligible for graduation with high distinction, a student must have a college grade point average of 3.5, a major concentration grade point average of 3.7, and must have completed HUM 492 (instead of HUM 498) with a grade of A and a thesis in HUM 492 that is judged to be deserving of \"high distinction\" by a committee of at least two faculty members.",
+        "course_codes": [
+          "HUM 492",
+          "HUM 498",
+          "HUM 492"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: normally equates to 45-51 hours. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "45-51"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "JS 199",
+            "title": "JS 199",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "HEBR 201",
+            "title": "HEBR 201",
+            "hours": ""
+          },
+          {
+            "code": "HEBR 202",
+            "title": "HEBR 202",
+            "hours": ""
+          },
+          {
+            "code": "HEBR 403",
+            "title": "HEBR 403",
+            "hours": ""
+          },
+          {
+            "code": "HEBR 404",
+            "title": "HEBR 404",
+            "hours": ""
+          },
+          {
+            "code": "HEBR 405",
+            "type": "choice",
+            "options": [
+              "HEBR 405",
+              "YDSH 101"
+            ],
+            "title": "HEBR 405",
+            "hours": ""
+          },
+          {
+            "code": "YDSH 101",
+            "type": "choice",
+            "options": [
+              "YDSH 101"
+            ],
+            "title": "orYDSH 101"
+          },
+          {
+            "code": "REL 205",
+            "type": "choice",
+            "options": [
+              "REL 205",
+              "HEBR 406"
+            ],
+            "title": "REL 205",
+            "hours": ""
+          },
+          {
+            "code": "HEBR 406",
+            "type": "choice",
+            "options": [
+              "YDSH 102",
+              "HEBR 406"
+            ],
+            "title": "orHEBR 406"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Interdisciplinary Studies, Jewish Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "HEBR 201",
+              "5",
+              "HEBR 202",
+              "5"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "General Education Course or Composition I",
+              "3",
+              "Composition I or General Education Course",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "HEBR 403",
+              "5",
+              "JS 199",
+              "3"
+            ],
+            [
+              "100-200 level Jewish Studies History course",
+              "3",
+              "HEBR 404",
+              "5"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "HEBR 405 (or YDSH 101)",
+              "4",
+              "REL 205 (or HEBR 406 or YDSH 102)",
+              "4"
+            ],
+            [
+              "100-200 level Jewish Studies Religion course",
+              "3",
+              "100-200 level Jewish Studies Culture course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "13",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "300-level or above Jewish Studies cluster course",
+              "3",
+              "300-level or above Jewish Studies cluster course",
+              "3"
+            ],
+            [
+              "300-level or above Jewish Studies cluster course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Interdisciplinary Studies, Jewish Studies Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Jewish Culture and Society website\nJewish Culture & Society faculty\nJewish Studies advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of Admissions & Requirements for the college of LAS\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

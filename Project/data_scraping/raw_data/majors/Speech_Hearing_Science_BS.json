@@ -1,0 +1,820 @@
+{
+  "major_name": "Speech & Hearing Science, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Speech & Hearing Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "All students must complete a series of SHS professional core classes and an additional 12 credits of SHS electives.  Students are advised to work with the undergraduate academic advisor to ensure courses are taken in proper sequential order and, if desired, that they meet the requirements for eventual ASHA certification.   NOTE: For those planning on pursuing graduate studies in Speech-Language Pathology or Audiology, many graduate programs require 25 clinical observation hours prior to starting graduate school.  Some of these may be completed as part of SHS 475.",
+        "course_codes": [
+          "SHS 475"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300 and 400 level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program.  Speech and Hearing Science Gen Ed courses may be viewed: SHS Gen Ed"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Speech & Hearing Science Major Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Chemistry/Physics Requirement (Select one)"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 101",
+            "title": "CHEM 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 102",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 102",
+              "CHEM 103"
+            ],
+            "title": "CHEM 102&CHEM 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 108",
+            "title": "CHEM 108",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 202",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 202",
+              "CHEM 203"
+            ],
+            "title": "CHEM 202&CHEM 203",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "PHYS 101",
+            "title": "PHYS 101",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "PHYS 102",
+            "title": "PHYS 102",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Animal/Human Biology Requirement (Select one)"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ANTH 143",
+            "title": "ANTH 143",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANTH 241",
+            "title": "ANTH 241",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANTH 246",
+            "title": "ANTH 246",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ANTH 249",
+            "title": "ANTH 249",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "HK 150",
+            "title": "HK 150",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IB 100",
+            "title": "IB 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IB 104",
+            "title": "IB 104",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "IB 110",
+            "title": "IB 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IB 150",
+            "title": "IB 150",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MCB 100",
+            "title": "MCB 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 150",
+            "title": "MCB 150",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MCB 170",
+            "title": "MCB 170",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Statistics Requirement (Select one)"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 107",
+            "title": "STAT 107",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 200",
+            "title": "STAT 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 212",
+            "title": "STAT 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Linguistics Requirement"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "LING 100",
+            "title": "LING 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Speech and Hearing Science Professional Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "SHS 170",
+            "title": "SHS 170",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 191",
+            "title": "SHS 191",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "SHS 200",
+            "title": "SHS 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 240",
+            "title": "SHS 240",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 271",
+            "title": "SHS 271",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 280",
+            "title": "SHS 280",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 300",
+            "title": "SHS 300",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 301",
+            "title": "SHS 301",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 320",
+            "title": "SHS 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 385",
+            "title": "SHS 385",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 391",
+            "title": "SHS 391",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "SHS 450",
+            "title": "SHS 450",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 451",
+            "title": "SHS 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 475",
+            "title": "SHS 475",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "SHS 120",
+            "title": "SHS 120",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 121",
+            "title": "SHS 121",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 221",
+            "title": "SHS 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 222",
+            "title": "SHS 222",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 270",
+            "title": "SHS 270",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 321",
+            "title": "SHS 321",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 352",
+            "title": "SHS 352",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 375",
+            "title": "SHS 375",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 380",
+            "title": "SHS 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 383",
+            "title": "SHS 383",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 427",
+            "title": "SHS 427",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 433",
+            "title": "SHS 433",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 480",
+            "title": "SHS 480",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "SHS 481",
+            "title": "SHS 481",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "SHS 482",
+            "title": "SHS 482",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CMN 232",
+            "title": "CMN 232",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 202",
+            "title": "EPSY 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LING 210",
+            "title": "LING 210",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LING 450",
+            "title": "LING 450",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "SHS 291",
+            "title": "SHS 291",
+            "hours": "1 to 3",
+            "hours_min": 1,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 390",
+            "title": "SHS 390",
+            "hours": "2 to 4",
+            "hours_min": 2,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 395",
+            "title": "SHS 395",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Speech & Hearing Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. The minimum number of hours required for the BS degree is 120. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "SHS 170",
+              "3",
+              "SHS 200",
+              "3"
+            ],
+            [
+              "SHS 191",
+              "1",
+              "Language Other Than English (3rd level)",
+              "4"
+            ],
+            [
+              "Composition I or Free Elective course",
+              "4",
+              "Composition I or Free Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "SHS 320",
+              "3",
+              "SHS 240",
+              "3"
+            ],
+            [
+              "SHS 280",
+              "3",
+              "SHS 271",
+              "3"
+            ],
+            [
+              "Chemistry/Physics Requirement",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "LING 100",
+              "3",
+              "Statistics Requirement",
+              "3"
+            ],
+            [
+              "Animal/Human Biology Requirement",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "SHS 300",
+              "4",
+              "SHS 301",
+              "4"
+            ],
+            [
+              "SHS 450",
+              "4",
+              "SHS 385",
+              "3"
+            ],
+            [
+              "SHS Elective course",
+              "3",
+              "SHS Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "SHS 391",
+              "1",
+              "SHS 475",
+              "1"
+            ],
+            [
+              "SHS 451",
+              "3",
+              "SHS Elective course",
+              "3"
+            ],
+            [
+              "SHS Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "4"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Speech & Hearing Science"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Students will describe basic speech, language, and hearing processes across the lifespan from the biological, behavioral, and social science perspectives.",
+          "Students will apply knowledge of how disruptions in speech, language, and hearing processes relate to human communication functioning and disability.",
+          "Students will demonstrate the ability to read and evaluate literature related to human communication processes across academic disciplines.",
+          "Students will apply knowledge of cultural-linguistic diversity to human communication functioning and disability."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Speech & Hearing Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Speech and Hearing Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Speech and Hearing Science faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Applied Health Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Applied Health Sciences catalog page"
+      }
+    ]
+  }
+}

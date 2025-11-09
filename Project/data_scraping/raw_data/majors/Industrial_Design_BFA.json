@@ -1,0 +1,539 @@
+{
+  "major_name": "Industrial Design, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/industrial-design-bfa/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Industrial Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 122 hours.",
+        "credit_requirement": "122"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The University and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in Art and Design."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "First Year Curriculum"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ARTF 101",
+            "title": "ARTF 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTE 101",
+            "title": "ARTE 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTH 110",
+            "title": "ARTH 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 103",
+            "title": "ARTF 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 105",
+            "title": "ARTF 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 102",
+            "title": "ARTF 102",
+            "hours": ""
+          },
+          {
+            "code": "ARTF 104",
+            "title": "ARTF 104",
+            "hours": ""
+          },
+          {
+            "code": "ARTF 106",
+            "title": "ARTF 106",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art History Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ARTH 211",
+            "title": "ARTH 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Industrial Design Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ARTD 101",
+            "title": "ARTD 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 201",
+            "type": "sequence",
+            "sequence": [
+              "ARTD 201",
+              "ARTD 202"
+            ],
+            "title": "ARTD 201&ARTD 202",
+            "hours": "8",
+            "hours_min": 8,
+            "hours_max": 8
+          },
+          {
+            "code": "ARTD 301",
+            "type": "sequence",
+            "sequence": [
+              "ARTD 301",
+              "ARTD 302"
+            ],
+            "title": "ARTD 301&ARTD 302",
+            "hours": "8",
+            "hours_min": 8,
+            "hours_max": 8
+          },
+          {
+            "code": "ARTD 401",
+            "type": "sequence",
+            "sequence": [
+              "ARTD 401",
+              "ARTD 402"
+            ],
+            "title": "ARTD 401&ARTD 402",
+            "hours": "8",
+            "hours_min": 8,
+            "hours_max": 8
+          },
+          {
+            "code": "ARTD 225",
+            "title": "ARTD 225",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 228",
+            "title": "ARTD 228",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 326",
+            "title": "ARTD 326",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 328",
+            "title": "ARTD 328",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 426",
+            "title": "ARTD 426",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTD 448",
+            "title": "ARTD 448",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art & Design Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for Bachelor of Fine Arts in Industrial Design"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts Major in Industrial Design"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "ARTE 101",
+              "2"
+            ],
+            [
+              "ARTF 101",
+              "2",
+              "ARTF 105",
+              "3"
+            ],
+            [
+              "ARTH 110",
+              "3",
+              "ARTD 101",
+              "3"
+            ],
+            [
+              "ARTF ### (Drawing Category)",
+              "3",
+              "Composition I or Language Other than English (3rd Level)",
+              "4"
+            ],
+            [
+              "ARTF 103",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd Level)",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTD 201",
+              "4",
+              "ARTD 202",
+              "4"
+            ],
+            [
+              "ARTD 225",
+              "3",
+              "ARTD 228",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "ARTH 211",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in major)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 32"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTD 301",
+              "4",
+              "ARTD 302",
+              "4"
+            ],
+            [
+              "ARTD 328",
+              "3",
+              "ARTD 326",
+              "3"
+            ],
+            [
+              "ARTH 200-level or above (Additional Art History)",
+              "3",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in major)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 32"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTD 401",
+              "4",
+              "ARTD 402",
+              "4"
+            ],
+            [
+              "ARTD 426",
+              "3",
+              "ARTD 448",
+              "3"
+            ],
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in major)",
+              "3",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in major)",
+              "3"
+            ],
+            [
+              "ARTH 200-level or above (Additional Art History)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "14",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 27"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 122"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Industrial Design"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Inquiry and insight: the ability to select and use appropriate research and experimental methods, to access existing data or to generate new data, to analyze and draw insights, with a particular emphasis on user needs",
+          "Ideation: the ability to produce creative proposals to identify design opportunities, using design thinking, modeling, and prototyping strategies, with appropriate integration of functional, technical, ergonomic, and visual factors",
+          "Implementation: the ability to select and use appropriate making and manufacturing processes with an understanding of the potential of new technologies, and the demands of sustainability",
+          "Informing: the ability to use visual and verbal communication, to explain and persuade, as appropriate for different audiences",
+          "Self-development: the ability to carry out independent learning and reflexive evaluation of your work, as well as to plan and implement action, individually or in teams, effectively managing self and others",
+          "Contextualization: the ability to locate your own activity within the multiple contexts of design practice, including the theoretical, professional, cultural, environmental, and technological contexts"
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Industrial Design"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Art & Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Art & Design\nArt & Design Faculty\nCoordinator of Undergraduate Academic Affairs: Michael Foellmer (foellme1@illinois.edu)\n143 Art and Design Building, Champaign, IL 61820\n(217) 244-8462"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fine & Applied Arts"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "University of Illinois Urbana-Champaign Undergrad Admissions\nFAA Undergraduate Advising\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,312 @@
+{
+  "major_name": "Music Composition, BMUS",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/music-composition-bmus/",
+  "sections": {
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Music Major in Music Composition"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This sample curriculum plan makes the assumption that the foreign language graduation requirement has been satisfied by completing three years of study of a single foreign language in high school. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "MUS 102",
+              "2"
+            ],
+            [
+              "MUS 100",
+              "0",
+              "MUS 108",
+              "2"
+            ],
+            [
+              "MUS 101",
+              "2",
+              "MUS 106",
+              "2"
+            ],
+            [
+              "MUS 106",
+              "2",
+              "MUS 110",
+              "3"
+            ],
+            [
+              "MUS 107",
+              "2",
+              "MUS 172",
+              "2"
+            ],
+            [
+              "Applied Music Lessons (MUSC 100-level courses)",
+              "2",
+              "Applied Music Lessons (MUSC 100-level courses)",
+              "2"
+            ],
+            [
+              "Ensemble (MUSC 400-level courses)",
+              "1",
+              "Ensemble (MUSC 400-level courses)",
+              "1"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Applied Music Lessons (MUSC 100-level courses)",
+              "2",
+              "Applied Music Lessons (MUSC 100-level courses)",
+              "2"
+            ],
+            [
+              "Ensemble (MUSC 400-level courses)",
+              "1",
+              "Ensemble (MUSC 400-level courses)",
+              "1"
+            ],
+            [
+              "MUS 173",
+              "2",
+              "MUS 202",
+              "2"
+            ],
+            [
+              "MUS 201",
+              "2",
+              "MUS 208",
+              "2"
+            ],
+            [
+              "MUS 206",
+              "2",
+              "MUS 206",
+              "2"
+            ],
+            [
+              "MUS 207",
+              "2",
+              "MUS 314",
+              "3"
+            ],
+            [
+              "MUS 313",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Advanced Musicology (300- or 400-level)",
+              "3",
+              "Advanced Musicology (300- or 400-level)",
+              "3"
+            ],
+            [
+              "Ensemble (MUSC 400-level courses)",
+              "1",
+              "Ensemble (MUSC 400-level courses)",
+              "1"
+            ],
+            [
+              "MUS 242",
+              "2",
+              "MUS 406",
+              "3"
+            ],
+            [
+              "MUS 406",
+              "3",
+              "MUS 408",
+              "3"
+            ],
+            [
+              "MUS 426",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Ensemble (MUSC 400-level courses)",
+              "1",
+              "Ensemble (MUSC 400-level courses)",
+              "1"
+            ],
+            [
+              "Advanced Music Theory",
+              "3",
+              "Advanced Music Theory",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "MUSC 400",
+              "0"
+            ],
+            [
+              "MUS 406",
+              "3",
+              "MUS 406",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Music Major in Music Composition"
+      },
+      {
+        "type": "paragraph",
+        "content": "Bachelor of Music graduates will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand, apply, and integrate foundational concepts of musical study in theory, aural skills, history, composition, improvisation, and keyboard competency, and do so independently and cooperatively.",
+          "Demonstrate the ability to learn independently, make inquiries, think critically, discover solutions, and integrate knowledge across both similar and varied areas of musical study.",
+          "Develop and demonstrate effective performance skills (technical and expressive) using critical thinking to inform historical and stylistic performance practices and artistic expression.",
+          "Develop and demonstrate effective communication skills, including artistic self-expression, with diverse audiences through multiple media.",
+          "Acquire a basic understanding of diverse musical systems and traditions across the world, and develop a sensitivity to and awareness of cultural and societal differences, and their contribution to an interdependent global consciousness.",
+          "Acquire an understanding of professional and ethical responsibility as musicians and citizens, and demonstrate the ability to work professionally and effectively as leaders and collaborators.",
+          "Acquire a basic understanding of technology and professional skills, along with knowledge of specific technological developments within area of specialization.",
+          "Appreciate how music interacts with communities to enhance and engage social and cultural identities and enrich lifelong learning."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Music Major in Music Composition"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Music Website\nMusic Faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College Website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "University of Illinois Urbana-Champaign Undergrad Admissions"
+      }
+    ]
+  }
+}

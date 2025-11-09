@@ -1,0 +1,595 @@
+{
+  "major_name": "Anthropology: Archaeology, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/archaeology/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Anthropology, Archaeology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60- 75 hours). Please see your adviser.",
+        "credit_requirement": "75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: The department may award distinction, high distinction, or highest distinction to any Anthropology major whose overall and major grade point averages are 3.25 or higher; and who successfully completes 33 hours of anthropology courses, including 4-6 hours of ANTH 494 and ANTH 495 resulting in an Honors Thesis. The level of distinction is based on evaluation of the honors thesis.  See the departmental academic advisor for details.",
+        "course_codes": [
+          "ANTH 494",
+          "ANTH 495"
+        ],
+        "credit_requirement": "33"
+      },
+      {
+        "type": "paragraph",
+        "content": "All students must discuss their selection of coursework with a departmental adviser."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: 45-48. Twelve hours of 300- and 400-level Anthropology courses must be taken on this campus.",
+        "level_requirement": "400"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANTH 220",
+            "title": "ANTH 220",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 240",
+            "title": "ANTH 240",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANTH 103",
+            "title": "ANTH 103",
+            "hours": ""
+          },
+          {
+            "code": "ANTH/LING 104",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 230",
+            "title": "ANTH 230",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 270",
+            "title": "ANTH 270",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANTH 358",
+            "title": "ANTH 358",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 448",
+            "title": "ANTH 448",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 449",
+            "title": "ANTH 449",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 459",
+            "title": "ANTH 459",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 358",
+            "title": "ANTH 358",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 420",
+            "title": "ANTH 420",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 450",
+            "title": "ANTH 450",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 451",
+            "title": "ANTH 451",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 452",
+            "title": "ANTH 452",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 453/LA 454",
+            "title": "ANTH 453/LA 454",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 454",
+            "title": "ANTH 454",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 455",
+            "title": "ANTH 455",
+            "hours": ""
+          },
+          {
+            "code": "ANTH/LA 460/RST 459",
+            "title": "ANTH/LA 460/RST 459",
+            "hours": ""
+          },
+          {
+            "code": "ANTH/ARTH 462/LA 472",
+            "title": "ANTH/ARTH 462/LA 472",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 477",
+            "title": "ANTH 477",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 358",
+            "title": "ANTH 358",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 420",
+            "title": "ANTH 420",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 448",
+            "title": "ANTH 448",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 449",
+            "title": "ANTH 449",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 451",
+            "title": "ANTH 451",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 452",
+            "title": "ANTH 452",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 453/LA 454",
+            "title": "ANTH 453/LA 454",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 456",
+            "title": "ANTH 456",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 459",
+            "title": "ANTH 459",
+            "hours": ""
+          },
+          {
+            "code": "ANTH/LA 460/RST 459",
+            "title": "ANTH/LA 460/RST 459",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 461",
+            "title": "ANTH 461",
+            "hours": ""
+          },
+          {
+            "code": "ANTH/ARTH 462/LA 472",
+            "title": "ANTH/ARTH 462/LA 472",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 477",
+            "title": "ANTH 477",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANTH 494",
+            "title": "ANTH 494",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 495",
+            "title": "ANTH 495",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANTH 498",
+            "title": "ANTH 498",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANTH 390",
+            "title": "ANTH 390",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANTH 390",
+            "title": "ANTH 390",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Anthropology, Archaeology Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LAS 101",
+              "1",
+              "ANTH 220",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ANTH 240",
+              "3",
+              "Anthropology Core course",
+              "3"
+            ],
+            [
+              "Cultural Archaeology History course",
+              "3",
+              "Methods/Materials Analysis course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Methods/Materials Analysis course",
+              "3",
+              "Methods/Materials Analysis course",
+              "3"
+            ],
+            [
+              "Archaeology course",
+              "3",
+              "Archaeology course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Additional 300-/400- upper division Archaeology Anthropology coursework",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Additional 300-/400- upper division Archaeology Anthropology coursework",
+              "3",
+              "Archaeology course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Additional 300-/400- upper division Archaeology Anthropology coursework",
+              "3",
+              "Senior Capstone",
+              "3"
+            ],
+            [
+              "Senior Capstone",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Methods/Materials Analysis course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Anthropology, Archaeology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students who graduate with a BALAS degree in Anthropology will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "A broad knowledge of cultural, social, linguistic, archaeological, and biological facets of the human condition and the methods anthropologists use to study them.",
+          "An understanding of the ethical and social dimensions of anthropological research and their impacts on society.",
+          "The ability to conduct independent research through data collection, critical analysis, synthesis, and written presentation of findings."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Students who graduate with a concentration in Archaeology will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Knowledge of the theories and methods for understanding cultural and societal change through time and the role of heritage in the present.",
+          "An understanding of the ethical issues and legal responsibilities concerning cultural resource management."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Anthropology, Archaeology Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Anthropology Website\nAnthropology Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "Anthropology Advising\nanthro@illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of the College of Liberal Arts and Sciences & Admissions Requirements"
+      }
+    ]
+  }
+}

@@ -1,0 +1,692 @@
+{
+  "major_name": "Media & Cinema Studies, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/media/media-cinema-studies-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Media & Cinema Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 124 hours.",
+        "credit_requirement": "124"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "MACS 101",
+            "title": "MACS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 361",
+            "title": "MACS 361",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 261",
+            "title": "MACS 261",
+            "hours": ""
+          },
+          {
+            "code": "MACS 262",
+            "title": "MACS 262",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 350",
+            "title": "MACS 350",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 150",
+            "title": "MACS 150",
+            "hours": ""
+          },
+          {
+            "code": "MACS 205",
+            "title": "MACS 205",
+            "hours": ""
+          },
+          {
+            "code": "MACS 260",
+            "title": "MACS 260",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 320",
+            "title": "MACS 320",
+            "hours": ""
+          },
+          {
+            "code": "MACS 326",
+            "title": "MACS 326",
+            "hours": ""
+          },
+          {
+            "code": "MACS 356",
+            "title": "MACS 356",
+            "hours": ""
+          },
+          {
+            "code": "MACS 361",
+            "title": "MACS 361",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 205",
+            "title": "MACS 205",
+            "hours": ""
+          },
+          {
+            "code": "MACS 261",
+            "title": "MACS 261",
+            "hours": ""
+          },
+          {
+            "code": "MACS 262",
+            "title": "MACS 262",
+            "hours": ""
+          },
+          {
+            "code": "MACS 284",
+            "title": "MACS 284",
+            "hours": ""
+          },
+          {
+            "code": "MACS 317",
+            "title": "MACS 317",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 350",
+            "title": "MACS 350",
+            "hours": ""
+          },
+          {
+            "code": "MACS 351",
+            "title": "MACS 351",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 260",
+            "title": "MACS 260",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 320",
+            "title": "MACS 320",
+            "hours": ""
+          },
+          {
+            "code": "MACS 326",
+            "title": "MACS 326",
+            "hours": ""
+          },
+          {
+            "code": "MACS 356",
+            "title": "MACS 356",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 317",
+            "title": "MACS 317",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 351",
+            "title": "MACS 351",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 140",
+            "title": "MACS 140",
+            "hours": ""
+          },
+          {
+            "code": "MACS 150",
+            "title": "MACS 150",
+            "hours": ""
+          },
+          {
+            "code": "MACS 205",
+            "title": "MACS 205",
+            "hours": ""
+          },
+          {
+            "code": "MACS 260",
+            "title": "MACS 260",
+            "hours": ""
+          },
+          {
+            "code": "MACS 264",
+            "title": "MACS 264",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 320",
+            "title": "MACS 320",
+            "hours": ""
+          },
+          {
+            "code": "MACS 326",
+            "title": "MACS 326",
+            "hours": ""
+          },
+          {
+            "code": "MACS 356",
+            "title": "MACS 356",
+            "hours": ""
+          },
+          {
+            "code": "MACS 361",
+            "title": "MACS 361",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 205",
+            "title": "MACS 205",
+            "hours": ""
+          },
+          {
+            "code": "MACS 261",
+            "title": "MACS 261",
+            "hours": ""
+          },
+          {
+            "code": "MACS 262",
+            "title": "MACS 262",
+            "hours": ""
+          },
+          {
+            "code": "MACS 284",
+            "title": "MACS 284",
+            "hours": ""
+          },
+          {
+            "code": "MACS 317",
+            "title": "MACS 317",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 350",
+            "title": "MACS 350",
+            "hours": ""
+          },
+          {
+            "code": "MACS 351",
+            "title": "MACS 351",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 140",
+            "title": "MACS 140",
+            "hours": ""
+          },
+          {
+            "code": "MACS 150",
+            "title": "MACS 150",
+            "hours": ""
+          },
+          {
+            "code": "MACS 205",
+            "title": "MACS 205",
+            "hours": ""
+          },
+          {
+            "code": "MACS 260",
+            "title": "MACS 260",
+            "hours": ""
+          },
+          {
+            "code": "MACS 264",
+            "title": "MACS 264",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MACS 408",
+            "title": "MACS 408",
+            "hours": ""
+          },
+          {
+            "code": "MACS 410",
+            "title": "MACS 410",
+            "hours": ""
+          },
+          {
+            "code": "MACS 466",
+            "title": "MACS 466",
+            "hours": ""
+          },
+          {
+            "code": "MACS 480",
+            "title": "MACS 480",
+            "hours": ""
+          },
+          {
+            "code": "MACS 481",
+            "title": "MACS 481",
+            "hours": ""
+          },
+          {
+            "code": "MACS 484",
+            "title": "MACS 484",
+            "hours": ""
+          },
+          {
+            "code": "MACS 485",
+            "title": "MACS 485",
+            "hours": ""
+          },
+          {
+            "code": "MACS 496",
+            "title": "MACS 496",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Media & Cinema Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Electives are additional courses to help students achieve 124 hours required for the degree. MACS Electives are any Media and Cinema Studies (MACS) courses not already counting toward degree requirements. Media Electives are any non-required Advertising (ADV), Journalism (JOUR), Media & Cinema Studies (MACS), or Media (MDIA) course. MACS and Media Electives can often be any level, but students should check with their advisor for specific guidance.",
+        "credit_requirement": "124"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This may require up to three semesters of language depending on high school coursework or placement. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "MACS 101",
+              "3",
+              "History Core Course",
+              "3"
+            ],
+            [
+              "Composition I or General Education Course",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General education Course or Composition I",
+              "4"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Elective",
+              "1",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Methods Core Course",
+              "3",
+              "Theory Core Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Media Elective",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Production Core Course",
+              "4",
+              "MACS Elective",
+              "3"
+            ],
+            [
+              "MACS Elective",
+              "3",
+              "MACS Elective",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "Elective",
+              "2"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "17"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Capstone Course",
+              "3",
+              "MACS Elective",
+              "3"
+            ],
+            [
+              "Media Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 124"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Media & Cinema Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students in Media and Cinema Studies will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Demonstrate an understanding of media and cinema studies’ subject areas, and their respective concepts, theories, and methods.",
+          "Demonstrate critical thinking skills.",
+          "Demonstrate an ability to identify and explain problems of social power and social justice across media products and processes.",
+          "Demonstrate the ability to successfully communicate research outcomes and/or creative expressions across a range of modalities.",
+          "Demonstrate the ability to collaborate successfully and inclusively on research and/or creative projects."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Media & Cinema Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Media and Cinema Studies website\nMedia and Cinema Studies faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Media website\nCollege of Media admissions & degree requirements"
+      }
+    ]
+  }
+}

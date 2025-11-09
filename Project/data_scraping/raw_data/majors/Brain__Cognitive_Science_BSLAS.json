@@ -1,0 +1,688 @@
+{
+  "major_name": "Brain & Cognitive Science, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/brain-cognitive-science-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Brain and Cognitive Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Academic Affairs Office before the end of the fifth semester (60-75 hours)."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To be eligible for graduation with Distinction in Psychology, a student must complete a two-semester research sequence in PSYC 494, submit a Senior Thesis that must be approved by the department, and maintain an overall 3.0 GPA at the time of submission. A student can also enroll in PSYC 492 to facilitate the preparation of a Bachelor's thesis."
+      },
+      {
+        "type": "paragraph",
+        "content": "To be eligible for High or Highest Distinction, a student must first be admitted to the Honors Program (requirements: junior standing, 3.5 GPA in Psychology overall, and completion of the statistics an laboratory requirements). The student then has to complete the three semester Honors sequence (PSYC 398, PSYC 498, PSYC 499), submit a Senior Thesis that must be approved by the department, and maintain an overall GPA of at least 3.0 to be awarded High Distinction or a GPA of 3.5 for Highest Distinction."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 42 hours of coursework, including at least 12 hours of advanced coursework."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "BCOG 100",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "BCOG 200",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "hours": "4"
+          },
+          {
+            "code": "PSYC 235",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "title": "Multi-disciplinary Breadth Courses",
+            "hours": "6-7"
+          },
+          {
+            "code": "ANTH 101",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 102",
+            "title": "or"
+          },
+          {
+            "code": "ANTH 104",
+            "title": "or"
+          },
+          {
+            "code": "ANTH 143",
+            "title": "or"
+          },
+          {
+            "code": "INFO 102",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 125",
+            "title": "or"
+          },
+          {
+            "code": "LING 100",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 170",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 100",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 101",
+            "title": "or"
+          },
+          {
+            "code": "PHIL 102",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 103",
+            "title": "or"
+          },
+          {
+            "code": "PSYC 100",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "title": "Intermediate Required Courses",
+            "hours": "3"
+          },
+          {
+            "code": "PSYC 220",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 204",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 210",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "title": "Intermediate Elective Courses",
+            "hours": "3"
+          },
+          {
+            "code": "ANTH 240",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 243",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 270",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 173",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 213",
+            "title": "or"
+          },
+          {
+            "code": "CS 225",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 216",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 224",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 230",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 248",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "LING 225",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "LING 270",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 202",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 250",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 270",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "BCOG 458",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "title": "Required Lab",
+            "hours": "4"
+          },
+          {
+            "code": "PSYC 311",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 331",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 334",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 363",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 445",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 489",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "title": "Advanced Electives",
+            "hours": "12"
+          },
+          {
+            "code": "ANTH 372",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "BCOG 492",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 361",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 440",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "IB 329",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "IB 432",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "IE 340",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "LING 301",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "LING 302",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "LING 304",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "LING 307",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "LING 425",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 419",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 462",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 351",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 407",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 425",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 430",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 443",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 453",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 454",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 471",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 477",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 302",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 361",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 402",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 403",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 404",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 408",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 413",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 414",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 421",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 423",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 433",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 450",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 451",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 453",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "SHS 301",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "SHS 427",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "42-43"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Brain & Cognitive Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "BCOG 200",
+              "4"
+            ],
+            [
+              "BCOG 100",
+              "3",
+              "PSYC 235",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Comp I or General Education course",
+              "3"
+            ],
+            [
+              "Comp. I or General Education course",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Multi-disciplinary Breadth course",
+              "3",
+              "Multi-disciplinary Breadth course",
+              "3"
+            ],
+            [
+              "PSYC Intermediate Required course",
+              "3",
+              "Intermediate Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PSYC Required Lab",
+              "4",
+              "Advanced Elective course",
+              "3"
+            ],
+            [
+              "Advanced Elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BCOG 458",
+              "3",
+              "Advanced Elective course",
+              "3"
+            ],
+            [
+              "Advanced Elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Brain & Cognitive Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "department website\ndepartment faculty: Psychology Faculty\nadvising: Psychology advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences\ncollege website"
+      }
+    ]
+  }
+}

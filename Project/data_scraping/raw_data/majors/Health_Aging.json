@@ -1,0 +1,528 @@
+{
+  "major_name": "Interdisciplinary Health Sciences: Health & Aging, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-aging/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Interdisciplinary Health Science, Health & Aging Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Summary of Degree Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The curriculum requires certain existing courses from the approved lists be taken as noted below. The prescribed courses prepare the student for upper division study and may be used to satisfy General Education Requirements provided they are on the appropriate General Education List."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHLH 101",
+            "title": "CHLH 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHLH 274",
+            "title": "CHLH 274",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHLH 456",
+            "title": "CHLH 456",
+            "hours": "2-4",
+            "hours_min": 2,
+            "hours_max": 4
+          },
+          {
+            "code": "KIN 122",
+            "title": "KIN 122",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 100",
+            "title": "RST 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 170",
+            "title": "SHS 170",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 120",
+            "title": "FSHN 120",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PSYC 100",
+            "title": "PSYC 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "REHB 330",
+            "title": "REHB 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "IHLT 101",
+            "title": "IHLT 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "IHLT 102",
+            "title": "IHLT 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "IHLT 375",
+            "title": "IHLT 375",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "IHLT 474",
+            "title": "IHLT 474",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "IHLT 475",
+            "title": "IHLT 475",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Health and Aging Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "KIN 262",
+            "title": "KIN 262",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHLH 404",
+            "title": "CHLH 404",
+            "hours": "3,4",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SHS 271",
+            "title": "SHS 271",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PSYC 361",
+            "title": "PSYC 361",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHLH 494",
+            "title": "CHLH 494",
+            "hours": ""
+          },
+          {
+            "code": "EPSY 407",
+            "title": "EPSY 407",
+            "hours": ""
+          },
+          {
+            "code": "EPSY 430",
+            "title": "EPSY 430",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 310",
+            "title": "HDFS 310",
+            "hours": ""
+          },
+          {
+            "code": "IHLT 240",
+            "title": "IHLT 240",
+            "hours": ""
+          },
+          {
+            "code": "IHLT 498",
+            "title": "IHLT 498",
+            "hours": ""
+          },
+          {
+            "code": "KIN 365",
+            "title": "KIN 365",
+            "hours": ""
+          },
+          {
+            "code": "KIN 386",
+            "title": "KIN 386",
+            "hours": ""
+          },
+          {
+            "code": "KIN 459",
+            "title": "KIN 459",
+            "hours": ""
+          },
+          {
+            "code": "RST 316",
+            "title": "RST 316",
+            "hours": ""
+          },
+          {
+            "code": "SHS 320",
+            "title": "SHS 320",
+            "hours": ""
+          },
+          {
+            "code": "SHS 375",
+            "title": "SHS 375",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 240",
+            "title": "SOCW 240",
+            "hours": ""
+          },
+          {
+            "code": "SOCW 315",
+            "title": "SOCW 315",
+            "hours": ""
+          },
+          {
+            "code": "UP 340",
+            "title": "UP 340",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Interdisciplinary Health Science, Health & Aging Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "paragraph",
+        "content": "Pre-Health Profession Tracks will most likely be using elective classes to fulfill prerequisite coursework for the intended program."
+      },
+      {
+        "type": "paragraph",
+        "content": "IHLT 375, IHLT 474, and IHLT 475 must be taken sequentially in three different semesters, starting your third year. Your advisor will assign the semester in which you will start this sequence.",
+        "course_codes": [
+          "IHLT 375",
+          "IHLT 474",
+          "IHLT 475"
+        ]
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "IHLT 101",
+              "",
+              "RST 100",
+              "3"
+            ],
+            [
+              "IHLT 102",
+              "",
+              "FSHN 120",
+              "3"
+            ],
+            [
+              "KIN 122",
+              "",
+              "Language Other Than English (3rd level) or RHET 105",
+              "4"
+            ],
+            [
+              "CHLH 101",
+              "",
+              "General Education course",
+              "3"
+            ],
+            [
+              "RHET 105 or Language Other Than English (3rd level)",
+              "4",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective",
+              "1"
+            ],
+            [
+              "",
+              "7",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PSYC 100",
+              "4",
+              "STAT 100",
+              "3"
+            ],
+            [
+              "SHS 170",
+              "3",
+              "REHB 330",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Free Elective",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "13"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHLH 274",
+              "",
+              "IHLT 375",
+              ""
+            ],
+            [
+              "KIN 262",
+              "",
+              "SHS 271",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "",
+              "9",
+              "",
+              "12"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "IHLT 474",
+              "",
+              "IHLT 475",
+              ""
+            ],
+            [
+              "CHLH 456",
+              "3",
+              "PSYC 361",
+              "3"
+            ],
+            [
+              "CHLH 404",
+              "3",
+              "Concentration Elective course",
+              "3"
+            ],
+            [
+              "Concentration Elective course",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "Concentration Elective course",
+              "3",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "3",
+              "Free Elective",
+              "1"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 102"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Interdisciplinary Health Science, Health & Aging Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "I Health"
+      },
+      {
+        "type": "paragraph",
+        "content": "I Health Department website\nI Health faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Applied Health Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Applied Health Sciences College Catalog page\nApplied Health Sciences College website"
+      }
+    ]
+  }
+}

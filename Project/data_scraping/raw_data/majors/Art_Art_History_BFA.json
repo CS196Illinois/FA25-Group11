@@ -1,0 +1,904 @@
+{
+  "major_name": "Art & Art History, BFA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/art-art-history-bfa/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Art & Art History"
+      },
+      {
+        "type": "paragraph",
+        "content": "A portfolio review is required for admission to the School of Art and Design."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 122 hours.",
+        "credit_requirement": "122"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in Art and Design."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "First Year Curriculum"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ARTF 101",
+            "title": "ARTF 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTE 101",
+            "title": "ARTE 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ARTH 110",
+            "title": "ARTH 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 103",
+            "title": "ARTF 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 105",
+            "title": "ARTF 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARTF 102",
+            "title": "ARTF 102",
+            "hours": ""
+          },
+          {
+            "code": "ARTF 104",
+            "title": "ARTF 104",
+            "hours": ""
+          },
+          {
+            "code": "ARTF 106",
+            "title": "ARTF 106",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art History"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 220",
+            "title": "ARTH 220",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 310",
+            "title": "ARTH 310",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 312",
+            "title": "ARTH 312",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 313",
+            "title": "ARTH 313",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 410",
+            "title": "ARTH 410",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 413",
+            "title": "ARTH 413",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 219",
+            "title": "ARTH 219",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 212",
+            "title": "ARTH 212",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 214",
+            "title": "ARTH 214",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 320",
+            "title": "ARTH 320",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 402",
+            "title": "ARTH 402",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 403",
+            "title": "ARTH 403",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 404",
+            "title": "ARTH 404",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 242",
+            "title": "ARTH 242",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 250",
+            "title": "ARTH 250",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 260",
+            "title": "ARTH 260",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 342",
+            "title": "ARTH 342",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 343",
+            "title": "ARTH 343",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 215",
+            "title": "ARTH 215",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 218",
+            "title": "ARTH 218",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 222",
+            "title": "ARTH 222",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 230",
+            "title": "ARTH 230",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 231",
+            "title": "ARTH 231",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 235",
+            "title": "ARTH 235",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 241",
+            "title": "ARTH 241",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 242",
+            "title": "ARTH 242",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 344",
+            "title": "ARTH 344",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 415",
+            "title": "ARTH 415",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 416",
+            "title": "ARTH 416",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 423",
+            "title": "ARTH 423",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 424",
+            "title": "ARTH 424",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 430",
+            "title": "ARTH 430",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 431",
+            "title": "ARTH 431",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 432",
+            "title": "ARTH 432",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 433",
+            "title": "ARTH 433",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 435",
+            "title": "ARTH 435",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 436",
+            "title": "ARTH 436",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 440",
+            "title": "ARTH 440",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 443",
+            "title": "ARTH 443",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 445",
+            "title": "ARTH 445",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 447",
+            "title": "ARTH 447",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 215",
+            "title": "ARTH 215",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 218",
+            "title": "ARTH 218",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 222",
+            "title": "ARTH 222",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 230",
+            "title": "ARTH 230",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 231",
+            "title": "ARTH 231",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 235",
+            "title": "ARTH 235",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 342",
+            "title": "ARTH 342",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 360",
+            "title": "ARTH 360",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 415",
+            "title": "ARTH 415",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 416",
+            "title": "ARTH 416",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 423",
+            "title": "ARTH 423",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 424",
+            "title": "ARTH 424",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 430",
+            "title": "ARTH 430",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 431",
+            "title": "ARTH 431",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 432",
+            "title": "ARTH 432",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 433",
+            "title": "ARTH 433",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 435",
+            "title": "ARTH 435",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 436",
+            "title": "ARTH 436",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 412",
+            "title": "ARCH 412",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 414",
+            "title": "ARCH 414",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 211",
+            "title": "ARTH 211",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 240",
+            "title": "ARTH 240",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 241",
+            "title": "ARTH 241",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 242",
+            "title": "ARTH 242",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 257",
+            "title": "ARTH 257",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 260",
+            "title": "ARTH 260",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 300",
+            "title": "ARTH 300",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 343",
+            "title": "ARTH 343",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 344",
+            "title": "ARTH 344",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 345",
+            "title": "ARTH 345",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 350",
+            "title": "ARTH 350",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 351",
+            "title": "ARTH 351",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 361",
+            "title": "ARTH 361",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 440",
+            "title": "ARTH 440",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 443",
+            "title": "ARTH 443",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 445",
+            "title": "ARTH 445",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 447",
+            "title": "ARTH 447",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 450",
+            "title": "ARTH 450",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 415",
+            "title": "ARCH 415",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 416",
+            "title": "ARCH 416",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 417",
+            "title": "ARCH 417",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art History Seminar"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ARTH 495",
+            "title": "ARTH 495",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Art & Design Electives"
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credit Hours for the Bachelor of Fine Arts in Art and Art History"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Art & Art History"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English.  For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "ARTE 101",
+              "2"
+            ],
+            [
+              "Composition I or Langauge Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "ARTF 101",
+              "2",
+              "ARTF 105",
+              "3"
+            ],
+            [
+              "ARTF 103",
+              "3",
+              "ARTS or ARTD course (any level)",
+              "3"
+            ],
+            [
+              "ARTH 110",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "ARTF ### (Drawing Category)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTH 200-400 level course",
+              "3",
+              "ARTH 200-400 level course",
+              "3"
+            ],
+            [
+              "ARTH 200-400 level course",
+              "3",
+              "ARTH 200-400 level course",
+              "3"
+            ],
+            [
+              "ARTS or ARTD course (any level)",
+              "3",
+              "ARTS or ARTD course (any level)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTH 200-400 level course",
+              "3",
+              "ARTH 495",
+              "3"
+            ],
+            [
+              "ARTS or ARTD course (any level)",
+              "3",
+              "ARTH 300-400 level course",
+              "3"
+            ],
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3",
+              "ARTS or ARTD course (any level)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTH 495",
+              "3",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3"
+            ],
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3"
+            ],
+            [
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3",
+              "Art & Design Elective (ARTS, ARTD, ARTE, ARTH, or ARTJ courses not otherwise required in the major)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "4",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 122"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Art & Art History"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Students will develop art historical knowledge and skills in tandem with their development of a studio or design practice.",
+          "Students will be able to demonstrate familiarity with key artistic monuments and modes of art production from various global contexts.",
+          "Students will be able to analyze and interpret works of art and architecture situated in a variety of historical and social contexts, and in comparative perspective.",
+          "Students will be able to use visual and verbal primary sources, secondary sources, and core critical frameworks of art historical analysis to develop and articulate persuasive arguments about works of art and the cultures that produced them."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Fine Arts in Art & Art History"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Art & Design"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Art & Design\nArt & Design faculty\nDirector of Undergraduate Studies: Professor Oscar Vazquez\n143 Art and Design Building, Champaign, IL 61820"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Academic Advisor: Bryan VanGinhoven\n143 Art and Design Building, Champaign, IL 61820\n(217) 300-2520\nAdvising email: bvanginh@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fine & Applied Arts"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "University of Illinois Urbana-Champaign Undergrad Admissions\nFAA Undergraduate Advising\nadmissions@illinois.edu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,655 @@
+{
+  "major_name": "Chemical Engineering + Data Science, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-data-science-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Chemical Engineering plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 132 hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "A grade point average of 2.5 or higher in all courses required for the major earned on the UIUC campus is required in order to be accepted by the department as juniors and seniors."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "The University and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "4-6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6-10"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "0-15"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Data Science Core"
+      },
+      {
+        "type": "paragraph",
+        "content": "Mathematical Foundations"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "MATH 221",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "MATH 220",
+            "title": "or"
+          },
+          {
+            "code": "MATH 231",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 241",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "MATH 257",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 285",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 441",
+            "title": "or"
+          },
+          {
+            "hours": "17"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Data Science Fundamentals"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHBE 411",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "STAT 207",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 307",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHBE 413",
+            "title": "or"
+          },
+          {
+            "code": "IS 477",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "14"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Computational Fundamentals"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CS 101",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 277",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHBE 412",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "10"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Social Impact in Data Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "IS 467",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Coursework in Area of Specialization"
+      },
+      {
+        "type": "paragraph",
+        "content": "Chemical Engineering"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ENG 100",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "CHBE 121",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHBE 221",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CHBE 321",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHBE 421",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHBE 422",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHBE 424",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CHBE 430",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHBE 431",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHBE 440",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "31"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Chemistry Fundamentals"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "10-12"
+          },
+          {
+            "code": "CHEM 202",
+            "title": "&CHEM 203&CHEM 204&CHEM 205",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 102",
+            "title": "&CHEM 103&CHEM 104&CHEM 105&CHEM 222&CHEM 223",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 236",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CHEM 237",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "CHEM 315",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 420",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "CHEM 442",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "hours": "24-26"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Physics Fundamentals"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "PHYS 211",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "PHYS 212",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "PHYS 214",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "hours": "10"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Data Science Experience"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHBE 415",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Chemical Engineering plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "paragraph",
+        "content": "The sample sequence below assumes that the student has placed into the Accelerated Chemistry courses."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ENG 100",
+              "1",
+              "CHBE 121",
+              "1"
+            ],
+            [
+              "CHEM 202",
+              "3",
+              "CHEM 204",
+              "3"
+            ],
+            [
+              "CHEM 203",
+              "2",
+              "CHEM 205",
+              "2"
+            ],
+            [
+              "MATH 221 or  220",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities course with Cultural Studies designation)",
+              "3",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "General Education course (choose a Social & Behavioral Science course) or Composition I",
+              "3",
+              "Composition I or General Education course (choose a Social & Behavioral Science course)",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHBE 221",
+              "3",
+              "CHBE 321",
+              "4"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "CHBE 411",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "CS 101",
+              "3"
+            ],
+            [
+              "CHEM 236",
+              "4",
+              "MATH 257",
+              "3"
+            ],
+            [
+              "CHEM 237",
+              "2",
+              "PHYS 214",
+              "2"
+            ],
+            [
+              "",
+              "General Education course (choose a Humanities course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "18"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHBE 421",
+              "4",
+              "CHBE 422",
+              "4"
+            ],
+            [
+              "STAT 207",
+              "4",
+              "CHBE 412",
+              "3"
+            ],
+            [
+              "MATH 285 or  441",
+              "3",
+              "CHBE 413 or CS  307",
+              "4"
+            ],
+            [
+              "CHEM 442",
+              "4",
+              "CHEM 315",
+              "2"
+            ],
+            [
+              "CHEM 420",
+              "2",
+              "CS 277",
+              "4"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHBE 424",
+              "3",
+              "CHBE 431",
+              "4"
+            ],
+            [
+              "CHBE 430",
+              "4",
+              "CHBE 440",
+              "3"
+            ],
+            [
+              "IS 467",
+              "3",
+              "CHBE 415",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "IS 477",
+              "3"
+            ],
+            [
+              "General Education course (choose a Social & Behavioral Science Course with Cultural Studies designation)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 132"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Chemical Engineering plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Student learning outcomes are based on learning outcomes in line with the Accreditation Board of Engineering (ABET) accreditation process."
+      },
+      {
+        "type": "paragraph",
+        "content": "Upon completing the program, Chemical Engineering + Data Science students are expected to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "Apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "Communicate effectively with a range of audiences.",
+          "Recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "Function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "Develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "Acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Chemical Engineering plus Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Chemical & Biomolecular Engineering website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Chemical & Biomolecular Engineering faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "SCS Academic Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

@@ -1,0 +1,448 @@
+{
+  "major_name": "Earth, Society, & Environmental Sustainability: Science of the Earth System (SES), BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/earth-society-environmental-sustainability-bslas/science-of-the-earth-system/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor Science in Liberal Arts and Sciences Major in Earth, Society, & Environmental Sustainability, Science of the Earth System Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "All students wishing to attend graduate school in any field should discuss necessary supplementary course work with their advisor as early as possible."
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60-75 hours). Study abroad courses may be substituted for major and minor requirements with approval of advisor.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Distinction: A minimum cumulative grade point average of 3.3, and have also completed an approved independent study project, approved senior thesis, or approved capstone."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "High Distinction: A minimum cumulative grade point average of 3.5, and have also completed an approved independent study project, approved senior thesis, or approved capstone."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Highest Distinction: A minimum cumulative grade point average of 3.7, and also completed an approved senior thesis or approved research capstone."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "ESE Core Requirements:"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 48-58 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus. Substitutions may be made with advisor approval."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ESE 200",
+            "title": "ESE 200",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 379",
+            "title": "GGIS 379",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Science of the Earth System Concentration Requirements:"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 102",
+            "type": "choice",
+            "options": [
+              "CHEM 102",
+              "CHEM 202"
+            ],
+            "title": "CHEM 102",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 202",
+            "type": "choice",
+            "options": [
+              "CHEM 202"
+            ],
+            "title": "orCHEM 202"
+          },
+          {
+            "code": "CHEM 103",
+            "type": "choice",
+            "options": [
+              "CHEM 103",
+              "CHEM 203"
+            ],
+            "title": "CHEM 103",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 203",
+            "type": "choice",
+            "options": [
+              "CHEM 203"
+            ],
+            "title": "orCHEM 203"
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221"
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 101",
+            "type": "choice",
+            "options": [
+              "PHYS 101",
+              "PHYS 211"
+            ],
+            "title": "PHYS 101",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 211",
+            "type": "choice",
+            "options": [
+              "PHYS 211"
+            ],
+            "title": "orPHYS 211"
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor Science in Liberal Arts and Sciences Major in Earth, Society, & Environmental Sustainability, Science of the Earth System Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. This may require up to four semesters of language depending on high school coursework or placement.​ For more information, see the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "ESES Introductory Core course or Composition I",
+              "3"
+            ],
+            [
+              "ESE 200",
+              "3",
+              "MATH 220 or  221",
+              "5"
+            ],
+            [
+              "CHEM 102 or  202",
+              "3",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "CHEM 103 or  203",
+              "1",
+              "Free elective course",
+              "4"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              ""
+            ],
+            [
+              "Composition I or ESES Introductory Core course",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PHYS 211 or  101",
+              "4",
+              "STAT 100",
+              "3"
+            ],
+            [
+              "ESES Introductory Core course",
+              "3",
+              "ESES Introductory Core course",
+              "3"
+            ],
+            [
+              "ESES Introductory Core course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "13",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GGIS 379",
+              "4",
+              "Advanced ESE or ENSU course",
+              "3"
+            ],
+            [
+              "Advanced ESE or ENSU course",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Advanced ESE or ENSU course",
+              "4",
+              "Advanced course from list",
+              "3"
+            ],
+            [
+              "Advanced course from list",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor Science in Liberal Arts and Sciences Major in Earth, Society, & Environmental Sustainability, Science of the Earth System Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "department website: https://www.earth.illinois.edu/\ndepartment faculty: Earth, Society & Environment Faculty\nadvising: Earth, Society & Environment advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences\ncollege website: https://las.illinois.edu/"
+      }
+    ]
+  }
+}

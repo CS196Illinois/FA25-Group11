@@ -1,0 +1,1276 @@
+{
+  "major_name": "Art History, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/art-history-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences in Art History"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 110",
+            "title": "ARTH 110",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 212",
+            "title": "AFRO 212",
+            "hours": ""
+          },
+          {
+            "code": "AFRO 227",
+            "title": "AFRO 227",
+            "hours": ""
+          },
+          {
+            "code": "AFRO 228",
+            "title": "AFRO 228",
+            "hours": ""
+          },
+          {
+            "code": "AFRO 243",
+            "title": "AFRO 243",
+            "hours": ""
+          },
+          {
+            "code": "AFRO 259",
+            "type": "choice",
+            "options": [
+              "AFRO 259",
+              "AFRO 260"
+            ],
+            "title": "AFRO 259",
+            "hours": ""
+          },
+          {
+            "code": "AFRO 260",
+            "type": "choice",
+            "options": [
+              "AFRO 260"
+            ],
+            "title": "orAFRO 260"
+          },
+          {
+            "code": "AFRO 382",
+            "title": "AFRO 382",
+            "hours": ""
+          },
+          {
+            "code": "AFRO 400",
+            "title": "AFRO 400",
+            "hours": ""
+          },
+          {
+            "code": "AFST 222",
+            "title": "AFST 222",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 250",
+            "title": "ANTH 250",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 364",
+            "title": "ANTH 364",
+            "hours": ""
+          },
+          {
+            "code": "ANTH 462",
+            "title": "ANTH 462",
+            "hours": ""
+          },
+          {
+            "code": "AAS 200",
+            "title": "AAS 200",
+            "hours": ""
+          },
+          {
+            "code": "AAS 211",
+            "title": "AAS 211",
+            "hours": ""
+          },
+          {
+            "code": "AAS 246",
+            "title": "AAS 246",
+            "hours": ""
+          },
+          {
+            "code": "AAS 275",
+            "title": "AAS 275",
+            "hours": ""
+          },
+          {
+            "code": "AAS 300",
+            "title": "AAS 300",
+            "hours": ""
+          },
+          {
+            "code": "AAS 315",
+            "title": "AAS 315",
+            "hours": ""
+          },
+          {
+            "code": "CLCV 206",
+            "title": "CLCV 206",
+            "hours": ""
+          },
+          {
+            "code": "CLCV 240",
+            "title": "CLCV 240",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 202",
+            "title": "ENGL 202",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 204",
+            "title": "ENGL 204",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 206",
+            "title": "ENGL 206",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 207",
+            "title": "ENGL 207",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 208",
+            "title": "ENGL 208",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 209",
+            "type": "choice",
+            "options": [
+              "ENGL 209",
+              "ENGL 210"
+            ],
+            "title": "ENGL 209",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 210",
+            "type": "choice",
+            "options": [
+              "ENGL 210"
+            ],
+            "title": "orENGL 210"
+          },
+          {
+            "code": "ENGL 211",
+            "title": "ENGL 211",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 213",
+            "title": "ENGL 213",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 224",
+            "title": "ENGL 224",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 253",
+            "title": "ENGL 253",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 255",
+            "title": "ENGL 255",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 273",
+            "title": "ENGL 273",
+            "hours": ""
+          },
+          {
+            "code": "ENGL 285",
+            "title": "ENGL 285",
+            "hours": ""
+          },
+          {
+            "code": "HIST 200",
+            "title": "HIST 200",
+            "hours": ""
+          },
+          {
+            "code": "HIST 202",
+            "title": "HIST 202",
+            "hours": ""
+          },
+          {
+            "code": "HIST 203",
+            "title": "HIST 203",
+            "hours": ""
+          },
+          {
+            "code": "HIST 205",
+            "title": "HIST 205",
+            "hours": ""
+          },
+          {
+            "code": "HIST 211",
+            "title": "HIST 211",
+            "hours": ""
+          },
+          {
+            "code": "HIST 212",
+            "title": "HIST 212",
+            "hours": ""
+          },
+          {
+            "code": "HIST 220",
+            "title": "HIST 220",
+            "hours": ""
+          },
+          {
+            "code": "HIST 221",
+            "title": "HIST 221",
+            "hours": ""
+          },
+          {
+            "code": "HIST 227",
+            "title": "HIST 227",
+            "hours": ""
+          },
+          {
+            "code": "HIST 258",
+            "title": "HIST 258",
+            "hours": ""
+          },
+          {
+            "code": "HIST 259",
+            "title": "HIST 259",
+            "hours": ""
+          },
+          {
+            "code": "HIST 260",
+            "title": "HIST 260",
+            "hours": ""
+          },
+          {
+            "code": "HIST 270",
+            "title": "HIST 270",
+            "hours": ""
+          },
+          {
+            "code": "HIST 271",
+            "title": "HIST 271",
+            "hours": ""
+          },
+          {
+            "code": "HIST 272",
+            "title": "HIST 272",
+            "hours": ""
+          },
+          {
+            "code": "HIST 274",
+            "title": "HIST 274",
+            "hours": ""
+          },
+          {
+            "code": "HIST 279",
+            "title": "HIST 279",
+            "hours": ""
+          },
+          {
+            "code": "HIST 281",
+            "title": "HIST 281",
+            "hours": ""
+          },
+          {
+            "code": "HIST 285",
+            "title": "HIST 285",
+            "hours": ""
+          },
+          {
+            "code": "HIST 287",
+            "title": "HIST 287",
+            "hours": ""
+          },
+          {
+            "code": "HIST 310",
+            "title": "HIST 310",
+            "hours": ""
+          },
+          {
+            "code": "HIST 312",
+            "title": "HIST 312",
+            "hours": ""
+          },
+          {
+            "code": "HIST 345",
+            "title": "HIST 345",
+            "hours": ""
+          },
+          {
+            "code": "HIST 347",
+            "title": "HIST 347",
+            "hours": ""
+          },
+          {
+            "code": "HIST 349",
+            "title": "HIST 349",
+            "hours": ""
+          },
+          {
+            "code": "HIST 350",
+            "title": "HIST 350",
+            "hours": ""
+          },
+          {
+            "code": "HIST 352",
+            "title": "HIST 352",
+            "hours": ""
+          },
+          {
+            "code": "HIST 354",
+            "title": "HIST 354",
+            "hours": ""
+          },
+          {
+            "code": "HIST 357",
+            "title": "HIST 357",
+            "hours": ""
+          },
+          {
+            "code": "HIST 370",
+            "title": "HIST 370",
+            "hours": ""
+          },
+          {
+            "code": "HIST 373",
+            "title": "HIST 373",
+            "hours": ""
+          },
+          {
+            "code": "HIST 374",
+            "title": "HIST 374",
+            "hours": ""
+          },
+          {
+            "code": "HIST 379",
+            "title": "HIST 379",
+            "hours": ""
+          },
+          {
+            "code": "HIST 380",
+            "title": "HIST 380",
+            "hours": ""
+          },
+          {
+            "code": "HIST 420",
+            "title": "HIST 420",
+            "hours": ""
+          },
+          {
+            "code": "HIST 425",
+            "title": "HIST 425",
+            "hours": ""
+          },
+          {
+            "code": "HIST 459",
+            "title": "HIST 459",
+            "hours": ""
+          },
+          {
+            "code": "HIST 462",
+            "title": "HIST 462",
+            "hours": ""
+          },
+          {
+            "code": "HIST 476",
+            "title": "HIST 476",
+            "hours": ""
+          },
+          {
+            "code": "ITAL 406",
+            "title": "ITAL 406",
+            "hours": ""
+          },
+          {
+            "code": "LLS 259",
+            "title": "LLS 259",
+            "hours": ""
+          },
+          {
+            "code": "LLS 458",
+            "title": "LLS 458",
+            "hours": ""
+          },
+          {
+            "code": "LLS 460",
+            "title": "LLS 460",
+            "hours": ""
+          },
+          {
+            "code": "LLS 465",
+            "title": "LLS 465",
+            "hours": ""
+          },
+          {
+            "code": "LLS 473",
+            "title": "LLS 473",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 411",
+            "title": "PHIL 411",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 412",
+            "title": "PHIL 412",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 414",
+            "title": "PHIL 414",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 219",
+            "title": "ARTH 219",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 220",
+            "title": "ARTH 220",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 310",
+            "title": "ARTH 310",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 312",
+            "title": "ARTH 312",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 313",
+            "title": "ARTH 313",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 410",
+            "title": "ARTH 410",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 413",
+            "title": "ARTH 413",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 212",
+            "title": "ARTH 212",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 214",
+            "title": "ARTH 214",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 320",
+            "title": "ARTH 320",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 402",
+            "title": "ARTH 402",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 403",
+            "title": "ARTH 403",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 404",
+            "title": "ARTH 404",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 242",
+            "title": "ARTH 242",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 250",
+            "title": "ARTH 250",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 260",
+            "title": "ARTH 260",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 342",
+            "title": "ARTH 342",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 343",
+            "title": "ARTH 343",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 215",
+            "title": "ARTH 215",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 218",
+            "title": "ARTH 218",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 222",
+            "title": "ARTH 222",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 230",
+            "title": "ARTH 230",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 231",
+            "title": "ARTH 231",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 235",
+            "title": "ARTH 235",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 241",
+            "title": "ARTH 241",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 242",
+            "title": "ARTH 242",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 344",
+            "title": "ARTH 344",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 415",
+            "title": "ARTH 415",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 416",
+            "title": "ARTH 416",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 423",
+            "title": "ARTH 423",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 424",
+            "title": "ARTH 424",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 430",
+            "title": "ARTH 430",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 431",
+            "title": "ARTH 431",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 432",
+            "title": "ARTH 432",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 433",
+            "title": "ARTH 433",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 435",
+            "title": "ARTH 435",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 436",
+            "title": "ARTH 436",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 440",
+            "title": "ARTH 440",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 443",
+            "title": "ARTH 443",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 445",
+            "title": "ARTH 445",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 447",
+            "title": "ARTH 447",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 215",
+            "title": "ARTH 215",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 218",
+            "title": "ARTH 218",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 222",
+            "title": "ARTH 222",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 230",
+            "title": "ARTH 230",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 231",
+            "title": "ARTH 231",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 235",
+            "title": "ARTH 235",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 342",
+            "title": "ARTH 342",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 360",
+            "title": "ARTH 360",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 415",
+            "title": "ARTH 415",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 416",
+            "title": "ARTH 416",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 423",
+            "title": "ARTH 423",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 424",
+            "title": "ARTH 424",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 430",
+            "title": "ARTH 430",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 431",
+            "title": "ARTH 431",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 432",
+            "title": "ARTH 432",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 433",
+            "title": "ARTH 433",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 435",
+            "title": "ARTH 435",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 436",
+            "title": "ARTH 436",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 412",
+            "title": "ARCH 412",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 414",
+            "title": "ARCH 414",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ARTH 211",
+            "title": "ARTH 211",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 240",
+            "title": "ARTH 240",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 241",
+            "title": "ARTH 241",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 242",
+            "title": "ARTH 242",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 257",
+            "title": "ARTH 257",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 260",
+            "title": "ARTH 260",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 300",
+            "title": "ARTH 300",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 343",
+            "title": "ARTH 343",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 344",
+            "title": "ARTH 344",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 345",
+            "title": "ARTH 345",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 350",
+            "title": "ARTH 350",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 351",
+            "title": "ARTH 351",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 361",
+            "title": "ARTH 361",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 440",
+            "title": "ARTH 440",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 443",
+            "title": "ARTH 443",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 445",
+            "title": "ARTH 445",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 447",
+            "title": "ARTH 447",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 450",
+            "title": "ARTH 450",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 415",
+            "title": "ARCH 415",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 416",
+            "title": "ARCH 416",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 417",
+            "title": "ARCH 417",
+            "hours": ""
+          },
+          {
+            "code": "ARTH 495",
+            "title": "ARTH 495",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences in Art History"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LAS 101",
+              "1",
+              "1 course in studio art (ARTS), graphic design (ARTD) or industrial design (ARTD)",
+              "3"
+            ],
+            [
+              "ARTH 110",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Supporting course int he Humanities offered by LAS",
+              "3",
+              "Supporting course in the Humanities offered by LAS",
+              "3"
+            ],
+            [
+              "200-400 level course in Art History, offered in the School of Art & Design",
+              "3",
+              "200-400 level course in Art History, offered in the School of Art & Design",
+              "3"
+            ],
+            [
+              "Language Other than English (4th level)",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "2"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Supporting course in the Humanities, offered by LAS",
+              "3",
+              "ARTH 495",
+              "3"
+            ],
+            [
+              "200-400 level course in Art History, offered in the School of Art & Design",
+              "3",
+              "200-400 level course in Art History, offered in the School of Art & Design",
+              "3"
+            ],
+            [
+              "200-400 level course in Art History, offered in the School of Art & Design",
+              "3",
+              "200-400 level course in Art History, offered in the School of Art & Design",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARTH 495",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 120"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences in Art History"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Students will be able to demonstrate familiarity with key artistic monuments and modes of art production from various global contexts.",
+          "Students will be able to analyze and interpret works of art and architecture situated in a variety of historical and social contexts, and in comparative perspective.",
+          "Students will be able to use visual and verbal primary sources, secondary sources, and core critical frameworks of art historical analysis to develop and articulate persuasive arguments about works of art and the cultures that produced them.",
+          "Students will be able to engage with adjacent humanities disciplines in development of an interdisciplinary practice of art history."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences in Art History"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Art History"
+      },
+      {
+        "type": "paragraph",
+        "content": "Art History information\nArt History faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Academic Advisor: Bryan VanGinhoven\nAdvising email: bvanginh@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements:Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "major_name": "Music: Music Technology, BA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/music-ba/music-technology",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Music, Music Technology concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students who wish to study voice or an instrument for credit are required to satisfy the instrumental or vocal qualifying audition designed for students outside the School of Music."
+      },
+      {
+        "type": "paragraph",
+        "content": "Credits earned in applied music lessons are generally considered elective."
+      },
+      {
+        "type": "paragraph",
+        "content": "A minimum of twelve hours of 400-level courses in Music must be taken on the Urbana-Champaign campus.",
+        "level_requirement": "400"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 100",
+            "title": "MUS 100",
+            "hours": "0",
+            "hours_min": 0,
+            "hours_max": 0
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Core"
+      },
+      {
+        "type": "paragraph",
+        "content": "Concentration in Music Technology"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "MUS 209",
+            "title": "MUS 209",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 407",
+            "title": "MUS 407",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 499",
+            "title": "MUS 499",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 127",
+            "title": "MUS 127",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 327",
+            "title": "MUS 327",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 402",
+            "title": "MUS 402",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 403",
+            "title": "MUS 403",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 405",
+            "title": "MUS 405",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 427",
+            "title": "MUS 427",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 428",
+            "title": "MUS 428",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 401",
+            "title": "MUS 401",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 404",
+            "title": "MUS 404",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 409",
+            "title": "MUS 409",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 460",
+            "title": "MUS 460",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 461",
+            "title": "MUS 461",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Technology Supporting Coursework"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credit for the Bachelor of Arts in Music, concentration in Music Technology"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Music, Music Technology concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "MUS 102",
+              "2"
+            ],
+            [
+              "MUS 100",
+              "0",
+              "MUS 108",
+              "2"
+            ],
+            [
+              "MUS 101",
+              "2",
+              "MUS 110",
+              "3"
+            ],
+            [
+              "MUS 107",
+              "2",
+              "MUS 172",
+              "2"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "MUS 173",
+              "2",
+              "MUS 202",
+              "2"
+            ],
+            [
+              "MUS 201",
+              "2",
+              "MUS 208",
+              "2"
+            ],
+            [
+              "MUS 207",
+              "2",
+              "MUS 314",
+              "3"
+            ],
+            [
+              "MUS 313",
+              "3",
+              "MUS 209",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Advanced Musicology (MUS 4--)",
+              "3",
+              "Advanced Music Theory (MUS 4--)",
+              "3"
+            ],
+            [
+              "MUS 407",
+              "3",
+              "Music Technology Elective",
+              "2"
+            ],
+            [
+              "Music Technology Elective",
+              "2",
+              "Supporting Coursework (non-music)",
+              "1"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 29"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Supporting Coursework (non-music)",
+              "3",
+              "MUS 499",
+              "1"
+            ],
+            [
+              "Supporting Coursework (non-music)",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 29"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 120"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Music, Music Technology concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Bachelor of Arts in Music graduates will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand, apply, and integrate foundational concepts of musical study in theory, aural skills, history, composition, improvisation, and keyboard competency, and do so independently and cooperatively.",
+          "Demonstrate the ability to learn independently, make inquiries, think critically, discover solutions, and integrate knowledge across both similar and varied areas of musical study.",
+          "Develop and demonstrate effective communication skills, including artistic self-expression, with diverse audiences through multiple media.",
+          "Acquire a basic understanding of diverse musical systems and traditions across the world, and develop a sensitivity to and awareness of cultural and societal differences, and their contribution to an interdependent global consciousness.",
+          "Acquire an understanding of professional and ethical responsibility as musicians and citizens, and demonstrate the ability to work professionally and effectively as leaders and collaborators.",
+          "Acquire a basic understanding of technology and professional skills, along with knowledge of specific technological developments within area of specialization.",
+          "Appreciate how music interacts in communities to enhance and engage social and cultural identities to enrich lifelong learning."
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "The goals of the Music Technology concentration are:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "To treat the study of technology and music as equal subject areas, adopting a broad, multi-disciplinary approach to the curriculum.",
+          "To frame music technology within the larger contexts of historical trends, social transformation and ethical responsibility.",
+          "To give students a technical understanding of computers and a familiarity with how computers mediate work in different disciplines across the arts and sciences.",
+          "To transform students from consumers of digital media into informed producers of content.",
+          "To provide an education relevant to contemporary career paths."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Music, Music Technology concentration"
+      }
+    ]
+  }
+}

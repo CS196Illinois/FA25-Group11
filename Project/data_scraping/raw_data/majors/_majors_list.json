@@ -1,0 +1,1270 @@
+[
+  {
+    "name": "ACES Undeclared",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/aces-undeclared/"
+  },
+  {
+    "name": "Accountancy, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/accountancy-bs/"
+  },
+  {
+    "name": "Accountancy + Data Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/accountancy-data-science-bs/"
+  },
+  {
+    "name": "Actuarial Science, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/actuarial-science-bslas/"
+  },
+  {
+    "name": "Advertising, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/media/advertising-bs/"
+  },
+  {
+    "name": "Aerospace Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/aerospace-engineering-bs/"
+  },
+  {
+    "name": "African American Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/african-american-studies-balas/"
+  },
+  {
+    "name": "Agricultural & Biological Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/"
+  },
+  {
+    "name": "Bioprocess Engineering and Industrial Biotechnology",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/bioprocess-engineering-industrial-biotechnology/"
+  },
+  {
+    "name": "Off-Highway Vehicle and Equipment Engineering",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/off-highway-vehicle-equipment-engineering/"
+  },
+  {
+    "name": "Renewable Energy Systems Engineering",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/renewable-energy-systems-engineering/"
+  },
+  {
+    "name": "Soil and Water Resources Engineering",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/soil-water-resources-engineering/"
+  },
+  {
+    "name": "Sustainable Ecological and Environmental Systems Engineering",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/sustainable-ecological-environmental-systems-engineering/"
+  },
+  {
+    "name": "Synthetic Biological Engineering",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs/synthetic-biological-engineering/"
+  },
+  {
+    "name": "Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs-agricultural-engineering-agricultural-science-bsag/"
+  },
+  {
+    "name": "Agricultural & Consumer Economics, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/"
+  },
+  {
+    "name": "Agri-Accounting",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/agri-accounting/"
+  },
+  {
+    "name": "Agribusiness Markets & Management",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/agribusiness-markets-management/"
+  },
+  {
+    "name": "Consumer Economics & Finance",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/consumer-economics-finance/"
+  },
+  {
+    "name": "Environmental Economics & Policy",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/environmental-economics-policy/"
+  },
+  {
+    "name": "Farm Management",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/farm-management/"
+  },
+  {
+    "name": "Finance in Agribusiness",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/finance-agribusiness/"
+  },
+  {
+    "name": "Financial Planning",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/financial-planning/"
+  },
+  {
+    "name": "Policy, International Trade & Development",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/policy-international-trade-development/"
+  },
+  {
+    "name": "Public Policy & Law",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-consumer-economics-bs/public-policy-law/"
+  },
+  {
+    "name": "Agricultural Leadership, Education, & Communications, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/"
+  },
+  {
+    "name": "Agricultural Communications",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/agricultural-communications/"
+  },
+  {
+    "name": "Agricultural Education",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/agricultural-education/"
+  },
+  {
+    "name": "Organizational & Community Leadership",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agricultural-leadership-education-communications-bs/organizational-community-leadership/"
+  },
+  {
+    "name": "Agronomy, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/agronomy-bs/"
+  },
+  {
+    "name": "Animal Sciences, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/"
+  },
+  {
+    "name": "Companion Animal & Equine Science",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/companion-equine-science/"
+  },
+  {
+    "name": "Food Animal Production & Management",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/food-animal-production-management/"
+  },
+  {
+    "name": "Science, Pre-Veterinary & Medical",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/animal-sciences-bs/science-pre-veterinary--medical/"
+  },
+  {
+    "name": "Anthropology, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/"
+  },
+  {
+    "name": "Archaeology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/archaeology/"
+  },
+  {
+    "name": "Biological Anthropology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/biological-anthropology/"
+  },
+  {
+    "name": "Human Evolutionary Biology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/human-evolutionary-biology/"
+  },
+  {
+    "name": "Sociocultural & Linguistic Anthropology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/anthropology-balas/sociocultural-linguistic-anthropology/"
+  },
+  {
+    "name": "Architectural Studies, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/architectural-studies-bs/"
+  },
+  {
+    "name": "Art & Art History, BFA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/art-art-history-bfa/"
+  },
+  {
+    "name": "Art Education, BFA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/art-education-bfa/"
+  },
+  {
+    "name": "Art History, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/art-history-balas/"
+  },
+  {
+    "name": "Art Undeclared",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/art-undeclared/"
+  },
+  {
+    "name": "Asian American Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/asian-american-studies-balas/"
+  },
+  {
+    "name": "Astronomy, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/astronomy-bslas/"
+  },
+  {
+    "name": "Astronomy + Data Science, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/astronomy-data-science-bslas/"
+  },
+  {
+    "name": "Astrophysics, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/astrophysics-bslas/"
+  },
+  {
+    "name": "Atmospheric Sciences, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/atmospheric-sciences-bslas/"
+  },
+  {
+    "name": "Biochemistry, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/biochemistry-bs/"
+  },
+  {
+    "name": "Bioengineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/bioengineering-bs/"
+  },
+  {
+    "name": "Integrative Biology, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/"
+  },
+  {
+    "name": "Molecular & Cellular Biology, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-bslas/"
+  },
+  {
+    "name": "Brain & Cognitive Science, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/brain-cognitive-science-bslas/"
+  },
+  {
+    "name": "Business + Data Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/business-data-science-bs/"
+  },
+  {
+    "name": "Business Undeclared",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/business-undeclared/"
+  },
+  {
+    "name": "Chemical Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-bs/"
+  },
+  {
+    "name": "Biomolecular Engineering",
+    "url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-bs/biomolecular-engineering/"
+  },
+  {
+    "name": "Chemical Engineering + Data Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/chemical-engineering-data-science-bs/"
+  },
+  {
+    "name": "Chemistry, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/chemistry-bs/"
+  },
+  {
+    "name": "Environmental Chemistry",
+    "url": "https://catalog.illinois.edu/undergraduate/las/chemistry-bs/environmental-chemistry/"
+  },
+  {
+    "name": "Chemistry, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/chemistry-bslas/"
+  },
+  {
+    "name": "Civil Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/civil-engineering-bs/"
+  },
+  {
+    "name": "Classics, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/classics-balas/"
+  },
+  {
+    "name": "Classical Civilizations",
+    "url": "https://catalog.illinois.edu/undergraduate/las/classics-balas/classical-civilizations/"
+  },
+  {
+    "name": "Classical Languages",
+    "url": "https://catalog.illinois.edu/undergraduate/las/classics-balas/classical-languages/"
+  },
+  {
+    "name": "Communication, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/communication-balas/"
+  },
+  {
+    "name": "Community Health, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs/"
+  },
+  {
+    "name": "Health Education",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs/health-education-promotion/"
+  },
+  {
+    "name": "Health Planning & Administration",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs/health-planning-administration/"
+  },
+  {
+    "name": "Rehabilitation & Disability Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs/rehabilitation-studies/"
+  },
+  {
+    "name": "Community Health, BS & Public Health, MPH",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs-public-health-mph/"
+  },
+  {
+    "name": "Comparative & World Literature, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/"
+  },
+  {
+    "name": "Comparative Literature",
+    "url": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/comparative-literature/"
+  },
+  {
+    "name": "World Literature",
+    "url": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/world-literature/"
+  },
+  {
+    "name": "Computer Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-engineering-bs/"
+  },
+  {
+    "name": "Computer Science + Advertising, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_media/computer-science-advertising-bs/"
+  },
+  {
+    "name": "Computer Science + Animal Sciences, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/computer-science-animal-sciences-bs/"
+  },
+  {
+    "name": "Computer Science + Anthropology, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-anthropology-bslas/"
+  },
+  {
+    "name": "Computer Science + Astronomy, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-astronomy-bs/"
+  },
+  {
+    "name": "Computer Science + Bioengineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bioengineering-bs/"
+  },
+  {
+    "name": "Computer Science + Chemistry, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-chemistry-bslas/"
+  },
+  {
+    "name": "Computer Science + Crop Sciences, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/computer-science-crop-sciences-bs/"
+  },
+  {
+    "name": "Computer Science + Economics, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-economics-bslas/"
+  },
+  {
+    "name": "Computer Science + Education, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/"
+  },
+  {
+    "name": "Learning Sciences",
+    "url": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/learning-sciences/"
+  },
+  {
+    "name": "Secondary Education",
+    "url": "https://catalog.illinois.edu/undergraduate/education/computer-science-education-bs/secondary-education/"
+  },
+  {
+    "name": "Computer Science + Geography & Geographic Information Science, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-geography-geographic-information-science-bslas/"
+  },
+  {
+    "name": "Computer Science + Linguistics, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-linguistics-bslas/"
+  },
+  {
+    "name": "Computer Science + Music, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_faa/computer-science-music-bs/"
+  },
+  {
+    "name": "Computer Science + Physics, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-physics-bs/"
+  },
+  {
+    "name": "Computer Science + Philosophy, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-philosophy-bslas/"
+  },
+  {
+    "name": "Computer Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/computer-science-bs/"
+  },
+  {
+    "name": "Creative Writing, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/creative-writing-balas/"
+  },
+  {
+    "name": "Crop Sciences, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/"
+  },
+  {
+    "name": "Agroecology",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/agroecology/"
+  },
+  {
+    "name": "Crop Agribusiness",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/crop-agribusiness/"
+  },
+  {
+    "name": "Horticultural Food Systems",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/crop-sciences-bs/horticultural-food-systems/"
+  },
+  {
+    "name": "Dance, BA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/dance-ba/"
+  },
+  {
+    "name": "Dance, BA & Kinesiology, BS (Dual Degree Program)",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs_faa/dance-ba-kinesiology-bs/"
+  },
+  {
+    "name": "Dance, BFA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/dance-bfa/"
+  },
+  {
+    "name": "Dietetics and Nutrition, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/dietetics-nutrition-bs/"
+  },
+  {
+    "name": "Early Childhood Education, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/"
+  },
+  {
+    "name": "Professional Education - Licensure",
+    "url": "https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/professional-education-licensure/"
+  },
+  {
+    "name": "Professional Education - Non-Licensure",
+    "url": "https://catalog.illinois.edu/undergraduate/education/early-childhood-education-bs/professional-education-non-licensure/"
+  },
+  {
+    "name": "Earth, Society, & Environmental Sustainability, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/earth-society-environmental-sustainability-bslas/"
+  },
+  {
+    "name": "Science of the Earth System (SES)",
+    "url": "https://catalog.illinois.edu/undergraduate/las/earth-society-environmental-sustainability-bslas/science-of-the-earth-system/"
+  },
+  {
+    "name": "Society and the Environment",
+    "url": "https://catalog.illinois.edu/undergraduate/las/earth-society-environmental-sustainability-bslas/society-the-environment/"
+  },
+  {
+    "name": "East Asian Languages & Cultures, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/east-asian-languages-cultures-balas/"
+  },
+  {
+    "name": "Econometrics & Quantitative Economics, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/econometrics-quantitative-economics-bslas/"
+  },
+  {
+    "name": "Economics, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/economics-balas/"
+  },
+  {
+    "name": "Electrical Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/electrical-engineering-bs/"
+  },
+  {
+    "name": "Elementary Education, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/education/elementary-education-bs/"
+  },
+  {
+    "name": "Engineering Mechanics, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/engineering-mechanics-bs/"
+  },
+  {
+    "name": "Engineering Technology & Management for Agricultural Systems, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/"
+  },
+  {
+    "name": "Agricultural Production & Processing",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/agricultural-production-processing/"
+  },
+  {
+    "name": "Construction Management",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/construction-management/"
+  },
+  {
+    "name": "Digital & Precision Agriculture",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/digital-precision-agriculture/"
+  },
+  {
+    "name": "Energy & the Environment",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/engineering-technology-management-agricultural-systems-bs/energy-environment/"
+  },
+  {
+    "name": "Engineering Undeclared",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/engineering-undeclared/"
+  },
+  {
+    "name": "English, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/"
+  },
+  {
+    "name": "English",
+    "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/english/"
+  },
+  {
+    "name": "English Teaching",
+    "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/english-teaching/"
+  },
+  {
+    "name": "Topics in English",
+    "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/english-topics/"
+  },
+  {
+    "name": "Environmental Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/environmental-engineering-bs/"
+  },
+  {
+    "name": "Finance, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/finance-bs/"
+  },
+  {
+    "name": "Finance + Data Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/finance-data-science-bs/"
+  },
+  {
+    "name": "Food Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/food-science-bs/"
+  },
+  {
+    "name": "French (Teaching), BA",
+    "url": "https://catalog.illinois.edu/undergraduate/las/teaching-french-ba/"
+  },
+  {
+    "name": "French, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/french-balas/"
+  },
+  {
+    "name": "French Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/french-balas/french-studies/"
+  },
+  {
+    "name": "Gender & Women's Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/gender-womens-studies-balas/"
+  },
+  {
+    "name": "Geography & Geographic Information Science, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/"
+  },
+  {
+    "name": "General Geography",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/general-geography/"
+  },
+  {
+    "name": "Human Geography",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-balas/human-geography/"
+  },
+  {
+    "name": "Geography & Geographic Information Science, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-bslas/"
+  },
+  {
+    "name": "Geographic Information Science",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-bslas/geographic-information-science/"
+  },
+  {
+    "name": "Physical Geography",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geography-geographic-information-science-bslas/physical-geography/"
+  },
+  {
+    "name": "Geology, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geology-bs/"
+  },
+  {
+    "name": "Environmental Geology (Specialized Curriculum)",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geology-bs/environmental-geology/"
+  },
+  {
+    "name": "Geophysics",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geology-bs/geophysics/"
+  },
+  {
+    "name": "Geology, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geology-bslas/"
+  },
+  {
+    "name": "Earth & Environmental Sciences",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geology-bslas/earth-environmental-sciences/"
+  },
+  {
+    "name": "Earth Science Teaching",
+    "url": "https://catalog.illinois.edu/undergraduate/las/geology-bslas/earth-science-teaching/"
+  },
+  {
+    "name": "Germanic Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/"
+  },
+  {
+    "name": "German Business & Commercial Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/german-business-commercial-studies/"
+  },
+  {
+    "name": "German Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/german-studies/"
+  },
+  {
+    "name": "Scandinavian Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/germanic-studies-balas/scandinavian-studies/"
+  },
+  {
+    "name": "German (Teaching), BA",
+    "url": "https://catalog.illinois.edu/undergraduate/las/teaching-german-ba/"
+  },
+  {
+    "name": "Global Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/global-studies-balas/"
+  },
+  {
+    "name": "Graphic Design, BFA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/graphic-design-bfa/"
+  },
+  {
+    "name": "History of Art, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/history-art-balas/"
+  },
+  {
+    "name": "History, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/history-balas/"
+  },
+  {
+    "name": "History Teaching",
+    "url": "https://catalog.illinois.edu/undergraduate/las/history-balas/history-teaching/"
+  },
+  {
+    "name": "Hospitality Management, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/hospitality-management-bs/"
+  },
+  {
+    "name": "Human Development & Family Studies, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/human-development-family-studies-bs/"
+  },
+  {
+    "name": "Individual Plans of Study, BALAS or BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/individual-plans-study/"
+  },
+  {
+    "name": "Industrial Design, BFA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/industrial-design-bfa/"
+  },
+  {
+    "name": "Industrial Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/industrial-engineering-bs/"
+  },
+  {
+    "name": "Information Sciences, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-bs/"
+  },
+  {
+    "name": "Information Sciences + Data Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-data-science-bs/"
+  },
+  {
+    "name": "Information Systems, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/information-systems-bs/"
+  },
+  {
+    "name": "Innovation, Leadership & Engineering Entrepreneurship, BS (ILEE)",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/innovation-leadership-engineering-entrepreneurship-bs/"
+  },
+  {
+    "name": "Instrumental Music, BMUS",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/instrumental-music-bmus/"
+  },
+  {
+    "name": "Integrative Biology Honors",
+    "url": "https://catalog.illinois.edu/undergraduate/las/integrative-biology-bslas/honors/"
+  },
+  {
+    "name": "Interdisciplinary Health Sciences, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/"
+  },
+  {
+    "name": "Health & Aging",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-aging/"
+  },
+  {
+    "name": "Health Behavior Change",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-behavior-change/"
+  },
+  {
+    "name": "Health Diversity",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-diversity/"
+  },
+  {
+    "name": "Health Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/interdisciplinary-health-sciences-bs/health-technology/"
+  },
+  {
+    "name": "Interdisciplinary Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/"
+  },
+  {
+    "name": "Jewish Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/jewish-studies/"
+  },
+  {
+    "name": "Medieval Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/interdisciplinary-studies-balas/medieval-studies/"
+  },
+  {
+    "name": "Italian, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/italian-balas/"
+  },
+  {
+    "name": "Jazz Performance, BMUS",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/jazz-performance-bmus/"
+  },
+  {
+    "name": "Journalism, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/media/journalism-bs/"
+  },
+  {
+    "name": "Kinesiology, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/"
+  },
+  {
+    "name": "Teacher Education (K-12)",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/teacher-certification/"
+  },
+  {
+    "name": "Kinesiology, BS & Public Health, MPH",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs-public-health-mph/"
+  },
+  {
+    "name": "Landscape Architecture, BLA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/landscape-architecture-bla/"
+  },
+  {
+    "name": "Latin American Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/latin-american-studies-balas/"
+  },
+  {
+    "name": "Latina/Latino Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/latina-latino-studies-balas/"
+  },
+  {
+    "name": "Learning & Education Studies, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/"
+  },
+  {
+    "name": "Educational Equality & Cultural Understanding",
+    "url": "https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/educational-equality-cultural-understanding/"
+  },
+  {
+    "name": "Educational Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/educational-technology/"
+  },
+  {
+    "name": "Inclusive Leadership & Learning in Organizations",
+    "url": "https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/inclusive-leadership-learning-organizations/"
+  },
+  {
+    "name": "Workplace Training & Development",
+    "url": "https://catalog.illinois.edu/undergraduate/education/learning-education-studies-bs/workplace-training-development/"
+  },
+  {
+    "name": "Linguistics, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/linguistics-balas/"
+  },
+  {
+    "name": "Linguistics and Teaching English as a Second Language (TESL), BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/linguistics-teaching-english-second-language-tesl-balas/"
+  },
+  {
+    "name": "Lyric Theatre, BMA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/"
+  },
+  {
+    "name": "Creative",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/creative/"
+  },
+  {
+    "name": "Performance",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/performance/"
+  },
+  {
+    "name": "Management, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/management-business-bs/"
+  },
+  {
+    "name": "Marketing, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/marketing-bs/"
+  },
+  {
+    "name": "Materials Science & Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-bs/"
+  },
+  {
+    "name": "Materials Science & Engineering + Data Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/materials-science-engineering-data-science-bs/"
+  },
+  {
+    "name": "Mathematics & Computer Science, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/"
+  },
+  {
+    "name": "Mathematics, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/"
+  },
+  {
+    "name": "Applied Mathematics",
+    "url": "https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/applied-mathematics/"
+  },
+  {
+    "name": "Data Optimization",
+    "url": "https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/data-optimization/"
+  },
+  {
+    "name": "Math Doctoral Preparation",
+    "url": "https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/math-doctoral-preparation/"
+  },
+  {
+    "name": "Teaching of Mathematics",
+    "url": "https://catalog.illinois.edu/undergraduate/las/mathematics-bslas/teaching-mathematics/"
+  },
+  {
+    "name": "Mechanical Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/mechanical-engineering-bs/"
+  },
+  {
+    "name": "Media, BA",
+    "url": "https://catalog.illinois.edu/undergraduate/media/media-ba/"
+  },
+  {
+    "name": "Media & Cinema Studies, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/media/media-cinema-studies-bs/"
+  },
+  {
+    "name": "Middle Grades Education, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/"
+  },
+  {
+    "name": "Back to Top",
+    "url": "http://catalog.illinois.edu/undergraduate/#header"
+  },
+  {
+    "name": "Literacy",
+    "url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/literacy/"
+  },
+  {
+    "name": "Mathematics",
+    "url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/mathematics/"
+  },
+  {
+    "name": "Science",
+    "url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/science/"
+  },
+  {
+    "name": "Social Science",
+    "url": "https://catalog.illinois.edu/undergraduate/education/middle-grades-education-bs/social-science/"
+  },
+  {
+    "name": "Honors Concentration",
+    "url": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-bslas/honors/"
+  },
+  {
+    "name": "Molecular and Cellular Biology + Data Science, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-data-science-bslas/"
+  },
+  {
+    "name": "Music, BA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-ba/"
+  },
+  {
+    "name": "Music Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-ba/music-technology"
+  },
+  {
+    "name": "Music Composition, BMUS",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-composition-bmus/"
+  },
+  {
+    "name": "Music Education, BME",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-education-bme/"
+  },
+  {
+    "name": "Choral Music",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-education-bme/choral-music/"
+  },
+  {
+    "name": "General Music",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-education-bme/elementary-general-music/"
+  },
+  {
+    "name": "Instrumental Music",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-education-bme/instrumental-music/"
+  },
+  {
+    "name": "Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-education-bme/technology/"
+  },
+  {
+    "name": "Music - Open Studies, BMUS",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/music-open-studies-bmus/"
+  },
+  {
+    "name": "Music - Voice, BMUS",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/voice-bmus/"
+  },
+  {
+    "name": "Musicology, BMUS",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/musicology-bmus/"
+  },
+  {
+    "name": "Natural Resources & Environmental Sciences, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/"
+  },
+  {
+    "name": "Ecosystem Stewardship & Restoration Ecology",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/ecosystem-stewardship-restoration-ecology/"
+  },
+  {
+    "name": "Environmental Science & Management",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/environmental-science-management/"
+  },
+  {
+    "name": "Environmental Social Sciences",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/environmental-social-sciences/"
+  },
+  {
+    "name": "Fish, Wildlife & Conservation Biology",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/natural-resources-environmental-sciences-bs/fish-wildlife-conservation-biology/"
+  },
+  {
+    "name": "Neural Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/neural-engineering-bs/"
+  },
+  {
+    "name": "Neuroscience, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/neuroscience-bslas/"
+  },
+  {
+    "name": "Nuclear, Plasma, & Radiological Engineering, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/"
+  },
+  {
+    "name": "Plasma & Fusion Science & Engineering",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/plasma-fusion-science-engineering/"
+  },
+  {
+    "name": "Power, Safety & Environment",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/power-safety-environment/"
+  },
+  {
+    "name": "Radiological, Medical & Instrumentation Applications",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-bs/radiological-engineering-radiological-medical-instrumentation-applications/"
+  },
+  {
+    "name": "Nuclear, Plasma, and Radiological Engineering + Data Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/nuclear-plasma-radiological-engineering-data-science-bs/"
+  },
+  {
+    "name": "Nutrition and Health, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/nutrition-health-bs/"
+  },
+  {
+    "name": "Operations Management, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/operations-management-bs/"
+  },
+  {
+    "name": "Philosophy, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/philosophy-balas/"
+  },
+  {
+    "name": "Physics, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/physics-bs/"
+  },
+  {
+    "name": "Plant Biotechnology, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/plant-biotechnology-bs/"
+  },
+  {
+    "name": "Political Science, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/"
+  },
+  {
+    "name": "Citizen Politics",
+    "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/citizen-politics/"
+  },
+  {
+    "name": "Civic Leadership",
+    "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/civic-leadership/"
+  },
+  {
+    "name": "General Political Science",
+    "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/general-political-science/"
+  },
+  {
+    "name": "International Relations",
+    "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/international-relations/"
+  },
+  {
+    "name": "Law & Power",
+    "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/law-power/"
+  },
+  {
+    "name": "Public Policy & Democratic Institution",
+    "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/public-policy-democratic-institutions/"
+  },
+  {
+    "name": "World Politics",
+    "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/world-politics/"
+  },
+  {
+    "name": "Portuguese, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/portuguese-balas/"
+  },
+  {
+    "name": "Psychology, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/"
+  },
+  {
+    "name": "Behavioral Neuroscience",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/behavioral-neuroscience/"
+  },
+  {
+    "name": "Clinical/Community Psychology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/clinical-community-psychology/"
+  },
+  {
+    "name": "Cognitive Neuroscience",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/cognitive-neuroscience/"
+  },
+  {
+    "name": "Cognitive Psychology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/cognitive-psychology/"
+  },
+  {
+    "name": "Developmental Psychology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/developmental-psychology/"
+  },
+  {
+    "name": "Diversity Science",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/diversity-science/"
+  },
+  {
+    "name": "Intradisciplinary Psychology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/intradisciplinary-psychology/"
+  },
+  {
+    "name": "Organizational Psychology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/organizational-psychology/"
+  },
+  {
+    "name": "Personality Psychology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/personality-psychology/"
+  },
+  {
+    "name": "Social Psychology",
+    "url": "https://catalog.illinois.edu/undergraduate/las/psychology-bslas/social-psychology/"
+  },
+  {
+    "name": "Recreation, Sport & Tourism, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/"
+  },
+  {
+    "name": "Recreation Management",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/recreation-management/"
+  },
+  {
+    "name": "Sports Management",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/sport-management/"
+  },
+  {
+    "name": "Tourism Management",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/tourism-management/"
+  },
+  {
+    "name": "Religion, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/religion-balas/"
+  },
+  {
+    "name": "Russian, East European, & Eurasian Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/russian-east-european-eurasian-studies-balas/"
+  },
+  {
+    "name": "Secondary Education, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/"
+  },
+  {
+    "name": "Mathematics",
+    "url": "https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/mathematics/"
+  },
+  {
+    "name": "Slavic Studies, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/"
+  },
+  {
+    "name": "Czech Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/czech-studies/"
+  },
+  {
+    "name": "Polish Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/polish-studies/"
+  },
+  {
+    "name": "Russian Language, Literature, & Culture",
+    "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/russian-language-literature-culture/"
+  },
+  {
+    "name": "South Slavic Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/south-slavic-studies/"
+  },
+  {
+    "name": "Ukranian Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/las/slavic-studies-balas/ukranian-studies/"
+  },
+  {
+    "name": "Social Work, BSW",
+    "url": "https://catalog.illinois.edu/undergraduate/socw/social-work-bsw/"
+  },
+  {
+    "name": "Sociology, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/sociology-balas/"
+  },
+  {
+    "name": "Spanish (Teaching), BA",
+    "url": "https://catalog.illinois.edu/undergraduate/las/teaching-spanish-ba/"
+  },
+  {
+    "name": "Spanish, BALAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/spanish-balas/"
+  },
+  {
+    "name": "Special Education, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/education/special-education-bs/"
+  },
+  {
+    "name": "Speech & Hearing Science, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/"
+  },
+  {
+    "name": "Audiology",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/audiology/"
+  },
+  {
+    "name": "Cultural-Linguistic Diversity",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/cultural-linguistic-diversity/"
+  },
+  {
+    "name": "Neuroscience of Communication",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/neuroscience-communication/"
+  },
+  {
+    "name": "Speech Language Pathology",
+    "url": "https://catalog.illinois.edu/undergraduate/ahs/speech-hearing-science-bs/speech-language-pathology/"
+  },
+  {
+    "name": "Statistics & Computer Science, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/eng_las/statistics-computer-science-bslas/"
+  },
+  {
+    "name": "Statistics, BSLAS",
+    "url": "https://catalog.illinois.edu/undergraduate/las/academic-units/stats/statistics-major/"
+  },
+  {
+    "name": "Strategy, Innovation and Entrepreneurship, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/strategy-innovation-entrepreneurship-bs/"
+  },
+  {
+    "name": "Studio Art, BASA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-basa/"
+  },
+  {
+    "name": "Studio Art, BFASA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/"
+  },
+  {
+    "name": "Fashion",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/fashion/"
+  },
+  {
+    "name": "Illustration",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/illustration/"
+  },
+  {
+    "name": "Interdisciplinary Practice",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/interdisciplinary-practice/"
+  },
+  {
+    "name": "New Media",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/new-media/"
+  },
+  {
+    "name": "Painting",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/painting/"
+  },
+  {
+    "name": "Photography",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/photography/"
+  },
+  {
+    "name": "Printmaking",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/printmaking/"
+  },
+  {
+    "name": "Sculpture",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/studio-art-bfasa/sculpture/"
+  },
+  {
+    "name": "Supply Chain Management, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/bus/supply-chain-bs/"
+  },
+  {
+    "name": "Sustainability in Food & Environmental Systems, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/aces/sustainability-food-environmental-systems-bs/"
+  },
+  {
+    "name": "Sustainable Design, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/sustainable-design-bs/"
+  },
+  {
+    "name": "Systems Engineering and Design, BS",
+    "url": "https://catalog.illinois.edu/undergraduate/engineering/systems-engineering-design-bs/"
+  },
+  {
+    "name": "Theatre, BFA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/"
+  },
+  {
+    "name": "Acting",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/acting/"
+  },
+  {
+    "name": "Arts & Entertainment Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/arts-entertainment-technology/"
+  },
+  {
+    "name": "Costume Design & Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/costume-design-technology/"
+  },
+  {
+    "name": "Lighting Design & Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/lighting-design-technology/"
+  },
+  {
+    "name": "Scenic Design",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/scenic-design/"
+  },
+  {
+    "name": "Scenic Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/scenic-technology/"
+  },
+  {
+    "name": "Sound Design & Technology",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/sound-design-technology/"
+  },
+  {
+    "name": "Stage Management",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/stage-management/"
+  },
+  {
+    "name": "Theatre Studies",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/theatre-bfa/theatre-studies/"
+  },
+  {
+    "name": "Urban Studies & Planning, BA",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/"
+  },
+  {
+    "name": "Global Cities",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/global-cities/"
+  },
+  {
+    "name": "Policy & Planning",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/policy-planning/"
+  },
+  {
+    "name": "Social Justice",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/social-justice/"
+  },
+  {
+    "name": "Sustainability",
+    "url": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/sustainability/"
+  }
+]

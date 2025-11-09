@@ -1,0 +1,538 @@
+{
+  "major_name": "Secondary Education: Mathematics, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/mathematics/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Secondary Education, Mathematics Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "EDUC 101",
+            "title": "EDUC 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "RHET 101",
+            "type": "sequence",
+            "sequence": [
+              "RHET 101",
+              "RHET 102"
+            ],
+            "title": "RHET 101&RHET 102",
+            "hours": ""
+          },
+          {
+            "code": "CMN 111",
+            "type": "sequence",
+            "sequence": [
+              "CMN 111",
+              "CMN 112"
+            ],
+            "title": "CMN 111&CMN 112",
+            "hours": ""
+          },
+          {
+            "code": "ESL 111",
+            "type": "sequence",
+            "sequence": [
+              "ESL 111",
+              "ESL 112"
+            ],
+            "title": "ESL 111&ESL 112",
+            "hours": ""
+          },
+          {
+            "code": "ESL 115",
+            "title": "ESL 115",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CI 401",
+            "title": "CI 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 403",
+            "title": "CI 403",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 404",
+            "title": "CI 404",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 473",
+            "title": "CI 473",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": "2 to 12",
+            "hours_min": 2,
+            "hours_max": 12
+          },
+          {
+            "code": "EDUC 201",
+            "title": "EDUC 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDUC 202",
+            "title": "EDUC 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 485",
+            "title": "EPSY 485",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 405",
+            "title": "SPED 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CI 436",
+            "title": "CI 436",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CI 491",
+            "title": "CI 491",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 213",
+            "title": "MATH 213",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221"
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": ""
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": ""
+          },
+          {
+            "code": "MATH 225/MATH 415 OR MATH 416",
+            "title": "MATH 225/MATH 415 OR MATH 416",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MATH 347",
+            "title": "MATH 347",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 402",
+            "type": "choice",
+            "options": [
+              "MATH 402",
+              "MATH 403"
+            ],
+            "title": "MATH 402",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 403",
+            "type": "choice",
+            "options": [
+              "MATH 403"
+            ],
+            "title": "orMATH 403",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 405",
+            "title": "MATH 405",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 453",
+            "title": "MATH 453",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "STAT 200",
+            "type": "choice",
+            "options": [
+              "STAT 200",
+              "STAT 400"
+            ],
+            "title": "STAT 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 400",
+            "type": "choice",
+            "options": [
+              "STAT 400"
+            ],
+            "title": "orSTAT 400",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Secondary Education, Mathematics Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "EDUC 101",
+              "1",
+              "Composition I or General Education course",
+              "3"
+            ],
+            [
+              "EDUC 201",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "MATH 213",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CI 491",
+              "3",
+              "EDUC 202",
+              "3"
+            ],
+            [
+              "MATH 225,  415, or  416",
+              "2",
+              "MATH 347",
+              "3"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "STAT 200 or  400",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CI 436",
+              "3",
+              "CI 401",
+              "3"
+            ],
+            [
+              "EPSY 201",
+              "3",
+              "CI 473",
+              "3"
+            ],
+            [
+              "MATH 402 or  403",
+              "3",
+              "MATH 453",
+              "3"
+            ],
+            [
+              "MATH 405",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "Elective course",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CI 403",
+              "3",
+              "CI 404",
+              "3"
+            ],
+            [
+              "EPSY 485",
+              "3",
+              "EDPR 442",
+              "12"
+            ],
+            [
+              "SPED 405",
+              "3",
+              ""
+            ],
+            [
+              "Elective course",
+              "3",
+              ""
+            ],
+            [
+              "Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Secondary Education, Mathematics Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Education Building, 1310 S. Sixth Street, Champaign, IL 61820\nCollege of Education website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Department of Curriculum & Instruction"
+      },
+      {
+        "type": "paragraph",
+        "content": "306 Education Building\nci@education.illinois.edu\n(217) 244-8286\nDepartment of Curriculum & Instruction website\nDepartment of Curriculum & Instruction faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Office of Undergraduate Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "110 Education Building\nEducation Academic Affairs email: saao@education.illinois.edu\n(217) 333-2800\nAdmissions & Academics website\nStudent Academic Affairs website"
+      }
+    ]
+  }
+}

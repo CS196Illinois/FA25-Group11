@@ -1,0 +1,682 @@
+{
+  "major_name": "Human Development & Family Studies, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/human-development-family-studies-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Human Development & Family Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 126 hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "4-6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6-10"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "0-15"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "HDFS 101",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "HDFS 105",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "HDFS 120",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "HDFS 290",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "ACE 240",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CMN 101",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CMN 111",
+            "title": "or&CMN 112"
+          },
+          {
+            "code": "PSYC 100",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "SOC 100",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "STAT 100",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "code": "FSHN 120",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HK 110",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 445",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "3-4"
+          },
+          {
+            "code": "HDFS 301",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 305",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 405",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "3-4"
+          },
+          {
+            "code": "HDFS 207",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 225",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 425",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "code": "HDFS 208",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 220",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 221",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 322",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 340",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 379",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 420",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 424",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 444",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "3-4"
+          },
+          {
+            "code": "HDFS 294",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 295",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 350",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 396",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 450",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 455",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 494",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "LEAD 260",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "16-18"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "HDFS 108",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 207",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 208",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 220",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 225",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 301",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 305",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 310",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 320",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 322",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 330",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 340",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 350",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 401",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 405",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 408",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 420",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 425",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 426",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 444",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 445",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "126"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Human Development & Family Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "HDFS 101",
+              "1",
+              "HDFS Diversity course",
+              "3"
+            ],
+            [
+              "HDFS 105",
+              "3",
+              "General Education",
+              "3"
+            ],
+            [
+              "HDFS 120",
+              "3",
+              "CMN 101 (or Composition 1 or CMN 112)",
+              "3"
+            ],
+            [
+              "Composition I (or CMN 101 or CMN 111)",
+              "4",
+              "STAT 100",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "General Education",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PSYC 100",
+              "4",
+              "SOC 100",
+              "4"
+            ],
+            [
+              "HDFS Relationships/Family Course",
+              "3",
+              "HDFS 290",
+              "4"
+            ],
+            [
+              "HDFS Diversity course",
+              "3",
+              "HDFS Child/Adolescent Development course",
+              "4"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective Course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "18"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ACE 240",
+              "3",
+              "HDFS Individualized Plan course",
+              "3"
+            ],
+            [
+              "HDFS Applied course",
+              "4",
+              "HDFS Individualized Plan course",
+              "3"
+            ],
+            [
+              "HDFS Individualized Plan course",
+              "3",
+              "HDFS Individualized Plan course",
+              "3"
+            ],
+            [
+              "HDFS Health course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "Free elective course",
+              "1"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "HDFS Individualized Plan course",
+              "3",
+              "HDFS Individualized Plan course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 126"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Human Development & Family Studies"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "HDFS students will demonstrate a strong foundation in theories and empirical knowledge associated with human development and family studies (i.e., developmental periods and domains; socialization contexts; diversity among families and children; research methods; family dynamics, transitions, and resilience; and family policy)\n\nRecall key terminology (theoretical, empirical, methodological, substantive concepts)\nDescribe current and historical challenges affecting individuals and families (e.g., social, political, economic, cultural, ethical, including research ethics)\nSummarize key theories, models, and principles (e.g., grand, disciplinary, substantive, methodological)\nApply theories, models, and principles to developmental, relationship, familial, and social issues\nApply knowledge to global contexts\nIntegrate knowledge across courses and content areas (i.e., human development and family studies; lower level to higher level courses)\nCritique current theoretical and empirical knowledge of and methodological approaches to studying human development, relationships, and families",
+          "HDFS students will exhibit the skills necessary to effectively apply knowledge and generate new ideas to solve real world issues\n\nUse effective written communication\n\t\t\nUse appropriate grammar and writing mechanics\nDemonstrate a working knowledge of APA style\nRespond to constructive criticism (e.g., revision process, peer review)\nProduce written work that is organized, logical, and fully developed\n\n\nUse effective oral communication (e.g., clearly and logically present ideas aloud through presentation to class or group)\nApply knowledge to formulate and investigate hypotheses or research questions\nApply knowledge to propose or create research-based programs or policies\nCritically evaluate the quality of published research, programs, and policies and their implications for individuals, relationships, and families\nCollaborate to achieve group goals\nApply research-based knowledge to working with children, families, and communities and/or agencies that serve them",
+          "HDFS students will demonstrate a critical and reflexive orientation toward and sensitivity to issues of diversity and inclusion\n\nDescribe the historical and current relevance of diversity and inclusion to individuals, relationships, families, and communities\nReflect on one’s own interconnected positions, privileges, and disadvantages across multiple contexts\nCritically examine one’s own beliefs, assumptions, values, attitudes, and biases\nDemonstrate awareness of and sensitivity to issues of diversity and inclusion in one’s own work (e.g., written and oral communication)\nCritically evaluate the cultural respectfulness and appropriateness of research, programs, and policies related to human development and families\nCritically evaluate the potential impact of research, programs, and policies on diversity and inclusion\nDemonstrate awareness of global factors (e.g., economic, political, cultural, social) and how they may affect individuals, families and communities",
+          "HDFS students will develop professional competence skills and establish well-informed career and professional goals\n\nIdentify and compare/contrast a range of career options for HDFS majors\nCreate professional/job-related materials (e.g., resume, cover letter, purpose statement)\nConnect discipline knowledge to personal and professional life\nDevelop leadership skills (e.g., through formal positions; informal mentoring to prospective/new students; representing the department; participation in class teamwork)\nDevelop professional connections to support career and professional goals (e.g., relationships with professors, internship supervisors who can serve as references; connections to professionals through attending conferences/workshops or engaging with guest speakers in class)\nMake decisions and solve problems\n\t\t\nIndependently\nCollaboratively\n\n\nExhibit professional and ethical behavior"
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Human Development & Family Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Human Development & Family Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Human Development & Family Studies website\n222 Bevier Hall, 905 South Goodwin Avenue, Urbana, IL 61801\n(217) 333-3790\nhdfs@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Barbara Anderson"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES College website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall, 1301 West Gregory Drive, Urbana, IL 61801"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nvisitACES@illinois.edu\n(217) 333-3380\nUniversity of Illinois Urbana-Champaign Undergrad Admissions"
+      }
+    ]
+  }
+}

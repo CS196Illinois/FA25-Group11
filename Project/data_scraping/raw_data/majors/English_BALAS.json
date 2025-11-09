@@ -1,0 +1,37 @@
+{
+  "major_name": "English, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/english-balas/",
+  "sections": {
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelors of Arts in Liberal Arts & Sciences Major in English"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Capacity to understand and interpret multimodal texts by using a variety of methods including close reading, genre theory, and formal and rhetorical analysis.",
+          "Capacity to understand multimodal texts in a variety of contexts, including cultural, historical, philosophical, and theoretical ones. Ability to understand texts in relation to diachronic processes, including histories of literature, genre, culture, or media.",
+          "Ability to create clear, focused, rigorous, and well-supported arguments that demonstrate awareness of audience.",
+          "Ability to develop research questions, to carry out research into primary and secondary sources, and to smoothly integrate these findings into student work, such as presentations and essays.",
+          "Capacity to understand the ways in which forms of difference (including racial, ethnic, gendered, sexual) inform the production and reception of multimodal texts."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelors of Arts in Liberal Arts & Sciences Major in English"
+      },
+      {
+        "type": "paragraph",
+        "content": "English Department website\nEnglish faculty\nEnglish advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Liberal Arts & Sciences College Admissions\nCollege Website"
+      }
+    ]
+  }
+}

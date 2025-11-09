@@ -1,0 +1,493 @@
+{
+  "major_name": "Latina/Latino Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/latina-latino-studies-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Latina/Latino Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising: The Department of Latina/Latino Studies provides advising for students. Students will also be assigned a faculty advisor to help plan a coherent program in their selected area of study."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To graduate with distinction in Latina/Latino Studies, a student must have at least a 3.25 overall GPA, a minimum 3.5 GPA in the major, and complete a senior honors thesis. To complete the honors thesis requires a student to enroll in four hours of LLS 495, normally distributed evenly across two consecutive semesters. Students graduating with at least a 3.5 GPA in the major (and meeting the other conditions) will be awarded Distinction; those with at least a 3.7 GPA in the major will be given High Distinction.",
+        "course_codes": [
+          "LLS 495"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: 52 hours required, including 34 hours in Latina/Latino Studies courses. Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "LLS 100",
+            "title": "LLS 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LLS 385",
+            "title": "LLS 385",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LLS 240",
+            "title": "LLS 240",
+            "hours": ""
+          },
+          {
+            "code": "LLS 242",
+            "title": "LLS 242",
+            "hours": ""
+          },
+          {
+            "code": "LLS 250",
+            "title": "LLS 250",
+            "hours": ""
+          },
+          {
+            "code": "LLS 259",
+            "title": "LLS 259",
+            "hours": ""
+          },
+          {
+            "code": "LLS 357",
+            "title": "LLS 357",
+            "hours": ""
+          },
+          {
+            "code": "LLS 360",
+            "title": "LLS 360",
+            "hours": ""
+          },
+          {
+            "code": "LLS 365",
+            "title": "LLS 365",
+            "hours": ""
+          },
+          {
+            "code": "LLS 375",
+            "title": "LLS 375",
+            "hours": ""
+          },
+          {
+            "code": "LLS 410",
+            "title": "LLS 410",
+            "hours": ""
+          },
+          {
+            "code": "LLS 435",
+            "title": "LLS 435",
+            "hours": ""
+          },
+          {
+            "code": "LLS 458",
+            "title": "LLS 458",
+            "hours": ""
+          },
+          {
+            "code": "LLS 472",
+            "title": "LLS 472",
+            "hours": ""
+          },
+          {
+            "code": "LLS 230",
+            "title": "LLS 230",
+            "hours": ""
+          },
+          {
+            "code": "LLS 235",
+            "title": "LLS 235",
+            "hours": ""
+          },
+          {
+            "code": "LLS 265",
+            "title": "LLS 265",
+            "hours": ""
+          },
+          {
+            "code": "LLS 320",
+            "title": "LLS 320",
+            "hours": ""
+          },
+          {
+            "code": "LLS 355",
+            "title": "LLS 355",
+            "hours": ""
+          },
+          {
+            "code": "LLS 387",
+            "title": "LLS 387",
+            "hours": ""
+          },
+          {
+            "code": "LLS 392",
+            "title": "LLS 392",
+            "hours": ""
+          },
+          {
+            "code": "LLS 442",
+            "title": "LLS 442",
+            "hours": ""
+          },
+          {
+            "code": "LLS 465",
+            "title": "LLS 465",
+            "hours": ""
+          },
+          {
+            "code": "LLS 479",
+            "title": "LLS 479",
+            "hours": ""
+          },
+          {
+            "code": "LLS 220",
+            "title": "LLS 220",
+            "hours": ""
+          },
+          {
+            "code": "LLS 238",
+            "title": "LLS 238",
+            "hours": ""
+          },
+          {
+            "code": "LLS 278",
+            "title": "LLS 278",
+            "hours": ""
+          },
+          {
+            "code": "LLS 279",
+            "title": "LLS 279",
+            "hours": ""
+          },
+          {
+            "code": "LLS 280",
+            "title": "LLS 280",
+            "hours": ""
+          },
+          {
+            "code": "LLS 343",
+            "title": "LLS 343",
+            "hours": ""
+          },
+          {
+            "code": "LLS 368",
+            "title": "LLS 368",
+            "hours": ""
+          },
+          {
+            "code": "LLS 370",
+            "title": "LLS 370",
+            "hours": ""
+          },
+          {
+            "code": "LLS 379",
+            "title": "LLS 379",
+            "hours": ""
+          },
+          {
+            "code": "LLS 382",
+            "title": "LLS 382",
+            "hours": ""
+          },
+          {
+            "code": "LLS 468",
+            "title": "LLS 468",
+            "hours": ""
+          },
+          {
+            "code": "LLS 473",
+            "title": "LLS 473",
+            "hours": ""
+          },
+          {
+            "code": "LLS 490",
+            "type": "choice",
+            "options": [
+              "LLS 490",
+              "LLS 495"
+            ],
+            "title": "LLS 490",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LLS 495",
+            "type": "choice",
+            "options": [
+              "RLLS 495",
+              "LLS 495"
+            ],
+            "title": "orLLS 495",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Latina/Latino Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. For more information, see the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "Thematic Area A course",
+              "3"
+            ],
+            [
+              "LLS 100",
+              "3",
+              "Thematic Area C course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "Comp. I orGeneral Education course",
+              "4",
+              "General Education course or Comp I",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Thematic Area A course",
+              "3",
+              "Thematic Area B course",
+              "3"
+            ],
+            [
+              "Thematic Area B course",
+              "3",
+              "Thematic Area C course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Supporting coursework",
+              "3",
+              "Supporting coursework",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "LLS elective course",
+              "3"
+            ],
+            [
+              "LLS elective course",
+              "3",
+              "Supporting coursework",
+              "3"
+            ],
+            [
+              "Supporting coursework",
+              "3",
+              "Free elective course",
+              "4"
+            ],
+            [
+              "Supporting coursework",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "LLS 385",
+              "3",
+              "LLS 490 or  495",
+              "4"
+            ],
+            [
+              "Supporting coursework",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Latina/Latino Studies"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Intellectual Reasoning and Knowledge: Students will become proficient in the field of Latina/Latino Studies, which includes, but is not limited to, interdisciplinary, intersectional, and transnational knowledge about:\n\t\nsociohistorical, political, economic and cultural processes that affect Latina/Latino groups in contemporary society;\nLatina/Latino social movements;\nLatina/Latino cultural productions;\nthe relationship between class, gender, sexuality, race/ethnicity and migration in the construction of Latina/Latino cultural and racial formations; and\nLatina/Latino Studies theories and methods. Students will learn that Latina/Latino Studies is a body of critical inquiry that encompasses a wide range of topics and objects of study, and that leverages multiple forms of knowledge production.",
+          "Critical and Creative Inquiry: Students will apply Latina/Latino Studies theories in developing their capacities for critical and creative inquiry. Specifically, students will exercise their oral and written communication skills as they express new ideas and generate projects that build upon Latina/Latino Studies theories and draw from the range of interdisciplinary Latina/Latino Studies methods.",
+          "Self-Reflexivity and Community Engagement: To help promote effective leadership and community engagement, students will demonstrate self-reflexivity about their ideas as well as about their social and political positions in their classrooms and communities. They will also learn to build and sustain relationships and take leadership towards the elimination of social inequities at the local, national, and global levels.",
+          "Social Awareness and Understanding Power: Student will recognize that Latina/Latino lives and communities unfold within historically unequal and racialized social, cultural, economic, and political power relations. Students will become familiar with Latina/Latino theories and social movements that consider indigeneity, race, class, gender, sexuality and citizenship to understand and intervene on historical and contemporary power formations.",
+          "Global Consciousness: Students will understand how complex and interdependent historical and contemporary global forces—environmental, social, cultural, economic, and political— impact and are impacted by Latinas/Latinos. They will learn to apply Latina/Latino Studies critiques to these forces, including but not limited to those related to migration and transnationalism."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Latina/Latino Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "department website: https://lls.illinois.edu/\ndepartment faculty: Latina/Latino Faculty\nemail: lls-studies@illinois.edu or aprodrig@illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences\ncollege website: https://las.illinois.edu/"
+      }
+    ]
+  }
+}

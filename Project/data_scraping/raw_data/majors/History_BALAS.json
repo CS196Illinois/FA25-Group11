@@ -1,0 +1,300 @@
+{
+  "major_name": "History, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/history-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor or Arts in Liberal Arts and Sciences Major in History"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To be eligible for distinction, a student must be admitted to the Honors Program in History and complete its required coursework.  Those admitted (ideally before the beginning of the junior year) must have earned at least a 3.5 GPA in History and a 3.25 GPA overall.  They will then pursue a sequence consisting of HIST 498 , HIST 492 and successful completion of either:",
+        "course_codes": [
+          "HIST 498",
+          "HIST 492"
+        ]
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "HIST 493 and HIST 499 in two consecutive semesters (in which case, the level of distinction awarded to student will be decided by the examining committee) OR",
+          "The completion of two approved independent research projects under the supervision of two different advisors (HIST 490).  (in which case, students will be eligible for an award of distinction only, but not high or highest distinction)."
+        ],
+        "course_codes": [
+          "HIST 493",
+          "HIST 499",
+          "HIST 490"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major course work: 36 hours of History courses."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor or Arts in Liberal Arts & Sciences Major in History"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "HIST 100-level coursework",
+              "3"
+            ],
+            [
+              "HIST 100-level coursework",
+              "3",
+              "AAGLAME 200-400 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "HIST 200",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "European History 200-400 level course",
+              "3",
+              "History elective 200-400 level course",
+              "3"
+            ],
+            [
+              "U.S. History or U.S. Minority History 200-400 level course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "European History 300-400 level course",
+              "3",
+              "U.S. History or U.S. Minority History 300-400 level course",
+              "3"
+            ],
+            [
+              "HIST 498",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "AAGLAME 300-400 level course",
+              "3",
+              "History elective 200-400 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor or Arts in Liberal Arts & Sciences Major in History"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Historical interpretation:\n\t\nStudents will be able to connect past and present, demonstrating an understanding of ways that the past has shaped the world we live in today\nStudents will be able to grasp the complexity of historical causation\nStudents will have a broad and empathetic understanding of the commonalities and differences of the human experience, as influenced by factors such as culture, race, ethnicity, gender, and class in a matrix of time and place\nStudents will be able to critically assess different sources of information and points of view",
+          "Historical research:\n\t\nStudents will be able to formulate historical questions\nStudents will be able to locate, organize, analyze, and synthesize data to answer these questions\nStudents will be able to craft original historical arguments\nStudents will be able to position these arguments contextually",
+          "Historical communication:\n\t\nStudents will be able to express their ideas clearly, logically, and in evidence-based ways \nStudents will be able to convey their ideas to different audiences \nStudents will be able to evaluate, review, and edit historical writing and other forms of historical communication"
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor or Arts in Liberal Arts & Sciences Major in History"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "History"
+      },
+      {
+        "type": "paragraph",
+        "content": "History faculty\nHistory advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts & Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements"
+      }
+    ]
+  }
+}

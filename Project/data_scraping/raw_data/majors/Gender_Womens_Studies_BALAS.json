@@ -1,0 +1,346 @@
+{
+  "major_name": "Gender & Women's Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/gender-womens-studies-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Gender & Women's Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60-75 hours). Please see your advisor.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Departmental distinction: To be eligible for graduation with distinction, a student must have a cumulative grade-point average (GPA) of 3.5 and a 3.5 GPA within the major."
+      },
+      {
+        "type": "paragraph",
+        "content": "High distinction. To be eligible for graduation with high distinction, a student must have a cumulative grade point average (GPA) of 3.5, a GPA of 3.7 within the major, and complete a thesis or project in a 400-level GWS course that is approved by the department.",
+        "level_requirement": "400"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising: The Department of Gender and Women’s Studies provides advising for students to help plan a coherent program of study."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 33 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "GWS 201",
+            "title": "GWS 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GWS 202",
+            "title": "GWS 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GWS 498",
+            "title": "GWS 498",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GWS 350",
+            "type": "choice",
+            "options": [
+              "GWS 350",
+              "GWS 370"
+            ],
+            "title": "GWS 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GWS 370",
+            "type": "choice",
+            "options": [
+              "RGWS 370",
+              "GWS 370"
+            ],
+            "title": "orGWS 370",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Gender & Women's Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. For more information, see the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "GWS 202",
+              "3"
+            ],
+            [
+              "GWS 201",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Comp. I or General Education course",
+              "4",
+              "General Education course or Comp. I",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "GWS course",
+              "3",
+              "GWS course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "GWS 300-400 level course",
+              "3"
+            ],
+            [
+              "GWS course",
+              "3",
+              "GWS 300-400 level area elective course",
+              "3"
+            ],
+            [
+              "GWS area elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GWS 350 or  370",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "GWS 300-400 level course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GWS 498",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Gender & Women's Studies"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Intellectual Reasoning and Knowledge: Students will acquire a level of proficiency in Gender and Women’s Studies, which can include but is not limited to broad and deep knowledge about feminist movements, intersectionality, queer and trans studies, imperialism and coloniality, and feminist and queer theories and methods across academic disciplines and fields. Students will learn that feminisms are both historical movements as well as bodies of critical inquiry, encompassing a wide range of actors and objects of study, including forms of information retrieval and knowledge production.",
+          "Critical Inquiry and Creative Literacy: Students will apply feminist and queer theories in developing their own capacities for critical inquiry and creative literacy. Students will also exercise their skills in oral and written communication, expressing new ideas in scholarly compositions and also generating multidisciplinary projects.",
+          "Social Awareness and Understanding Power: Students will recognize the gendered dimensions of social, philosophical, aesthetic, cultural, and political claims about national and global movements and events. Students will become familiar with feminist and queer theories and movements that consider together indigeneity, race, religion, nation, disability, gender, and sexuality to understand historical and contemporary formations of power.",
+          "Self-Reflexivity and Community Engagement: Students will demonstrate self-reflexivity about their ideas and social and political positions in their classrooms and communities, learning how to build and sustain relationships in striving for both immediate harm reduction and long-term social justice.",
+          "Global Consciousness: Students will understand how complex and interdependent forces –environmental, social, cultural, economic, and political— shape a range of possibilities and foreclosures for individuals and populations unevenly across the world, learning to apply indigenous, postcolonial, and transnational feminist and queer critiques to those forces."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Gender & Women's Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "department website: https://www.gws.illinois.edu/\ndepartment faculty: Gender & Women's Studies Faculty\nemail: gws-email@illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences\ncollege website: https://las.illinois.edu/"
+      }
+    ]
+  }
+}

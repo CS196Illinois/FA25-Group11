@@ -1,0 +1,301 @@
+{
+  "major_name": "Landscape Architecture, BLA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/landscape-architecture-bla/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Landscape Architecture"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 124 hours.",
+        "credit_requirement": "124"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the unit."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Landscape Architecture Curriculum"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": ""
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": ""
+          },
+          {
+            "code": "MATH 115",
+            "title": "MATH 115",
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": ""
+          },
+          {
+            "code": "MATH 234",
+            "title": "MATH 234",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LA 101",
+            "title": "LA 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "LA 241",
+            "title": "LA 241",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 250",
+            "title": "LA 250",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 280",
+            "title": "LA 280",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 281",
+            "title": "LA 281",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 314",
+            "title": "LA 314",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LA 342",
+            "title": "LA 342",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LA 343",
+            "title": "LA 343",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LA 452",
+            "title": "LA 452",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LA 233",
+            "title": "LA 233",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "LA 234",
+            "title": "LA 234",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "LA 335",
+            "title": "LA 335",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "LA 336",
+            "title": "LA 336",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "LA 437",
+            "title": "LA 437",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "LA 438",
+            "title": "LA 438",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "LA 346",
+            "title": "LA 346",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LA 352",
+            "title": "LA 352",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for the Bachelor of Landscape Architecture in Landscape Architecture"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Landscape Architecture"
+      },
+      {
+        "type": "paragraph",
+        "content": "Bachelor of Landscape Architecture students will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Build Knowledge & Develop Reasoning Skills in applying broad and deep knowledge across academic disciplines and fields and using this knowledge to develop design proposals.",
+          "Apply knowledge of the Natural World to guide design decisions and activities taking into account natural resource constraints that impact land use.",
+          "Strengthen Social Awareness to better understand the social and cultural influences on human behavior and the social, political, economic, and legal institutions which influence land-use and design decisions.",
+          "Employ Creative Inquiry and Discovery in addition to a range of analytical skills, and general knowledge to develop design proposals, solve problems, generate new ideas, and produce creative work.",
+          "Demonstrate Responsible Leadership in working with the land and the people for whom we design."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Landscape Architecture"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Landscape Architecture"
+      },
+      {
+        "type": "paragraph",
+        "content": "Landscape Architecture Department website\nLandscape Architecture faculty\n101 Temple Hoyne Buell Hall, 611 Lorado Taft Drive, Champaign, IL 61820\n(217) 333-0176\nLADept@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fine & Applied Arts"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College Admissions & Requirements\nUniversity of Illinois Urbana-Champaign Undergrad Admissions"
+      }
+    ]
+  }
+}

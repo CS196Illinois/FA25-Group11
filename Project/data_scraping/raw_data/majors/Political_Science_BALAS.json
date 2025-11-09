@@ -1,0 +1,47 @@
+{
+  "major_name": "Political Science, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/",
+  "sections": {
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Political Science"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Students will be able to apply central concepts of the scientific method to the study of politics, and demonstrate an ability to draw inferences from data.",
+          "Students will have a foundational knowledge of facts, concepts, and typologies in their chosen subfield in political science.",
+          "Students will be able to demonstrate basic knowledge of central theories in their chosen subfield and show how to evaluate those theories.",
+          "Students will be able to define political science and its subfields, drawing contrasts with other social sciences.",
+          "Students will be able to apply concepts, methods, and theories to research projects, internships, and/or off-campus experiences."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Political Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Political Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Political Science Faculty\nPolitical Science advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

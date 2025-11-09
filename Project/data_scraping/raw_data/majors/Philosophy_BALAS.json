@@ -1,0 +1,457 @@
+{
+  "major_name": "Philosophy, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/philosophy-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences: Major in Philosophy"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60-75 hours). Please see your adviser.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Major With Distinction"
+      },
+      {
+        "type": "paragraph",
+        "content": "To become a candidate for graduation with distinction in philosophy, a student must satisfy the major requirements and must satisfy the further requirements of either the Thesis option or the Coursework option. If a candidate has satisfied both sets of requirements, the student will graduate with whichever is the highest level of distinction earned."
+      },
+      {
+        "type": "paragraph",
+        "content": "THESIS: Requires 35 hours of philosophy courses (including PHIL 492 and 4 other courses at the 300 level or above), a GPA of 3.5 in all philosophy courses, and a written thesis with a grade of A- or above.",
+        "course_codes": [
+          "PHIL 492"
+        ],
+        "level_requirement": "300",
+        "credit_requirement": "35"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students wishing to pursue this option must have at least a 3.5 GPA in all philosophy courses to begin thesis work, though students may petition the Director of Undergraduate Studies in the Department of Philosophy for an exemption. In order to earn distinction for thesis work, the student must graduate with at least a 3.5 GPA. The student should first approach a potential thesis adviser from one of the department’s professors, associate professors, or assistant professors. This should be someone with whom the student already has a working relationship (typically through coursework). The student should have a preliminary idea of the sort of thesis research he or she would like to conduct. If the professor expresses a preliminary willingness to advise the thesis, the student should prepare a Plan for Thesis Work. The Plan should be 600-800 words. It should include the following information:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "A tentative project title",
+          "The name of the proposed thesis adviser",
+          "The primary area of philosophy (e.g., political philosophy, metaphysics, philosophy of mind, etc.) the project will concern and the particular discussions it will engage",
+          "A lucid statement of the central claim(s) that the project will defend (bearing in mind that this may change during the course of the project)",
+          "An overview of the kind of research that will be completed and, as far as they are known, the arguments and considerations that the student hopes to marshal in support of the central claim(s)."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "The student should submit the Plan for Thesis Work to both the Director of Undergraduate Studies and the proposed adviser. If both approve of the Plan for Thesis Work, the student should register for thesis work (PHIL 492) with the selected adviser and meet with that adviser to set up a research schedule. Thesis projects are usually in the 25-30 page range, and occasionally take two semesters to complete. When the thesis adviser decides that the thesis is ready for defense, the department chairperson will appoint a committee of two members of the department (including the thesis adviser). The committee will judge the project’s quality, originality, and impact and assign a grade (which may be different from the grade the student’s thesis adviser assigns for thesis coursework). If the thesis earns a grade of A- or above, distinction will be award as follows:",
+        "course_codes": [
+          "PHIL 492"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Thesis Grade A- Distinction\nThesis Grade A High Distinction\nThesis Grade A+ Highest Distinction"
+      },
+      {
+        "type": "paragraph",
+        "content": "As a rough guideline, High Distinction is awarded when committee members feel that the work is of high enough quality that the student should be encouraged to pursue graduate study in philosophy. Highest Distinction is where the work is of such high quality that it would be a shame if the student did not pursue graduate study. Distinction is where the work is of high quality, though not so high as to clearly evidence potential for graduate study."
+      },
+      {
+        "type": "paragraph",
+        "content": "COURSE WORK: 38 hours of philosophy courses (including eight courses at the 300 level or above) and a 3.5 GPA in all philosophy courses.",
+        "level_requirement": "300",
+        "credit_requirement": "38"
+      },
+      {
+        "type": "paragraph",
+        "content": "The level of distinction will be determined by the Director of Undergraduate Studies on the basis of the student’s Philosophy GPA in the following manner:"
+      },
+      {
+        "type": "paragraph",
+        "content": "GPA 3.5 - 3.69 Distinction\nGPA 3.7 – 3.89 High Distinction\nGPA 3.9 – 4.0 Highest Distinction"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: normally equates to 44 hours including at least 32 hours of Philosophy courses. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "44"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "PHIL 202",
+            "title": "PHIL 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHIL 203",
+            "title": "PHIL 203",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHIL 206",
+            "title": "PHIL 206",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHIL 421",
+            "title": "PHIL 421",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHIL 426",
+            "type": "choice",
+            "options": [
+              "PHIL 426",
+              "PHIL 430"
+            ],
+            "title": "PHIL 426",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHIL 430",
+            "type": "choice",
+            "options": [
+              "PHIL 430"
+            ],
+            "title": "orPHIL 430",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHIL 499",
+            "title": "PHIL 499",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences: Major in Philosophy"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "PHIL 202",
+              "3"
+            ],
+            [
+              "PHIL 100-level or above course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "3",
+              "General Education course or Composition 1",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PHIL 203",
+              "4",
+              "PHIL 206",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "PHIL 200-level or above course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PHIL 421",
+              "3",
+              "PHIL 426 or  430",
+              "3"
+            ],
+            [
+              "PHIL 300-400 level course",
+              "3",
+              "PHIL 300-400 level course",
+              "3"
+            ],
+            [
+              "Philosophy supporting coursework",
+              "3",
+              "Philosophy supporting coursework",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Philosophy supporting coursework",
+              "3",
+              "PHIL 499",
+              "3"
+            ],
+            [
+              "Philosophy supporting coursework",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences Major in Philosophy"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Philosophy Department aims to produce four main learning outcomes."
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Philosophical Knowledge: Students will be familiar with major figures and movements in the history of western philosophy; familiar with central topics, theories, and debates in epistemology and metaphysics, in ethics and value theory, and in logic; and familiar with current developments in professional philosophy.",
+          "Philosophical Reading: Students will develop the ability to analyze persuasive and argumentative prose: identifying the main claims asserted, the reasons alleged to support those claims, and the logical relations between the claims and the reasons, including identifying any gaps in the arguments.",
+          "Philosophical Inquiry: Students will develop the ability to formulate abstract principles in epistemology and metaphysics, in ethics and value theory, in logic, and in related special topic areas in philosophy; they will develop the ability to identify consequences of the principles they formulate; and they will develop the ability to construct arguments for those principles and compare them to competing principles.",
+          "Philosophical Writing: Students will develop the ability to write clearly and with logical precision on a wide range of important issues, including (but not limited to): civic and social challenges at local, national, and global levels; social and cultural issues related to race, indigeneity, gender, class, sexuality, language, and disability; and the ways that complex, interdependent global systems—natural, environmental, social, cultural, economic, and political—affect and are affected by the local identities and ethical choices of individuals and institutions."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences: Major in Philosophy"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "department website: http://www.philosophy.illinois.edu/"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "department faculty: Philosophy Faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "advising: Philosophy advising"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "email: philosophy@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "college website: https://las.illinois.edu/"
+      }
+    ]
+  }
+}

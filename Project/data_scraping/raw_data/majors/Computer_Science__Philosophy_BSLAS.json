@@ -1,0 +1,455 @@
+{
+  "major_name": "Computer Science + Philosophy, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-philosophy-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Sciences in Liberal Arts & Sciences Major in Computer Science + Philosophy"
+      },
+      {
+        "type": "paragraph",
+        "content": "Please see the computer science advisor as well as the philosophy advisor."
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office by the beginning of the fifth semester (60-75 hours)."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 71-73 hours. Twelve hours of 300- and 400-level Philosophy courses must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 100",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "CS 124",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 128",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 173",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 225",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 222",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": "8-11"
+          },
+          {
+            "code": "CS 233",
+            "title": "&CS 341",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 340",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "STAT 200",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 212",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 361",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 374",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 421",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "title": "",
+            "hours": "4-5"
+          },
+          {
+            "code": "MATH 221",
+            "title": "or"
+          },
+          {
+            "code": "MATH 225",
+            "title": "",
+            "hours": "2 or 3"
+          },
+          {
+            "code": "MATH 257",
+            "title": "or"
+          },
+          {
+            "code": "MATH 231",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "PHIL 222",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "PHIL 223",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "PHIL 421",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "code": "PHIL 426",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 430",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "code": "PHIL 425",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 438",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 439",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 477",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PHIL 454",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "PHIL 499",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "9"
+          },
+          {
+            "hours": "68-74"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Sciences in Liberal Arts & Sciences Major in Computer Science + Philosophy"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "CS 128",
+              "3"
+            ],
+            [
+              "CS 100",
+              "1",
+              "CS 173",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "PHIL 223",
+              "3"
+            ],
+            [
+              "PHIL 222",
+              "3",
+              "MATH 220 (or MATH 221)",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 222",
+              "1",
+              "CS 233 (or CS 340)",
+              "3"
+            ],
+            [
+              "CS 225",
+              "4",
+              "STAT 200 (or STAT 212 or CS 361)",
+              "3"
+            ],
+            [
+              "MATH 225 (or MATH 257)",
+              "2",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 341 (or CS 400-level course)",
+              "4",
+              "CS 374",
+              "4"
+            ],
+            [
+              "PHIL 426 (or PHIL 430)",
+              "3",
+              "CS 400-level course or Free elective course",
+              "3"
+            ],
+            [
+              "PHIL 421",
+              "3",
+              "PHIL 400 - level course from list",
+              "3"
+            ],
+            [
+              "PHIL course",
+              "3",
+              "PHIL 454",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 421",
+              "3",
+              "PHIL 499",
+              "3"
+            ],
+            [
+              "PHIL 300 - 400 level course",
+              "3",
+              "PHIL 300-400 level course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "4"
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Sciences in Liberal Arts & Sciences Major in Computer Science + Philosophy"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Sciences in Liberal Arts & Sciences Major in Computer Science + Philosophy"
+      },
+      {
+        "type": "paragraph",
+        "content": "CS + X Degrees\n CS + Philosophy\nDepartment of Philosophy page"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences College of Liberal Arts and Sciences website"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering website\nPhilosophy Advising\nComputer Science email"
+      },
+      {
+        "type": "paragraph",
+        "content": "Please see the computer science advisor as well as the philosophy advisor."
+      }
+    ]
+  }
+}

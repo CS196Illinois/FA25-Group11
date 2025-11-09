@@ -1,0 +1,586 @@
+{
+  "major_name": "Urban Studies & Planning: Global Cities, BA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/urban-studies-planning-ba/global-cities/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "For the degree of Bachelor of Arts Major in Urban Studies & Planning, Global Cities Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Global Cities Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundation Courses"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ACE 100"
+            ],
+            "title": "ECON 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 100",
+            "type": "choice",
+            "options": [
+              "ACE 100",
+              "RACE 100"
+            ],
+            "title": "orACE 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 116",
+            "type": "choice",
+            "options": [
+              "UP 116",
+              "STAT 100"
+            ],
+            "title": "UP 116",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 100",
+            "type": "choice",
+            "options": [
+              "STAT 100"
+            ],
+            "title": "orSTAT 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AAS 100",
+            "title": "AAS 100",
+            "hours": ""
+          },
+          {
+            "code": "AFRO 100",
+            "title": "AFRO 100",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 101",
+            "title": "GGIS 101",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 104",
+            "title": "GGIS 104",
+            "hours": ""
+          },
+          {
+            "code": "LLS 100",
+            "title": "LLS 100",
+            "hours": ""
+          },
+          {
+            "code": "SOC 100",
+            "title": "SOC 100",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Urban Studies & Planning Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "UP 101",
+            "title": "UP 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 201",
+            "title": "UP 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 203",
+            "type": "choice",
+            "options": [
+              "UP 203",
+              "UP 204"
+            ],
+            "title": "UP 203",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 204",
+            "type": "choice",
+            "options": [
+              "ORUP 204",
+              "UP 204"
+            ],
+            "title": "orUP 204",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 211",
+            "title": "UP 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 312",
+            "title": "UP 312",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 316",
+            "title": "UP 316",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 347",
+            "title": "UP 347",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "UP 447",
+            "title": "UP 447",
+            "hours": ""
+          },
+          {
+            "code": "UP 455",
+            "title": "UP 455",
+            "hours": ""
+          },
+          {
+            "code": "UP 456",
+            "title": "UP 456",
+            "hours": ""
+          },
+          {
+            "code": "UP 457",
+            "title": "UP 457",
+            "hours": ""
+          },
+          {
+            "code": "UP 478",
+            "title": "UP 478",
+            "hours": ""
+          },
+          {
+            "code": "UP 401",
+            "title": "UP 401",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Global Cities Concentration"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "UP 185",
+            "title": "UP 185",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "UP 327",
+            "title": "UP 327",
+            "hours": ""
+          },
+          {
+            "code": "UP 335",
+            "title": "UP 335",
+            "hours": ""
+          },
+          {
+            "code": "UP 406",
+            "title": "UP 406",
+            "hours": ""
+          },
+          {
+            "code": "UP 423",
+            "title": "UP 423",
+            "hours": ""
+          },
+          {
+            "code": "UP 476",
+            "title": "UP 476",
+            "hours": ""
+          },
+          {
+            "code": "UP 486",
+            "title": "UP 486",
+            "hours": ""
+          },
+          {
+            "code": "UP 494",
+            "title": "UP 494",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for the Bachelor of Arts in Urban Studies and Planning, concentration in Global Studies"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "For the degree of Bachelor of Arts Major in Urban Studies & Planning, Global Cities Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "UP 101",
+              "3",
+              "UP 116 or STAT  100",
+              "3"
+            ],
+            [
+              "ECON 102 or ACE  100",
+              "3",
+              "UP 201",
+              "3"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (3rd level) or Composition I",
+              "4"
+            ],
+            [
+              "FAA 101",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Foundation Course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "UP 203 or  204",
+              "3",
+              "UP 185",
+              "3"
+            ],
+            [
+              "UP Elective",
+              "3",
+              "UP 211",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "UP Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Global Studies Concentration Elective",
+              "3",
+              "Global Studies Concentration Elective",
+              "4"
+            ],
+            [
+              "UP 312",
+              "4",
+              "UP 316",
+              "3"
+            ],
+            [
+              "UP Elective",
+              "3",
+              "UP 347",
+              "4"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "UP Elective",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "1",
+              "Free Elective course",
+              "1"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "UP 400-level Workshop",
+              "4",
+              "UP 401",
+              "1"
+            ],
+            [
+              "UP Elective",
+              "3",
+              "Free Elective courses",
+              "14"
+            ],
+            [
+              "Free Elective courses",
+              "8",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "For the degree of Bachelor of Arts Major in Urban Studies & Planning, Global Cities Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students who complete a degree in the Department of Urban and Regional Planning will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Identify and understand the planners’ role in:\n\t\nadvocating for racial and economic equity;\nplanning for the needs of disadvantaged groups;\nexpanding choice and opportunity;\nreducing inequities through critical evaluation of systems and institutions;\nplanning for sustainable communities;\nreducing impacts of climate change; and\ncreating equitable and climate‐adapted futures.",
+          "Demonstrate planning proficiency in a global context in the areas of: \n\t\nhistory, theory, law and institutions;\nthe evolution of the practice of planning; and\nurban and regional development.",
+          "Build and put into practice a set of skills that are central to the planning profession, including skills specific to:\n\t\ncommunication, community engagement, and the planning process;\nresearch and critical thinking;\nmapping and data visualization; and\ndata collection and analysis, and data analytics.",
+          "Illustrate professional leadership values including collaborative skills and ethical behavior in research, client representation and decision-making."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "For the degree of Bachelor of Arts Major in Urban Studies & Planning, Global Cities Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Urban & Regional Planning"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department Head: Marc Doussard\nUrban & Regional Planning Department website\nUrban & Regional Planning Department faculty\n111 Temple Buell Hall, 611 Taft Drive, Champaign, IL 61820\n(217) 333-3890\nurbplan@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "For admission criteria and process, see the Urban & Regional Planning Department website or contact the department via email."
+      }
+    ]
+  }
+}

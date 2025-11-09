@@ -1,0 +1,427 @@
+{
+  "major_name": "Atmospheric Sciences, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/atmospheric-sciences-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Atmospheric Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: Students majoring in Atmospheric Sciences can earn distinction, high distinction, and highest distinction upon graduation. The requirements for these awards are:"
+      },
+      {
+        "type": "paragraph",
+        "content": "For distinction:  A minimum cumulative grade point average of 3.3 and have also completed an approved independent study project, approved senior thesis, or approved capstone."
+      },
+      {
+        "type": "paragraph",
+        "content": "For high distinction: A minimum cumulative grade point average of 3.5 and have also completed an approved independent study project, approved senior thesis, or approved capstone."
+      },
+      {
+        "type": "paragraph",
+        "content": "For highest distinction: A minimum cumulative grade point average of 3.7 and also completed an approved senior thesis or approved research capstone."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: normally equates to 58-59 hours including at least 32 hours in Atmospheric Sciences."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": "4-5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221",
+            "hours": "4-5",
+            "hours_min": 4,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 201",
+            "title": "ATMS 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 301",
+            "title": "ATMS 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 302",
+            "title": "ATMS 302",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 303",
+            "title": "ATMS 303",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 304",
+            "title": "ATMS 304",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 305",
+            "title": "ATMS 305",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 306",
+            "title": "ATMS 306",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 307",
+            "title": "ATMS 307",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 313",
+            "title": "ATMS 313",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ATMS 314",
+            "title": "ATMS 314",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Atmospheric Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "ATMS 201",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "CHEM 103",
+              "1"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ATMS 303",
+              "4",
+              "ATMS 302",
+              "3"
+            ],
+            [
+              "PHYS 211",
+              "4",
+              "PHYS 212",
+              "4"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ATMS 301",
+              "3",
+              "ATMS 304",
+              "3"
+            ],
+            [
+              "ATMS 305",
+              "3",
+              "ATMS 314",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ATMS 306",
+              "3",
+              "ATMS 307",
+              "3"
+            ],
+            [
+              "ATMS 313",
+              "4",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Atmospheric Sciences"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "All students will have a fundamental understanding of the atmosphere and the dynamical and physical processes that control weather, including weather analysis and forecasting.",
+          "All students will have a fundamental understanding of the natural and anthropogenic processes that control climate and global change.",
+          "All students will have demonstrable computational problem-solving skills.",
+          "All students will develop competency in clear scientific written and oral communication, and participate in scientific research.",
+          "All students will have an understanding of the societal impacts of weather and climate."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Atmospheric Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Atmospheric Sciences\nAtmospheric Sciences faculty\nAtmospheric Sciences advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Liberal Arts and Sciences\nCollege of LAS admissions & requirements"
+      }
+    ]
+  }
+}

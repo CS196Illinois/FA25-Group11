@@ -1,0 +1,178 @@
+{
+  "major_name": "Information Sciences, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ischool/information-sciences-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Degree of Bachelor of Science Major in Information Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Students must earn at least 51 hours in the School of Information Sciences or in approved courses offered by other departments. Students must demonstrate proficiency in at least one programming language."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements ."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "GPA Requirement: 2.5 - Earn a cumulative grade point average of 2.50 (A = 4.00) in all courses presented for the degree and a cumulative 2.50 grade point average for all courses taken in the School."
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Core Curriculum"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "IS 101",
+            "title": "IS 101",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IS 202",
+            "title": "IS 202",
+            "hours": ""
+          },
+          {
+            "code": "IS 203",
+            "title": "IS 203",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IS 204",
+            "title": "IS 204",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IS 205",
+            "title": "IS 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IS 206",
+            "title": "IS 206",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IS 307",
+            "title": "IS 307",
+            "hours": ""
+          },
+          {
+            "type": "choice",
+            "options": [
+              "IS 308",
+              "IS 309"
+            ],
+            "code": "IS 308",
+            "title": "or IS 308 OR IS 309"
+          }
+        ]
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Degree of Bachelor of Science Major in Information Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Program Goals"
+      },
+      {
+        "type": "paragraph",
+        "content": "The goals of the program are to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Equip students to be leaders in a knowledge society and innovators in a knowledge economy",
+          "Educate students for known, emerging, and currently unforeseeable careers in information sciences",
+          "Provide an interdisciplinary education where studies in fundamentals of information sciences and in application areas are fully integrated",
+          "Ensure that various upper-division elective pathways of the major share a common core of information sciences knowledge",
+          "Provide a program with enough flexibility to facilitate transfers into the major at the sophomore level, transfers across colleges at the sophomore and junior level, and transfers from two-year colleges",
+          "Since information sciences is a rapidly developing field, offer a flexible program that responds quickly to new needs and opportunities, and to new findings and approaches in the information sciences",
+          "Prepare interested students for graduate study in information sciences and related fields"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Program Learning Outcomes"
+      },
+      {
+        "type": "paragraph",
+        "content": "By the end of the program, students will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand relationships among people, information, and technology",
+          "Understand the history, theory, philosophy, and methodologies of the field of information sciences",
+          "Apply various approaches to research in the information sciences, including social science methods, data and text mining, digital humanities, historical approaches, and others",
+          "Apply critical analytical skills to information issues",
+          "Understand fundamental mathematical and programming tools for solving problems of information modeling, expression, and transformation"
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Degree of Bachelor of Science Major in Information Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "501 East Daniel Street, MC-493"
+      },
+      {
+        "type": "paragraph",
+        "content": "Champaign, IL 61820-6211"
+      },
+      {
+        "type": "paragraph",
+        "content": "Phone: (217) 333-3280"
+      },
+      {
+        "type": "paragraph",
+        "content": "Email: ischool@illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "School Website: School of Information Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "BSIS Website: BS in Information Sciences"
+      }
+    ]
+  }
+}

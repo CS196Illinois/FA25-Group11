@@ -1,0 +1,668 @@
+{
+  "major_name": "Molecular and Cellular Biology + Data Science, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/molecular-cellular-biology-data-science-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Molecular and Cellular Biology + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "4-6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6-10"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "0-20"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "title": "&LAS 101",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": "1 or 3"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": "17"
+          },
+          {
+            "code": "MCB 150",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 250",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 251",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 252",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 253",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 354",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "29-30"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "or"
+          },
+          {
+            "code": "MATH 227",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 257",
+            "title": "or"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "STAT 107",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 207",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 307",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 277",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "IS 467",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "IS 477",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "10"
+          },
+          {
+            "code": "CHEM 102",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 104",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 232",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "2-4"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MCB 301",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 364",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 428",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 460",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "BIOC 455",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "9"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MCB 317",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 419",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 421",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 432",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 435",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "BIOC 446",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "BIOP 401",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "9"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MCB 300",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 314",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 316",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 320",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 400",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 401",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 402",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 406",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 408",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 410",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 413",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 424",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 426",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MCB 430",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MCB 290",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MCB 292",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Molecular and Cellular Biology + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LAS 101",
+              "1",
+              "MATH 227 or  257",
+              "3"
+            ],
+            [
+              "MCB 150 (or Composition I)",
+              "4",
+              "Composition I or MCB 150",
+              "4"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "CHEM 104",
+              "3"
+            ],
+            [
+              "STAT 107",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "Free Elective Course",
+              "1"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MCB 250",
+              "3",
+              "MCB 252",
+              "3"
+            ],
+            [
+              "MCB 251",
+              "2",
+              "MCB 253",
+              "2"
+            ],
+            [
+              "CHEM 232",
+              "4",
+              "CS 277",
+              "4"
+            ],
+            [
+              "STAT 207",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MCB 354",
+              "3",
+              "Advanced Group B course",
+              "3"
+            ],
+            [
+              "Advanced Group A Course",
+              "3",
+              "Advanced MCB Lab",
+              "2"
+            ],
+            [
+              "CS 307",
+              "4",
+              "Research or Discovery Experience",
+              "2"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "13"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Advanced Group A Course",
+              "3",
+              "Advanced Group A Course",
+              "3"
+            ],
+            [
+              "Advanced Group B Course",
+              "3",
+              "Advanced Group B Course",
+              "3"
+            ],
+            [
+              "IS 467",
+              "3",
+              "IS 477",
+              "3"
+            ],
+            [
+              "Research or Discovery Experience",
+              "2",
+              "Reasearch or Discovery Experience",
+              "2"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Molecular and Cellular Biology + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Upon successful completion of the Molecular & Cellular Biology + Data Science undergraduate curriculum, students will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Understand and appreciate the diversity of life as it evolved over time by processes of mutation, selection, and genetic change.",
+          "Illustrate that fundamental structural units define the function of all living things.",
+          "Explain that the growth, development, and behavior of organisms are activated through the expression of genetic information in context.",
+          "Summarize that biological systems grow and change by processes based upon chemical transformation pathways and are governed by the laws of physics.",
+          "Illustrate that living systems are interconnected and interacting across scales of space and time.",
+          "Design a scientific process and employ the scientific method, demonstrating that biology is evidence based and grounded in the formal practices of observation, experimentation, and hypothesis testing.",
+          "Apply critical thinking and quantitative reasoning skills to solve problems.",
+          "Execute quantitative analysis to interpret biological data.",
+          "Construct and utilize predictive models to study and describe complex biological systems.",
+          "Apply concepts from other sciences in order to interpret biological phenomena.",
+          "Communicate biological concepts and understanding to members of a diverse scientific community as well as to the general public.",
+          "Identify social and historical dimensions of biological investigation.",
+          "Develop relevant programming abilities.",
+          "Demonstrate proficiency with statistical analysis of data.",
+          "Develop the ability to build and assess data-based models.",
+          "Execute statistical analyses with professional statistical software.",
+          "Demonstrate skill in data management.",
+          "Apply data science concepts and methods to solve problems in real-world contexts and communicate these solutions effectively."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Molecular and Cellular Biology + Data Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Molecular & Cellular Biology website\nSchool Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "MCB advising\nMCB advising email"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

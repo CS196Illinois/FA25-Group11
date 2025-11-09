@@ -1,0 +1,405 @@
+{
+  "major_name": "Advertising, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/media/advertising-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Advertising"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ADV 150",
+            "title": "ADV 150",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ADV 250",
+            "title": "ADV 250",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ADV 280",
+            "title": "ADV 280",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ADV 281",
+            "title": "ADV 281",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ADV 284",
+            "title": "ADV 284",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ADV 360",
+            "title": "ADV 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ADV 390",
+            "title": "ADV 390",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ADV 492",
+            "title": "ADV 492",
+            "hours": ""
+          },
+          {
+            "code": "ADV 498",
+            "title": "ADV 498",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 320",
+            "title": "BADM 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ECON 102",
+            "title": "ECON 102",
+            "hours": ""
+          },
+          {
+            "code": "ECON 103",
+            "title": "ECON 103",
+            "hours": ""
+          },
+          {
+            "code": "ADV 200",
+            "title": "ADV 200",
+            "hours": ""
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ANTH 103",
+            "title": "ANTH 103",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 100",
+            "title": "PSYC 100",
+            "hours": ""
+          },
+          {
+            "code": "SOC 100",
+            "title": "SOC 100",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Advertising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "When reviewing the sample sequence, please note media electives are any non-required advertising (ADV), journalism (JOUR), media & cinema studies (MACS), or media (MDIA) course. Advertising (ADV) electives are any advertising course not already required for the major. Electives are additional courses to help students achieve 124 hours required for the degree. These can often be any level, but students should check with their advisor for specific guidance.",
+        "credit_requirement": "124"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This may require up to three semesters of language depending on high school coursework or placement. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ADV 150",
+              "3",
+              "ADV 250",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "ADV 200 or STAT  100",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ADV 280",
+              "3",
+              "ADV 284",
+              "3"
+            ],
+            [
+              "ADV 281",
+              "3",
+              "ANTH 103, PSYC  100, or SOC  100",
+              "3-4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "ECON 102 or  103",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Advertising elective",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ADV 390",
+              "3",
+              "ADV 360",
+              "3"
+            ],
+            [
+              "BADM 320",
+              "3",
+              "Advertising elective",
+              "3"
+            ],
+            [
+              "Advertising elective",
+              "3",
+              "Media elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "Elective",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ADV 492 or  498",
+              "3",
+              "Advertising elective",
+              "3"
+            ],
+            [
+              "Advertising elective",
+              "3",
+              "Advertising elective",
+              "3"
+            ],
+            [
+              "Media elective",
+              "3",
+              "Media elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 124"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Advertising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students graduating with a Bachelor of Science in Advertising will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Evaluate the ethical, economic, legal, cultural, and historical dimensions of advertising in a global society.",
+          "Conduct research and analyze secondary and primary data to develop effective brands and advertising planning and strategy.",
+          "Evaluate and analyze media and data for effective advertising and understand the media landscape and media ecosystems.",
+          "Turn strategy into innovative thinking, creative concepts, and the production of brand communications.",
+          "Apply creative concepts and innovative thinking to produce culturally relevant brand storytelling and content creation.",
+          "Effectively collaborate within diverse teams to design and deliver strategic and engaging brand content and presentations."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Advertising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Charles H. Sandage Department of Advertising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Charles H. Sandage Department of Advertising faculty\naddept@illinois.edu\n(217) 333-1602"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Media"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Media admissions and degree requirements"
+      }
+    ]
+  }
+}

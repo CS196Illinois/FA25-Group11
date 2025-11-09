@@ -1,0 +1,383 @@
+{
+  "major_name": "Community Health, BS & Public Health, MPH",
+  "url": "https://catalog.illinois.edu/undergraduate/ahs/community-health-bs-public-health-mph/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the joint degrees of Bachelor of Science Major in Community Health and the Master of Public Health in Public Health"
+      },
+      {
+        "type": "paragraph",
+        "content": "Only students who have completed their junior year but have not yet completed their senior year are eligible to apply. The curriculum, degree requirements, and faculty for the 5-year BS-MPH program (MPH portion) are the same as the regular MPH program."
+      },
+      {
+        "type": "paragraph",
+        "content": "The BS-MPH program is accelerated. Students take a heavier course load during the fifth year, called the MPH year. The MPH year consists of one Fall semester, one Spring semester, and one Summer semester.  For students in the Epidemiology concentration, the MPH portion of the degree consists of one Fall semester, one Spring semester, one Summer semester, and a second Fall semester, with students graduating in December."
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the joint degrees of Bachelor of Science Major in Community Health and the Master of Public Health in Public Health"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "CHLH 100",
+              "3",
+              "CHLH 101",
+              "3",
+              ""
+            ],
+            [
+              "CHLH 125",
+              "1",
+              "KIN 122",
+              "3",
+              ""
+            ],
+            [
+              "Composition I or Speech Performance Course",
+              "4",
+              "Correlate Area course",
+              "3",
+              ""
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "3",
+              "Speech Performance course or Composition I",
+              "4",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "2",
+              "",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16",
+              "",
+              ""
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours",
+              ""
+            ],
+            [
+              "CHLH 201",
+              "3",
+              "CHLH 250",
+              "3",
+              ""
+            ],
+            [
+              "CHLH 210",
+              "2",
+              "CHLH 274",
+              "3",
+              ""
+            ],
+            [
+              "Concentration course",
+              "3",
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education Quantitative Reasoning I",
+              "3",
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              "",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15",
+              "",
+              ""
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours",
+              ""
+            ],
+            [
+              "CHLH 304",
+              "4",
+              "CHLH 410",
+              "4",
+              ""
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Correlate Area course",
+              "3",
+              ""
+            ],
+            [
+              "Correlate Area course",
+              "3",
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "Correlate Area course",
+              "3",
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "Free Elective",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16",
+              "",
+              ""
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours",
+              ""
+            ],
+            [
+              "CHLH 421",
+              "3",
+              "CHLH 469",
+              "3",
+              ""
+            ],
+            [
+              "Concentration course",
+              "1",
+              "Concentration course",
+              "8",
+              ""
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Free Elective",
+              "3",
+              ""
+            ],
+            [
+              "Correlate Area course",
+              "3",
+              "Free Elective",
+              "2",
+              ""
+            ],
+            [
+              "Correlate Area Course",
+              "3",
+              "",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              "",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16",
+              "",
+              ""
+            ],
+            [
+              "Fifth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours",
+              "Summer Semester",
+              "Hours"
+            ],
+            [
+              "CHLH 540",
+              "4",
+              "CHLH 550",
+              "4",
+              "CHLH 587",
+              "4"
+            ],
+            [
+              "CHLH 572",
+              "4",
+              "CHLH 573",
+              "4",
+              "CHLH 589",
+              "2"
+            ],
+            [
+              "CHLH 575",
+              "4",
+              "CHLH 577",
+              "4",
+              ""
+            ],
+            [
+              "CHLH 594",
+              "4",
+              "Concentration Course of Choice from Approved List",
+              "4",
+              ""
+            ],
+            [
+              "Seminar",
+              "1",
+              "Seminar",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17",
+              "",
+              "6"
+            ],
+            [
+              "Total Hours 168"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the joint degrees of Bachelor of Science Major in Community Health and the Master of Public Health in Public Health"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Health and Kinesiology"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Health and Kinesiology Website\nHealth and Kinesiology Faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Public Health Program"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department Head: Kim Graber\nDirector of Graduate Studies: Laura Rice\nDirector of Program: Pedro Hallal"
+      },
+      {
+        "type": "paragraph",
+        "content": "Public Health website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Applied Health Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Applied Health Sciences College Catalog page\nApplied Health Sciences College website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "University of Illinois Urbana-Champaign Undergrad Admissions\nMPH Admissions Questions email"
+      }
+    ]
+  }
+}

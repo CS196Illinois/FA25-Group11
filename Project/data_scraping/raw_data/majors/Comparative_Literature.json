@@ -1,0 +1,352 @@
+{
+  "major_name": "Comparative & World Literature: Comparative Literature, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/comparative-world-literature-balas/comparative-literature/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Comparative & World Literature, Comparative Literature Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60 - 75 hours). Please see your adviser.",
+        "credit_requirement": "75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To be eligible for distinction, a student must have at least a 3.25 cumulative grade-point average and a 3.75 grade-point average in departmental courses, complete a senior thesis (CWL 493), and receive the approval of the departmental honors committee. The departmental honors committee will determine the level of distinction to be awarded.",
+        "course_codes": [
+          "CWL 493"
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Comparative Literature Concentration Requirements"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work equate to 39 hours with at least 18 hours of Comparative Literature courses. Twelve (12) hours of 300- and 400-level courses in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours. Students will complete 40 hours of upper division coursework (these hours can be drawn from all elements of the degree)."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CWL 202",
+            "title": "CWL 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CWL 114",
+            "title": "CWL 114",
+            "hours": ""
+          },
+          {
+            "code": "CWL 151",
+            "title": "CWL 151",
+            "hours": ""
+          },
+          {
+            "code": "CWL 189",
+            "title": "CWL 189",
+            "hours": ""
+          },
+          {
+            "code": "CWL 190",
+            "title": "CWL 190",
+            "hours": ""
+          },
+          {
+            "code": "CWL 201",
+            "title": "CWL 201",
+            "hours": ""
+          },
+          {
+            "code": "CWL 241",
+            "title": "CWL 241",
+            "hours": ""
+          },
+          {
+            "code": "CWL 242",
+            "title": "CWL 242",
+            "hours": ""
+          },
+          {
+            "code": "CWL 395",
+            "title": "CWL 395",
+            "hours": ""
+          },
+          {
+            "code": "CWL 441",
+            "title": "CWL 441",
+            "hours": ""
+          },
+          {
+            "code": "CWL 461",
+            "title": "CWL 461",
+            "hours": ""
+          },
+          {
+            "code": "CWL 471",
+            "title": "CWL 471",
+            "hours": ""
+          },
+          {
+            "code": "CWL 496",
+            "title": "CWL 496",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Comparative & World Literature, Comparative Literature Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "CWL core course",
+              "3"
+            ],
+            [
+              "CWL 202",
+              "3",
+              "CWL core course prior to 1800",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CWL core course since 1800",
+              "3",
+              "CWL Literature 200-400 level course",
+              "3"
+            ],
+            [
+              "CWL Literature 200-400 level course",
+              "3",
+              "CWL Focus Area 200-400 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CWL core 300-400 level course",
+              "3",
+              "CWL core 300-400 level course",
+              "3"
+            ],
+            [
+              "CWL Language 200-400 level course",
+              "3",
+              "CWL Language 200-400 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CWL Focus Area 300-400 level course",
+              "3",
+              "CWL Literature 300-400 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Comparative & World Literature, Comparative Literature Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Comparative & World Literature website\nComparative & World Literature faculty\nComparative & World Literature advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

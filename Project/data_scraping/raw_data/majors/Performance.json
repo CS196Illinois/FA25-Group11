@@ -1,0 +1,819 @@
+{
+  "major_name": "Lyric Theatre: Performance, BMA",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/lyric-theatre-bma/performance/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Musical Arts in Lyric Theatre, Performance Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 129 hours.",
+        "credit_requirement": "129"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "paragraph",
+        "content": "At least one \"Storytelling\" (writing, telling, or reading stories) course is to be selected in consultation with advisor from the general education requirements."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 100",
+            "title": "MUS 100",
+            "hours": "0",
+            "hours_min": 0,
+            "hours_max": 0
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 101",
+            "title": "MUS 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 102",
+            "title": "MUS 102",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 201",
+            "title": "MUS 201",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 202",
+            "title": "MUS 202",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 107",
+            "title": "MUS 107",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 108",
+            "title": "MUS 108",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 207",
+            "title": "MUS 207",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 208",
+            "title": "MUS 208",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 110",
+            "title": "MUS 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 313",
+            "title": "MUS 313",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 314",
+            "title": "MUS 314",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 172",
+            "title": "MUS 172",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 173",
+            "title": "MUS 173",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Lyric Theatre Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUSC 105",
+            "title": "MUSC 105",
+            "hours": "8",
+            "hours_min": 8,
+            "hours_max": 8
+          },
+          {
+            "code": "MUSC 406",
+            "title": "MUSC 406",
+            "hours": "8",
+            "hours_min": 8,
+            "hours_max": 8
+          },
+          {
+            "code": "MUSC 468",
+            "title": "MUSC 468",
+            "hours": "8",
+            "hours_min": 8,
+            "hours_max": 8
+          },
+          {
+            "code": "MUS 121",
+            "title": "MUS 121",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 125",
+            "title": "MUS 125",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 422",
+            "title": "MUS 422",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 472",
+            "title": "MUS 472",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ITAL 101",
+            "title": "ITAL 101",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "DANC 116",
+            "type": "choice",
+            "options": [
+              "DANC 116",
+              "DANC 216"
+            ],
+            "title": "DANC 116",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 216",
+            "type": "choice",
+            "options": [
+              "DANC 216"
+            ],
+            "title": "orDANC 216",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 209",
+            "title": "DANC 209",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "THEA 100",
+            "title": "THEA 100",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 170",
+            "title": "THEA 170",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 175",
+            "title": "THEA 175",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DANC 245",
+            "title": "DANC 245",
+            "hours": ""
+          },
+          {
+            "code": "DANC 301",
+            "title": "DANC 301",
+            "hours": ""
+          },
+          {
+            "code": "DANC 401",
+            "title": "DANC 401",
+            "hours": ""
+          },
+          {
+            "code": "DANC 402",
+            "title": "DANC 402",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Performance Concentration Minimum required major and supporting course work: Students who choose the Performance Concentration must complete a minimum of twelve (12) hours of coursework within the concentration's list of electives. Courses not on the list may be substituted with the approval of the Lyric Theatre faculty."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "HK 153",
+            "title": "HK 153",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 106",
+            "title": "MUS 106",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 122",
+            "title": "MUS 122",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 123",
+            "title": "MUS 123",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 206",
+            "title": "MUS 206",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 242",
+            "title": "MUS 242",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MUS 411",
+            "title": "MUS 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 469",
+            "title": "MUS 469",
+            "hours": "2 or 3",
+            "hours_min": 2,
+            "hours_max": 3
+          },
+          {
+            "code": "MUS 474",
+            "title": "MUS 474",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUS 475",
+            "title": "MUS 475",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MUSC 469",
+            "title": "MUSC 469",
+            "hours": "1 to 2",
+            "hours_min": 1,
+            "hours_max": 2
+          },
+          {
+            "code": "MUSC 470",
+            "title": "MUSC 470",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "THEA 110",
+            "title": "THEA 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 220",
+            "title": "THEA 220",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "THEA 360",
+            "title": "THEA 360",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "THEA 361",
+            "title": "THEA 361",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Degree Hours The Bachelor of Musical Arts in Lyric Theatre requires a minimum of 129 hours for graduation. This includes a minimum of 40 hours of upper-division coursework at the 300- and/or 400-level from all elements of the degree. Additional hours needed to reach the minimum of 40 are chosen in consultation with advisor.",
+        "level_requirement": "400",
+        "credit_requirement": "129"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Musical Arts in Lyric Theatre, Performance Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence. This sample curriculum plan makes the assumption that students will have demonstrated keyboard competency by proficiency examination when they matriculate or they will need to enroll in MUS 172 and/or MUS 173.",
+        "course_codes": [
+          "MUS 172",
+          "MUS 173"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This sample curriculum plan makes the assumption that the foreign language graduation requirement has been satisfied by completing three years of study of a single foreign language in high school. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Ensemble",
+              "1",
+              "Ensemble",
+              "1"
+            ],
+            [
+              "MUSC 105",
+              "2",
+              "MUSC 105",
+              "2"
+            ],
+            [
+              "MUS 100",
+              "0",
+              "MUS 102",
+              "2"
+            ],
+            [
+              "MUS 101",
+              "2",
+              "MUS 108",
+              "2"
+            ],
+            [
+              "MUS 107",
+              "2",
+              "MUS 110",
+              "3"
+            ],
+            [
+              "MUS 121",
+              "1",
+              "MUS 125",
+              "1"
+            ],
+            [
+              "ITAL 101",
+              "4",
+              "THEA 100",
+              "2"
+            ],
+            [
+              "FAA 101",
+              "1",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Ensemble",
+              "1",
+              "Ensemble",
+              "1"
+            ],
+            [
+              "MUSC 105",
+              "2",
+              "MUSC 105",
+              "2"
+            ],
+            [
+              "MUSC 468",
+              "2",
+              "MUS 202",
+              "2"
+            ],
+            [
+              "MUS 201",
+              "2",
+              "MUS 208",
+              "2"
+            ],
+            [
+              "MUS 207",
+              "2",
+              "MUS 314",
+              "3"
+            ],
+            [
+              "MUS 313",
+              "3",
+              "MUSC 468",
+              "2"
+            ],
+            [
+              "DANC course",
+              "2",
+              "DANC course",
+              "2"
+            ],
+            [
+              "General Education course (choose one which fulfills two categories)",
+              "3",
+              "General Education course (choose one which fulfills two categories)",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Ensemble",
+              "1",
+              "Ensemble",
+              "1"
+            ],
+            [
+              "Performance Concentration course",
+              "3",
+              "Performance Concentration course",
+              "3"
+            ],
+            [
+              "MUS 422",
+              "2",
+              "MUSC 406",
+              "2"
+            ],
+            [
+              "MUSC 468",
+              "2",
+              "MUSC 468",
+              "2"
+            ],
+            [
+              "MUSC 406",
+              "2",
+              "THEA 175",
+              "3"
+            ],
+            [
+              "THEA 170",
+              "3",
+              "DANC course",
+              "2"
+            ],
+            [
+              "Somatics Dance course",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Ensemble",
+              "1",
+              "Ensemble",
+              "1"
+            ],
+            [
+              "Performance Concentration course",
+              "3",
+              "Performance Concentration course",
+              "3"
+            ],
+            [
+              "MUSC 406",
+              "2",
+              "MUSC 406",
+              "2"
+            ],
+            [
+              "MUSC 470",
+              "2",
+              "MUS 472",
+              "1"
+            ],
+            [
+              "MUS 472",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Storytelling General Education course",
+              "3",
+              "Free Elective course",
+              "2"
+            ],
+            [
+              "Free Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 129"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Musical Arts in Lyric Theatre, Performance Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Bachelor of Musical Arts in Lyric Theatre graduates will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Understand, apply, and integrate foundational concepts of musical study in theory, aural skills, history, composition, improvisation, and keyboard competency, and do so independently and cooperatively.",
+          "Understand, apply, and integrate foundational concepts of study in dance and acting and do so independently and cooperatively.",
+          "Demonstrate the ability to learn independently, make inquiries, think critically, discover solutions, and integrate knowledge across both similar and varied areas of musical study.",
+          "Develop and demonstrate effective performance skills (technical and expressive) using critical thinking to inform historical and stylistic performance practices and artistic expression.",
+          "Develop and demonstrate effective communication skills, including artistic self-expression, with diverse audiences through multiple media.",
+          "Acquire a basic understanding of diverse musical systems and traditions across the world, and develop a sensitivity to and awareness of cultural and societal differences, and their contribution to an interdependent global consciousness.",
+          "Acquire an understanding of professional and ethical responsibility as musicians and citizens, and demonstrate the ability to work professionally and effectively as leaders and collaborators.",
+          "Acquire a basic understanding of technology and professional skills, along with knowledge of specific technological developments within area of specialization.",
+          "Appreciate how music interacts with communities to enhance and engage social and cultural identities and enrich lifelong learning."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Musical Arts in Lyric Theatre, Performance Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Music Website\nMusic Faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "FAA College Website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "University of Illinois Urbana-Champaign Undergrad Admissions"
+      }
+    ]
+  }
+}

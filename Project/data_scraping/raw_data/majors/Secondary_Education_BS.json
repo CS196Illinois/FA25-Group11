@@ -1,0 +1,200 @@
+{
+  "major_name": "Secondary Education, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/education/secondary-education-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Secondary Education"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "EDUC 101",
+            "title": "EDUC 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "RHET 101",
+            "type": "sequence",
+            "sequence": [
+              "RHET 101",
+              "RHET 102"
+            ],
+            "title": "RHET 101&RHET 102",
+            "hours": ""
+          },
+          {
+            "code": "CMN 111",
+            "type": "sequence",
+            "sequence": [
+              "CMN 111",
+              "CMN 112"
+            ],
+            "title": "CMN 111&CMN 112",
+            "hours": ""
+          },
+          {
+            "code": "ESL 111",
+            "type": "sequence",
+            "sequence": [
+              "ESL 111",
+              "ESL 112"
+            ],
+            "title": "ESL 111&ESL 112",
+            "hours": ""
+          },
+          {
+            "code": "ESL 115",
+            "title": "ESL 115",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CI 401",
+            "title": "CI 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 403",
+            "title": "CI 403",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 404",
+            "title": "CI 404",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 473",
+            "title": "CI 473",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": "2 to 12",
+            "hours_min": 2,
+            "hours_max": 12
+          },
+          {
+            "code": "EDUC 201",
+            "title": "EDUC 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDUC 202",
+            "title": "EDUC 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 485",
+            "title": "EPSY 485",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 405",
+            "title": "SPED 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Secondary Education"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Education Building, 1310 S. Sixth Street, Champaign, IL 61820\nCollege of Education website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Department of Curriculum & Instruction"
+      },
+      {
+        "type": "paragraph",
+        "content": "306 Education Building\nci@education.illinois.edu\n(217) 244-8286\nDepartment of Curriculum & Instruction website\nDepartment of Curriculum & Instruction faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Office of Undergraduate Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "110 Education Building\nEducation Academic Affairs email\n(217) 333-2800\nAdmissions & Academics website\nStudent Academic Affairs website"
+      }
+    ]
+  }
+}

@@ -1,0 +1,511 @@
+{
+  "major_name": "Teaching of German, BA",
+  "url": "https://catalog.illinois.edu/undergraduate/las/teaching-german-ba/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in the Teaching of German"
+      },
+      {
+        "type": "paragraph",
+        "content": "In order to remain in good standing in this program and be recommended for teacher licensure, candidates are required to maintain a cumulative grade-point average of 2.5 (A= 4.0)."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: Students should consult their advisers by the second semester of the junior year for information pertaining to seminar honors work and honors awards in the department."
+      },
+      {
+        "type": "paragraph",
+        "content": "The total of 47 hours may be reduced by as much as 16 hours through prerequisite credit for work equivalent to GER 101-GER 104 taken in secondary school.",
+        "course_codes": [
+          "GER 101",
+          "GER 104"
+        ],
+        "credit_requirement": "47"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work: Normally equates to 80 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "80"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "GER 101",
+            "title": "GER 101",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GER 102",
+            "title": "GER 102",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GER 103",
+            "title": "GER 103",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GER 104",
+            "title": "GER 104",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GER 211",
+            "title": "GER 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GER 212",
+            "title": "GER 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GER 331",
+            "title": "GER 331",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GER 332",
+            "title": "GER 332",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GER 401",
+            "title": "GER 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GER 420",
+            "title": "GER 420",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GER 465",
+            "title": "GER 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GER 470",
+            "title": "GER 470",
+            "hours": ""
+          },
+          {
+            "code": "GER 471",
+            "title": "GER 471",
+            "hours": ""
+          },
+          {
+            "code": "GER 472",
+            "title": "GER 472",
+            "hours": ""
+          },
+          {
+            "code": "GER 473",
+            "title": "GER 473",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": "12",
+            "hours_min": 12,
+            "hours_max": 12
+          },
+          {
+            "code": "EPOL 201",
+            "title": "EPOL 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FLTE 471",
+            "title": "FLTE 471",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "FLTE 475",
+            "title": "FLTE 475",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "FLTE 478",
+            "title": "FLTE 478",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SPED 405",
+            "title": "SPED 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in the Teaching of German"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LAS 101",
+              "1",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "GER 101",
+              "4",
+              "GER 102",
+              "4"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GER 103",
+              "4",
+              "GER 104",
+              "4"
+            ],
+            [
+              "EPOL 201",
+              "3",
+              "GER 211",
+              "3"
+            ],
+            [
+              "EPSY 201",
+              "3",
+              "GER 331",
+              "3"
+            ],
+            [
+              "General Education Course (choose a NST course with QR designation)",
+              "3",
+              "German elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "GER 212",
+              "3",
+              "GER 420",
+              "4"
+            ],
+            [
+              "GER 332",
+              "3",
+              "GER 465",
+              "3"
+            ],
+            [
+              "GER 401",
+              "3",
+              "FLTE 471",
+              "4"
+            ],
+            [
+              "General Education Course (choose a NST course with QR designation)",
+              "3",
+              "GER 400-level course from list",
+              "3"
+            ],
+            [
+              "German elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "FLTE 475",
+              "4",
+              "EDPR 442",
+              "12"
+            ],
+            [
+              "FLTE 478",
+              "3",
+              "FLTE 478",
+              "1"
+            ],
+            [
+              "SPED 405",
+              "3",
+              ""
+            ],
+            [
+              "General Education Course",
+              "3",
+              ""
+            ],
+            [
+              "Free elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in the Teaching of German"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Teacher Candidates* will be able to demonstrate her/his understanding of SLA theories and methodologies through the instructional activities and materials that she/he designs to support all students’ learning and skill building in the three modes of communication.",
+          "Using Bloom’s taxonomy and knowledge of current events and popular culture in Germany, Austria, and Switzerland, Teacher Candidates will be able to foster evaluation skills in German second language learners through reading newspapers, magazines, or blog posts discussing politics, movies, television, and sports.",
+          "Using their knowledge of German linguistics and the sounds of German, Teacher Candidates will be able to model accurate and authentic pronunciation for their learners during instruction.",
+          "Teacher Candidates will be able to demonstrate her/his understanding of and skills in designing multiple methods of assessment that monitor learner progress in the three modes of communication, promote learner efficacy, and guide decision-making of the learner and teacher."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "*BAT students = Teacher Candidates"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in the Teaching of German"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Germanic Languages & Literatures\nGermanic Languages & Literatures faculty\nGerman advising and Foreign Language Teacher advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

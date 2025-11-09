@@ -1,0 +1,913 @@
+{
+  "major_name": "Environmental Engineering, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/environmental-engineering-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Environmental Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements Minimum Overall GPA: 2.0 Minimum hours required for graduation: 128 hours",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement. ECE 316 will satisfy an an Orientation and Professional Development requirement, a Campus General Education Humanities requirement, and the Campus General Education Advanced Composition requirement.",
+        "course_codes": [
+          "ECE 316"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation and Professional Development"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CEE 190",
+            "title": "CEE 190",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 495",
+            "title": "CEE 495",
+            "hours": "0",
+            "hours_min": 0,
+            "hours_max": 0
+          },
+          {
+            "code": "ECE 316",
+            "title": "ECE 316",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundational Mathematics and Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ATMS 202",
+            "title": "ATMS 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CHEM 104",
+            "title": "CHEM 104",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 105",
+            "title": "CHEM 105",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 257",
+            "title": "MATH 257",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Environmental Engineering Technical Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CEE 201",
+            "title": "CEE 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 202",
+            "title": "CEE 202",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 330",
+            "title": "CEE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 331",
+            "title": "CEE 331",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 350",
+            "title": "CEE 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 449",
+            "title": "CEE 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 453",
+            "title": "CEE 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CS 101",
+            "title": "CS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SE 101",
+            "title": "SE 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 211",
+            "title": "TAM 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "TAM 212",
+            "title": "TAM 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Primary Fields (Students choose one of five (5) Primary Fields)"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ABE 436",
+            "title": "ABE 436",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 433",
+            "title": "CEE 433",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 493",
+            "title": "CEE 493",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 360",
+            "title": "CHEM 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ENSU 301",
+            "title": "ENSU 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ME 200",
+            "title": "ME 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ACE 310",
+            "title": "ACE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 201",
+            "title": "ATMS 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 340",
+            "title": "CEE 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 458",
+            "title": "CEE 458",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 491",
+            "title": "CEE 491",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 492",
+            "title": "CEE 492",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ACE 100"
+            ],
+            "title": "ECON 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 100",
+            "type": "choice",
+            "options": [
+              "ACE 100",
+              "RACE 100"
+            ],
+            "title": "orACE 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GGIS 379",
+            "title": "GGIS 379",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 213",
+            "title": "PHYS 213",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ACE 310",
+            "title": "ACE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ATMS 201",
+            "title": "ATMS 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 433",
+            "title": "CEE 433",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 434",
+            "title": "CEE 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 450",
+            "type": "choice",
+            "options": [
+              "CEE 450",
+              "CEE 457"
+            ],
+            "title": "CEE 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 457",
+            "type": "choice",
+            "options": [
+              "CEE 457",
+              "RCEE 457"
+            ],
+            "title": "orCEE 457",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 451",
+            "title": "CEE 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 360",
+            "title": "CHEM 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ACE 100"
+            ],
+            "title": "ECON 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 100",
+            "type": "choice",
+            "options": [
+              "ACE 100",
+              "RACE 100"
+            ],
+            "title": "orACE 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ENSU 301",
+            "title": "ENSU 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 213",
+            "title": "PHYS 213",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "ATMS 305",
+            "title": "ATMS 305",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 435",
+            "title": "CEE 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 438",
+            "title": "CEE 438",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 441",
+            "title": "CEE 441",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHLH 201",
+            "title": "CHLH 201",
+            "hours": ""
+          },
+          {
+            "code": "CHLH 274",
+            "title": "CHLH 274",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHLH 469",
+            "title": "CHLH 469",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 300",
+            "title": "MCB 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 213",
+            "title": "PHYS 213",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CEE 437",
+            "title": "CEE 437",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CEE 440",
+            "type": "choice",
+            "options": [
+              "CEE 440",
+              "CEE 452"
+            ],
+            "title": "CEE 440",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 452",
+            "type": "choice",
+            "options": [
+              "CEE 452",
+              "RCEE 452"
+            ],
+            "title": "orCEE 452",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 442",
+            "title": "CEE 442",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CEE 444",
+            "title": "CEE 444",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHBE 221",
+            "title": "CHBE 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHBE 321",
+            "title": "CHBE 321",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 360",
+            "title": "CHEM 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 213",
+            "title": "PHYS 213",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Environmental Engineering"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This sample curriculum plan makes the assumption that the foreign language graduation requirement has been satisfied by completing three years of study of a single foreign language in high school."
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "CEE 190",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "ENG 100",
+              "1",
+              "CHEM 104",
+              "3"
+            ],
+            [
+              "MATH 221 (MATH 220 may be substituted)",
+              "4",
+              "CHEM 105",
+              "1"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "CS 101",
+              "3"
+            ],
+            [
+              "Composition I or SE 101",
+              "4-3",
+              "SE 101 or Composition I course",
+              "3-4"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CEE 201",
+              "3",
+              "CEE 202",
+              "3"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "TAM 211",
+              "3"
+            ],
+            [
+              "MATH 257",
+              "3",
+              "Primary field course",
+              "3"
+            ],
+            [
+              "ATMS 202",
+              "3",
+              "Primary field course",
+              "2"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "Language Other Than English (3rd level) course",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CEE 331",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "TAM 212",
+              "3",
+              "CEE 340 (Advanced Composition)",
+              "3"
+            ],
+            [
+              "CEE 330",
+              "3",
+              "CEE 350",
+              "3"
+            ],
+            [
+              "Primary field course",
+              "3",
+              "Primary field course",
+              "3"
+            ],
+            [
+              "Primary field course",
+              "3",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CEE 495",
+              "0",
+              "CEE 449",
+              "3"
+            ],
+            [
+              "Primary field course",
+              "3",
+              "CEE 453",
+              "4"
+            ],
+            [
+              "Primary field course",
+              "3",
+              "Primary field course",
+              "3"
+            ],
+            [
+              "Primary field course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Primary field course",
+              "4",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Environmental Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Educational objectives for the environmental engineering program reflect the mission of the Department of Civil and Environmental Engineering, the importance placed on successful professional practice, the ability to pursue advanced degrees, the assumption of professional and societal leadership roles, and a commitment to lifelong learning. Illinois B.S. in Environmental Engineering graduates will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Successfully enter the environmental engineering profession as practicing engineers and consultants with prominent companies and organizations in diverse areas that include public health engineering, one water, energy and environmental sustainability, climate and environmental sustainability, and water systems and sustainability.",
+          "Pursue graduate education and research at major research universities in environmental engineering and related fields.",
+          "Pursue professional licensure.",
+          "Advance to leadership positions in their profession.",
+          "Engage in continued learning through professional development.",
+          "Participate in and contribute to professional societies and community service."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Environmental Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Civil & Environmental Engineering Website\nCivil & Environmental Engineering Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions\nThe Grainger College of Engineering"
+      }
+    ]
+  }
+}

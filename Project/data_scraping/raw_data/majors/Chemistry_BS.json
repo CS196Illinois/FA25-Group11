@@ -1,0 +1,574 @@
+{
+  "major_name": "Chemistry, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/chemistry-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Chemistry (Specialized Curriculum)"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Specialized Curriculum"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation requires grade point averages of at least 2.0 overall and 2.0 in chemistry, mathematics, and physics courses."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students in the Specialized Curriculum in Chemistry must include a course in Biochemistry in the Advanced Chemistry area or the Technical Electives area to be certified by the American Chemical Society as having met its specifications."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: Students qualify for graduation with distinction by exhibiting superior performance in both course work and in senior thesis research. To be eligible, a student must have a Illinois coursework major grade point average of 3.25, must take CHEM 499 (normally for two semesters) and submit a senior thesis for evaluation, and must have their undergraduate research advisor submit to the department Head a letter of support attesting to the effort invested by the student. The minimum major GPAs for Distinction, High Distinction, and Highest Distinction are 3.25, 3.5, and 3.75, respectively. Final decisions on awarding Distinction honors will be made by the Head or designee.",
+        "course_codes": [
+          "CHEM 499"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 150",
+            "title": "CHEM 150",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 202",
+            "title": "CHEM 202",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 203",
+            "title": "CHEM 203",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 204",
+            "title": "CHEM 204",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 205",
+            "title": "CHEM 205",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 236",
+            "title": "CHEM 236",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 237",
+            "title": "CHEM 237",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 312",
+            "title": "CHEM 312",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 315",
+            "title": "CHEM 315",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 420",
+            "title": "CHEM 420",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 436",
+            "title": "CHEM 436",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 442",
+            "title": "CHEM 442",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 444",
+            "title": "CHEM 444",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 445",
+            "title": "CHEM 445",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHEM 317",
+            "title": "CHEM 317",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 437",
+            "title": "CHEM 437",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 447",
+            "title": "CHEM 447",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 483",
+            "title": "CHEM 483",
+            "hours": ""
+          },
+          {
+            "code": "BIOC 455",
+            "title": "BIOC 455",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221"
+          },
+          {
+            "code": "MATH 225",
+            "type": "choice",
+            "options": [
+              "MATH 225",
+              "MATH 227"
+            ],
+            "title": "MATH 225",
+            "hours": ""
+          },
+          {
+            "code": "MATH 227",
+            "type": "choice",
+            "options": [
+              "MATH 257",
+              "MATH 227"
+            ],
+            "title": "orMATH 227"
+          },
+          {
+            "code": "MATH 415",
+            "type": "choice",
+            "options": [
+              "MATH 415"
+            ],
+            "title": "orMATH 415"
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": ""
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": ""
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 214",
+            "title": "PHYS 214",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Chemistry (Specialized Curriculum)"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "CHEM 204",
+              "3"
+            ],
+            [
+              "CHEM 150",
+              "1",
+              "CHEM 205",
+              "2"
+            ],
+            [
+              "CHEM 202",
+              "3",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "CHEM 203",
+              "2",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "Composition I course Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level) or Composition I course",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHEM 236",
+              "4",
+              "CHEM 436",
+              "3"
+            ],
+            [
+              "CHEM 237",
+              "2",
+              "Technical Electives",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "PHYS 214",
+              "2"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 225 or  415",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CHEM 442",
+              "4",
+              "CHEM 444",
+              "4"
+            ],
+            [
+              "CHEM 420",
+              "2",
+              "CHEM 445",
+              "2"
+            ],
+            [
+              "CHEM 315",
+              "2",
+              "CHEM 312",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Advanced Chemistry course",
+              "3",
+              "Advanced Chemistry course",
+              "3"
+            ],
+            [
+              "Advanced Chemistry lab",
+              "3",
+              "Additional Advanced Chemistry course",
+              "2"
+            ],
+            [
+              "Technical Electives",
+              "3",
+              "Technical Electives",
+              "2"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Chemistry (Specialized Curriculum)"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students graduating with the BS in Chemistry will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "A thorough knowledge of the basic principles of chemistry, including atomic and molecular structure, chemical dynamics and the chemical and physical properties of substances.",
+          "An exposure to the subfields of chemistry, such as analytical, organic, physical, materials, inorganic, as well as chemical biology.",
+          "The ability to read, evaluate, interpret, and present (via oral and written communication) numerical, chemical and general scientific data, information and literature.",
+          "The ability to carry out experiments, use appropriate experimental apparatus effectively, and demonstrate proper laboratory safety skills."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Chemistry (Specialized Curriculum)"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Chemistry"
+      },
+      {
+        "type": "paragraph",
+        "content": "Chemistry website\nChemistry Faculty\nSCS Academic Advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts & Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Liberal Arts & Sciences College & Admissions requirements\nLAS website"
+      }
+    ]
+  }
+}

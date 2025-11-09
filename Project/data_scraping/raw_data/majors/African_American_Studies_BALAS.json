@@ -1,0 +1,1174 @@
+{
+  "major_name": "African American Studies, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/african-american-studies-balas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Academic Affairs Office before the end of the fifth semester (60-75 hours). Please see your adviser.",
+        "credit_requirement": "60-75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction:\nTo graduate with distinction, students must complete the following:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "3.3 overall G.P.A",
+          "3.6 program G.P.A",
+          "Complete AFRO 495 Senior Thesis Seminar with a grade of 3.3 or better"
+        ],
+        "course_codes": [
+          "AFRO 495"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work: Equates to 48 hours. Twelve hours of 300- and 400-level African American Studies courses must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "48"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students should consult their academic advisor for additional guidance in fulfilling this requirement. The university and residency requirements can be found in the Student Code (§3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 101",
+            "title": "LAS 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 100",
+            "type": "sequence",
+            "sequence": [
+              "LAS 100",
+              "LAS 101"
+            ],
+            "title": "LAS 100&LAS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAS 102",
+            "title": "LAS 102",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 100",
+            "title": "AFRO 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 220",
+            "title": "AFRO 220",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 490",
+            "title": "AFRO 490",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 495",
+            "title": "AFRO 495",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 224",
+            "title": "AFRO 224",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 411",
+            "title": "AFRO 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 415",
+            "title": "AFRO 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 474",
+            "title": "AFRO 474",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 201",
+            "title": "AFRO 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 411",
+            "title": "AFRO 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 460",
+            "title": "AFRO 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 101",
+            "title": "AFRO 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 103",
+            "title": "AFRO 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 199",
+            "title": "AFRO 199",
+            "hours": "1 to 5",
+            "hours_min": 1,
+            "hours_max": 5
+          },
+          {
+            "code": "AFRO 215",
+            "title": "AFRO 215",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 234",
+            "title": "AFRO 234",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 275",
+            "title": "AFRO 275",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 276",
+            "title": "AFRO 276",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 281",
+            "title": "AFRO 281",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 287",
+            "title": "AFRO 287",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 290",
+            "title": "AFRO 290",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 298",
+            "title": "AFRO 298",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 310",
+            "title": "AFRO 310",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "AFRO 312",
+            "title": "AFRO 312",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 372",
+            "title": "AFRO 372",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 378",
+            "title": "AFRO 378",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 383",
+            "title": "AFRO 383",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 398",
+            "title": "AFRO 398",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 407",
+            "title": "AFRO 407",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 410",
+            "title": "AFRO 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 411",
+            "title": "AFRO 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 415",
+            "title": "AFRO 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 435",
+            "title": "AFRO 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 460",
+            "title": "AFRO 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 465",
+            "title": "AFRO 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 466",
+            "title": "AFRO 466",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 474",
+            "title": "AFRO 474",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 498",
+            "title": "AFRO 498",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 101",
+            "title": "AFRO 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 103",
+            "title": "AFRO 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 105",
+            "title": "AFRO 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 132",
+            "title": "AFRO 132",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 211",
+            "title": "AFRO 211",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 212",
+            "title": "AFRO 212",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 224",
+            "title": "AFRO 224",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 226",
+            "title": "AFRO 226",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 227",
+            "title": "AFRO 227",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 231",
+            "title": "AFRO 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 259",
+            "title": "AFRO 259",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 260",
+            "title": "AFRO 260",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 261",
+            "title": "AFRO 261",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 298",
+            "title": "AFRO 298",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 340",
+            "title": "AFRO 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 342",
+            "title": "AFRO 342",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 345",
+            "title": "AFRO 345",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 372",
+            "title": "AFRO 372",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 373",
+            "title": "AFRO 373",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 381",
+            "title": "AFRO 381",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 382",
+            "title": "AFRO 382",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 398",
+            "title": "AFRO 398",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 400",
+            "title": "AFRO 400",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 415",
+            "title": "AFRO 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 435",
+            "title": "AFRO 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 465",
+            "title": "AFRO 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 481",
+            "title": "AFRO 481",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 482",
+            "title": "AFRO 482",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "AFRO 498",
+            "title": "AFRO 498",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 101",
+            "title": "AFRO 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 103",
+            "title": "AFRO 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 199",
+            "title": "AFRO 199",
+            "hours": "1 to 5",
+            "hours_min": 1,
+            "hours_max": 5
+          },
+          {
+            "code": "AFRO 201",
+            "title": "AFRO 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 221",
+            "title": "AFRO 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 226",
+            "title": "AFRO 226",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 243",
+            "title": "AFRO 243",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 275",
+            "title": "AFRO 275",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 276",
+            "title": "AFRO 276",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 290",
+            "title": "AFRO 290",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 298",
+            "title": "AFRO 298",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 310",
+            "title": "AFRO 310",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "AFRO 315",
+            "title": "AFRO 315",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 342",
+            "title": "AFRO 342",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 345",
+            "title": "AFRO 345",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 372",
+            "title": "AFRO 372",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 380",
+            "title": "AFRO 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 398",
+            "title": "AFRO 398",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 410",
+            "title": "AFRO 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 415",
+            "title": "AFRO 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 421",
+            "title": "AFRO 421",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 460",
+            "title": "AFRO 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 465",
+            "title": "AFRO 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 498",
+            "title": "AFRO 498",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 103",
+            "title": "AFRO 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 106",
+            "title": "AFRO 106",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 215",
+            "title": "AFRO 215",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 243",
+            "title": "AFRO 243",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 261",
+            "title": "AFRO 261",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 378",
+            "title": "AFRO 378",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 400",
+            "title": "AFRO 400",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "AFRO 103",
+            "title": "AFRO 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 226",
+            "title": "AFRO 226",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 287",
+            "title": "AFRO 287",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 342",
+            "title": "AFRO 342",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 380",
+            "title": "AFRO 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 381",
+            "title": "AFRO 381",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 382",
+            "title": "AFRO 382",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 383",
+            "title": "AFRO 383",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 415",
+            "title": "AFRO 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 421",
+            "title": "AFRO 421",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 435",
+            "title": "AFRO 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "AFRO 465",
+            "title": "AFRO 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences in African American Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "LAS 101",
+              "1",
+              "AFRO 220",
+              "3"
+            ],
+            [
+              "AFRO 100",
+              "3",
+              "Theory course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Methods course",
+              "3",
+              "Thematic Area B course",
+              "3"
+            ],
+            [
+              "Thematic Area A course",
+              "3",
+              "Thematic Area C course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Thematic Area D course",
+              "3",
+              "Thematic Area E course",
+              "3"
+            ],
+            [
+              "Thematic Area course",
+              "3",
+              "Cognate or Supporting Coursework",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "AFRO 490",
+              "3",
+              "AFRO 495",
+              "3"
+            ],
+            [
+              "Cognate or Supporting Coursework",
+              "3",
+              "Cognate or Supporting Coursework",
+              "3"
+            ],
+            [
+              "Thematic Area course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "Free Elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences in African American Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Upon completion of the major in African American Studies, students will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "DESCRIBE the main stages in the historical development of the African American experience that reflects both continuity and change, and the different component parts of the human experience.",
+          "ASSESS the historical development of peoples of African descent in broad global context, emphasizing historical, contemporary, and future implications.",
+          "ANALYZE the experiences of Black people using the perspectives, data, and interpretations from two or more disciplinary fields (e.g., historical studies, cultural studies, social studies).",
+          "EVALUATE successes and failures as people have used their values to initiate efforts to achieve social justice for African Americans and people of diverse social backgrounds.",
+          "DESIGN a strategies and tactics that provide a solution to a major civic or social challenge facing Black communities in various parts of the world, illustrating how \"Academic Excellence and Social Responsibility\" in Black Studies have contributed to this process."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Sciences in African American Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of African American Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "African American Studies Faculty\nafro-advising@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

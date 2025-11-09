@@ -1,0 +1,533 @@
+{
+  "major_name": "Neuroscience, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/neuroscience-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Neuroscience"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Required Courses: 83-84 hours including 29 hours of 300- or 400-level courses. 12 hours of advanced level courses in the major must be taken on the Urbana-Champaign campus.",
+        "level_requirement": "400",
+        "credit_requirement": "83-84"
+      },
+      {
+        "type": "paragraph",
+        "content": "In addition, undergraduate research (MCB 290) in an MCB Neuroscience-designated lab is strongly recommended for students planning to go to graduate school. No more than 10 hours of MCB 290 credit may be counted towards the 120 hours required for a degree in Neuroscience.",
+        "course_codes": [
+          "MCB 290",
+          "MCB 290"
+        ],
+        "credit_requirement": "10"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students earning a degree in Neuroscience may not also earn a second degree in the Specialized Curriculum in Biochemistry."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students earning a degree in Neuroscience may not double major in Molecular and Cellular Biology."
+      },
+      {
+        "type": "paragraph",
+        "content": "Distinction"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students in Neuroscience can qualify for Distinction via one of the following:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Distinction for Excellence in Research:"
+      },
+      {
+        "type": "paragraph",
+        "content": "To be eligible for graduation with Distinction a student must:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Complete 3 semesters of MCB 290 for 2 credit hours or more each semester. Maintain a minimum cumulative GPA of 3.25 at the end of penultimate semester. Give at least one poster presentation at the Undergraduate Research symposium or other approved venue. Obtain a letter of support from their Principal Investigator.",
+        "course_codes": [
+          "MCB 290"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "To be eligible for graduation with High Distinction a student must:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Complete at least 2 semesters of MCB 290, in an MCB Neuroscience-designated lab, for 2 credit hours or more each semester. Complete 1 semester of MCB 492, in the same Neuroscience-designated lab, for 3 credit hours or more in their final semester. Maintain a minimum cumulative GPA of 3.25 at the end of penultimate semester. Give at least one presentation at the Undergraduate Research Symposium or other approved venue. Submit a written thesis that is approved by the Distinction Committee. Obtain a letter of support from their Principal Investigator.",
+        "course_codes": [
+          "MCB 290",
+          "MCB 492"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "To be eligible for graduation with Highest Distinction a student must:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Complete at least 2 semesters of MCB 290, in an MCB Neuroscience-designated lab, for 2 credit hours or more each semester. Complete 1 semester of MCB 492, in the same Neuroscience-designated lab, for 3 credit hours or more in their final semester. Maintain a minimum cumulative GPA of 3.90 at the end of penultimate semester. Give at least one presentation at the Undergraduate Research Symposium or other approved venue. Submit a written thesis that is approved by the Distinction Committee. Obtain a letter of support from their Principal Investigator.",
+        "course_codes": [
+          "MCB 290",
+          "MCB 492"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Distinction for Excellence in Academics:"
+      },
+      {
+        "type": "paragraph",
+        "content": "To be eligible for graduation with Academic Distinction a student must:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Maintain a major GPA of 3.90 or higher in the Neuroscience major (MCB/Neuroscience, Chemistry, Physics and Math courses for the Neuroscience major) at the end of their penultimate semester."
+      },
+      {
+        "type": "paragraph",
+        "content": "General education: Students must complete the Campus General Education requirements, including the campus general education language requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum required major and supporting course work: 83-84 hours, including 29 credit hours of 300- or 400-level courses; 12 hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "83-84"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: 83-84, including 29 hours of 300-/400- level courses. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "29"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221"
+          },
+          {
+            "code": "MATH 231",
+            "type": "choice",
+            "options": [
+              "MATH 231",
+              "STAT 212"
+            ],
+            "title": "MATH 231",
+            "hours": ""
+          },
+          {
+            "code": "STAT 212",
+            "type": "choice",
+            "options": [
+              "STAT 212"
+            ],
+            "title": "orSTAT 212"
+          },
+          {
+            "code": "CHEM 102",
+            "type": "sequence",
+            "sequence": [
+              "CHEM 102",
+              "CHEM 103",
+              "CHEM 104",
+              "CHEM 105"
+            ],
+            "title": "CHEM 102&CHEM 103&CHEM 104&CHEM 105",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": ""
+          },
+          {
+            "code": "CHEM 233",
+            "title": "CHEM 233",
+            "hours": ""
+          },
+          {
+            "code": "PHYS 101",
+            "type": "sequence",
+            "sequence": [
+              "PHYS 101",
+              "PHYS 102"
+            ],
+            "title": "PHYS 101&PHYS 102",
+            "hours": ""
+          },
+          {
+            "code": "MCB 150",
+            "title": "MCB 150",
+            "hours": ""
+          },
+          {
+            "code": "MCB 170",
+            "title": "MCB 170",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 100",
+            "title": "PSYC 100",
+            "hours": ""
+          },
+          {
+            "code": "MCB 250",
+            "title": "MCB 250",
+            "hours": ""
+          },
+          {
+            "code": "MCB 251",
+            "title": "MCB 251",
+            "hours": ""
+          },
+          {
+            "code": "MCB 252",
+            "title": "MCB 252",
+            "hours": ""
+          },
+          {
+            "code": "MCB 253",
+            "title": "MCB 253",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 210",
+            "type": "choice",
+            "options": [
+              "PSYC 210",
+              "PSYC 224"
+            ],
+            "title": "PSYC 210",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 224",
+            "type": "choice",
+            "options": [
+              "PSYC 224"
+            ],
+            "title": "orPSYC 224"
+          },
+          {
+            "code": "MCB 314",
+            "title": "MCB 314",
+            "hours": ""
+          },
+          {
+            "code": "MCB 354",
+            "title": "MCB 354",
+            "hours": ""
+          },
+          {
+            "code": "MCB 460",
+            "title": "MCB 460",
+            "hours": ""
+          },
+          {
+            "code": "MCB 461",
+            "title": "MCB 461",
+            "hours": ""
+          },
+          {
+            "code": "MCB 462",
+            "title": "MCB 462",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Neuroscience"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free Elective Course",
+              "1",
+              "MCB 150",
+              "4"
+            ],
+            [
+              "MCB 170",
+              "3",
+              "PSYC 100",
+              "4"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "CHEM 104",
+              "3"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "CHEM 105",
+              "1"
+            ],
+            [
+              "Composition I or MATH 220 (or MATH 221)",
+              "5",
+              "MATH 220 or  221 (or Composition I)",
+              "5"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MCB 250",
+              "3",
+              "MCB 252",
+              "3"
+            ],
+            [
+              "MCB 251",
+              "2",
+              "MCB 253",
+              "2"
+            ],
+            [
+              "CHEM 232",
+              "4",
+              "CHEM 233",
+              "2"
+            ],
+            [
+              "STAT 212 or MATH  231",
+              "3",
+              "PSYC 210 or  224",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MCB 314",
+              "3",
+              "MCB 460",
+              "2"
+            ],
+            [
+              "MCB 354",
+              "3",
+              "Advanced Neuroscience elective",
+              "3"
+            ],
+            [
+              "PHYS 101",
+              "5",
+              "PHYS 102",
+              "5"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "13"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MCB 461",
+              "3",
+              "MCB 462",
+              "3"
+            ],
+            [
+              "Advanced Neuroscience elective",
+              "3",
+              "Advanced Neuroscience elective",
+              "3"
+            ],
+            [
+              "Advanced Neuroscience elective",
+              "3",
+              "Advanced Neuroscience elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Neuroscience"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts and Sciences Major in Neuroscience"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Molecular & Cellular Biology website\nSchool Faculty\nMCB advising\nMCB advising email"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

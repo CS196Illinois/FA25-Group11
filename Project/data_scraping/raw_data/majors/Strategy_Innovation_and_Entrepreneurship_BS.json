@@ -1,0 +1,737 @@
+{
+  "major_name": "Strategy, Innovation, and Entrepreneurship, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/bus/strategy-innovation-entrepreneurship-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Strategy, Innovation, and Entrepreneurship"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 124 hours.",
+        "credit_requirement": "124"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Business Core Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ACCY 201",
+            "type": "sequence",
+            "sequence": [
+              "ACCY 201",
+              "ACCY 202"
+            ],
+            "title": "ACCY 201&ACCY 202",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "BUS 101",
+            "title": "BUS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BUS 201",
+            "title": "BUS 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BUS 301",
+            "title": "BUS 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BUS 401",
+            "title": "BUS 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 210",
+            "type": "sequence",
+            "sequence": [
+              "BADM 210",
+              "BADM 211"
+            ],
+            "title": "BADM 210&BADM 211",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "BADM 275",
+            "title": "BADM 275",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 300",
+            "title": "BADM 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 310",
+            "title": "BADM 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 320",
+            "title": "BADM 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 449",
+            "title": "BADM 449",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CMN 101",
+            "title": "CMN 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 105",
+            "title": "CS 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 102",
+            "type": "sequence",
+            "sequence": [
+              "ECON 102",
+              "ECON 103"
+            ],
+            "title": "ECON 102&ECON 103",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "FIN 221",
+            "title": "FIN 221",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 115",
+            "title": "MATH 115",
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "title": "MATH 220",
+            "hours": ""
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": ""
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": ""
+          },
+          {
+            "code": "MATH 234",
+            "title": "MATH 234",
+            "hours": ""
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "BADM 341",
+            "title": "BADM 341",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 346",
+            "title": "BADM 346",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 367",
+            "title": "BADM 367",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 446",
+            "title": "BADM 446",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "BADM 311",
+            "title": "BADM 311",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 312",
+            "title": "BADM 312",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 313",
+            "title": "BADM 313",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 314",
+            "title": "BADM 314",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 322",
+            "title": "BADM 322",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 323",
+            "title": "BADM 323",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 329",
+            "title": "BADM 329",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 335",
+            "title": "BADM 335",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 350",
+            "title": "BADM 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 351",
+            "title": "BADM 351",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 359",
+            "title": "BADM 359",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 360",
+            "title": "BADM 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 366",
+            "title": "BADM 366",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 375",
+            "title": "BADM 375",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 377",
+            "title": "BADM 377",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 383",
+            "title": "BADM 383",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 420",
+            "title": "BADM 420",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 447",
+            "title": "BADM 447",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "FIN 423",
+            "title": "FIN 423",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FIN 424",
+            "title": "FIN 424",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FIN 425",
+            "title": "FIN 425",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FIN 433",
+            "title": "FIN 433",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FIN 464",
+            "title": "FIN 464",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DTX 451",
+            "title": "DTX 451",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DTX 455",
+            "title": "DTX 455",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 331",
+            "title": "BADM 331",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 357",
+            "title": "BADM 357",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 420",
+            "title": "BADM 420",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 445",
+            "title": "BADM 445",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "BADM 463",
+            "title": "BADM 463",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BADM 464",
+            "title": "BADM 464",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 321",
+            "title": "SOCW 321",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SOCW 445",
+            "title": "SOCW 445",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FIN 380",
+            "title": "FIN 380",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "FIN 422",
+            "title": "FIN 422",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Strategy, Innovation, and Entrepreneurship"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "BUS 101",
+              "3",
+              "CS 105",
+              "3"
+            ],
+            [
+              "ECON 102",
+              "3",
+              "ECON 103",
+              "3"
+            ],
+            [
+              "Composition I or CMN 101",
+              "4",
+              "FIN 221",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Composition I or CMN 101",
+              "3"
+            ],
+            [
+              "Business Core Math",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ACCY 201",
+              "3",
+              "ACCY 202",
+              "3"
+            ],
+            [
+              "BUS 201",
+              "3",
+              "BADM 211",
+              "3"
+            ],
+            [
+              "BADM 210",
+              "3",
+              "BADM 310",
+              "3"
+            ],
+            [
+              "BADM 275",
+              "3",
+              "BADM 320",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BUS 301",
+              "3",
+              "BADM 346",
+              "3"
+            ],
+            [
+              "BADM 300",
+              "3",
+              "BADM Major Skill Building Elective",
+              "3"
+            ],
+            [
+              "BADM 341",
+              "3",
+              "BADM Major Skill Building Elective",
+              "3"
+            ],
+            [
+              "BADM 367",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "BUS 401",
+              "3",
+              "BADM 449",
+              "3"
+            ],
+            [
+              "BADM 446",
+              "4",
+              "BADM Major Skill Building/Experiential Elective",
+              "3"
+            ],
+            [
+              "BADM Major Skill Building Elective",
+              "3",
+              "BADM Major Skill Building/Experiential Elective",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective",
+              "3",
+              "General Education course",
+              "4"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 124"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Strategy, Innovation, and Entrepreneurship"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Discipline-based competency: Students will develop knowledge and skills for (1) analyzing, formulating, and implementing strategies for new and established organizations, (2) managing technology and innovation, and (3) developing and growing new ventures.",
+          "Problem solving: Students are expected to solve complex business problems by integrating the knowledge from three core domains in strategic management, technology and innovation management, and entrepreneurship.",
+          "Strategic leadership: Students will develop skills and perspectives for organizing and directing the activities of others to pursue organizational goals.",
+          "Communication: Students will demonstrate competencies to communicate effectively, both verbally and in writing."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Strategy, Innovation, and Entrepreneurship"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Gies Catalog"
+      },
+      {
+        "type": "paragraph",
+        "content": "Gies College of Business website"
+      }
+    ]
+  }
+}

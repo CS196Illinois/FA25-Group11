@@ -1,0 +1,347 @@
+{
+  "major_name": "Agricultural & Biological Engineering, BS and Agricultural & Biological Engineering, BSAG",
+  "url": "https://catalog.illinois.edu/undergraduate/eng_aces/agricultural-biological-engineering-bs-agricultural-engineering-agricultural-science-bsag/",
+  "sections": {
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the dual degree of Bachelor of Science in Agricultural & Biological Engineering and the Bachelor of Science in Agriculture in Agricultural & Biological Engineering"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This sample curriculum plan makes the assumption that the foreign language graduation requirement has been satisfied by completing three years of study of a single foreign language in high school. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ABE 127",
+              "2",
+              "ABE 128",
+              "3"
+            ],
+            [
+              "ENG 100",
+              "1",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "MATH 221",
+              "4",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "CHEM 104",
+              "3"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "CHEM 105",
+              "1"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "Composition I or General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ABE 227",
+              "3",
+              "ABE 228",
+              "3"
+            ],
+            [
+              "CS 101",
+              "3",
+              "PHYS 212",
+              "4"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "SE 101",
+              "3",
+              "MATH 257",
+              "3"
+            ],
+            [
+              "TAM 211",
+              "3",
+              "TAM 212",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ABE 340",
+              "3",
+              "IE 300 or STAT  400",
+              "3"
+            ],
+            [
+              "ECE 205",
+              "3",
+              "Concentration course",
+              "4"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "4",
+              "Concentration course",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "17"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ABE 430",
+              "2",
+              "ABE 469",
+              "4"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "Concentration course",
+              "3",
+              "Concentration course",
+              "3"
+            ],
+            [
+              "General education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other Than English 3rd Level",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Fifth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CMN 101",
+              "3",
+              "Biological Sciences Coursework",
+              "4"
+            ],
+            [
+              "Agricultural Sciences Coursework",
+              "3",
+              "Agricultural Sciences Coursework",
+              "3"
+            ],
+            [
+              "Agricultural Sciences Coursework",
+              "3",
+              "Agricultural Sciences Coursework",
+              "3"
+            ],
+            [
+              "Agricultural Sciences Coursework",
+              "3",
+              "Free elective",
+              "2"
+            ],
+            [
+              "Free elective",
+              "3",
+              "Free elective",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 158"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the dual degree of Bachelor of Science in Agricultural & Biological Engineering and the Bachelor of Science in Agriculture in Agricultural & Biological Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Agricultural & Biological Engineering graduates will have:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "An ability to communicate effectively with a range of audiences.",
+          "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the dual degree of Bachelor of Science in Agricultural & Biological Engineering and the Bachelor of Science in Agriculture in Agricultural & Biological Engineering"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Agricultural & Biological Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Agricultural & Biological Engineering Department website\n338 Agricultural Engineering Sciences Building\n1304 West Pennsylvania Avenue\nUrbana, IL 61801\n(217) 333-3570\nabe@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Agricultural, Consumer & Environmental Sciences website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "The Grainger College of Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "ACES Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n217-333-3380\naces-academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "ABE Advising website\n(217) 333-3570\ntsm-etm-abe-advising@rt.aces.illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\n(217) 333-3380\nvisitACES@illinois.edu"
+      }
+    ]
+  }
+}

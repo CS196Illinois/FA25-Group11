@@ -1,0 +1,601 @@
+{
+  "major_name": "Sustainability in Food & Environmental Systems, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/aces/sustainability-food-environmental-systems-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Sustainability in Food & Environmental Systems"
+      },
+      {
+        "type": "paragraph",
+        "content": "A minimum of 126 credit hours are required for graduation, including General Education Requirements and the SFES Core Curriculum."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements Minimum hours required for graduation: 126 hours.",
+        "credit_requirement": "126"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements Minimum of 40 hours of upper-division coursework, generally at the 300 and 400 level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "ACES 101",
+            "title": "ACES 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CMN 101",
+            "title": "CMN 101",
+            "hours": ""
+          },
+          {
+            "code": "ALEC 115",
+            "title": "ALEC 115",
+            "hours": ""
+          },
+          {
+            "code": "CMN 111",
+            "type": "sequence",
+            "sequence": [
+              "CMN 111",
+              "CMN 112"
+            ],
+            "title": "CMN 111&CMN 112",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ACE 100",
+            "title": "ACE 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ACES 102",
+            "title": "ACES 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "STAT 100",
+            "title": "STAT 100",
+            "hours": ""
+          },
+          {
+            "code": "ACE 262",
+            "title": "ACE 262",
+            "hours": ""
+          },
+          {
+            "code": "CPSC 241",
+            "title": "CPSC 241",
+            "hours": ""
+          },
+          {
+            "code": "FSHN 101",
+            "type": "choice",
+            "options": [
+              "FSHN 101",
+              "FSHN 120"
+            ],
+            "title": "FSHN 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 120",
+            "type": "choice",
+            "options": [
+              "HORT 100",
+              "FSHN 120"
+            ],
+            "title": "orFSHN 120"
+          },
+          {
+            "code": "CPSC 112",
+            "type": "choice",
+            "options": [
+              "CPSC 112"
+            ],
+            "title": "orCPSC 112",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NRES 100",
+            "type": "choice",
+            "options": [
+              "NRES 100",
+              "NRES 102"
+            ],
+            "title": "NRES 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 102",
+            "type": "choice",
+            "options": [
+              "NRES 102"
+            ],
+            "title": "orNRES 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 255",
+            "title": "ACE 255",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LEAD 260",
+            "title": "LEAD 260",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 205",
+            "title": "ANSC 205",
+            "hours": ""
+          },
+          {
+            "code": "ETMA 311",
+            "title": "ETMA 311",
+            "hours": ""
+          },
+          {
+            "code": "PLPA 200",
+            "title": "PLPA 200",
+            "hours": ""
+          },
+          {
+            "code": "ACES 199",
+            "title": "ACES 199",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ACE 203",
+            "title": "ACE 203",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 306",
+            "title": "ACE 306",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 403",
+            "title": "ACE 403",
+            "hours": "3 to 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "ACE 406",
+            "title": "ACE 406",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "NRES 325",
+            "title": "NRES 325",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 434",
+            "title": "NRES 434",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ABE 232",
+            "title": "ABE 232",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 210",
+            "title": "ACE 210",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CPSC 431",
+            "title": "CPSC 431",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "HDFS 220",
+            "title": "HDFS 220",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LEAD 340",
+            "title": "LEAD 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 105",
+            "title": "NRES 105",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 224",
+            "title": "NRES 224",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 287",
+            "title": "NRES 287",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ABE 152",
+            "title": "ABE 152",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 100",
+            "title": "ANSC 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ANSC 101",
+            "title": "ANSC 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 110",
+            "title": "ANSC 110",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 205",
+            "title": "ANSC 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 251",
+            "title": "ANSC 251",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 255",
+            "title": "ANSC 255",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ANSC 305",
+            "title": "ANSC 305",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CPSC 116",
+            "title": "CPSC 116",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CPSC 416",
+            "title": "CPSC 416",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ETMA 430",
+            "title": "ETMA 430",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "FSHN 175",
+            "title": "FSHN 175",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 231",
+            "title": "FSHN 231",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "FSHN 232",
+            "title": "FSHN 232",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 465",
+            "title": "FSHN 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "HORT 205",
+            "title": "HORT 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "HORT 435",
+            "title": "HORT 435",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PLPA 200",
+            "title": "PLPA 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 251",
+            "title": "ACE 251",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 310",
+            "title": "ACE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 335",
+            "title": "ACE 335",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ACE 476",
+            "title": "ACE 476",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "AGCM 330",
+            "title": "AGCM 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CPSC 444",
+            "title": "CPSC 444",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ETMA 311",
+            "title": "ETMA 311",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 193",
+            "title": "FSHN 193",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 320",
+            "title": "FSHN 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "FSHN 425",
+            "title": "FSHN 425",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "HDFS 330",
+            "title": "HDFS 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NRES 472",
+            "title": "NRES 472",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Sustainability in Food & Environmental Systems"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students in this program will:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Examine the purposes, functions, and operations of food production systems across local, national, and global societies.",
+          "Investigate policies and laws of food security, sustainability, and justice.",
+          "Describe the impacts of resources and influence on food and environmental sustainability, and design creative solutions for these critical real-world issues.",
+          "Apply theories of communication and leadership within a team to analyze problems, collaborate with team members, prioritize and delegate tasks, establish objectives, and propose a solution for an identified challenge related to sustainability in food and environmental systems.",
+          "Analyze the scientific, social, political, and economic impacts of climate change within and across diverse cultural perspectives and identities."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "The interdisciplinary nature of this degree, in combination with the variety of focus areas by which students can pursue to customize their experience, enables students to strive toward and attain the program’s learning objectives throughout their academic experience. The SFES required core curriculum courses are pre-requisites for many of the 300- and 400-level courses within the specialization areas of Policy and Law, Climate Change and Society, Food Production Systems, and Resource and Influence. Formative and summative assessments, designed by academic experts within each specialization path across ACES (e.g., ABE, ACE, ALEC, ANSC, CPSC, ETMA, FSHN, HDFS, HORT, NRES) will ensure students achieve the intended objectives. To further assess student achievement for the program, each graduate will be asked to complete an exit survey. The results of the survey will evaluate students’ cognitive, affective, and behavioral aptitudes toward the learning objectives and the intent of the degree program.",
+        "level_requirement": "400"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science Major in Sustainability in Food & Environmental Systems"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sustainability in Food and Environmental Systems, B.S."
+      },
+      {
+        "type": "paragraph",
+        "content": "Degree Website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Agricultural, Consumer & Environmental Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College Website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Office of Academic Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "128 Mumford Hall\n1301 West Gregory Drive\nUrbana, IL 61801\n217-333-3380\naces-academics@illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Advising"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Advising website\nJack McCoy, Director of Sustainability in Food & Environmental Systems\n128 Mumford Hall\n217-333-3380\njemccoy@illinois.edu\nSchedule an appointment with Jack McCoy"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "ACES Undergraduate Admissions\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\n217-333-3380\nvisitACES@illinois.edu"
+      }
+    ]
+  }
+}

@@ -1,0 +1,523 @@
+{
+  "major_name": "Classics: Classical Languages, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/classics-balas/classical-languages/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Classics, Classical Languages Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "A Major Plan of Study Form must be completed and submitted to the LAS Student Affairs Office before the end of the fifth semester (60 - 75 hours). Please see your adviser.",
+        "credit_requirement": "75"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: Students seeking departmental distinction must have at least a 3.5 average in relevant courses and should consult the Director of Undergraduate Studies at the earliest opportunity."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting coursework: Normally equates to 44 hours. Twelve (12) hours of 300- and 400-level courses in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Students choose one of three tracks: Ancient Greek, Latin, or Ancient Greek & Latin"
+      },
+      {
+        "type": "paragraph",
+        "content": "Ancient Greek Track"
+      },
+      {
+        "type": "paragraph",
+        "content": "GRK 101, Elementary Greek I, is a prerequisite for subsequent GRK courses; does not count toward the 32 hours for the concentration.",
+        "course_codes": [
+          "GRK 101"
+        ],
+        "credit_requirement": "32"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "GRK 102",
+            "title": "GRK 102",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GRK 201",
+            "title": "GRK 201",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GRK 202",
+            "title": "GRK 202",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GRK 411",
+            "title": "GRK 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CLCV 114",
+            "title": "CLCV 114",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "GRK 251",
+            "title": "GRK 251",
+            "hours": ""
+          },
+          {
+            "code": "GRK 252",
+            "title": "GRK 252",
+            "hours": ""
+          },
+          {
+            "code": "GRK 401",
+            "title": "GRK 401",
+            "hours": ""
+          },
+          {
+            "code": "GRK 403",
+            "title": "GRK 403",
+            "hours": ""
+          },
+          {
+            "code": "GRK 404",
+            "title": "GRK 404",
+            "hours": ""
+          },
+          {
+            "code": "GRK 491",
+            "title": "GRK 491",
+            "hours": ""
+          },
+          {
+            "code": "GRK 492",
+            "title": "GRK 492",
+            "hours": ""
+          },
+          {
+            "code": "GRK 493",
+            "title": "GRK 493",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Latin Track"
+      },
+      {
+        "type": "paragraph",
+        "content": "LAT 101,Elementary Latin I, is a prerequisite for subsequent LAT courses and does not count toward the 32 hours for the concentration.",
+        "course_codes": [
+          "LAT 101"
+        ],
+        "credit_requirement": "32"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "LAT 102",
+            "title": "LAT 102",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LAT 201",
+            "title": "LAT 201",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LAT 202",
+            "title": "LAT 202",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LAT 411",
+            "title": "LAT 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CLCV 116",
+            "title": "CLCV 116",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LAT 401",
+            "title": "LAT 401",
+            "hours": ""
+          },
+          {
+            "code": "LAT 460",
+            "title": "LAT 460",
+            "hours": ""
+          },
+          {
+            "code": "LAT 491",
+            "title": "LAT 491",
+            "hours": ""
+          },
+          {
+            "code": "LAT 492",
+            "title": "LAT 492",
+            "hours": ""
+          },
+          {
+            "code": "LAT 493",
+            "title": "LAT 493",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Ancient Greek & Latin Track"
+      },
+      {
+        "type": "paragraph",
+        "content": "LAT 101, Elementary Latin I (a prerequisite for subsequent LAT courses) and GRK 101, Elementary Greek I (a prerequisite for subsequent GRK courses) and do not count toward the 32 hours for the concentration.",
+        "course_codes": [
+          "LAT 101",
+          "GRK 101"
+        ],
+        "credit_requirement": "32"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "GRK 102",
+            "title": "GRK 102",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GRK 201",
+            "title": "GRK 201",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GRK 202",
+            "title": "GRK 202",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LAT 102",
+            "title": "LAT 102",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LAT 201",
+            "title": "LAT 201",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "LAT 202",
+            "title": "LAT 202",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "GRK 411",
+            "type": "choice",
+            "options": [
+              "GRK 411",
+              "LAT 411"
+            ],
+            "title": "GRK 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "LAT 411",
+            "type": "choice",
+            "options": [
+              "RLAT 411",
+              "LAT 411"
+            ],
+            "title": "orLAT 411",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Classics, Classical Languages Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Language Other Than English (1st level - prerequisite)",
+              "4",
+              "Language Other than English (2nd level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "Track coursework",
+              "3",
+              "Track coursework",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Additional CLCV course",
+              "3",
+              "Supporting coursework",
+              "3"
+            ],
+            [
+              "Supporting coursework",
+              "3",
+              "Track coursework",
+              "3"
+            ],
+            [
+              "Track coursework",
+              "4",
+              "Track coursework",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Supporting coursework",
+              "3",
+              "Supporting coursework",
+              "3"
+            ],
+            [
+              "Track coursework",
+              "3",
+              "Track coursework",
+              "3"
+            ],
+            [
+              "Track coursework",
+              "2",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "13",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Classics, Classical Languages Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Department of Classics website\nClassics faculty\nClassics email"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences\nCollege of Liberal Arts and Sciences website"
+      }
+    ]
+  }
+}

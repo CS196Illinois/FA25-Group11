@@ -1,0 +1,519 @@
+{
+  "major_name": "Computer Science + Advertising, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/eng_media/computer-science-advertising-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science + Advertising"
+      },
+      {
+        "type": "paragraph",
+        "content": "Please see a computer science advisor in 1210 Siebel Center, as well as an advertising advisor in the College of Media Student Services Center in 18 Gregory Hall."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 124 hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "4-6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6-10"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "0-15"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 124",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 128",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 173",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 222",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "CS 225",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 340",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 374",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 421",
+            "title": "",
+            "hours": "3 or 4"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "title": "",
+            "hours": "5"
+          },
+          {
+            "code": "MATH 221",
+            "title": "or"
+          },
+          {
+            "code": "MATH 231",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 225",
+            "title": "",
+            "hours": "2 or 3"
+          },
+          {
+            "code": "MATH 257",
+            "title": "or"
+          },
+          {
+            "code": "CS 361",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3-4"
+          },
+          {
+            "code": "ANTH 103",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 100",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "SOC 100",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "ECON 102",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ECON 103",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ECON 302",
+            "title": "or"
+          },
+          {
+            "code": "BADM 320",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ADV 250",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ADV 281",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ADV 284",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ADV 360",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ADV 483",
+            "title": "or"
+          },
+          {
+            "code": "ADV 390",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ADV 461",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "ADV 492",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "124"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science + Advertising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Electives are additional courses to help students achieve 124 hours required for the degree. These can often be any level, but students should check with their advisor for specific guidance."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Advertising Elective",
+              "3",
+              "ADV 250",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "CS 128",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "5-4",
+              "CS 173",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4-3",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "",
+              "General Education course or Composition I",
+              "3-4"
+            ],
+            [
+              "",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "18"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ADV 281",
+              "3",
+              "ADV 284",
+              "3"
+            ],
+            [
+              "CS 222",
+              "1",
+              "CS 340",
+              "3"
+            ],
+            [
+              "CS 225",
+              "4",
+              "CS 361",
+              "3"
+            ],
+            [
+              "MATH 257",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Elective or Language Other Than English (3rd Level)",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "18",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ADV 390",
+              "3",
+              "ADV 360 or  483",
+              "3"
+            ],
+            [
+              "CS 374",
+              "4",
+              "ADV 492",
+              "3"
+            ],
+            [
+              "BADM 320",
+              "3",
+              "ECON 103",
+              "3"
+            ],
+            [
+              "ECON 102",
+              "3",
+              "ANTH 103, PSYC  100, or SOC  100",
+              "3-4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 421",
+              "3",
+              "ADV 461",
+              "3"
+            ],
+            [
+              "Advertising elective course",
+              "3",
+              "CS Tech elective course",
+              "3"
+            ],
+            [
+              "CS Tech elective course",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Elective course",
+              "3"
+            ],
+            [
+              "Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 124"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science + Advertising"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Evaluate the historical, ethical, economic, legal, and social aspects of modern advertising.",
+          "Conduct research, visualize data, and apply inference and machine learning methods to extract knowledge.",
+          "Critically evaluate and select audiences for effective and ethical advertising delivery.",
+          "Create strategic and evidence-driven brand communications.",
+          "Develop and implement efficient algorithms to solve problems.",
+          "Develop, analyze, and test software in the advertising context.",
+          "Collaborate with diverse teams to develop strategic recommendations for clients."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science + Advertising"
+      },
+      {
+        "type": "paragraph",
+        "content": "CS+Advertising website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advertising email: media-ssc@illinois.edu\nComputer Science email: undergrad@cs.illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of college admissions & requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Media website\nGrainger College of Engineering website"
+      }
+    ]
+  }
+}

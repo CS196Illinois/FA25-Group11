@@ -1,0 +1,448 @@
+{
+  "major_name": "Recreation, Sport & Tourism: Tourism Management, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ahs/recreation-sport-tourism-bs/tourism-management/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Recreation, Sport & Tourism, Tourism Management Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "RST 100",
+            "title": "RST 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 101",
+            "title": "RST 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "RST 200",
+            "title": "RST 200",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "RST 210",
+            "title": "RST 210",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 240",
+            "title": "RST 240",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 255",
+            "title": "RST 255",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "RST 325",
+            "title": "RST 325",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 340",
+            "title": "RST 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 370",
+            "title": "RST 370",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 410",
+            "title": "RST 410",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 429",
+            "title": "RST 429",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "RST 440",
+            "title": "RST 440",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 460",
+            "title": "RST 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 465",
+            "title": "RST 465",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "RST 480",
+            "title": "RST 480",
+            "hours": ""
+          },
+          {
+            "code": "RST 485",
+            "title": "RST 485",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Tourism Management Concentration Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "RST 150",
+            "title": "RST 150",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 350",
+            "title": "RST 350",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "RST 450",
+            "title": "RST 450",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Recreation, Sport & Tourism, Tourism Management Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. This may require up to three semesters of language depending on high school coursework or placement. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "RHET 105 or CMN  101",
+              "4",
+              "CMN 101 or RHET  105",
+              "3"
+            ],
+            [
+              "RST 100",
+              "3",
+              "RST 255",
+              "2"
+            ],
+            [
+              "RST 101",
+              "1",
+              "RST 150",
+              "3"
+            ],
+            [
+              "RST 200",
+              "2",
+              "RST elective",
+              "3"
+            ],
+            [
+              "RST 210",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 33"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "RST 340",
+              "3",
+              "RST 240",
+              "3"
+            ],
+            [
+              "RST elctive",
+              "3",
+              "RST 325",
+              "3"
+            ],
+            [
+              "RST elective",
+              "3",
+              "RST 350",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Elective",
+              "3"
+            ],
+            [
+              "Elective",
+              "1",
+              "Elective",
+              "2"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "17"
+            ],
+            [
+              "Total Hours 34"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "RST 440",
+              "3",
+              "RST 410",
+              "3"
+            ],
+            [
+              "RST 370",
+              "3",
+              "RST 465",
+              "3"
+            ],
+            [
+              "RST 450",
+              "3",
+              "RST 480",
+              "1"
+            ],
+            [
+              "RST 460",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Elective",
+              "2",
+              "Elective",
+              "3"
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 33"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "RST 429",
+              "4",
+              "RST 485",
+              "12"
+            ],
+            [
+              "RST elective",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "Elective",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 28"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 128"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Recreation, Sport & Tourism, Tourism Management Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Recreation, Sport & Tourism"
+      },
+      {
+        "type": "paragraph",
+        "content": "Recreation, Sport & Tourism Department website\nRecreation, Sport, & Tourism Faculty\n219 Huff Hall, 1206 South Fourth Street, Champaign, IL 61821\n(217) 333-4410"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Applied Health Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Applied Health Sciences website\nApplied Health Sciences Catalog Page"
+      }
+    ]
+  }
+}

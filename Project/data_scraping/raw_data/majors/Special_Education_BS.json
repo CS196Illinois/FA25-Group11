@@ -1,0 +1,525 @@
+{
+  "major_name": "Special Education, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/education/special-education-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science: Major in Special Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students completing their degree before May 2026 should consult the 2023-2024 Catalog to guide their selection of courses. Students enrolled starting August 2023 should consult the sequence below."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 125 hours.",
+        "credit_requirement": "125"
+      },
+      {
+        "type": "paragraph",
+        "content": "Requirements for licensure: Minimum cumulative Grade Point Average of 2.5 (A=4.0); Receive a grade of C- or better in licensure coursework."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Education Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "EDUC 101",
+            "title": "EDUC 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CI 415",
+            "title": "CI 415",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CI 431",
+            "title": "CI 431",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "CI 475",
+            "title": "CI 475",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "EDUC 201",
+            "type": "sequence",
+            "sequence": [
+              "EDUC 201",
+              "EDUC 202"
+            ],
+            "title": "EDUC 201&EDUC 202",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "EDPR 250",
+            "title": "EDPR 250",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "EDPR 420",
+            "title": "EDPR 420",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "EDPR 420",
+            "title": "EDPR 420",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "EDPR 420",
+            "title": "EDPR 420",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": ""
+          },
+          {
+            "code": "HDFS 105",
+            "title": "HDFS 105",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 216",
+            "title": "PSYC 216",
+            "hours": ""
+          },
+          {
+            "code": "HK 262",
+            "title": "HK 262",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PSYC 100",
+            "title": "PSYC 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SHS 320",
+            "title": "SHS 320",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 117",
+            "title": "SPED 117",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 410",
+            "title": "SPED 410",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SPED 412",
+            "title": "SPED 412",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SPED 418",
+            "title": "SPED 418",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 426",
+            "title": "SPED 426",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 438",
+            "title": "SPED 438",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SPED 442",
+            "title": "SPED 442",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SPED 443",
+            "title": "SPED 443",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SPED 444",
+            "title": "SPED 444",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 452",
+            "title": "SPED 452",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SPED 453",
+            "title": "SPED 453",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SPED 462",
+            "title": "SPED 462",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 470",
+            "title": "SPED 470",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 471",
+            "title": "SPED 471",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science: Major in Special Education"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "EDUC 101",
+              "1",
+              "Composition I or General Education course",
+              "3"
+            ],
+            [
+              "EDUC 201",
+              "3",
+              "PSYC 100",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "SPED 117",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level) or General Education course",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course (Humanities & Arts with a Cultural Studies; Western or Non-Western designation)",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "EDUC 202",
+              "3",
+              "CI 415",
+              "3"
+            ],
+            [
+              "EPSY 201, HDFS  105, or PSYC  216",
+              "3",
+              "SPED 410",
+              "4"
+            ],
+            [
+              "HK 262",
+              "3",
+              "SPED 412",
+              "4"
+            ],
+            [
+              "SHS 320",
+              "3",
+              "SPED 438",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CI 431",
+              "4",
+              "EDPR 250",
+              "2"
+            ],
+            [
+              "CI 475",
+              "4",
+              "SPED 442",
+              "4"
+            ],
+            [
+              "EDPR 250",
+              "2",
+              "SPED 452",
+              "4"
+            ],
+            [
+              "SPED 418",
+              "3",
+              "SPED 462",
+              "3"
+            ],
+            [
+              "SPED 470",
+              "3",
+              "SPED 471",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "EDPR 420",
+              "6",
+              "SPED 426",
+              "3"
+            ],
+            [
+              "SPED 442",
+              "4",
+              "EDPR 420",
+              "12"
+            ],
+            [
+              "SPED 444",
+              "3",
+              ""
+            ],
+            [
+              "SPED 452",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 125"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science: Major in Special Education"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Students will develop a deep understanding of central concepts, tools of inquiry and structures of the discipline of special education and of the content they teach.",
+          "Students will apply multiple methods of assessment to generate data for use in monitoring learner progress and guiding teacher decision-making.",
+          "Students will demonstrate consistently in their practice a commitment to fairness, collaboration, professionalism, and the belief that all students can learn."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science: Major in Special Education"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "Education Building, 1310 S. Sixth Street, Champaign, IL 61820\nCollege of Education website"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Department of Special Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "288 Education Building\nSpecial Education email: andrewsl@education.illinois.edu\nPhone: (217) 333-0260\nDepartment of Special Education website\nDepartment of Special Education faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Office of Undergraduate Programs"
+      },
+      {
+        "type": "paragraph",
+        "content": "110 Education Building\nEducation Academic Affairs email: saao@education.illinois.edu\n(217) 333-2800\nAdmissions & Academics website\nStudent Academic Affairs website"
+      }
+    ]
+  }
+}

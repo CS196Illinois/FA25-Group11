@@ -1,0 +1,511 @@
+{
+  "major_name": "Mathematics & Computer Science, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/eng_las/mathematics-computer-science-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Mathematics & Computer Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To graduate with distinction requires a specified minimum grade point average in all Computer Science and Mathematics courses listed below. A GPA of 3.25 is required for Distinction, 3.5 for High Distinction, and 3.75 for Highest Distinction. In addition, students must complete at least three semester hours of additional Computer Science or Mathematics courses selected from the following:CS 196, CS 296, CS 397, CS 492, CS 493, CS 499, any CS course numbered 411 or higher, MATH 412, MATH 414, MATH 417, MATH 418, MATH 423, MATH 432, MATH 448, MATH 482, MATH 484, MATH 496."
+      },
+      {
+        "type": "paragraph",
+        "content": "NOTE: A student taking a cross-listed course in this major may designate it as either mathematics or computer science."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 71-75 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CS 100",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": "11-12"
+          },
+          {
+            "code": "CS 124",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 128",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 347",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 173",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 225",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 222",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": "8-11"
+          },
+          {
+            "code": "CS 233",
+            "title": "&CS 341",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 340",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS/MATH 357",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 374",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 421",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 450",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 415",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 416",
+            "title": "or"
+          },
+          {
+            "hours": "18"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 361",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 461",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 400/MATH 463",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 412",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 413",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 417",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 427",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 441",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 446",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 484",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 424",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 444",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "MATH 447",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 414",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS/MATH 473",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS/MATH 475",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 476",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 477",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "71-75"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Mathematics & Computer Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "CS 100",
+              "1",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "4",
+              "CS 128",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "CS 173",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MATH 241",
+              "4",
+              "MATH 347",
+              "3"
+            ],
+            [
+              "CS 225",
+              "4",
+              "MATH 415 or  416",
+              "3"
+            ],
+            [
+              "CS 222",
+              "1",
+              "CS 233 or  340",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 361 (or MATH 461 or STAT 400 )",
+              "3",
+              "CS 374",
+              "4"
+            ],
+            [
+              "CS 341 (or CS 4xx (if CS 340 was chosen))",
+              "4",
+              "CS 357",
+              "3"
+            ],
+            [
+              "MATH 441 (or MATH 446 or MATH 484)",
+              "3",
+              "MATH 444 (or MATH 447 or MATH 424)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 450",
+              "3",
+              "CS 473 (or CS 475 or CS 476 or CS 477 or MATH 414)",
+              "4"
+            ],
+            [
+              "CS 421",
+              "3",
+              "Additional 400-level MATH or CS course from Groups I-V",
+              "3"
+            ],
+            [
+              "MATH 412 (or MATH 413 or MATH 417 or MATH 427)",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course or CS 4xx (if CS 340 was chosen)",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Mathematics & Computer Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "By the time of graduation, students will have the ability to:"
+      },
+      {
+        "type": "paragraph",
+        "content": "Computer Science:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Analyze a complex computing problem and apply principles of computing and other relevant disciplines to identify solutions.",
+          "Design, implement, and evaluate a computing-based solution to meet a given set of computing requirements in the context of the program's discipline.",
+          "Communicate effectively in a variety of professional contexts.",
+          "Recognize professional responsibilities and make informed judgments in computing practice based on legal and ethical principles.",
+          "Function effectively as a member or leader of a team engaged in activities appropriate to the program's discipline.",
+          "Apply computer science theory and software development fundamentals to produce computing-based solutions."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Mathematics:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Construct proofs and recognize when proofs are complete",
+          "Use theorems in order to solve problems",
+          "Demonstrate technical proficiency in calculus and linear algebra"
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Mathematics & Computer Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Mathematics & Computer Science\nMathematics & Computer Science: Math website\nMathematics & Computer Science: Computer Science website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Mathematics Department website\nMathematics faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of LAS Admissions & Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Liberal Arts and Sciences website\nThe Grainger College of Engineering website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Math email\nComputer Science email"
+      }
+    ]
+  }
+}

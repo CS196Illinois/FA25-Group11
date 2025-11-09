@@ -1,0 +1,505 @@
+{
+  "major_name": "Political Science: International Relations, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/international-relations/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Political Science, International Relations Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "See the Political Science Distinction page for departmental distinction information."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students may count a maximum of six (6) hours of credit of any combination of hours from PS 494 toward the advanced hours requirement. Not more than 6 hours of individual study courses in political science (PS 490) or 6 hours of internships (PS 491) or 6 hours of supervised research (PS 492) may be included in the major; a student with any mix of independent study hours and internship hours and supervised research hours may include a maximum of 9 hours of such credit in the major. (PS 496) is reserved for those seniors doing honors theses for distinction in political science and may not be counted in the 45-hour minimum required for the major.",
+        "course_codes": [
+          "PS 494",
+          "PS 490",
+          "PS 491",
+          "PS 492",
+          "PS 496"
+        ],
+        "credit_requirement": "6"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 70 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "International Relations Concentration Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "PS 100",
+            "title": "PS 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 280",
+            "title": "PS 280",
+            "hours": ""
+          },
+          {
+            "code": "PS 281",
+            "title": "PS 281",
+            "hours": ""
+          },
+          {
+            "code": "PS 282",
+            "title": "PS 282",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "PS 180",
+            "title": "PS 180",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 230",
+            "title": "PS 230",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 231",
+            "title": "PS 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 280",
+            "title": "PS 280",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 281",
+            "title": "PS 281",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 282",
+            "title": "PS 282",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 283",
+            "title": "PS 283",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 300",
+            "title": "PS 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 340",
+            "title": "PS 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 379",
+            "title": "PS 379",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 380",
+            "title": "PS 380",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 382",
+            "title": "PS 382",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 384",
+            "title": "PS 384",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 386",
+            "title": "PS 386",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 387",
+            "title": "PS 387",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 390",
+            "title": "PS 390",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 391",
+            "title": "PS 391",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 392",
+            "title": "PS 392",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 393",
+            "title": "PS 393",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PS 394",
+            "title": "PS 394",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 395",
+            "title": "PS 395",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 396",
+            "title": "PS 396",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 398",
+            "title": "PS 398",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 399",
+            "title": "PS 399",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 457",
+            "title": "PS 457",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "PS 480",
+            "title": "PS 480",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 494",
+            "title": "PS 494",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Political Science, International Relations Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "PS 280 (or PS 281 or PS 282)",
+              "3"
+            ],
+            [
+              "PS 100",
+              "3",
+              "PS 100- or 200-level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "General Education course  or Composition I",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PS 100- or 200-level course",
+              "3",
+              "PS 100-400 level course",
+              "3"
+            ],
+            [
+              "Thematic related coursework",
+              "3",
+              "PS 100-400 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PS International Relations 300- or 400 level course",
+              "3",
+              "PS International Relations 300- or 400- level course",
+              "3"
+            ],
+            [
+              "PS 300- or 400- level course",
+              "3",
+              "Thematic related coursework",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PS 300- or 400- level course",
+              "3",
+              "PS International Relations 300- or 400- level course",
+              "3"
+            ],
+            [
+              "Thematic related coursework",
+              "3",
+              "Thematic related coursework",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Political Science, International Relations Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "department website: https://www.pol.illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "department faculty: Political Science Faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "advising: Political Science advising"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "college website: https://las.illinois.edu/"
+      }
+    ]
+  }
+}

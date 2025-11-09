@@ -1,0 +1,667 @@
+{
+  "major_name": "Architectural Studies, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/faa/architectural-studies-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Architectural Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "A maximum of nine hours may be taken as professional architecture elective courses which a student can count toward the Master of Architecture in Architecture requirements."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Architecture Curriculum"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "FAA 101",
+            "title": "FAA 101",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "ARCH 101",
+            "title": "ARCH 101",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "MATH 220",
+            "type": "choice",
+            "options": [
+              "MATH 220",
+              "MATH 221"
+            ],
+            "title": "MATH 220",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 221",
+            "type": "choice",
+            "options": [
+              "MATH 221"
+            ],
+            "title": "orMATH 221",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MATH 231",
+            "type": "choice",
+            "options": [
+              "MATH 231",
+              "PHYS 101"
+            ],
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 101",
+            "type": "choice",
+            "options": [
+              "PHYS 101"
+            ],
+            "title": "orPHYS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 171",
+            "title": "ARCH 171",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 172",
+            "title": "ARCH 172",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 273",
+            "title": "ARCH 273",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 274",
+            "title": "ARCH 274",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 321",
+            "title": "ARCH 321",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 418",
+            "title": "ARCH 418",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 468",
+            "title": "ARCH 468",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 204",
+            "title": "GGIS 204",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 210",
+            "title": "GGIS 210",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 483",
+            "title": "GGIS 483",
+            "hours": ""
+          },
+          {
+            "code": "UP 101",
+            "title": "UP 101",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 210",
+            "title": "ARCH 210",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ARCH 222",
+            "title": "ARCH 222",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 314",
+            "title": "ARCH 314",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 402",
+            "title": "ARCH 402",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 403",
+            "title": "ARCH 403",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 407",
+            "title": "ARCH 407",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 409",
+            "title": "ARCH 409",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 410",
+            "title": "ARCH 410",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 411",
+            "title": "ARCH 411",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 412",
+            "title": "ARCH 412",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 414",
+            "title": "ARCH 414",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 415",
+            "title": "ARCH 415",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 314",
+            "title": "ARCH 314",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 402",
+            "title": "ARCH 402",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 403",
+            "title": "ARCH 403",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 409",
+            "title": "ARCH 409",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 416",
+            "title": "ARCH 416",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 417",
+            "title": "ARCH 417",
+            "hours": ""
+          },
+          {
+            "code": "ARCH 231",
+            "title": "ARCH 231",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 232",
+            "title": "ARCH 232",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 433",
+            "title": "ARCH 433",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 434",
+            "title": "ARCH 434",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "ARCH 435",
+            "title": "ARCH 435",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ARCH 371",
+            "title": "ARCH 371",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "ARCH 372",
+            "title": "ARCH 372",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "ARCH 473",
+            "title": "ARCH 473",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "ARCH 474",
+            "title": "ARCH 474",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Credits for the Bachelor of Science in Architectural Studies"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Architectural Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English.  For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ARCH 101",
+              "2",
+              "ARCH 172",
+              "3"
+            ],
+            [
+              "ARCH 171",
+              "3",
+              "MATH 231 or PHYS  101",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "5",
+              "Composition I or Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "General Education course (choose a Humanities or Social/Behavioral Science course that is also Cultural Studies)",
+              "3"
+            ],
+            [
+              "FAA 101",
+              "1",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ARCH 273",
+              "4",
+              "ARCH 274",
+              "3"
+            ],
+            [
+              "ARCH 231",
+              "4",
+              "ARCH 232",
+              "4"
+            ],
+            [
+              "ARCH 210",
+              "3",
+              "General Education course (choose a Humanities or Social/Behavioral Science course that is also Cultural Studies)",
+              "3"
+            ],
+            [
+              "Urbanism course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "13"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ARCH 371",
+              "6",
+              "ARCH 372",
+              "6"
+            ],
+            [
+              "ARCH 321",
+              "3",
+              "ARCH 435",
+              "4"
+            ],
+            [
+              "ARCH 433",
+              "4",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "ARCH 473",
+              "6",
+              "ARCH 474",
+              "6"
+            ],
+            [
+              "ARCH 434",
+              "5",
+              "Architectural History 'select one additional' course",
+              "3"
+            ],
+            [
+              "Architectural History 'select one additional' course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "12"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Architectural Studies"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Bachelor of Science in Architectural Studies (BSAS) curriculum combines a comprehensive design education with the broad perspective necessary to become active and engaged global citizens.  Students learn to address and solve tomorrow’s complex problems at the intersection of the social, political, economic and environmental realms. Two- and three-dimensional design form the foundation of the four-year BSAS degree.  Technology, history, and structures courses complete the curriculum, preparing students to enter a two-year NAAB-accredited Master of Architecture degree program, or to pursue a graduate degree or career in an allied discipline."
+      },
+      {
+        "type": "paragraph",
+        "content": "When students complete the BSAS degree they will be able to:"
+      },
+      {
+        "type": "paragraph",
+        "content": "1.   Employ Specialized Knowledge"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Apply design thinking approaches to address environmental and societal challenges.",
+          "Implement design processes--documentation, research, analysis and application--intervening to improve a set of environmental conditions.",
+          "Communicate ideas and concepts through verbal and graphic, physical and digital, means."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "2. Put Broad and Integrative Knowledge to Use"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Identify complex problems and approaches to addressing them.",
+          "Understand diverse community dynamics and social relationships.",
+          "Explore the intersections among environmental, social, cultural, political and economic aspects."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "3.   Exercise Intellectual Skills:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Evaluate and apply theories of the built environment’s impact on human wellbeing.",
+          "Differentiate and assess various means of manufacture and their suitability for use in a number of diverse contexts.",
+          "Acknowledge different theories for analyzing and intervening in urban contexts.",
+          "Evidence proficiency integrating technological systems to improve environmental performance.",
+          "Critically examine humanistic perspectives in architecture, urban and landscape throughout time."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "4. Demonstrate Proficiency in Applied and Collaborative Learning:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Apply skills needed for successful teamwork and consensus decision making.",
+          "Employ leadership skills.",
+          "Recognize the value of multidisciplinary contributions in the realm of environmental design."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "5.   Illustrate Civic and Global Understanding:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Demonstrate empathic and ethical decision making.",
+          "Apply sustainable practices across a variety of scales and contexts.",
+          "Cultivate self-learning skills and curiosity to learn and broaden cultural perspectives.",
+          "Utilize contemporary and historical perspectives in design thinking processes."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Architectural Studies"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "School of Architecture"
+      },
+      {
+        "type": "paragraph",
+        "content": "Director of the School: Francisco Javier Rodríguez-Suárez\nSchool of Architecture website\nSchool of Architecture email"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Fine & Applied Arts"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Fine & Applied Arts website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Admissions"
+      },
+      {
+        "type": "paragraph",
+        "content": "Fine & Applied Arts Undergraduate Admissions & Requirements\nUniversity of Illinois Urbana-Champaign Undergrad Admissions\nAdmissions email"
+      }
+    ]
+  }
+}

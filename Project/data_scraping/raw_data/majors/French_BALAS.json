@@ -1,0 +1,51 @@
+{
+  "major_name": "French, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/french-balas/",
+  "sections": {
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Science Major in French"
+      },
+      {
+        "type": "paragraph",
+        "content": "Upon graduating with a major in French, students shall be able to do the following:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Language proficiency and accuracy: reach an advanced level of proficiency and accuracy in reading, writing, listening, and speaking in interpretive, presentational, and interpersonal modes of communication(based on proficiency guidelines outlined by the American Council on the Teaching of Foreign Languages [ACTFL]and the Common European Framework of Reference for Languages [CEFRL]).",
+          "Research skills and literacy in texts, media, and technology in French: access, manage, evaluate, select, and effectively use culturally authentic and relevant sources according to the standards of professional conduct; understand how these resources relate to language and culture; use appropriate tools when interpreting sources, interacting with others, and producing written, oral, or visual content.",
+          "Intercultural awareness, knowledge, and competence: identify and analyze products, practices, and perspectives of the French and Francophone world, and compare them to their own and other cultures.",
+          "Knowledge about literature and the visual arts in French: acquire general and specific knowledge of literature in French and visual arts from a formal, historical, and global perspective.",
+          "Knowledge about French linguistics: acquire general knowledge about the structure and history of the French language."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts and Science Major in French"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of French & Italian"
+      },
+      {
+        "type": "paragraph",
+        "content": "French & Italian faculty\nFrench & Italian advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

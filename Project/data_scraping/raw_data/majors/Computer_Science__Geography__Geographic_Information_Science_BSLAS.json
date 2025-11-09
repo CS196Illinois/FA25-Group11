@@ -1,0 +1,589 @@
+{
+  "major_name": "Computer Science + Geography & Geographic Information Science, BSLAS",
+  "url": "https://catalog.illinois.edu/undergraduate/eng_las/computer-science-geography-geographic-information-science-bslas/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Computer Science + Geography & Geographic Information Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Please see the computer science advisor as well as the geography advisor."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 66 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 100",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "CS 124",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 128",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 173",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 225",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 222",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "hours": "8-11"
+          },
+          {
+            "code": "CS 233",
+            "title": "&CS 341",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 340",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "code": "STAT 200",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "STAT 212",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 361",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "CS 374",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 421",
+            "title": "",
+            "hours": "3 or 4"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "title": "",
+            "hours": "5"
+          },
+          {
+            "code": "MATH 221",
+            "title": "or"
+          },
+          {
+            "code": "MATH 225",
+            "title": "",
+            "hours": "2 or 3"
+          },
+          {
+            "code": "MATH 257",
+            "title": "or"
+          },
+          {
+            "code": "MATH 231",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "GGIS 371",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 379",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 380",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "code": "GGIS 205",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 224",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS/SOC 280",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 407",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 412",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS/ATMS 421",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS/PATH 439",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 460",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 468",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 473",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 476",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 477",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 478",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 479",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 480",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 489",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "code": "GGIS 204",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 210",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 221",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 222",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS/NRES 287",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS/ESE 350",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 370/ESE 320",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 384",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS/NRES 401",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 405",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 406",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 408",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 410",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 436/IB 439",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 438",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 455",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS/LA 446",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 465",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 466",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 471",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 482",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 483",
+            "title": "",
+            "hours": ""
+          },
+          {
+            "code": "GGIS 496",
+            "title": "",
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Computer Science + Geography & Geographic Information Science"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "CS 100",
+              "1",
+              "CS 128",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "CS 173",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "1",
+              "MATH 220 (or MATH 221)",
+              "5"
+            ],
+            [
+              "Geographic Information Science course",
+              "3",
+              "General Education course or Composition I",
+              "4"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "12",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 222",
+              "1",
+              "CS 233 (or CS 340)",
+              "4"
+            ],
+            [
+              "CS 225",
+              "4",
+              "STAT 200 (or STAT 212 or CS 361)",
+              "3"
+            ],
+            [
+              "MATH 225 (or MATH 257)",
+              "2",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "Language Other Than English (3rd level)",
+              "4",
+              "Language Other Than English (4th level)",
+              "4"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "14",
+              "",
+              "17"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 341 (or CS 400-level course)",
+              "4",
+              "CS 374",
+              "4"
+            ],
+            [
+              "Human and/or Physical Geography course",
+              "3",
+              "CS 400-level course or Free elective course",
+              "3"
+            ],
+            [
+              "GGIS 371",
+              "4",
+              "Human and/or Physical Geography course",
+              "3"
+            ],
+            [
+              "GGIS 379",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "",
+              "18",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "CS 421",
+              "3",
+              "Geographic Information Science course",
+              "3"
+            ],
+            [
+              "GGIS 380",
+              "4",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "General Education Course",
+              "3"
+            ],
+            [
+              "General Education Course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "2",
+              "Free elective course",
+              "1"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Liberal Arts & Sciences Major in Computer Science + Geography & Geographic Information Science"
+      },
+      {
+        "type": "paragraph",
+        "content": "Computer Science Degree information: CS + X Degrees\nGeography & Geographic Information Science information: CS + GGIS\nDepartment of Geography & GIS homepage\nGeography & GIS email: ggis-advisor@illinois.edu\nComputer Science email: undergrad@cs.illinois.edu"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of college admissions & requirements: Liberal Arts & Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of LAS homepage\nThe Grainger College of Engineering homepage"
+      },
+      {
+        "type": "paragraph",
+        "content": "Please consult with advisors in both Computer Science and Geography & GIS."
+      }
+    ]
+  }
+}

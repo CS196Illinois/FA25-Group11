@@ -1,0 +1,721 @@
+{
+  "major_name": "Dance, BA & Kinesiology, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ahs_faa/dance-ba-kinesiology-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the dual degree of Bachelor of Arts Major in Dance and the Bachelor of Science, Major in Kinesiology"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students are expected to follow all the degree requirements of each degree and may double-count courses, provided the total number of credit hours earned is 158. Dance coursework grade point average minimum: 2.75"
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "DANC 100",
+            "title": "DANC 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DANC 340",
+            "title": "DANC 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "KIN 140",
+            "title": "KIN 140",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 259",
+            "title": "KIN 259",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "KIN 150",
+            "title": "KIN 150",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Dance Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "DANC 150",
+            "title": "DANC 150",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 160",
+            "title": "DANC 160",
+            "hours": "6",
+            "hours_min": 6,
+            "hours_max": 6
+          },
+          {
+            "code": "DANC 260",
+            "type": "choice",
+            "options": [
+              "DANC 260",
+              "DANC 316"
+            ],
+            "title": "DANC 260",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 316",
+            "type": "choice",
+            "options": [
+              "DANC 316"
+            ],
+            "title": "orDANC 316",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "DANC 245",
+            "title": "DANC 245",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 259",
+            "title": "DANC 259",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "DANC 262",
+            "title": "DANC 262",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "DANC 362",
+            "title": "DANC 362",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "DANC 232",
+            "title": "DANC 232",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "DANC 131",
+            "title": "DANC 131",
+            "hours": ""
+          },
+          {
+            "code": "DANC 231",
+            "title": "DANC 231",
+            "hours": ""
+          },
+          {
+            "code": "DANC 330",
+            "title": "DANC 330",
+            "hours": ""
+          },
+          {
+            "code": "DANC 331",
+            "title": "DANC 331",
+            "hours": ""
+          },
+          {
+            "code": "DANC 431",
+            "title": "DANC 431",
+            "hours": ""
+          },
+          {
+            "code": "DANC 100",
+            "title": "DANC 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DANC 162",
+            "title": "DANC 162",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 475",
+            "title": "DANC 475",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "DANC 375",
+            "title": "DANC 375",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "DANC 496",
+            "title": "DANC 496",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "DANC 497",
+            "title": "DANC 497",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Kinesiology Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MCB 244",
+            "type": "sequence",
+            "sequence": [
+              "MCB 244",
+              "MCB 245"
+            ],
+            "title": "MCB 244&MCB 245",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MCB 246",
+            "type": "sequence",
+            "sequence": [
+              "MCB 246",
+              "MCB 247"
+            ],
+            "title": "MCB 246&MCB 247",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHLH 101",
+            "title": "CHLH 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 122",
+            "title": "KIN 122",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "KIN 125",
+            "title": "KIN 125",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "KIN 140",
+            "title": "KIN 140",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 150",
+            "title": "KIN 150",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 201",
+            "title": "KIN 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 259",
+            "title": "KIN 259",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 340",
+            "title": "KIN 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 352",
+            "title": "KIN 352",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 355",
+            "title": "KIN 355",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Summary of Degree Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the dual degree of Bachelor of Arts Major in Dance and the Bachelor of Science, Major in Kinesiology"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours",
+            "Summer Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "DANC 150",
+              "1",
+              "DANC 160",
+              "2",
+              "General Education course (QR)",
+              "3"
+            ],
+            [
+              "DANC 160",
+              "2",
+              "DANC 162",
+              "1",
+              "General Education course (NW Cultures)",
+              "3"
+            ],
+            [
+              "DANC 100",
+              "3",
+              "DANC 131",
+              "1",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "KIN 125",
+              "1",
+              "DANC 232",
+              "2",
+              ""
+            ],
+            [
+              "KIN 140",
+              "3",
+              "KIN 122",
+              "3",
+              ""
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "KIN 150",
+              "3",
+              ""
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16",
+              "",
+              "9"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours",
+              "Summer Semester",
+              "Hours"
+            ],
+            [
+              "DANC 160",
+              "2",
+              "DANC 260 or  316",
+              "2",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "DANC 259",
+              "2",
+              "DANC 231",
+              "1",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "DANC 262",
+              "2",
+              "DANC 245",
+              "1",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "CHLH 101",
+              "3",
+              "KIN 201",
+              "3",
+              ""
+            ],
+            [
+              "MCB 244",
+              "3",
+              "MCB 246",
+              "3",
+              ""
+            ],
+            [
+              "MCB 245",
+              "2",
+              "MCB 247",
+              "2",
+              ""
+            ],
+            [
+              "Free Elective course",
+              "4",
+              "Context course from 'choose 12 hours' list",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "18",
+              "",
+              "18",
+              "",
+              "9"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours",
+              ""
+            ],
+            [
+              "DANC 475",
+              "3",
+              "DANC 375",
+              "1",
+              ""
+            ],
+            [
+              "DANC 260 or DANC 316",
+              "2",
+              "Physical Practice course from '7 hours' list",
+              "3",
+              ""
+            ],
+            [
+              "Context course from 'choose 12 hours' list",
+              "3",
+              "Context course from '12 hours' list",
+              "3",
+              ""
+            ],
+            [
+              "KIN 352",
+              "3",
+              "KIN 259",
+              "3",
+              ""
+            ],
+            [
+              "KIN 340",
+              "3",
+              "KIN 355",
+              "3",
+              ""
+            ],
+            [
+              "Free Elective course",
+              "4",
+              "CMN 101",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "Free Elective course",
+              "2",
+              ""
+            ],
+            [
+              "",
+              "18",
+              "",
+              "18",
+              "",
+              ""
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours",
+              ""
+            ],
+            [
+              "DANC 496",
+              "2",
+              "DANC 497",
+              "2",
+              ""
+            ],
+            [
+              "DANC 362",
+              "2",
+              "DANC 340",
+              "3",
+              ""
+            ],
+            [
+              "Physical Practice course from '7 hours' list",
+              "1",
+              "Physical Practice course from '7 hours' list",
+              "3",
+              ""
+            ],
+            [
+              "KIN 2xx, 3xx, or 4xx",
+              "3",
+              "KIN 4xx",
+              "3",
+              ""
+            ],
+            [
+              "KIN 2xx, 3xx, or 4xx",
+              "3",
+              "KIN 4xx",
+              "3",
+              ""
+            ],
+            [
+              "General Education course (Phys Sci)",
+              "3",
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "Free Elective course",
+              "4",
+              "",
+              ""
+            ],
+            [
+              "",
+              "18",
+              "",
+              "17",
+              "",
+              ""
+            ],
+            [
+              "Total Hours 158"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the dual degree of Bachelor of Arts Major in Dance and the Bachelor of Science, Major in Kinesiology"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduates from the Bachelor of Arts in Dance will be able to:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Dance with enthusiasm allied with basic technical and performance skills in more than one dance form.",
+          "Appreciate the socio-cultural, political, and historical contexts of the forms in which they dance.",
+          "Articulate dance research interests in anatomical, cultural, and/or epistemological terms.",
+          "Produce capstone research that reflects a synthesis of studies in dance and other fields.",
+          "Employ diverse modes of thinking, both orally and in writing, to communicate ideas relating to dance and other fields.",
+          "Demonstrate critical self-reflection, curiosity, self-motivation and entrepreneurialism in all aspects of their engagement with Dance, Research, and Community.",
+          "Integrate their Dance Studies with their other chosen field of specialty and produce a capstone project that evidences research skill, depth of inquiry, and relevance to society."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Learning outcomes for the Bachelor of Science in Kinesiology are:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Content Knowledge: Students will comprehend and demonstrate the significant theories, models, themes, and ideas in the biomechanical, physiological, behavioral, pedagogical, biological, socioeconomic, environmental, and sociocultural correlates of Kinesiology and Community Health.",
+          "Critical Thinking and Discovery: Students will comprehend and demonstrate ethical practices and the application of scientific findings and/or critical analysis in order to interpret, promote inquiry, propose solutions, and/or create new ideas related to health, rehabilitation, and/or human movement.",
+          "Awareness and Understanding: Students will demonstrate awareness and appreciation for the diverse socioeconomic, behavioral, sociocultural, biological, environmental, philosophical, and historical factors that influence health, rehabilitation, and human movement.",
+          "Programming and Assessment: Students will apply best practices in developing, implementing, assessing, and evaluating programs and interventions related to health promotion, physical activity adoption and adherence, and the prevention and treatment of diseases.",
+          "Leadership and Engagement: Students will demonstrate leadership and effective communication skills, showcasing an appreciation and commitment to health and physical activity as they develop and sustain productive relationships and work for the common good at local, national, and global levels."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the dual degree of Bachelor of Arts Major in Dance and the Bachelor of Science, Major in Kinesiology"
+      },
+      {
+        "type": "paragraph",
+        "content": "For further information regarding the dual degree opportunity or admissions, please contact the Department of Dance."
+      }
+    ]
+  }
+}

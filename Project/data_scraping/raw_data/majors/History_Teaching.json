@@ -1,0 +1,642 @@
+{
+  "major_name": "History: Social Science: History Teaching, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/history-balas/history-teaching/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "For the Degree of Bachelor of Arts in Liberal Arts & Sciences Major in History, History Teaching Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "This concentration fulfills state licensure requirements to teach high school history (grades 9-12) through the AP/honors level and high school economics, geography, political science, psychology, and sociology/anthropology up to but not including the AP/honors level."
+      },
+      {
+        "type": "paragraph",
+        "content": "Time to degree completion varies, but when following the new requirements effective Fall 2020, the expected completion time is 8 semesters. Transfer students may need 10 total semesters combined to complete the program. Please see the LAS section in the transfer handbook for more information."
+      },
+      {
+        "type": "paragraph",
+        "content": "To remain in good standing in this program and be recommended for licensure, candidates are required to maintain a cumulative grade-point average of 2.5 (A= 4.0)."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To be eligible for distinction, a student must be admitted to the Honors Program in History and complete its required coursework. Those admitted (ideally before the beginning of the junior year) must have earned at least a 3.5 GPA in History and a 3.25 GPA overall. They will then pursue a sequence consisting of HIST 498, HIST 492 and successful completion of either",
+        "course_codes": [
+          "HIST 498",
+          "HIST 492"
+        ]
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "HIST 493 and HIST 499 in two consecutive semesters (in which case, the level of distinction awarded to student will be decided by the examining committee) OR",
+          "The completion of two approved independent research projects under the supervision of two different advisors (HIST 490) (in which case, students will be eligible for an award of distinction only, but not high or highest distinction)."
+        ],
+        "course_codes": [
+          "HIST 493",
+          "HIST 499",
+          "HIST 490"
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: Students are required to take a minimum of 33 hours in History courses. Only one of the following Advanced Composition courses (HIST 140, HIST 143, HIST 170, HIST 173) will count toward the 33 hours required in History courses. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "course_codes": [
+          "HIST 140",
+          "HIST 143",
+          "HIST 170",
+          "HIST 173"
+        ],
+        "level_requirement": "400",
+        "credit_requirement": "33"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students in this concentration must complete the Teacher Education Minor in Secondary School Teaching (39 hours).",
+        "credit_requirement": "39"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree. Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "PS 100",
+            "title": "PS 100",
+            "hours": ""
+          },
+          {
+            "code": "PS 101",
+            "title": "PS 101",
+            "hours": ""
+          },
+          {
+            "code": "PS 240",
+            "title": "PS 240",
+            "hours": ""
+          },
+          {
+            "code": "PS 241",
+            "title": "PS 241",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 100",
+            "title": "PSYC 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "SOC 100",
+            "title": "SOC 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "HIST 200",
+            "title": "HIST 200",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "HIST 100",
+            "title": "HIST 100",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "HIST 140",
+            "type": "choice",
+            "options": [
+              "HIST 140",
+              "HIST 141"
+            ],
+            "title": "HIST 140",
+            "hours": ""
+          },
+          {
+            "code": "HIST 141",
+            "type": "choice",
+            "options": [
+              "HIST 141"
+            ],
+            "title": "orHIST 141"
+          },
+          {
+            "code": "HIST 142",
+            "type": "choice",
+            "options": [
+              "HIST 142",
+              "HIST 143"
+            ],
+            "title": "HIST 142",
+            "hours": ""
+          },
+          {
+            "code": "HIST 143",
+            "type": "choice",
+            "options": [
+              "HIST 143"
+            ],
+            "title": "orHIST 143"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "HIST 170",
+            "type": "choice",
+            "options": [
+              "HIST 170",
+              "HIST 171"
+            ],
+            "title": "HIST 170",
+            "hours": ""
+          },
+          {
+            "code": "HIST 171",
+            "type": "choice",
+            "options": [
+              "HIST 171"
+            ],
+            "title": "orHIST 171"
+          },
+          {
+            "code": "HIST 172",
+            "type": "choice",
+            "options": [
+              "HIST 172",
+              "HIST 173"
+            ],
+            "title": "HIST 172",
+            "hours": ""
+          },
+          {
+            "code": "HIST 173",
+            "type": "choice",
+            "options": [
+              "HIST 173"
+            ],
+            "title": "orHIST 173"
+          },
+          {
+            "code": "HIST 174",
+            "title": "HIST 174",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "HIST 170",
+            "type": "choice",
+            "options": [
+              "HIST 170",
+              "HIST 171"
+            ],
+            "title": "HIST 170",
+            "hours": ""
+          },
+          {
+            "code": "HIST 171",
+            "type": "choice",
+            "options": [
+              "HIST 171"
+            ],
+            "title": "orHIST 171"
+          },
+          {
+            "code": "HIST 172",
+            "type": "choice",
+            "options": [
+              "HIST 172",
+              "HIST 173"
+            ],
+            "title": "HIST 172",
+            "hours": ""
+          },
+          {
+            "code": "HIST 173",
+            "type": "choice",
+            "options": [
+              "HIST 173"
+            ],
+            "title": "orHIST 173"
+          },
+          {
+            "code": "HIST 174",
+            "title": "HIST 174",
+            "hours": ""
+          },
+          {
+            "code": "HIST 273",
+            "type": "choice",
+            "options": [
+              "HIST 273",
+              "HIST 288"
+            ],
+            "title": "HIST 273",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "HIST 288",
+            "type": "choice",
+            "options": [
+              "HIST 382",
+              "HIST 288"
+            ],
+            "title": "orHIST 288"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "HIST 100",
+            "title": "HIST 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "HIST 140",
+            "type": "choice",
+            "options": [
+              "HIST 140",
+              "HIST 141"
+            ],
+            "title": "HIST 140",
+            "hours": ""
+          },
+          {
+            "code": "HIST 141",
+            "type": "choice",
+            "options": [
+              "HIST 141"
+            ],
+            "title": "orHIST 141"
+          },
+          {
+            "code": "HIST 142",
+            "type": "choice",
+            "options": [
+              "HIST 142",
+              "HIST 143"
+            ],
+            "title": "HIST 142",
+            "hours": ""
+          },
+          {
+            "code": "HIST 143",
+            "type": "choice",
+            "options": [
+              "HIST 143"
+            ],
+            "title": "orHIST 143"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ECON 102",
+            "type": "choice",
+            "options": [
+              "ECON 102",
+              "ECON 103"
+            ],
+            "title": "ECON 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECON 103",
+            "type": "choice",
+            "options": [
+              "ECON 103"
+            ],
+            "title": "orECON 103",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "For the Degree of Bachelor of Arts in Liberal Arts & Sciences Major in History, History Teaching Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "PS course from list",
+              "3"
+            ],
+            [
+              "HIST 200",
+              "3",
+              "PSYC 100",
+              "4"
+            ],
+            [
+              "HIST 100",
+              "3",
+              "ECON 102 or  103",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Composition I or General Education course (choose a NST course with QR designation)",
+              "4",
+              "General Education course (choose a NST course with QR designation) or Composition I",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "17"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "SOC 100",
+              "4",
+              "Course 2 from category list",
+              "3"
+            ],
+            [
+              "Course 1 from category list",
+              "3",
+              "U.S. History survey course from list",
+              "4"
+            ],
+            [
+              "European history 100-400 level course",
+              "3",
+              "European history 100-400 level course",
+              "3"
+            ],
+            [
+              "EDUC 201",
+              "3",
+              "Geography 100-400 level course",
+              "3"
+            ],
+            [
+              "EPSY 201",
+              "3",
+              "EDUC 202",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "U.S. history 100-400 level course",
+              "3",
+              "U.S. minorities history 100-400 level course",
+              "3"
+            ],
+            [
+              "HIST 273 (or HIST 288 or HIST 382)",
+              "3",
+              "Global or nonwestern history 100-400 level course",
+              "3"
+            ],
+            [
+              "Global or nonwestern history 100-400 level course",
+              "3",
+              "Western Civilization survey course from list",
+              "4"
+            ],
+            [
+              "General Education course (choose a NST course with QR designation)",
+              "3",
+              "CI 473",
+              "3"
+            ],
+            [
+              "",
+              "CI 401",
+              "3"
+            ],
+            [
+              "",
+              "12",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "HIST 498",
+              "3",
+              "EDPR 442",
+              "12"
+            ],
+            [
+              "SPED 405",
+              "3",
+              "CI 404",
+              "3"
+            ],
+            [
+              "CI 403",
+              "3",
+              ""
+            ],
+            [
+              "EPSY 485",
+              "3",
+              ""
+            ],
+            [
+              "Free elective course",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "13",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "For the Degree of Bachelor of Arts in Liberal Arts & Sciences Major in History, History Teaching Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of History"
+      },
+      {
+        "type": "paragraph",
+        "content": "History faculty\nHistory advising"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

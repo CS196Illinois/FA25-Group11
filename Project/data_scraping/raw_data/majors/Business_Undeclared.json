@@ -1,0 +1,30 @@
+{
+  "major_name": "Business Undeclared",
+  "url": "https://catalog.illinois.edu/undergraduate/bus/business-undeclared/",
+  "sections": {
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "First-year students admitted to Gies College of Business are admitted into the Business Undeclared program. Students will work with an advisor in the Office of Undergraduate Programs, to select coursework that works towards requirements in the Business Core as well as General Education requirements. Students are able to stay in Business Undeclared for their first two years, but may declare a major within Gies at any time."
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "Gies College of Business\nCollege Website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Office of Undergraduate Affairs \n1055 Business Instructional Facility \n515 East Gregory Drive \nChampaign, IL 61820"
+      },
+      {
+        "type": "paragraph",
+        "content": "Advising\nundergrads@business.illinois.edu\nGies Undergraduate Advising Hub"
+      },
+      {
+        "type": "paragraph",
+        "content": "Admissions\nGies Undergraduate Admissions\nGies Undergraduate Admissions email\n(217) 244-3890\nUniversity of Illinois Undergrad Admissions"
+      }
+    ]
+  }
+}

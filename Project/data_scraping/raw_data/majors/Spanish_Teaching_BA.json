@@ -1,0 +1,424 @@
+{
+  "major_name": "Teaching of Spanish, BA",
+  "url": "https://catalog.illinois.edu/undergraduate/las/teaching-spanish-ba/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in the Teaching of Spanish"
+      },
+      {
+        "type": "paragraph",
+        "content": "Prerequisite to application to the Teaching program: GPA of 2.5 in all Spanish content courses in the major. Contact the Foreign Language Teacher Education Program for information."
+      },
+      {
+        "type": "paragraph",
+        "content": "In order to remain in good standing in this program and be recommended for licensure, candidates are required to maintain a cumulative grade-point average of 2.5 (A=4.0). Illinois teacher licensure rules require candidates to earn a grade of C- or better in all content and professional education coursework. Candidates for licensure in World Languages are required to pass the appropriate language content-area test prior to student teaching, and an oral proficiency test in their content major language prior to licensure. Licensure requirements are subject to change without notice as a result of new mandates from the Illinois State Board of Education or the Illinois General Assembly."
+      },
+      {
+        "type": "paragraph",
+        "content": "Departmental distinction: To be eligible for departmental distinction, a student must have a minimum grade point average of 3.0, display exceptional teaching ability, and complete an approved project or series of projects. Consult the Spanish departmental advisor for details."
+      },
+      {
+        "type": "paragraph",
+        "content": "Study Abroad: It is strongly recommended that future teachers of Spanish engage in one or more semesters of study in a Spanish-speaking country. A number of the curricular requirements may be met through the Year Abroad Program or other approved programs; see Study Abroad Programs."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours.",
+        "credit_requirement": "120"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required major and supporting course work: normally equates to 33-36 hours in Teaching Area of Concentration and 33 hours of professional education courses. Twelve hours of 300- and 400-level courses in the major must be taken on this campus.",
+        "level_requirement": "400",
+        "credit_requirement": "33-36"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "SPAN 228",
+            "title": "SPAN 228",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPAN 477",
+            "title": "SPAN 477",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "FLTE 471",
+            "title": "FLTE 471",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "FLTE 475",
+            "title": "FLTE 475",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "FLTE 478",
+            "title": "FLTE 478",
+            "hours": "1-3",
+            "hours_min": 1,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "EPOL 201",
+            "title": "EPOL 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "SPED 405",
+            "title": "SPED 405",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": "12",
+            "hours_min": 12,
+            "hours_max": 12
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in the Teaching of Spanish"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free Elective course",
+              "1",
+              "SPAN 228",
+              "3"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "Composition I or General Educaiton course",
+              "4",
+              "General Education course or Composition I",
+              "3"
+            ],
+            [
+              "SPAN 200-300 level course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "SPAN Literature & Culture 200-300 level course",
+              "3",
+              "SPAN Literature & Culture 200-300 level course",
+              "3"
+            ],
+            [
+              "SPAN Linguistics 200-300 level course",
+              "3",
+              "SPAN Linguistics 200-300 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "EPOL 201",
+              "3",
+              "EPSY 201",
+              "3"
+            ],
+            [
+              "SPAN 300-400 level course",
+              "3",
+              "FLTE 471",
+              "4"
+            ],
+            [
+              "SPAN 300-400 level course",
+              "3",
+              "SPAN 300-400 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "SPAN 300-400 level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free Elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 31"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FLTE 475",
+              "4",
+              "EDPR 442",
+              "12"
+            ],
+            [
+              "FLTE 478",
+              "3",
+              "FLTE 478",
+              "1"
+            ],
+            [
+              "SPAN 477",
+              "3",
+              ""
+            ],
+            [
+              "SPED 405",
+              "3",
+              ""
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "13"
+            ],
+            [
+              "Total Hours 29"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 120"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in the Teaching of Spanish"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "Teacher Candidates* will be able to demonstrate their understanding of second language acquisition theories and methodologies through the instructional activities and materials that they design to support all students’ learning and skill building in the three modes of communication.",
+          "Using Bloom’s taxonomy and knowledge of cultural analysis, Teacher Candidates will be able to stimulate analytical skills in their second language learners when reading literary or historical texts or periodicals, such as newspapers, magazines, or blog posts discussing current events.",
+          "Using their knowledge of Spanish linguistics and the sounds of Spanish, Teacher Candidates will be able to model accurate and authentic pronunciation for their learners during instruction.",
+          "Teacher Candidates will be able to demonstrate their understanding of and skills in designing multiple methods of assessment that monitor learner progress in the three modes of communication, promote learner efficacy, and guide decision-making of the learner and teacher."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "*BAT Students = Teacher Candidates"
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in the Teaching of Spanish"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Department of Spanish & Portuguese"
+      },
+      {
+        "type": "paragraph",
+        "content": "Spanish & Portuguese faculty\nSpanish advising and Foreign Language Teacher advising\nspan-port@lists.illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "College of Liberal Arts and Sciences"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of College Admissions & Requirements: Liberal Arts & Sciences"
+      }
+    ]
+  }
+}

@@ -1,0 +1,547 @@
+{
+  "major_name": "Kinesiology: Teacher Education K-12, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/ahs/kinesiology-bs/teacher-certification/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Kinesiology, Teacher Education K-12 Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Requirements Including General Education"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Kinesiology Program requires that General Education requirements must be selected from the Campus General Education course list. The prescribed courses prepare the student for upper division study and may be used to satisfy General Education requirements provided they are on the appropriate General Education list. Specifically required General Education courses are listed below."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "KIN 140",
+            "title": "KIN 140",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 259",
+            "title": "KIN 259",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "KIN 150",
+            "title": "KIN 150",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MCB 244",
+            "type": "sequence",
+            "sequence": [
+              "MCB 244",
+              "MCB 245"
+            ],
+            "title": "MCB 244&MCB 245",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "code": "MCB 246",
+            "type": "sequence",
+            "sequence": [
+              "MCB 246",
+              "MCB 247"
+            ],
+            "title": "MCB 246&MCB 247",
+            "hours": "5",
+            "hours_min": 5,
+            "hours_max": 5
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CHLH 101",
+            "title": "CHLH 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 122",
+            "title": "KIN 122",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "KIN 125",
+            "title": "KIN 125",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "KIN 140",
+            "title": "KIN 140",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 150",
+            "title": "KIN 150",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 201",
+            "title": "KIN 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 259",
+            "title": "KIN 259",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 340",
+            "title": "KIN 340",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 352",
+            "title": "KIN 352",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 355",
+            "title": "KIN 355",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Requirements for Teacher Licensure"
+      },
+      {
+        "type": "paragraph",
+        "content": "Application to the Teacher Licensure curriculum is made at the end of the sophomore year. Admission depends on meeting minimum grade point average requirements. Students must pass an Illinois-approved content-area test of basic skills prior to student teaching."
+      },
+      {
+        "type": "paragraph",
+        "content": "In order to remain in good standing in this program and be recommended for licensure, candidates are required to maintain UIUC, cumulative, and content area grade point averages of 2.5 (A=4.0), and a professional education grade point average of 3.0. Candidates should consult their advisor or the Council on Teacher Education for the list of courses used to compute these grade point averages. In addition, candidates must receive a B- or higher in KIN 360, KIN 361, KIN 362, KIN 363, KIN 364, and KIN 460, and meet professional standards of scholarship, ethics, and responsibility as evaluated by the Physical Education Area of Specialization Committee. In addition, students must complete all professional education and content-area courses with a grade of C- or better for licensure.",
+        "course_codes": [
+          "KIN 360",
+          "KIN 361",
+          "KIN 362",
+          "KIN 363",
+          "KIN 364",
+          "KIN 460"
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "KIN 360",
+            "title": "KIN 360",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 361",
+            "title": "KIN 361",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 362",
+            "title": "KIN 362",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 363",
+            "title": "KIN 363",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 364",
+            "title": "KIN 364",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 401",
+            "title": "KIN 401",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 460",
+            "title": "KIN 460",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 260",
+            "title": "KIN 260",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "KIN 261",
+            "title": "KIN 261",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "CI 473",
+            "title": "CI 473",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "EPS 201",
+            "title": "EPS 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EPSY 201",
+            "title": "EPSY 201",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "EDPR 438",
+            "title": "EDPR 438",
+            "hours": "8",
+            "hours_min": 8,
+            "hours_max": 8
+          },
+          {
+            "code": "EDPR 442",
+            "title": "EDPR 442",
+            "hours": "8",
+            "hours_min": 8,
+            "hours_max": 8
+          }
+        ]
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Summary of Degree Requirements"
+      },
+      {
+        "type": "heading",
+        "level": "h3",
+        "content": "Footnotes"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Kinesiology, Teacher Education K-12 Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All  students are required to meet with an academic advisor each semester to determine the actual course selection and sequence that works best for them based on their academic preparation and career goals/graduate school preparation, and to review remaining degree requirements and plan for upcoming semesters. Course availability is not guaranteed during the semester indicated in the sample sequence. Many factors may affect the plan, some of which include:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "Advanced placement and/or dual credit earned prior to enrollment",
+          "LOTE (Language Other Than English) could be completed in high school",
+          "Degree requires 128 total hours",
+          "Correlate area courses determined by career or graduate program interests and can exceed 18 hour minimum",
+          "Enrichment programming such as study abroad, minors, internships, etc."
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. For more information, see the corresponding section on the Degree General and Education Requirements page ."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "KIN 125",
+              "1",
+              "EPOL 201",
+              "3"
+            ],
+            [
+              "PSYC 100 or PSYC 103",
+              "4",
+              "KIN 150 or KIN 140",
+              "3"
+            ],
+            [
+              "KIN 140 or KIN 150",
+              "3",
+              "CHLH 101 or KIN 122",
+              "3"
+            ],
+            [
+              "KIN 122 or CHLH 101",
+              "3",
+              "CMN 101 or RHET  105",
+              "3-4"
+            ],
+            [
+              "RHET 105 or CMN  101",
+              "4-3",
+              "Free Elective or Language Other Than English (3rd level)",
+              "3-4"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "KIN 201",
+              "3",
+              "KIN 261",
+              "2"
+            ],
+            [
+              "KIN 260",
+              "3",
+              "EPSY 201",
+              "3"
+            ],
+            [
+              "MCB 244",
+              "3",
+              "MCB 246",
+              "3"
+            ],
+            [
+              "MCB 245",
+              "2",
+              "MCB 247",
+              "2"
+            ],
+            [
+              "KIN 259 or KIN 340",
+              "3",
+              "KIN 340 or KIN 259",
+              "3"
+            ],
+            [
+              "Free Elective",
+              "2",
+              "Free Elective",
+              "3"
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "KIN 360",
+              "3",
+              "KIN 362",
+              "3"
+            ],
+            [
+              "KIN 361",
+              "3",
+              "KIN 363",
+              "3"
+            ],
+            [
+              "KIN 352 or KIN 355",
+              "3",
+              "CI 473",
+              "2"
+            ],
+            [
+              "General Education course",
+              "3",
+              "KIN 355 or KIN 352",
+              "3"
+            ],
+            [
+              "General Education course or Free Elective",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course or Free Elective",
+              "3",
+              "Free Elective",
+              "2"
+            ],
+            [
+              "",
+              "18",
+              "",
+              "16"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "KIN 364",
+              "3",
+              "EDPR 438",
+              "8"
+            ],
+            [
+              "KIN 460",
+              "3",
+              "EDPR 442",
+              "8"
+            ],
+            [
+              "KIN 401",
+              "3",
+              ""
+            ],
+            [
+              "General Education course",
+              "3",
+              ""
+            ],
+            [
+              "General Education course or Free Elective",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 128"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the Bachelor of Science Major in Kinesiology, Teacher Education K-12 Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Health & Kinesiology\nKinesiology Department Website\nHealth & Kinesiology Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "College of Applied Health Sciences\nApplied Health Sciences College Catalog Page\nApplied Health Sciences College Website"
+      }
+    ]
+  }
+}

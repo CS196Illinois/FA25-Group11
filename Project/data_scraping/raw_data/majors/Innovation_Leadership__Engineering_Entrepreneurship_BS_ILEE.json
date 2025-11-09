@@ -1,0 +1,322 @@
+{
+  "major_name": "Innovation, Leadership & Engineering Entrepreneurship (ILEE), BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/innovation-leadership-engineering-entrepreneurship-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Innovation, Leadership & Engineering Entrepreneurship"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students should follow their Grainger Engineering primary degree curriculum and take the additional required Orientation and Technical Core courses to earn a second bachelor's degree in ILEE."
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of Curricular Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must complete all requirements specified for the primary engineering degree, and 31 hours for the second (ILEE) degree, for a minimum of 158 credit hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "Innovation, Leadership and Engineering Entrepreneurship Orientation"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "TE 100",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "TE 200",
+            "title": "or"
+          },
+          {
+            "hours": "1"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Innovation, Leadership and Engineering Entrepreneurship Technical Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "TE 230",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "TE 250",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "TE 333",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "TE 360",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "SE 361",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "TE 390",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "TE 401",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "TE 450",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "TE 461",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "TE 462",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "TE 466",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "hours": "30"
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "31"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Innovation, Leadership & Engineering Entrepreneurship"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "Students should follow their Grainger Engineering primary degree curriculum and take the additional 31 hours of ILEE courses. A sample sequence of courses is shown below."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "TE 100 or  200",
+              "1",
+              "TE 250",
+              "2"
+            ],
+            [
+              "",
+              "1",
+              "",
+              "2"
+            ],
+            [
+              "Total Hours 3"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "TE 230",
+              "3",
+              "TE 333",
+              "4"
+            ],
+            [
+              "TE 360",
+              "1",
+              ""
+            ],
+            [
+              "",
+              "4",
+              "",
+              "4"
+            ],
+            [
+              "Total Hours 8"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "SE 361",
+              "3",
+              "TE 390",
+              "2"
+            ],
+            [
+              "TE 466",
+              "2",
+              "TE 462",
+              "3"
+            ],
+            [
+              "",
+              "5",
+              "",
+              "5"
+            ],
+            [
+              "Total Hours 10"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "TE 450",
+              "3",
+              "TE 401",
+              "4"
+            ],
+            [
+              "TE 461",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "6",
+              "",
+              "4"
+            ],
+            [
+              "Total Hours 10"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 31"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Innovation, Leadership & Engineering Entrepreneurship"
+      },
+      {
+        "type": "paragraph",
+        "content": "Learning objectives for the Innovation, Leadership, and Engineering Entrepreneurship Dual Degree BS Program are designed to allow Grainger Engineering students the opportunity to gain, sharpen, and refine their innovative, leadership, and entrepreneurship skill set through academic courses and hands-on experiential learning."
+      },
+      {
+        "type": "paragraph",
+        "content": "In conjunction with the student’s primary/first department’s curriculum, the Innovation, Leadership, and Engineering Entrepreneurship Program prepares students to achieve the following ABET outcomes by the time of graduation:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "An ability to communicate effectively with a range of audiences.",
+          "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of engineering solutions in global, economic, environmental, and societal contexts.",
+          "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "An ability to develop and conduct appropriate experimentation, analyze and interpret data, and use engineering judgment to draw conclusions.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Innovation, Leadership & Engineering Entrepreneurship"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Innovation, Leadership, and Engineering Entrepreneurship Program"
+      },
+      {
+        "type": "paragraph",
+        "content": "Program Director: Ranjitha Kumar\nProgram Faculty Advisor: Keilin Jahnke\nProgram Academic Advisor: Laura Miller\n351 Coordinated Science Lab, 1308 W Main St, Urbana, IL 61801\n(217) 244-3124\ntec-ilee@illinois.edu\nTechnology Entrepreneur Center website"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "The Grainger College of Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions"
+      }
+    ]
+  }
+}

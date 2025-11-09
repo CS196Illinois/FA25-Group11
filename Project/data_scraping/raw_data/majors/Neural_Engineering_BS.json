@@ -1,0 +1,730 @@
+{
+  "major_name": "Neural Engineering, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/engineering/neural-engineering-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Neural Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum Hours for Graduation: 128"
+      },
+      {
+        "type": "paragraph",
+        "content": "To graduate, students must satisfy all University requirements as to residency, scholarship, and fees and must complete the University's general education requirements."
+      },
+      {
+        "type": "paragraph",
+        "content": "Highest honors/departmental distinction: Students completing a Bachelor’s thesis with a minimum GPA of 3.8 will be eligible for highest honors."
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements Minimum hours required for graduation: 128 hours. Minimum Overall GPA: 2.0",
+        "credit_requirement": "128"
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement.",
+        "level_requirement": "400",
+        "credit_requirement": "40"
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Major Requirements Orientation and Professional Development"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "ENG 100",
+            "title": "ENG 100",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Foundational Mathematics and Science"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "CHEM 102",
+            "title": "CHEM 102",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 103",
+            "title": "CHEM 103",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CHEM 104",
+            "title": "CHEM 104",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CHEM 105",
+            "title": "CHEM 105",
+            "hours": "1",
+            "hours_min": 1,
+            "hours_max": 1
+          },
+          {
+            "code": "CHEM 232",
+            "title": "CHEM 232",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 221",
+            "title": "MATH 221",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 231",
+            "title": "MATH 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MATH 241",
+            "title": "MATH 241",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MATH 285",
+            "title": "MATH 285",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PHYS 211",
+            "title": "PHYS 211",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "PHYS 212",
+            "title": "PHYS 212",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Neural Engineering Technical Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "BIOE 205",
+            "title": "BIOE 205",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BIOE 210",
+            "title": "BIOE 210",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "BIOE 310",
+            "title": "BIOE 310",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NE 100",
+            "title": "NE 100",
+            "hours": "2",
+            "hours_min": 2,
+            "hours_max": 2
+          },
+          {
+            "code": "NE 330",
+            "title": "NE 330",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NE 402",
+            "title": "NE 402",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "NE 412",
+            "title": "NE 412",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NE 422",
+            "title": "NE 422",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NE 430",
+            "title": "NE 430",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "NE 431",
+            "title": "NE 431",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "ECE/NE 410",
+            "title": "",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "ECE 421/NE 420",
+            "title": "ECE 421/NE 420",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "CS 101",
+            "title": "CS 101",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 150",
+            "title": "MCB 150",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          },
+          {
+            "code": "MCB 250",
+            "title": "MCB 250",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "MCB 252",
+            "title": "MCB 252",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PSYC 100",
+            "title": "PSYC 100",
+            "hours": "4",
+            "hours_min": 4,
+            "hours_max": 4
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Technical Electives  (List of Pre-Approved Neural Engineering Electives)"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "BIOE 420",
+            "title": "BIOE 420",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 430",
+            "title": "BIOE 430",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 434",
+            "title": "BIOE 434",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 450",
+            "title": "BIOE 450",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 460",
+            "title": "BIOE 460",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 476",
+            "title": "BIOE 476",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 483",
+            "title": "BIOE 483",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 484",
+            "title": "BIOE 484",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 485",
+            "title": "BIOE 485",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 486",
+            "title": "BIOE 486",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 487",
+            "title": "BIOE 487",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 488",
+            "title": "BIOE 488",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 489",
+            "title": "BIOE 489",
+            "hours": ""
+          },
+          {
+            "code": "BIOE 498",
+            "title": "BIOE 498",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ECE 416",
+            "title": "ECE 416",
+            "hours": ""
+          },
+          {
+            "code": "ECE 442",
+            "title": "ECE 442",
+            "hours": ""
+          },
+          {
+            "code": "ECE 459",
+            "title": "ECE 459",
+            "hours": ""
+          },
+          {
+            "code": "ECE 460",
+            "title": "ECE 460",
+            "hours": ""
+          },
+          {
+            "code": "ECE 461",
+            "title": "ECE 461",
+            "hours": ""
+          },
+          {
+            "code": "ECE 467",
+            "title": "ECE 467",
+            "hours": ""
+          },
+          {
+            "code": "ECE 470",
+            "title": "ECE 470",
+            "hours": ""
+          },
+          {
+            "code": "ECE 480",
+            "title": "ECE 480",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ME 483",
+            "title": "ME 483",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "PSYC 210",
+            "title": "PSYC 210",
+            "hours": ""
+          },
+          {
+            "code": "PSYC 404",
+            "title": "PSYC 404",
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "PHYS 475",
+            "title": "PHYS 475",
+            "hours": ""
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives"
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Neural Engineering"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English. See the corresponding section on the Degree and General Education Requirements."
+      },
+      {
+        "type": "paragraph",
+        "content": "Free Electives: Additional course work, subject to the Grainger College of Engineering restrictions to Free Electives, so that there are at least 128 credit hours earned toward the degree."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "ENG 100",
+              "1",
+              "MATH 231",
+              "3"
+            ],
+            [
+              "MATH 221 (MATH 220 may be substituted)",
+              "4",
+              "PHYS 211",
+              "4"
+            ],
+            [
+              "NE 100",
+              "2",
+              "CS 101",
+              "3"
+            ],
+            [
+              "CHEM 102",
+              "3",
+              "MCB 150 (or Composition I course)",
+              "4"
+            ],
+            [
+              "CHEM 103",
+              "1",
+              "CHEM 104",
+              "3"
+            ],
+            [
+              "Composition I or MCB 150",
+              "4",
+              "CHEM 105",
+              "1"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "18",
+              "",
+              "18"
+            ],
+            [
+              "Total Hours 36"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Second Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "MATH 241",
+              "4",
+              "MATH 285",
+              "3"
+            ],
+            [
+              "PHYS 212",
+              "4",
+              "CHEM 232",
+              "4"
+            ],
+            [
+              "MCB 250",
+              "3",
+              "MCB 252",
+              "3"
+            ],
+            [
+              "BIOE 210",
+              "3",
+              "BIOE 310",
+              "3"
+            ],
+            [
+              "PSYC 100",
+              "4",
+              "BIOE 205",
+              "3"
+            ],
+            [
+              "",
+              "18",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 34"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Third Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "NE 330",
+              "3",
+              "NE 420 or ECE  421",
+              "3"
+            ],
+            [
+              "NE 410 or ECE  410",
+              "3",
+              "NE 422",
+              "3"
+            ],
+            [
+              "Neural Engineering Technical Elective course",
+              "3",
+              "Neural Engineering Technical Elective course",
+              "3"
+            ],
+            [
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3",
+              "Language Other than English (3rd level)",
+              "4"
+            ],
+            [
+              "",
+              "General Education course (choose a Humanities or Social/Behavioral Science course with Cultural Studies designation)",
+              "3"
+            ],
+            [
+              "",
+              "12",
+              "",
+              "16"
+            ],
+            [
+              "Total Hours 28"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "Fourth Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "NE 412",
+              "3",
+              "NE 402",
+              "4"
+            ],
+            [
+              "NE 430",
+              "3",
+              "General Education course (choose a Humanities or Social/Behavioral Science course that is also Advanced Composition)",
+              "3"
+            ],
+            [
+              "NE 431",
+              "4",
+              "Neural Engineering Technical Elective course",
+              "3"
+            ],
+            [
+              "Neural Engineering Tecnical Elective course",
+              "3",
+              "Free Elective course",
+              "4"
+            ],
+            [
+              "Free Elective course",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 30"
+            ]
+          ]
+        }
+      },
+      {
+        "type": "paragraph",
+        "content": "Total Hours: 128"
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Neural Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Neural Engineering program prepares graduates to achieve the following seven outcomes by the time of graduation:"
+      },
+      {
+        "type": "list",
+        "list_type": "ol",
+        "content": [
+          "An ability to identify, formulate, and solve complex engineering problems by applying principles of engineering, science, and mathematics.",
+          "An ability to apply engineering design to produce solutions that meet specified needs with consideration of public health, safety, and welfare, as well as global, cultural, social, environmental, and economic factors.",
+          "An ability to communicate effectively with a range of audiences.",
+          "An ability to recognize ethical and professional responsibilities in engineering situations and make informed judgments, which must consider the impact of computational bioengineering solutions in global, economic, environmental, and societal contexts.",
+          "An ability to function effectively on a team whose members together provide leadership, create a collaborative and inclusive environment, establish goals, plan tasks, and meet objectives.",
+          "An ability to develop and conduct appropriate experimentation, analysis and interpretation of data, and to use engineering judgment to draw conclusions.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Neural Engineering"
+      },
+      {
+        "type": "paragraph",
+        "content": "B.S. in Neural Engineering\nBioengineering Faculty"
+      },
+      {
+        "type": "paragraph",
+        "content": "The Grainger College of Engineering Admissions\nThe Grainger College of Engineering"
+      }
+    ]
+  }
+}

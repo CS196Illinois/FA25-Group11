@@ -1,0 +1,468 @@
+{
+  "major_name": "Political Science: Law & Power, BALAS",
+  "url": "https://catalog.illinois.edu/undergraduate/las/political-science-balas/law-power/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Political Science, Law and Power Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "See the Political Science Distinction page for departmental distinction information."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students may count a maximum of six (6) hours of credit of any combination of hours from PS 494 toward the advanced hours requirement. Not more than 6 hours of individual study courses in political science (PS 490) or 6 hours of internships (PS 491) or 6 hours of supervised research (PS 492) may be included in the major; a student with any mix of independent study hours and internship hours and supervised research hours may include a maximum of 9 hours of such credit in the major. (PS 496) is reserved for those seniors doing honors theses for distinction in political science and may not be counted in the 45-hour minimum required for the major.",
+        "course_codes": [
+          "PS 494",
+          "PS 490",
+          "PS 491",
+          "PS 492",
+          "PS 496"
+        ],
+        "credit_requirement": "6"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "General education: Students must complete the Campus General Education requirements including the campus general education language requirement."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum required major and supporting course work: Normally equates to 70 hours. Twelve hours of 300- and 400-level in the major must be taken on this campus."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "Law and Power Concentration Requirements"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "code": "PS 100",
+            "title": "PS 100",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 270",
+            "title": "PS 270",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "PS 170",
+            "title": "PS 170",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 230",
+            "title": "PS 230",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 231",
+            "title": "PS 231",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "PS 300",
+            "title": "PS 300",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 301",
+            "title": "PS 301",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 302",
+            "title": "PS 302",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 305",
+            "title": "PS 305",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 306",
+            "title": "PS 306",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 322",
+            "title": "PS 322",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 323",
+            "title": "PS 323",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 386",
+            "title": "PS 386",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 494",
+            "title": "PS 494",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "PS 370",
+            "title": "PS 370",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 371",
+            "title": "PS 371",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 372",
+            "title": "PS 372",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 373",
+            "title": "PS 373",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 374",
+            "title": "PS 374",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 375",
+            "title": "PS 375",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 376",
+            "title": "PS 376",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 377",
+            "title": "PS 377",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          },
+          {
+            "code": "PS 413",
+            "title": "PS 413",
+            "hours": "3 or 4",
+            "hours_min": 3,
+            "hours_max": 4
+          },
+          {
+            "code": "PS 494",
+            "title": "PS 494",
+            "hours": "3",
+            "hours_min": 3,
+            "hours_max": 3
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Political Science, Law and Power Concentration"
+      },
+      {
+        "type": "paragraph",
+        "content": "Sample Sequence\nThis sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a fourth level of a language other than English. See the corresponding section on the Degree General and Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "Free elective course",
+              "1",
+              "PS 270",
+              "3"
+            ],
+            [
+              "PS 100",
+              "3",
+              "PS 100- or 200- level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Language Other than English (4th level)",
+              "4"
+            ],
+            [
+              "Language Other than English (3rd level)",
+              "4",
+              "General Education course or Composition 1",
+              "3"
+            ],
+            [
+              "Composition I or General Education course",
+              "4",
+              "Free elective course",
+              "2"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PS 100- or 200-level course",
+              "3",
+              "PS 100-400 level course from Law & Power course list",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "PS 100- or 400-level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Thematic related course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "PS Law/Judicial 300- or 400-level course",
+              "3",
+              "Thematic related course",
+              "3"
+            ],
+            [
+              "PS 300- or 400-level course from Law & Power course list",
+              "3",
+              "PS 300- or 400-level course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "Thematic related course",
+              "3",
+              "PS Political Theory 300- or 400-level course",
+              "3"
+            ],
+            [
+              "PS 300- or 400-level course",
+              "3",
+              "Thematic related course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "Free elective course",
+              "3",
+              "Free elective course",
+              "3"
+            ],
+            [
+              "",
+              "15",
+              "",
+              "15"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Arts in Liberal Arts & Sciences Major in Political Science, Law and Power Concentration"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "department website: https://www.pol.illinois.edu"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "department faculty: Political Science Faculty"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "advising: Political Science advising"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "overview of college admissions & requirements: Liberal Arts & Sciences"
+      },
+      {
+        "type": "heading",
+        "level": "h4",
+        "content": "college website: https://las.illinois.edu/"
+      }
+    ]
+  }
+}

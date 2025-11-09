@@ -1,0 +1,617 @@
+{
+  "major_name": "Computer Science + Music, BS",
+  "url": "https://catalog.illinois.edu/undergraduate/eng_faa/computer-science-music-bs/",
+  "sections": {
+    "degree_requirements": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science + Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "Graduation Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum hours required for graduation: 120 hours."
+      },
+      {
+        "type": "paragraph",
+        "content": "University Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Minimum of 40 hours of upper-division coursework, generally at the 300- or 400-level. These hours can be drawn from all elements of the degree.  Students should consult their academic advisor for additional guidance in fulfilling this requirement."
+      },
+      {
+        "type": "paragraph",
+        "content": "The university and residency requirements can be found in the Student Code (§ 3-801) and in the Academic Catalog."
+      },
+      {
+        "type": "paragraph",
+        "content": "General Education Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Follows the campus General Education (Gen Ed) requirements. Some Gen Ed requirements may be met by courses required and/or electives in the program."
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": "4-6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "6"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "3"
+          },
+          {
+            "hours": "6-10"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": "0-15"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Orientation"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "FAA 101",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "MUS 100",
+            "title": "",
+            "hours": "0"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Core"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 101",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 102",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 201",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 202",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 107",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 108",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 207",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 208",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 110",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MUS 313",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MUS 314",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 172",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 173",
+            "title": "",
+            "hours": "2"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "content": "CS + Music Studies"
+      },
+      {
+        "type": "table",
+        "content": [
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 105",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 205",
+            "title": "",
+            "hours": "2"
+          },
+          {
+            "code": "MUS 209",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MUS 305",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MUS 407",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MUS 299",
+            "title": "",
+            "hours": "1 or 2"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 124",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 128",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 173",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 222",
+            "title": "",
+            "hours": "1"
+          },
+          {
+            "code": "CS 225",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 233",
+            "title": "&CS 341",
+            "hours": "8"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 361",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "CS 374",
+            "title": "",
+            "hours": "4"
+          },
+          {
+            "code": "CS 421",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "CS 448",
+            "title": "",
+            "hours": "3 or 4"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "ECE 402",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "hours": ""
+          },
+          {
+            "code": "MATH 220",
+            "title": "",
+            "hours": "4 or 5"
+          },
+          {
+            "code": "MATH 221",
+            "title": "or"
+          },
+          {
+            "code": "MATH 231",
+            "title": "",
+            "hours": "3"
+          },
+          {
+            "code": "MATH 225",
+            "title": "",
+            "hours": "2 or 3"
+          },
+          {
+            "code": "MATH 257",
+            "title": "or"
+          },
+          {
+            "hours": "120"
+          }
+        ]
+      }
+    ],
+    "sample_sequence": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science + Music"
+      },
+      {
+        "type": "heading",
+        "level": "h2",
+        "content": "Sample Sequence"
+      },
+      {
+        "type": "paragraph",
+        "content": "This sample sequence is intended to be used only as a guide for degree completion. All students should work individually with their academic advisors to decide the actual course selection and sequence that works best for them based on their academic preparation and goals. Enrichment programming such as study abroad, minors, internships, and so on may impact the structure of this four-year plan. Course availability is not guaranteed during the semester indicated in the sample sequence."
+      },
+      {
+        "type": "paragraph",
+        "content": "Students must fulfill their Language Other Than English requirement by successfully completing a third level of a language other than English.  For more information, see the corresponding section on the Degree and General Education Requirements page."
+      },
+      {
+        "type": "table",
+        "content": {
+          "headers": [
+            "First Year",
+            "First Semester",
+            "Hours",
+            "Second Semester",
+            "Hours"
+          ],
+          "rows": [
+            [
+              "FAA 101",
+              "1",
+              "MUS 102",
+              "2"
+            ],
+            [
+              "MUS 100",
+              "0",
+              "MUS 108",
+              "2"
+            ],
+            [
+              "MUS 101",
+              "2",
+              "MUS 105",
+              "2"
+            ],
+            [
+              "MUS 107",
+              "2",
+              "CS 128",
+              "3"
+            ],
+            [
+              "CS 124",
+              "3",
+              "CS 173",
+              "3"
+            ],
+            [
+              "MATH 220 or  221",
+              "5-4",
+              "Language Other than English (3rd level) or Composition I",
+              "4"
+            ],
+            [
+              "Composition I or Language Other than English (3rd level)",
+              "4",
+              ""
+            ],
+            [
+              "",
+              "17",
+              "",
+              "16"
+            ],
+            [
+              "Second Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MUS 201",
+              "2",
+              "MUS 202",
+              "2"
+            ],
+            [
+              "MUS 207",
+              "2",
+              "MUS 208",
+              "2"
+            ],
+            [
+              "MUS 205",
+              "2",
+              "MUS 305",
+              "3"
+            ],
+            [
+              "CS 222",
+              "1",
+              "MUS 172",
+              "2"
+            ],
+            [
+              "CS 225",
+              "4",
+              "CS 233",
+              "4"
+            ],
+            [
+              "MATH 231",
+              "3",
+              "CS 361",
+              "3"
+            ],
+            [
+              "MATH 225 or  257",
+              "2-3",
+              ""
+            ],
+            [
+              "",
+              "16",
+              "",
+              "16"
+            ],
+            [
+              "Third Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MUS 173",
+              "2",
+              "MUS 110",
+              "3"
+            ],
+            [
+              "CS 341",
+              "4",
+              "CS 374",
+              "4"
+            ],
+            [
+              "ECE 402",
+              "3",
+              "CS 448",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "MUS 209",
+              "3"
+            ],
+            [
+              "General Education course (choose a Social/Behavioral Science course that is also Cultural Studies)",
+              "3",
+              ""
+            ],
+            [
+              "",
+              "15",
+              "",
+              "13"
+            ],
+            [
+              "Fourth Year"
+            ],
+            [
+              "First Semester",
+              "Hours",
+              "Second Semester",
+              "Hours"
+            ],
+            [
+              "MUS 299",
+              "1",
+              "MUS 299",
+              "1"
+            ],
+            [
+              "MUS 313",
+              "3",
+              "MUS 314",
+              "3"
+            ],
+            [
+              "MUS 407",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "CS 421",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "General Education course",
+              "3",
+              "General Education course",
+              "3"
+            ],
+            [
+              "",
+              "Free Elective course",
+              "1"
+            ],
+            [
+              "",
+              "13",
+              "",
+              "14"
+            ],
+            [
+              "Total Hours 120"
+            ]
+          ]
+        }
+      }
+    ],
+    "learning_outcomes": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science + Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "By the end of the program, CS+Music graduates will demonstrate:"
+      },
+      {
+        "type": "list",
+        "list_type": "ul",
+        "content": [
+          "An ability to acquire, understand, and integrate foundational knowledge in music and computer science, and to apply that knowledge to discover and engineer creative solutions to various types of complex problems.",
+          "An ability to communicate, collaborate, and effectively engage with diverse people, teams, and communities.",
+          "An understanding of how to apply musical practices and computer engineering principles with a mindfulness toward global cultural, economic, and societal differences.",
+          "An ability to acquire and apply new knowledge as needed, using appropriate learning strategies, in furtherance of a culture of lifelong learning."
+        ]
+      }
+    ],
+    "contact_information": [
+      {
+        "type": "paragraph",
+        "content": "for the degree of Bachelor of Science in Computer Science + Music"
+      },
+      {
+        "type": "paragraph",
+        "content": "Computer Science \"CS + X\" degree information"
+      },
+      {
+        "type": "paragraph",
+        "content": "School of Music website"
+      },
+      {
+        "type": "paragraph",
+        "content": "Overview of Music Admissions & Requirements"
+      },
+      {
+        "type": "paragraph",
+        "content": "Music Admissions email: musicadmissions@illinois.edu"
+      }
+    ]
+  }
+}
