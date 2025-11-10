@@ -1,0 +1,257 @@
+{
+  "first_year": {
+    "fall": {
+      "courses": [
+        {
+          "code": "CS 100",
+          "credits": 1,
+          "required": false,
+          "note": "Optional, free elective"
+        },
+        {
+          "code": "CS 124",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "MATH 221",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "ENG 100",
+          "credits": 1,
+          "required": true
+        },
+        {
+          "code": "Science elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "Composition I or Gen Ed",
+          "credits": 4,
+          "required": false
+        }
+      ],
+      "total_credits": 16
+    },
+    "spring": {
+      "courses": [
+        {
+          "code": "CS 128",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS 173",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "MATH 231",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "Gen Ed (Cultural Studies)",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "Gen Ed or Composition I",
+          "credits": 3,
+          "required": false
+        }
+      ],
+      "total_credits": 15
+    }
+  },
+  "second_year": {
+    "fall": {
+      "courses": [
+        {
+          "code": "CS 222",
+          "credits": 1,
+          "required": true
+        },
+        {
+          "code": "CS 225",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "MATH 241",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "PHYS 211",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "Gen Ed (Cultural Studies)",
+          "credits": 3,
+          "required": false
+        }
+      ],
+      "total_credits": 16
+    },
+    "spring": {
+      "courses": [
+        {
+          "code": "CS 233",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 361",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "MATH 257",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "PHYS 212",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "Free elective",
+          "credits": 3,
+          "required": false
+        }
+      ],
+      "total_credits": 17
+    }
+  },
+  "third_year": {
+    "fall": {
+      "courses": [
+        {
+          "code": "CS 210",
+          "credits": 2,
+          "required": true,
+          "note": "or CS 211"
+        },
+        {
+          "code": "CS 341",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS 357",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS Technical elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "Language (3rd level)",
+          "credits": 4,
+          "required": false
+        }
+      ],
+      "total_credits": 16
+    },
+    "spring": {
+      "courses": [
+        {
+          "code": "CS 374",
+          "credits": 4,
+          "required": true
+        },
+        {
+          "code": "CS Technical elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "CS Technical elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "Gen Ed (Cultural Studies)",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "Free elective",
+          "credits": 3,
+          "required": false
+        }
+      ],
+      "total_credits": 16
+    }
+  },
+  "fourth_year": {
+    "fall": {
+      "courses": [
+        {
+          "code": "CS 421",
+          "credits": 3,
+          "required": true
+        },
+        {
+          "code": "CS Advanced elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "CS Advanced elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "Free elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "Free elective",
+          "credits": 4,
+          "required": false
+        }
+      ],
+      "total_credits": 16
+    },
+    "spring": {
+      "courses": [
+        {
+          "code": "CS Technical elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "CS Technical elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "CS Technical elective",
+          "credits": 3,
+          "required": false
+        },
+        {
+          "code": "Free elective",
+          "credits": 4,
+          "required": false
+        },
+        {
+          "code": "Free elective",
+          "credits": 3,
+          "required": false
+        }
+      ],
+      "total_credits": 16
+    }
+  }
+}

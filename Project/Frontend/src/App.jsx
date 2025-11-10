@@ -1,137 +1,238 @@
-import Option1 from "./Option1";
-import Option2 from "./Option2";
-import Option3 from "./Option3";
-import Option4 from "./Option4";
-import Option5 from "./Option5";
-import Option6 from "./Option6";
-import Dropdown from "./Dropdown Menu/dropdown";
-import "./App.css";
-import QuestionHeader from "./QuestionHeader";
-import React, { useState } from "react";
+import React, { useState, useEffect } from 'react';
+import './App.css';
+import CourseSelector from './components/CourseSelector';
+import Recommendations from './components/Recommendations';
+import ProgressBar from './components/ProgressBar';
+import CourseDetails from './components/CourseDetails';
+import SemesterPlan from './components/SemesterPlan';
+import { getMajorCourses, getRecommendations } from './services/api';
+
+const MAJOR_NAME = 'Computer Science, BS';
 
 function App() {
-  const [screen, setScreen] = useState("home");
-  const [firstDropdownSelected, setFirstDropdownSelected] = useState(false);
-  const [secondDropdownSelected, setSecondDropdownSelected] = useState(false);
+  const [screen, setScreen] = useState('welcome');
+  const [courses, setCourses] = useState([]);
+  const [selectedCourses, setSelectedCourses] = useState([]);
+  const [recommendations, setRecommendations] = useState([]);
+  const [progress, setProgress] = useState({ completed: 0, total: 0, percentage: 0 });
+  const [semesterPlan, setSemesterPlan] = useState(null);
+  const [studentYear, setStudentYear] = useState(null);
+  const [loading, setLoading] = useState(false);
+  const [error, setError] = useState(null);
+  const [selectedCourseDetails, setSelectedCourseDetails] = useState(null);
 
-  const b1 = false;
-  const b2 = false;
-  const b3 = false;
-  const b4 = false;
-  const b5 = false;
-  const b6 = false;
-  const b7 = false;
-  const b8 = false;
-  const b9 = false;
-  const b10 = false;
-  const b11 = false;
-  const b12 = false;
+  // Load courses when component mounts
+  useEffect(() => {
+    loadMajorCourses();
+  }, []);
 
-  // Define dropdown options
-  const firstDropdownOptions = ["College 1", "College 2", "College 3"];
-  const secondDropdownOptions = ["Major 1", "Major 2", "Major 3"];
+  const loadMajorCourses = async () => {
+    try {
+      setLoading(true);
+      setError(null);
+      const data = await getMajorCourses(MAJOR_NAME);
+      
+      // Combine required and elective courses
+      const allCourses = [
+        ...(data.required || []),
+        ...(data.electives || [])
+      ];
+      
+      if (allCourses.length === 0) {
+        setError('No courses found for this major.');
+      } else {
+        setCourses(allCourses);
+      }
+    } catch (err) {
+      const errorMessage = err.message || 'Failed to load courses. Please check if the backend server is running.';
+      setError(errorMessage);
+      console.error('Load courses error:', err);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleGetRecommendations = async () => {
+    if (selectedCourses.length === 0) {
+      setError('Please select at least one completed course.');
+      return;
+    }
+
+    try {
+      setLoading(true);
+      setError(null);
+      
+      // Validate course codes before sending
+      const { validateAndNormalizeCourses } = await import('./utils/validation.js');
+      const normalizedCourses = validateAndNormalizeCourses(selectedCourses);
+      
+      if (normalizedCourses.length === 0) {
+        setError('Please select valid course codes.');
+        setLoading(false);
+        return;
+      }
+      
+      const response = await getRecommendations(MAJOR_NAME, normalizedCourses, 10);
+      setRecommendations(response.recommendations || []);
+      setProgress(response.progress || { completed: 0, total: 0, percentage: 0 });
+      setSemesterPlan(response.semester_plan || null);
+      setStudentYear(response.student_year || null);
+      setScreen('recommendations');
+    } catch (err) {
+      const errorMessage = err.message || 'Failed to get recommendations. Please try again.';
+      setError(errorMessage);
+      console.error('Recommendations error:', err);
+    } finally {
+      setLoading(false);
+    }
+  };
+
+  const handleCourseClick = (courseCode) => {
+    setSelectedCourseDetails(courseCode);
+  };
+
+  const handleCloseDetails = () => {
+    setSelectedCourseDetails(null);
+  };
 
   return (
-    <div>
-      {screen === "home" && (
+    <div className="app">
+      {screen === 'welcome' && (
         <div className="screen-container">
-          <QuestionHeader>
-            <center>
-              <b>Select your college</b>
-            </center>
-          </QuestionHeader>
+          <div className="welcome-screen">
+            <h1 className="welcome-title">UIUC Course Recommendation System</h1>
+            <p className="welcome-subtitle">Get personalized course recommendations for Computer Science</p>
+            <button 
+              className="start-button"
+              onClick={() => setScreen('course-selection')}
+            >
+              Get Started
+            </button>
+          </div>
+        </div>
+      )}
 
-          <div style={{
-            margin: "20px 0",
-            display: "flex",
-            justifyContent: "center",
-            flexDirection: "column",
-            alignItems: "center",
-            gap: "30px"
-          }}>
-            {/* Dropdown */}
-            <div style={{ margin: "20px 0", display: "flex", justifyContent: "center" }}>
-              <Dropdown
-                options={firstDropdownOptions}
-                onSelect={(option) => {
-                  setFirstDropdownSelected(true);             
-                }}
-              />
-            </div>
-            {firstDropdownSelected && (
-              <div style={{ margin: "20px 0", display: "flex", justifyContent: "center" }}>
-                <Dropdown
-                  options={secondDropdownOptions}
-                  onSelect={(option) => {
-                    setSecondDropdownSelected(option);
-                    setScreen("screen1")
-                  }}
-                />
+      {screen === 'course-selection' && (
+        <div className="screen-container">
+          <div className="course-selection-screen">
+            <h1 className="screen-title">Select Completed Courses</h1>
+            <p className="screen-subtitle">
+              Select all courses you have already completed. We'll recommend what to take next!
+            </p>
+            
+            {error && (
+              <div className="error-message">
+                {error}
               </div>
+            )}
+
+            {loading && courses.length === 0 ? (
+              <div className="loading">Loading courses...</div>
+            ) : (
+              <>
+                {courses.length > 0 ? (
+                  <>
+                    <CourseSelector
+                      courses={courses}
+                      selectedCourses={selectedCourses}
+                      onSelectionChange={setSelectedCourses}
+                    />
+                    
+                    <div className="action-buttons">
+                      <button
+                        className="back-button"
+                        onClick={() => setScreen('welcome')}
+                      >
+                        Back
+                      </button>
+                      <button
+                        className="recommend-button"
+                        onClick={handleGetRecommendations}
+                        disabled={loading || selectedCourses.length === 0}
+                      >
+                        {loading ? 'Loading...' : `Get Recommendations (${selectedCourses.length} selected)`}
+                      </button>
+                    </div>
+                  </>
+                ) : (
+                  <div className="no-courses">
+                    <p>No courses found for this major.</p>
+                    <button
+                      className="back-button"
+                      onClick={() => setScreen('welcome')}
+                    >
+                      Back
+                    </button>
+                  </div>
+                )}
+              </>
             )}
           </div>
         </div>
       )}
 
-      {screen === "screen1" && (
+      {screen === 'recommendations' && (
         <div className="screen-container">
-          <QuestionHeader>
-            <center>
-              <b>Primary interest?</b>
-            </center>
-          </QuestionHeader>
-          <Option1 onClick={() => setScreen("screen2")} handleClick={() => b1 == true} />
-          <Option2 onClick={() => setScreen("screen2")} handleClick={() => b2 == true} />
-          <Option3 onClick={() => setScreen("screen2")} handleClick={() => b3 == true} />
+          <div className="recommendations-screen">
+            <h1 className="screen-title">Your Recommendations</h1>
+            
+            {studentYear && (
+              <div className="year-indicator">
+                Detected: {studentYear.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase())} Student
+              </div>
+            )}
+            
+            <ProgressBar progress={progress} />
+            
+            {semesterPlan && (
+              <SemesterPlan 
+                semesterPlan={semesterPlan}
+                studentYear={studentYear}
+              />
+            )}
+            
+            {error && (
+              <div className="error-message">
+                {error}
+              </div>
+            )}
+
+            <Recommendations
+              recommendations={recommendations}
+              onCourseClick={handleCourseClick}
+            />
+
+            <div className="action-buttons">
+              <button
+                className="back-button"
+                onClick={() => setScreen('course-selection')}
+              >
+                Change Selection
+              </button>
+              <button
+                className="new-search-button"
+                onClick={() => {
+                  setSelectedCourses([]);
+                  setRecommendations([]);
+                  setProgress({ completed: 0, total: 0, percentage: 0 });
+                  setSemesterPlan(null);
+                  setStudentYear(null);
+                  setScreen('course-selection');
+                }}
+              >
+                Start Over
+              </button>
+            </div>
+          </div>
         </div>
       )}
 
-      {screen === "screen2" && (
-        <div className="screen-container">
-          <QuestionHeader>
-            <center>
-              <b>Academic Interest</b>
-            </center>
-          </QuestionHeader>
-          <div className="options-container">
-          <Option4 onClick={() => setScreen("screen3")} handleClick={() => b4 == true} />
-          <Option5 onClick={() => setScreen("screen3")} handleClick={() => b5 == true} />
-          <Option6 onClick={() => setScreen("screen3")} handleClick={() => b6 == true} />
-        </div>
-        </div>
+      {selectedCourseDetails && (
+        <CourseDetails
+          courseCode={selectedCourseDetails}
+          onClose={handleCloseDetails}
+        />
       )}
-
-      {screen === "screen3" && (
-        <div className="screen-container">
-          <QuestionHeader>
-            <center>
-              <b>Next Question</b>
-            </center>
-          </QuestionHeader>
-          <div className="options-container">
-          <Option4 onClick={() => setScreen("screen4")} handleClick={() => b7 == true} />
-          <Option5 onClick={() => setScreen("screen4")} handleClick={() => b8 == true} />
-          <Option6 onClick={() => setScreen("screen4")} handleClick={() => b9 == true} />
-        </div>
-        </div>
-      )}
-
-      {screen === "screen4" && (
-        <div className="screen-container">
-          <QuestionHeader>
-            <center>
-              <b>Final Question</b>
-            </center>
-          </QuestionHeader>
-          <div className="options-container">
-          <Option4 onClick={() => setScreen("tinder")} handleClick={() => b10 == true} />
-          <Option5 onClick={() => setScreen("tinder")} handleClick={() => b11 == true} />
-          <Option6 onClick={() => setScreen("tinder")} handleClick={() => b12 == true} />
-        </div>
-        </div>
-      )}
-
-      {screen === "tinder" && <div>{/* Tinder screen content */}</div>}
     </div>
   );
 }

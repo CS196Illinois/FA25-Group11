@@ -1,0 +1,140 @@
+.course-details-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+  padding: 20px;
+}
+
+.course-details-modal {
+  background: white;
+  border-radius: 12px;
+  max-width: 600px;
+  width: 100%;
+  max-height: 90vh;
+  overflow-y: auto;
+  position: relative;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.3);
+}
+
+.close-button {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  background: #f5f5f5;
+  border: none;
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  font-size: 24px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.2s;
+}
+
+.close-button:hover {
+  background: #e0e0e0;
+}
+
+.course-details-content {
+  padding: 30px;
+}
+
+.course-details-code {
+  font-size: 28px;
+  color: #2196f3;
+  margin: 0 0 10px 0;
+  font-weight: 700;
+}
+
+.course-details-name {
+  font-size: 22px;
+  color: #333;
+  margin: 0 0 25px 0;
+  font-weight: 600;
+}
+
+.course-details-section {
+  margin: 20px 0;
+}
+
+.section-label {
+  font-weight: 600;
+  color: #666;
+  display: block;
+  margin-bottom: 8px;
+  font-size: 14px;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.section-value {
+  color: #333;
+  line-height: 1.6;
+}
+
+.prerequisites-list,
+.postrequisites-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  margin-top: 8px;
+}
+
+.prerequisite-tag {
+  background: #ffebee;
+  color: #c62828;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.postrequisite-tag {
+  background: #e8f5e9;
+  color: #2e7d32;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.more-courses {
+  color: #666;
+  font-style: italic;
+  padding: 6px 12px;
+}
+
+.course-link {
+  display: inline-block;
+  color: #2196f3;
+  text-decoration: none;
+  font-weight: 600;
+  margin-top: 10px;
+  transition: color 0.2s;
+}
+
+.course-link:hover {
+  color: #1976d2;
+  text-decoration: underline;
+}
+
+.loading,
+.error {
+  padding: 40px;
+  text-align: center;
+  color: #666;
+}
+
+.error {
+  color: #c62828;
+}
+
