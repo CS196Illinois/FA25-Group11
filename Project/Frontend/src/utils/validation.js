@@ -27,7 +27,7 @@ export const normalizeCourseCode = (code) => {
   // Ensure format is "DEPT 123" not "DEPT123"
   const match = normalized.match(/^([A-Z]{2,4})\s*(\d{3}[A-Z]?)$/);
   if (match) {
-    return `${match.group(1)} ${match.group(2)}`;
+    return `${match[1]} ${match[2]}`;
   }
   
   return normalized;
