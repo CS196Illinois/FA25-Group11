@@ -435,12 +435,47 @@ class CombinedRecommendationRequest(BaseModel):
 @router.post("/recommend/combined")
 async def get_combined_recommendations(request: CombinedRecommendationRequest):
     """Get combined recommendations for courses, GenEd, and clubs."""
+    import asyncio
+    import logging
+    
+    logger = logging.getLogger(__name__)
+    logger.info(f"Starting combined recommendations request for major: {request.major_name}")
+    
     try:
         results = {}
+        
+        # Run GenEd and Club recommendations in parallel (they don't depend on each other)
+        def get_gened():
+            try:
+                gened_recommender = get_gened_recommender()
+                return gened_recommender.recommend_courses(
+                    interests=request.gened_interests,
+                    gened_preferences=request.gened_preferences,
+                    min_gpa=request.gened_min_gpa,
+                    avoid_subjects=request.gened_avoid_subjects,
+                    topk=request.gened_topk,
+                )
+            except Exception as e:
+                logger.error(f"Error in GenEd recommendations: {str(e)}")
+                return []
+
+        def get_clubs():
+            try:
+                club_recommender = get_club_recommender()
+                return club_recommender.recommend_clubs(
+                    interests=request.club_interests,
+                    preferred_tags=request.club_preferred_tags,
+                    avoid_tags=request.club_avoid_tags,
+                    topk=request.club_topk,
+                )
+            except Exception as e:
+                logger.error(f"Error in club recommendations: {str(e)}")
+                return []
 
         # Get technical course recommendations if major is provided
         if request.major_name:
             try:
+                logger.info(f"Getting technical recommendations for major: {request.major_name}")
                 technical_recommender = get_technical_recommender()
                 technical_recommendations = technical_recommender.recommend_courses(
                     major_name=request.major_name,
@@ -451,46 +486,54 @@ async def get_combined_recommendations(request: CombinedRecommendationRequest):
                     topk=request.technical_topk,
                 )
                 results["technical_courses"] = technical_recommendations
+                logger.info(f"Got {len(technical_recommendations)} technical recommendations")
             except Exception as e:
+                logger.warning(f"Technical recommender failed: {str(e)}, falling back to old recommender")
                 # Fallback to old recommender if technical fails
-                recommender = get_recommender()
-                data_loader = get_data_loader()
-                major = data_loader.get_major(request.major_name)
+                try:
+                    recommender = get_recommender()
+                    data_loader = get_data_loader()
+                    major = data_loader.get_major(request.major_name)
 
-                if major:
-                    course_result = recommender.recommend_courses(
-                        major_name=request.major_name,
-                        completed_courses=request.completed_courses,
-                        num_recommendations=request.course_num_recommendations,
-                    )
-                    results["courses"] = course_result.get("recommendations", [])
-                    results["progress"] = course_result.get("progress", {})
-                    results["semester_plan"] = course_result.get("semester_plan")
-                    results["student_year"] = course_result.get("student_year")
+                    if major:
+                        course_result = recommender.recommend_courses(
+                            major_name=request.major_name,
+                            completed_courses=request.completed_courses,
+                            num_recommendations=request.course_num_recommendations,
+                        )
+                        results["courses"] = course_result.get("recommendations", [])
+                        results["progress"] = course_result.get("progress", {})
+                        results["semester_plan"] = course_result.get("semester_plan")
+                        results["student_year"] = course_result.get("student_year")
+                except Exception as fallback_error:
+                    logger.error(f"Fallback recommender also failed: {str(fallback_error)}")
+                    results["courses"] = []
 
-        # Get GenEd recommendations
-        gened_recommender = get_gened_recommender()
-        gened_recommendations = gened_recommender.recommend_courses(
-            interests=request.gened_interests,
-            gened_preferences=request.gened_preferences,
-            min_gpa=request.gened_min_gpa,
-            avoid_subjects=request.gened_avoid_subjects,
-            topk=request.gened_topk,
+        # Run GenEd and Club recommendations in parallel
+        logger.info("Getting GenEd and Club recommendations in parallel")
+        gened_recommendations, club_recommendations = await asyncio.gather(
+            asyncio.to_thread(get_gened),
+            asyncio.to_thread(get_clubs),
+            return_exceptions=True
         )
-        results["gened"] = gened_recommendations
+        
+        # Handle results
+        if isinstance(gened_recommendations, Exception):
+            logger.error(f"GenEd recommendations failed: {str(gened_recommendations)}")
+            results["gened"] = []
+        else:
+            results["gened"] = gened_recommendations
+        
+        if isinstance(club_recommendations, Exception):
+            logger.error(f"Club recommendations failed: {str(club_recommendations)}")
+            results["clubs"] = []
+        else:
+            results["clubs"] = club_recommendations
 
-        # Get club recommendations
-        club_recommender = get_club_recommender()
-        club_recommendations = club_recommender.recommend_clubs(
-            interests=request.club_interests,
-            preferred_tags=request.club_preferred_tags,
-            avoid_tags=request.club_avoid_tags,
-            topk=request.club_topk,
-        )
-        results["clubs"] = club_recommendations
-
+        logger.info("Combined recommendations completed successfully")
         return results
     except Exception as e:
+        logger.error(f"Error generating combined recommendations: {str(e)}", exc_info=True)
         raise HTTPException(
             status_code=500,
             detail=f"Error generating combined recommendations: {str(e)}",
