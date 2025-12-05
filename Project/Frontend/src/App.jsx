@@ -1,5 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
+import CollegeMajorScreen from './components/CollegeMajorScreen';
 import CourseSelector from './components/CourseSelector';
 import Recommendations from './components/Recommendations';
 import ProgressBar from './components/ProgressBar';
@@ -9,10 +10,10 @@ import ClubRecommender from './components/ClubRecommender';
 import GenedRecommender from './components/GenedRecommender';
 import { getMajorCourses, getRecommendations } from './services/api';
 
-const MAJOR_NAME = 'Computer Science, BS';
-
 function App() {
-  const [screen, setScreen] = useState('welcome');
+  const [screen, setScreen] = useState('college-major-selection');
+  const [selectedCollege, setSelectedCollege] = useState('');
+  const [selectedMajor, setSelectedMajor] = useState('');
   const [courses, setCourses] = useState([]);
   const [selectedCourses, setSelectedCourses] = useState([]);
   const [recommendations, setRecommendations] = useState([]);
@@ -23,16 +24,69 @@ function App() {
   const [error, setError] = useState(null);
   const [selectedCourseDetails, setSelectedCourseDetails] = useState(null);
 
-  // Load courses when component mounts
-  useEffect(() => {
-    loadMajorCourses();
-  }, []);
+  // Colleges and majors data
+  const colleges = [
+    { value: '', label: '-- Select College --' },
+    { value: 'grainger', label: 'Grainger College of Engineering' },
+    { value: 'las', label: 'College of Liberal Arts & Sciences' },
+    { value: 'business', label: 'Gies College of Business' },
+    { value: 'education', label: 'College of Education' },
+    { value: 'faa', label: 'College of Fine & Applied Arts' },
+    { value: 'aces', label: 'College of Agricultural, Consumer & Environmental Sciences' },
+    { value: 'media', label: 'College of Media' },
+    { value: 'ischool', label: 'School of Information Sciences' }
+  ];
+
+  const majorsByCollege = {
+    'grainger': [
+      { value: '', label: '-- Select Major --' },
+      { value: 'Computer Science, BS', label: 'Computer Science, BS' },
+      { value: 'Computer Engineering, BS', label: 'Computer Engineering, BS' },
+      { value: 'Electrical Engineering, BS', label: 'Electrical Engineering, BS' },
+      { value: 'Mechanical Engineering, BS', label: 'Mechanical Engineering, BS' },
+      { value: 'Civil Engineering, BS', label: 'Civil Engineering, BS' }
+    ],
+    'las': [
+      { value: '', label: '-- Select Major --' },
+      { value: 'Mathematics, BS', label: 'Mathematics, BS' },
+      { value: 'Physics, BS', label: 'Physics, BS' },
+      { value: 'Chemistry, BS', label: 'Chemistry, BS' },
+      { value: 'Psychology, BS', label: 'Psychology, BS' }
+    ],
+    'business': [
+      { value: '', label: '-- Select Major --' },
+      { value: 'Accountancy, BS', label: 'Accountancy, BS' },
+      { value: 'Finance, BS', label: 'Finance, BS' }
+    ],
+    'education': [
+      { value: '', label: '-- Select Major --' }
+    ],
+    'faa': [
+      { value: '', label: '-- Select Major --' }
+    ],
+    'aces': [
+      { value: '', label: '-- Select Major --' }
+    ],
+    'media': [
+      { value: '', label: '-- Select Major --' }
+    ],
+    'ischool': [
+      { value: '', label: '-- Select Major --' }
+    ]
+  };
+
+  const majors = selectedCollege ? majorsByCollege[selectedCollege] : [{ value: '', label: '-- Select College First --' }];
 
   const loadMajorCourses = async () => {
+    if (!selectedMajor) {
+      setError('Please select a major first.');
+      return;
+    }
+
     try {
       setLoading(true);
       setError(null);
-      const data = await getMajorCourses(MAJOR_NAME);
+      const data = await getMajorCourses(selectedMajor);
       
       // Combine required and elective courses
       const allCourses = [
@@ -74,7 +128,7 @@ function App() {
         return;
       }
       
-      const response = await getRecommendations(MAJOR_NAME, normalizedCourses, 10);
+      const response = await getRecommendations(selectedMajor, normalizedCourses, 10);
       setRecommendations(response.recommendations || []);
       setProgress(response.progress || { completed: 0, total: 0, percentage: 0 });
       setSemesterPlan(response.semester_plan || null);
@@ -97,15 +151,37 @@ function App() {
     setSelectedCourseDetails(null);
   };
 
+  const handleContinueFromCollegeMajor = async () => {
+    await loadMajorCourses();
+    if (courses.length > 0 || selectedMajor) {
+      setScreen('welcome');
+    }
+  };
+
   return (
     <div className="app">
+      {screen === 'college-major-selection' && (
+        <CollegeMajorScreen
+          colleges={colleges}
+          majors={majors}
+          selectedCollege={selectedCollege}
+          setSelectedCollege={setSelectedCollege}
+          selectedMajor={selectedMajor}
+          setSelectedMajor={setSelectedMajor}
+          onContinue={handleContinueFromCollegeMajor}
+        />
+      )}
+
       {screen === 'welcome' && (
         <div className="screen-container">
           <div className="welcome-screen">
             <h1 className="welcome-title">UIUC Recommendation System</h1>
             <p className="welcome-subtitle">Get personalized recommendations for courses, clubs, and GenEd courses</p>
+            {selectedMajor && (
+              <p className="selected-major-display">Selected Major: <strong>{selectedMajor}</strong></p>
+            )}
             <div className="welcome-options">
-              <button 
+              <button
                 className="option-button course-button"
                 onClick={() => setScreen('course-selection')}
               >
@@ -113,7 +189,7 @@ function App() {
                 <span className="option-title">Course Recommendations</span>
                 <span className="option-desc">Based on your major and completed courses</span>
               </button>
-              <button 
+              <button
                 className="option-button club-button"
                 onClick={() => setScreen('club-recommender')}
               >
@@ -121,7 +197,7 @@ function App() {
                 <span className="option-title">Club Recommendations</span>
                 <span className="option-desc">Find student organizations that match your interests</span>
               </button>
-              <button 
+              <button
                 className="option-button gened-button"
                 onClick={() => setScreen('gened-recommender')}
               >
@@ -130,6 +206,13 @@ function App() {
                 <span className="option-desc">Discover General Education courses for you</span>
               </button>
             </div>
+            <button
+              className="back-button"
+              onClick={() => setScreen('college-major-selection')}
+              style={{ marginTop: '20px' }}
+            >
+              Change College/Major
+            </button>
           </div>
         </div>
       )}
