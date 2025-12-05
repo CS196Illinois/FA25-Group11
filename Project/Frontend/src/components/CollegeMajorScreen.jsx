@@ -23,7 +23,9 @@ export default function CollegeMajorScreen({
             className="dropdown-select"
           >
             {colleges.map(opt => (
-              <option key={opt.value} value={opt.value}>{opt.label}</option>
+              <option key={opt.value} value={opt.value}>
+                {opt.label}
+              </option>
             ))}
           </select>
         </div>
@@ -34,9 +36,12 @@ export default function CollegeMajorScreen({
             value={selectedMajor}
             onChange={e => setSelectedMajor(e.target.value)}
             className="dropdown-select"
+            disabled={!selectedCollege}
           >
             {majors.map(opt => (
-              <option key={opt.value} value={opt.value}>{opt.label}</option>
+              <option key={opt.value} value={opt.value}>
+                {opt.label}
+              </option>
             ))}
           </select>
         </div>

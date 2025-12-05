@@ -9,6 +9,7 @@ import SemesterPlan from './components/SemesterPlan';
 import ClubRecommender from './components/ClubRecommender';
 import GenedRecommender from './components/GenedRecommender';
 import { getMajorCourses, getRecommendations } from './services/api';
+import majorsByCollegeData from './majors_by_college.json';
 
 function App() {
   const [screen, setScreen] = useState('college-major-selection');
@@ -23,6 +24,7 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
   const [selectedCourseDetails, setSelectedCourseDetails] = useState(null);
+  const [majorsByCollege, setMajorsByCollege] = useState({});
 
   // Colleges and majors data
   const colleges = [
@@ -37,45 +39,65 @@ function App() {
     { value: 'ischool', label: 'School of Information Sciences' }
   ];
 
-  const majorsByCollege = {
-    'grainger': [
-      { value: '', label: '-- Select Major --' },
-      { value: 'Computer Science, BS', label: 'Computer Science, BS' },
-      { value: 'Computer Engineering, BS', label: 'Computer Engineering, BS' },
-      { value: 'Electrical Engineering, BS', label: 'Electrical Engineering, BS' },
-      { value: 'Mechanical Engineering, BS', label: 'Mechanical Engineering, BS' },
-      { value: 'Civil Engineering, BS', label: 'Civil Engineering, BS' }
-    ],
-    'las': [
-      { value: '', label: '-- Select Major --' },
-      { value: 'Mathematics, BS', label: 'Mathematics, BS' },
-      { value: 'Physics, BS', label: 'Physics, BS' },
-      { value: 'Chemistry, BS', label: 'Chemistry, BS' },
-      { value: 'Psychology, BS', label: 'Psychology, BS' }
-    ],
-    'business': [
-      { value: '', label: '-- Select Major --' },
-      { value: 'Accountancy, BS', label: 'Accountancy, BS' },
-      { value: 'Finance, BS', label: 'Finance, BS' }
-    ],
-    'education': [
-      { value: '', label: '-- Select Major --' }
-    ],
-    'faa': [
-      { value: '', label: '-- Select Major --' }
-    ],
-    'aces': [
-      { value: '', label: '-- Select Major --' }
-    ],
-    'media': [
-      { value: '', label: '-- Select Major --' }
-    ],
-    'ischool': [
-      { value: '', label: '-- Select Major --' }
-    ]
+  // Map JSON college keys to frontend college keys
+  const collegeKeyMap = {
+    'engineering': 'grainger',
+    'las': 'las',
+    'bus': 'business',
+    'education': 'education',
+    'faa': 'faa',
+    'aces': 'aces',
+    'media': 'media',
+    'ischool': 'ischool'
   };
 
-  const majors = selectedCollege ? majorsByCollege[selectedCollege] : [{ value: '', label: '-- Select College First --' }];
+  // Load and process majors data from JSON
+  useEffect(() => {
+    const processedMajors = {};
+    
+    // Process each college in the JSON data
+    Object.keys(majorsByCollegeData).forEach(jsonKey => {
+      const frontendKey = collegeKeyMap[jsonKey];
+      if (frontendKey && majorsByCollegeData[jsonKey].majors) {
+        // Get unique majors (remove duplicates by major_name)
+        const uniqueMajors = new Map();
+        majorsByCollegeData[jsonKey].majors.forEach(major => {
+          if (!uniqueMajors.has(major.major_name)) {
+            uniqueMajors.set(major.major_name, major);
+          }
+        });
+        
+        // Convert to frontend format
+        const majorsList = [
+          { value: '', label: '-- Select Major --' },
+          ...Array.from(uniqueMajors.values()).map(major => ({
+            value: major.major_name,
+            label: major.major_name
+          }))
+        ];
+        
+        processedMajors[frontendKey] = majorsList;
+      }
+    });
+    
+    // Initialize empty arrays for colleges not in JSON
+    colleges.forEach(college => {
+      if (college.value && !processedMajors[college.value]) {
+        processedMajors[college.value] = [{ value: '', label: '-- Select Major --' }];
+      }
+    });
+    
+    setMajorsByCollege(processedMajors);
+  }, []);
+
+  const majors = selectedCollege ? (majorsByCollege[selectedCollege] || [{ value: '', label: '-- Select Major --' }]) : [{ value: '', label: '-- Select College First --' }];
+
+  // Reset major when college changes
+  useEffect(() => {
+    if (selectedCollege) {
+      setSelectedMajor('');
+    }
+  }, [selectedCollege]);
 
   const loadMajorCourses = async () => {
     if (!selectedMajor) {
