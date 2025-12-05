@@ -28,6 +28,9 @@ const PreferenceScreen = ({
 
   // Course state
   const [selectedMajor, setSelectedMajor] = useState('');
+  const [courseInterests, setCourseInterests] = useState('');
+  const [preferFoundational, setPreferFoundational] = useState(false);
+  const [preferAdvanced, setPreferAdvanced] = useState(false);
   const [courseErrors, setCourseErrors] = useState({});
 
   const availableGenedCategories = [
@@ -72,6 +75,10 @@ const PreferenceScreen = ({
       setGenedErrors({ ...genedErrors, subjectInput: 'Subject already added' });
       return;
     }
+    if (avoidSubjects.length >= 20) {
+      setGenedErrors({ ...genedErrors, subjectInput: 'Maximum 20 subjects allowed' });
+      return;
+    }
     setAvoidSubjects([...avoidSubjects, subject]);
     setSubjectInput('');
     setGenedErrors({ ...genedErrors, subjectInput: '' });
@@ -88,8 +95,25 @@ const PreferenceScreen = ({
       setClubErrors({ ...clubErrors, tagInput: 'Please enter a category' });
       return;
     }
+    if (tag.length < 2) {
+      setClubErrors({ ...clubErrors, tagInput: 'Category name must be at least 2 characters' });
+      return;
+    }
+    if (tag.length > 50) {
+      setClubErrors({ ...clubErrors, tagInput: 'Category name must be 50 characters or less' });
+      return;
+    }
     if (preferredTags.includes(tag)) {
       setClubErrors({ ...clubErrors, tagInput: 'Category already added' });
+      return;
+    }
+    if (preferredTags.length >= 15) {
+      setClubErrors({ ...clubErrors, tagInput: 'Maximum 15 preferred categories allowed' });
+      return;
+    }
+    // Allow any valid category name (format validation only)
+    if (!/^[a-zA-Z0-9\s&'-]+$/.test(tag)) {
+      setClubErrors({ ...clubErrors, tagInput: 'Category name can only contain letters, numbers, spaces, and special characters (&, -, \')' });
       return;
     }
     setPreferredTags([...preferredTags, tag]);
@@ -107,8 +131,25 @@ const PreferenceScreen = ({
       setClubErrors({ ...clubErrors, avoidInput: 'Please enter a category' });
       return;
     }
+    if (tag.length < 2) {
+      setClubErrors({ ...clubErrors, avoidInput: 'Category name must be at least 2 characters' });
+      return;
+    }
+    if (tag.length > 50) {
+      setClubErrors({ ...clubErrors, avoidInput: 'Category name must be 50 characters or less' });
+      return;
+    }
     if (avoidTags.includes(tag)) {
       setClubErrors({ ...clubErrors, avoidInput: 'Category already added' });
+      return;
+    }
+    if (avoidTags.length >= 15) {
+      setClubErrors({ ...clubErrors, avoidInput: 'Maximum 15 avoid categories allowed' });
+      return;
+    }
+    // Allow any valid category name (format validation only)
+    if (!/^[a-zA-Z0-9\s&'-]+$/.test(tag)) {
+      setClubErrors({ ...clubErrors, avoidInput: 'Category name can only contain letters, numbers, spaces, and special characters (&, -, \')' });
       return;
     }
     setAvoidTags([...avoidTags, tag]);
@@ -124,11 +165,48 @@ const PreferenceScreen = ({
     const errors = {};
     
     if (type === 'gened') {
-      if (minGpa < 0 || minGpa > 4.0) {
-        errors.minGpa = 'GPA must be between 0 and 4.0';
+      // Validate GPA
+      if (isNaN(minGpa) || minGpa === null || minGpa === undefined || minGpa === '') {
+        errors.minGpa = 'GPA is required';
+      } else if (minGpa < 0 || minGpa > 4.0) {
+        errors.minGpa = 'GPA must be between 0.0 and 4.0';
+      } else if (minGpa % 0.01 !== 0 && minGpa % 0.1 !== 0) {
+        // Allow up to 2 decimal places
+        const rounded = Math.round(minGpa * 100) / 100;
+        if (Math.abs(minGpa - rounded) > 0.001) {
+          errors.minGpa = 'GPA can have up to 2 decimal places';
+        }
+      }
+      
+      // Validate interests length
+      if (genedInterests.length > 500) {
+        errors.genedInterests = 'Interests must be 500 characters or less';
+      }
+      
+      // Validate avoid subjects count
+      if (avoidSubjects.length > 20) {
+        errors.avoidSubjects = 'Maximum 20 subjects allowed';
+      }
+    } else if (type === 'clubs') {
+      // Validate interests length
+      if (clubInterests.length > 500) {
+        errors.clubInterests = 'Interests must be 500 characters or less';
+      }
+      
+      // Validate preferred tags count
+      if (preferredTags.length > 15) {
+        errors.preferredTags = 'Maximum 15 preferred categories allowed';
+      }
+      
+      // Validate avoid tags count
+      if (avoidTags.length > 15) {
+        errors.avoidTags = 'Maximum 15 avoid categories allowed';
       }
     } else if (type === 'courses') {
-      // Major is optional, no validation needed
+      // Validate course interests length
+      if (courseInterests.length > 500) {
+        errors.courseInterests = 'Interests must be 500 characters or less';
+      }
     }
     
     return errors;
@@ -140,6 +218,8 @@ const PreferenceScreen = ({
     if (Object.keys(errors).length > 0) {
       if (type === 'gened') {
         setGenedErrors({ ...genedErrors, ...errors });
+      } else if (type === 'clubs') {
+        setClubErrors({ ...clubErrors, ...errors });
       } else if (type === 'courses') {
         setCourseErrors({ ...courseErrors, ...errors });
       }
@@ -163,7 +243,10 @@ const PreferenceScreen = ({
       };
     } else if (type === 'courses') {
       data = {
-        selectedMajor: selectedMajor.trim()
+        selectedMajor: selectedMajor.trim(),
+        courseInterests: courseInterests.trim(),
+        preferFoundational,
+        preferAdvanced
       };
     }
     
@@ -178,7 +261,7 @@ const PreferenceScreen = ({
       } else if (type === 'clubs') {
         defaultData = { clubInterests: '', preferredTags: [], avoidTags: [] };
       } else if (type === 'courses') {
-        defaultData = { selectedMajor: '' };
+        defaultData = { selectedMajor: '', courseInterests: '', preferFoundational: false, preferAdvanced: false };
       }
       onSkip(defaultData);
     }
@@ -191,11 +274,27 @@ const PreferenceScreen = ({
         <textarea
           id="interests"
           value={genedInterests}
-          onChange={(e) => setGenedInterests(e.target.value)}
+          onChange={(e) => {
+            const value = e.target.value;
+            if (value.length <= 500) {
+              setGenedInterests(value);
+              if (genedErrors.genedInterests) {
+                setGenedErrors({ ...genedErrors, genedInterests: '' });
+              }
+            }
+          }}
           placeholder="e.g., psychology, society, culture, politics, economics..."
           rows={3}
+          maxLength={500}
+          aria-invalid={!!genedErrors.genedInterests}
+          aria-describedby={genedErrors.genedInterests ? "genedInterests-error" : undefined}
         />
-        <small>Describe what you're interested in learning about</small>
+        {genedErrors.genedInterests && (
+          <span id="genedInterests-error" className="field-error" role="alert">
+            {genedErrors.genedInterests}
+          </span>
+        )}
+        <small>Describe what you're interested in learning about ({genedInterests.length}/500 characters)</small>
       </div>
 
       <div className="form-group">
@@ -222,12 +321,36 @@ const PreferenceScreen = ({
           type="number"
           min="0"
           max="4.0"
-          step="0.1"
+          step="0.01"
           value={minGpa}
           onChange={(e) => {
-            const value = parseFloat(e.target.value) || 0;
-            setMinGpa(value);
-            if (genedErrors.minGpa) {
+            const inputValue = e.target.value;
+            // Allow empty input while typing
+            if (inputValue === '') {
+              setMinGpa('');
+              if (genedErrors.minGpa) {
+                setGenedErrors({ ...genedErrors, minGpa: '' });
+              }
+              return;
+            }
+            const value = parseFloat(inputValue);
+            // Only update if it's a valid number
+            if (!isNaN(value)) {
+              // Clamp value between 0 and 4.0
+              const clampedValue = Math.max(0, Math.min(4.0, value));
+              setMinGpa(clampedValue);
+              // Real-time validation
+              if (clampedValue < 0 || clampedValue > 4.0) {
+                setGenedErrors({ ...genedErrors, minGpa: 'GPA must be between 0.0 and 4.0' });
+              } else if (genedErrors.minGpa) {
+                setGenedErrors({ ...genedErrors, minGpa: '' });
+              }
+            }
+          }}
+          onBlur={(e) => {
+            // Validate on blur if empty
+            if (e.target.value === '' || isNaN(parseFloat(e.target.value))) {
+              setMinGpa(3.0); // Reset to default
               setGenedErrors({ ...genedErrors, minGpa: '' });
             }
           }}
@@ -239,7 +362,7 @@ const PreferenceScreen = ({
             {genedErrors.minGpa}
           </span>
         )}
-        <small>Only show courses with average GPA above this threshold (0.0 - 4.0)</small>
+        <small>Only show courses with average GPA above this threshold (0.0 - 4.0, up to 2 decimal places)</small>
       </div>
 
       <div className="form-group">
@@ -249,7 +372,9 @@ const PreferenceScreen = ({
             type="text"
             value={subjectInput}
             onChange={(e) => {
-              setSubjectInput(e.target.value.toUpperCase());
+              // Only allow letters, auto-uppercase
+              const value = e.target.value.replace(/[^A-Za-z]/g, '').toUpperCase();
+              setSubjectInput(value);
               if (genedErrors.subjectInput) {
                 setGenedErrors({ ...genedErrors, subjectInput: '' });
               }
@@ -257,6 +382,7 @@ const PreferenceScreen = ({
             onKeyPress={(e) => e.key === 'Enter' && handleAddAvoidSubject()}
             placeholder="e.g., BTW, CEE (press Enter to add)"
             maxLength={4}
+            pattern="[A-Z]{2,4}"
             aria-invalid={!!genedErrors.subjectInput}
             aria-describedby={genedErrors.subjectInput ? "subjectInput-error" : undefined}
           />
@@ -287,6 +413,12 @@ const PreferenceScreen = ({
             </span>
           ))}
         </div>
+        {genedErrors.avoidSubjects && (
+          <span className="field-error" role="alert">
+            {genedErrors.avoidSubjects}
+          </span>
+        )}
+        <small>{avoidSubjects.length}/20 subjects added</small>
       </div>
     </div>
   );
@@ -298,11 +430,27 @@ const PreferenceScreen = ({
         <textarea
           id="interests"
           value={clubInterests}
-          onChange={(e) => setClubInterests(e.target.value)}
+          onChange={(e) => {
+            const value = e.target.value;
+            if (value.length <= 500) {
+              setClubInterests(value);
+              if (clubErrors.clubInterests) {
+                setClubErrors({ ...clubErrors, clubInterests: '' });
+              }
+            }
+          }}
           placeholder="e.g., sports, technology, music, volunteering..."
           rows={3}
+          maxLength={500}
+          aria-invalid={!!clubErrors.clubInterests}
+          aria-describedby={clubErrors.clubInterests ? "clubInterests-error" : undefined}
         />
-        <small>Describe what you're interested in (sports, tech, arts, etc.)</small>
+        {clubErrors.clubInterests && (
+          <span id="clubInterests-error" className="field-error" role="alert">
+            {clubErrors.clubInterests}
+          </span>
+        )}
+        <small>Describe what you're interested in (sports, tech, arts, etc.) ({clubInterests.length}/500 characters)</small>
       </div>
 
       <div className="form-group">
@@ -355,6 +503,12 @@ const PreferenceScreen = ({
             </span>
           ))}
         </div>
+        {clubErrors.preferredTags && (
+          <span className="field-error" role="alert">
+            {clubErrors.preferredTags}
+          </span>
+        )}
+        <small>{preferredTags.length}/15 categories added</small>
       </div>
 
       <div className="form-group">
@@ -401,6 +555,12 @@ const PreferenceScreen = ({
             </span>
           ))}
         </div>
+        {clubErrors.avoidTags && (
+          <span className="field-error" role="alert">
+            {clubErrors.avoidTags}
+          </span>
+        )}
+        <small>{avoidTags.length}/15 categories added</small>
       </div>
     </div>
   );
@@ -421,6 +581,61 @@ const PreferenceScreen = ({
         </select>
         <small>Select your major to get course recommendations tailored to your degree requirements</small>
       </div>
+
+      {selectedMajor && (
+        <>
+          <div className="form-group">
+            <label htmlFor="courseInterests">Your Technical Interests</label>
+            <textarea
+              id="courseInterests"
+              value={courseInterests}
+              onChange={(e) => {
+                const value = e.target.value;
+                if (value.length <= 500) {
+                  setCourseInterests(value);
+                  if (courseErrors.courseInterests) {
+                    setCourseErrors({ ...courseErrors, courseInterests: '' });
+                  }
+                }
+              }}
+              placeholder="e.g., machine learning, artificial intelligence, algorithms, data structures..."
+              rows={3}
+              maxLength={500}
+              aria-invalid={!!courseErrors.courseInterests}
+              aria-describedby={courseErrors.courseInterests ? "courseInterests-error" : undefined}
+            />
+            {courseErrors.courseInterests && (
+              <span id="courseInterests-error" className="field-error" role="alert">
+                {courseErrors.courseInterests}
+              </span>
+            )}
+            <small>Describe what technical topics you're interested in learning about ({courseInterests.length}/500 characters)</small>
+          </div>
+
+          <div className="form-group">
+            <label>Course Preferences</label>
+            <div className="checkbox-group">
+              <label className="checkbox-label">
+                <input
+                  type="checkbox"
+                  checked={preferFoundational}
+                  onChange={(e) => setPreferFoundational(e.target.checked)}
+                />
+                <span>Prefer foundational courses (courses that unlock many others)</span>
+              </label>
+              <label className="checkbox-label">
+                <input
+                  type="checkbox"
+                  checked={preferAdvanced}
+                  onChange={(e) => setPreferAdvanced(e.target.checked)}
+                />
+                <span>Prefer advanced courses (400-level)</span>
+              </label>
+            </div>
+            <small>Select your preferences for course recommendations (optional)</small>
+          </div>
+        </>
+      )}
     </div>
   );
 

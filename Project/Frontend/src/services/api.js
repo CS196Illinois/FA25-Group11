@@ -170,6 +170,35 @@ export const uploadDars = async (file) => {
 };
 
 /**
+ * Get technical course recommendations
+ * @param {Object} params - Technical recommendation parameters
+ * @param {string} params.major_name - Name of the major
+ * @param {string[]} params.completed_courses - Array of completed course codes
+ * @param {string} params.interests - Free-form text describing interests
+ * @param {string[]} params.courses_in_progress - Array of courses in progress
+ * @param {boolean} params.prefer_foundational - Prefer courses that unlock many others
+ * @param {boolean} params.prefer_advanced - Prefer advanced (400-level) courses
+ * @param {number} params.topk - Number of recommendations (default: 20)
+ */
+export const getTechnicalRecommendations = async (params) => {
+  try {
+    const response = await api.post('/api/technical/recommend', {
+      major_name: params.major_name,
+      completed_courses: params.completed_courses || [],
+      interests: params.interests || '',
+      courses_in_progress: params.courses_in_progress || [],
+      prefer_foundational: params.prefer_foundational || false,
+      prefer_advanced: params.prefer_advanced || false,
+      topk: params.topk || 20,
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Error fetching technical recommendations:', error);
+    throw error;
+  }
+};
+
+/**
  * Get combined recommendations (courses, gened, clubs)
  * @param {Object} params - Combined recommendation parameters
  */
@@ -178,6 +207,9 @@ export const getCombinedRecommendations = async (params) => {
     const response = await api.post('/api/recommend/combined', {
       completed_courses: params.completed_courses || [],
       major_name: params.major_name || null,
+      technical_interests: params.technical_interests || '',
+      technical_prefer_foundational: params.technical_prefer_foundational || false,
+      technical_prefer_advanced: params.technical_prefer_advanced || false,
       gened_interests: params.gened_interests || '',
       gened_preferences: params.gened_preferences || [],
       gened_min_gpa: params.gened_min_gpa || 3.0,
@@ -186,6 +218,7 @@ export const getCombinedRecommendations = async (params) => {
       club_preferred_tags: params.club_preferred_tags || [],
       club_avoid_tags: params.club_avoid_tags || [],
       course_num_recommendations: params.course_num_recommendations || 10,
+      technical_topk: params.technical_topk || 20,
       gened_topk: params.gened_topk || 20,
       club_topk: params.club_topk || 20,
     });

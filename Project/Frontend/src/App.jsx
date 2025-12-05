@@ -30,7 +30,13 @@ function App() {
     const loadMajors = async () => {
       try {
         const majorsList = await getMajors();
-        setMajors(majorsList);
+        // Extract just the names if majors are objects with {name, url}
+        const majorNames = majorsList.map(major => 
+          typeof major === 'string' ? major : major.name
+        );
+        // Sort alphabetically
+        majorNames.sort((a, b) => a.localeCompare(b, undefined, { sensitivity: 'base' }));
+        setMajors(majorNames);
       } catch (err) {
         console.error('Failed to load majors:', err);
       }
@@ -69,7 +75,7 @@ function App() {
   };
 
   const handleCourseSkip = async () => {
-    setCoursePreferences({ selectedMajor: '' });
+    setCoursePreferences({ selectedMajor: '', courseInterests: '', preferFoundational: false, preferAdvanced: false });
     
     // Get combined recommendations with empty preferences
     try {
@@ -79,6 +85,9 @@ function App() {
       const response = await getCombinedRecommendations({
         completed_courses: completedCourses,
         major_name: null,
+        technical_interests: '',
+        technical_prefer_foundational: false,
+        technical_prefer_advanced: false,
         gened_interests: genedPreferences.genedInterests || '',
         gened_preferences: genedPreferences.genedPreferences || [],
         gened_min_gpa: genedPreferences.minGpa || 3.0,
@@ -87,6 +96,7 @@ function App() {
         club_preferred_tags: clubPreferences.preferredTags || [],
         club_avoid_tags: clubPreferences.avoidTags || [],
         course_num_recommendations: 10,
+        technical_topk: 20,
         gened_topk: 20,
         club_topk: 20,
       });
@@ -112,6 +122,9 @@ function App() {
       const response = await getCombinedRecommendations({
         completed_courses: completedCourses,
         major_name: prefs.selectedMajor || null,
+        technical_interests: prefs.courseInterests || '',
+        technical_prefer_foundational: prefs.preferFoundational || false,
+        technical_prefer_advanced: prefs.preferAdvanced || false,
         gened_interests: genedPreferences.genedInterests || '',
         gened_preferences: genedPreferences.genedPreferences || [],
         gened_min_gpa: genedPreferences.minGpa || 3.0,
@@ -120,6 +133,7 @@ function App() {
         club_preferred_tags: clubPreferences.preferredTags || [],
         club_avoid_tags: clubPreferences.avoidTags || [],
         course_num_recommendations: 10,
+        technical_topk: 20,
         gened_topk: 20,
         club_topk: 20,
       });

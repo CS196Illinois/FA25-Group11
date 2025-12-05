@@ -14,6 +14,7 @@ from ..services.data_loader import get_data_loader
 from ..services.recommender import get_recommender
 from ..services.club_recommender import get_club_recommender
 from ..services.gened_recommender import get_gened_recommender
+from ..services.technical_recommender import get_technical_recommender
 from ..models.course import RecommendationResponse, Course
 from ..utils.validation import validate_course_codes
 
@@ -341,11 +342,83 @@ async def upload_dars(file: UploadFile = File(...)):
         )
 
 
+class TechnicalRecommendationRequest(BaseModel):
+    """Request model for technical course recommendations."""
+
+    major_name: str
+    completed_courses: List[str]
+    interests: str = ""
+    courses_in_progress: List[str] = []
+    prefer_foundational: bool = False
+    prefer_advanced: bool = False
+    topk: int = 20
+
+    @field_validator("completed_courses")
+    @classmethod
+    def validate_courses(cls, v):
+        """Validate and normalize course codes."""
+        if not v:
+            raise ValueError("At least one completed course is required")
+        validated = validate_course_codes(v)
+        if not validated:
+            raise ValueError("Invalid course code format")
+        return validated
+
+    @field_validator("topk")
+    @classmethod
+    def validate_topk(cls, v):
+        """Validate number of recommendations."""
+        if v < 1 or v > 50:
+            raise ValueError("topk must be between 1 and 50")
+        return v
+
+    class Config:
+        """Pydantic config."""
+
+        json_schema_extra = {
+            "example": {
+                "major_name": "Computer Science, BS",
+                "completed_courses": ["CS 124", "MATH 221"],
+                "interests": "machine learning artificial intelligence",
+                "courses_in_progress": ["CS 173"],
+                "prefer_foundational": True,
+                "prefer_advanced": False,
+                "topk": 20,
+            }
+        }
+
+
+@router.post("/technical/recommend")
+async def get_technical_recommendations(request: TechnicalRecommendationRequest):
+    """Get technical course recommendations based on major, completed courses, and interests."""
+    try:
+        technical_recommender = get_technical_recommender()
+        recommendations = technical_recommender.recommend_courses(
+            major_name=request.major_name,
+            completed_courses=request.completed_courses,
+            interests=request.interests,
+            courses_in_progress=request.courses_in_progress,
+            prefer_foundational=request.prefer_foundational,
+            prefer_advanced=request.prefer_advanced,
+            topk=request.topk,
+        )
+        return {"recommendations": recommendations}
+    except ValueError as e:
+        raise HTTPException(status_code=404, detail=str(e))
+    except Exception as e:
+        raise HTTPException(
+            status_code=500, detail=f"Error generating technical recommendations: {str(e)}"
+        )
+
+
 class CombinedRecommendationRequest(BaseModel):
     """Request model for combined recommendations (courses, gened, clubs)."""
 
     completed_courses: List[str]
     major_name: Optional[str] = None
+    technical_interests: str = ""
+    technical_prefer_foundational: bool = False
+    technical_prefer_advanced: bool = False
     gened_interests: str = ""
     gened_preferences: List[str] = []
     gened_min_gpa: float = 3.0
@@ -354,6 +427,7 @@ class CombinedRecommendationRequest(BaseModel):
     club_preferred_tags: List[str] = []
     club_avoid_tags: List[str] = []
     course_num_recommendations: int = 10
+    technical_topk: int = 20
     gened_topk: int = 20
     club_topk: int = 20
 
@@ -364,22 +438,35 @@ async def get_combined_recommendations(request: CombinedRecommendationRequest):
     try:
         results = {}
 
-        # Get course recommendations if major is provided
+        # Get technical course recommendations if major is provided
         if request.major_name:
-            recommender = get_recommender()
-            data_loader = get_data_loader()
-            major = data_loader.get_major(request.major_name)
-
-            if major:
-                course_result = recommender.recommend_courses(
+            try:
+                technical_recommender = get_technical_recommender()
+                technical_recommendations = technical_recommender.recommend_courses(
                     major_name=request.major_name,
                     completed_courses=request.completed_courses,
-                    num_recommendations=request.course_num_recommendations,
+                    interests=request.technical_interests,
+                    prefer_foundational=request.technical_prefer_foundational,
+                    prefer_advanced=request.technical_prefer_advanced,
+                    topk=request.technical_topk,
                 )
-                results["courses"] = course_result.get("recommendations", [])
-                results["progress"] = course_result.get("progress", {})
-                results["semester_plan"] = course_result.get("semester_plan")
-                results["student_year"] = course_result.get("student_year")
+                results["technical_courses"] = technical_recommendations
+            except Exception as e:
+                # Fallback to old recommender if technical fails
+                recommender = get_recommender()
+                data_loader = get_data_loader()
+                major = data_loader.get_major(request.major_name)
+
+                if major:
+                    course_result = recommender.recommend_courses(
+                        major_name=request.major_name,
+                        completed_courses=request.completed_courses,
+                        num_recommendations=request.course_num_recommendations,
+                    )
+                    results["courses"] = course_result.get("recommendations", [])
+                    results["progress"] = course_result.get("progress", {})
+                    results["semester_plan"] = course_result.get("semester_plan")
+                    results["student_year"] = course_result.get("student_year")
 
         # Get GenEd recommendations
         gened_recommender = get_gened_recommender()

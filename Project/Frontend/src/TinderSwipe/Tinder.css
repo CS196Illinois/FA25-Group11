@@ -6,9 +6,10 @@
   justify-content: center;
   padding: 20px;
   width: 100%;
-  background: rgba(255, 255, 255, 0.95);
+  background: rgba(255, 255, 255, 0.98);
   border-radius: 16px;
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(10px);
 }
 
 .swipe-container h1 {
@@ -18,15 +19,17 @@
   font-weight: 700;
   text-align: center;
   line-height: 1.2;
+  text-shadow: 0 2px 4px rgba(255, 255, 255, 0.8);
 }
 
 .instructions {
-  color: #4a4a4a;
+  color: #2a2a2a;
   font-size: 1.125rem;
   margin-bottom: 40px;
   text-align: center;
   line-height: 1.6;
-  font-weight: 400;
+  font-weight: 500;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.8);
 }
 
 .card-stack {
@@ -40,13 +43,14 @@
   position: absolute;
   width: 100%;
   height: 100%;
-  background: white;
+  background: #ffffff;
   border-radius: 20px;
   box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
   cursor: grab;
   user-select: none;
   touch-action: none;
   z-index: 2;
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .course-card:active {
@@ -77,12 +81,13 @@
   position: absolute;
   top: 20px;
   right: 20px;
-  padding: 6px 12px;
+  padding: 8px 14px;
   border-radius: 20px;
-  font-size: 12px;
-  font-weight: 600;
+  font-size: 13px;
+  font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
 }
 
 .course-card.course .card-type-badge {
@@ -100,31 +105,45 @@
   color: white;
 }
 
+.course-card.technical .card-type-badge {
+  background-color: #ff9800;
+  color: white;
+}
+
+.course-card.technical {
+  background-color: #ffffff;
+}
+
 .course-code {
   font-size: 48px;
-  color: #2196f3;
+  color: #1976d2;
   margin: 0 0 10px 0;
   font-weight: 800;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
 
 .course-name {
   font-size: 28px;
-  color: #333;
+  color: #1a1a1a;
   margin: 0 0 20px 0;
   font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
 }
 
 .course-credits {
   font-size: 18px;
-  color: #333;
+  color: #2a2a2a;
   margin: 0 0 30px 0;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .course-description {
-  font-size: 16px;
-  color: #333;
-  line-height: 1.6;
+  font-size: 17px;
+  color: #2a2a2a;
+  line-height: 1.7;
+  font-weight: 400;
+  max-width: 90%;
+  margin: 0 auto;
 }
 
 .swipe-indicator {
@@ -211,12 +230,14 @@
 .progress {
   color: #1a1a1a;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 700;
   margin-top: 20px;
-  background: rgba(255, 255, 255, 0.9);
-  padding: 10px 20px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 12px 24px;
   border-radius: 20px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.8);
 }
 
 .results {
@@ -228,16 +249,19 @@
 }
 
 .result-section {
-  background: white;
+  background: #ffffff;
   padding: 30px;
   border-radius: 15px;
   min-width: 300px;
   box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.1);
 }
 
 .result-section h2 {
   margin-top: 0;
   font-size: 28px;
+  font-weight: 700;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
 }
 
 .result-section.liked h2 {
@@ -251,8 +275,24 @@
 .result-item {
   padding: 15px;
   margin: 10px 0;
-  background: #f5f5f5;
+  background: #f8f9fa;
   border-radius: 8px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #1a1a1a;
+  line-height: 1.5;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.result-item strong {
+  color: #1976d2;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.result-section p {
+  color: #4a4a4a;
+  font-size: 16px;
   font-weight: 500;
 }
 

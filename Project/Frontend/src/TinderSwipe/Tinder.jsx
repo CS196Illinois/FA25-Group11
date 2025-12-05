@@ -5,13 +5,29 @@ function Tinder({ recommendations = {}, onComplete }) {
   // Combine all recommendations into a single array
   const [allItems, setAllItems] = useState([]);
   const [isLoading, setIsLoading] = useState(true);
+  
+  // Swipe state - must be declared before any conditional returns
+  const [currentIndex, setCurrentIndex] = useState(0);
+  const [likedCourses, setLikedCourses] = useState([]);
+  const [dislikedCourses, setDislikedCourses] = useState([]);
+  const [swipeDirection, setSwipeDirection] = useState(null);
+  const [dragOffset, setDragOffset] = useState(0);
+  const [isDragging, setIsDragging] = useState(false);
 
   useEffect(() => {
     const items = [];
     
     console.log('Tinder received recommendations:', recommendations);
     
-    // Add course recommendations
+    // Handle case where recommendations might be null/undefined
+    if (!recommendations || typeof recommendations !== 'object') {
+      console.warn('Invalid recommendations object:', recommendations);
+      setAllItems([]);
+      setIsLoading(false);
+      return;
+    }
+    
+    // Add course recommendations (legacy)
     if (recommendations.courses && Array.isArray(recommendations.courses) && recommendations.courses.length > 0) {
       recommendations.courses.forEach(course => {
         items.push({
@@ -20,6 +36,22 @@ function Tinder({ recommendations = {}, onComplete }) {
           name: course.title || course.name || 'Untitled Course',
           credits: course.credits || 3,
           description: course.description || course.reasoning || '',
+          data: course
+        });
+      });
+    }
+    
+    // Add technical course recommendations (new TF-IDF + rule-based)
+    if (recommendations.technical_courses && Array.isArray(recommendations.technical_courses) && recommendations.technical_courses.length > 0) {
+      recommendations.technical_courses.forEach(course => {
+        const scoreInfo = course.final_score ? ` | Score: ${course.final_score.toFixed(3)}` : '';
+        const postreqInfo = course.postreq_count > 0 ? ` | Unlocks ${course.postreq_count} courses` : '';
+        items.push({
+          type: 'technical',
+          code: course.course_code || course.code || 'N/A',
+          name: course.title || course.name || 'Untitled Course',
+          credits: 3,
+          description: `${course.description || ''}${scoreInfo}${postreqInfo}`.trim(),
           data: course
         });
       });
@@ -54,8 +86,24 @@ function Tinder({ recommendations = {}, onComplete }) {
     }
     
     console.log('Combined items:', items);
+    console.log('Total items count:', items.length);
+    console.log('Items breakdown:', {
+      courses: recommendations.courses?.length || 0,
+      technical_courses: recommendations.technical_courses?.length || 0,
+      gened: recommendations.gened?.length || 0,
+      clubs: recommendations.clubs?.length || 0
+    });
+    
     setAllItems(items);
     setIsLoading(false);
+    
+    // Reset swipe state when recommendations change
+    setCurrentIndex(0);
+    setLikedCourses([]);
+    setDislikedCourses([]);
+    setSwipeDirection(null);
+    setDragOffset(0);
+    setIsDragging(false);
   }, [recommendations]);
 
   const coursesToShow = allItems;
@@ -102,13 +150,6 @@ function Tinder({ recommendations = {}, onComplete }) {
       </div>
     );
   }
-
-  const [currentIndex, setCurrentIndex] = useState(0);
-  const [likedCourses, setLikedCourses] = useState([]);
-  const [dislikedCourses, setDislikedCourses] = useState([]);
-  const [swipeDirection, setSwipeDirection] = useState(null);
-  const [dragOffset, setDragOffset] = useState(0);
-  const [isDragging, setIsDragging] = useState(false);
 
   const currentCourse = coursesToShow[currentIndex];
 
@@ -226,6 +267,7 @@ function Tinder({ recommendations = {}, onComplete }) {
   // Render swipe screen
   const getTypeLabel = (type) => {
     if (type === 'course') return 'Course';
+    if (type === 'technical') return 'Technical';
     if (type === 'gened') return 'GenEd';
     if (type === 'club') return 'Club';
     return 'Item';
