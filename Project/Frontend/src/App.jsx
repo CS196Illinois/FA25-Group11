@@ -26,7 +26,6 @@ function App() {
   const [selectedCourseDetails, setSelectedCourseDetails] = useState(null);
   const [majorsByCollege, setMajorsByCollege] = useState({});
 
-  // Colleges and majors data
   const colleges = [
     { value: '', label: '-- Select College --' },
     { value: 'grainger', label: 'Grainger College of Engineering' },
@@ -39,7 +38,7 @@ function App() {
     { value: 'ischool', label: 'School of Information Sciences' }
   ];
 
-  // Map JSON college keys to frontend college keys
+
   const collegeKeyMap = {
     'engineering': 'grainger',
     'las': 'las',
@@ -51,15 +50,12 @@ function App() {
     'ischool': 'ischool'
   };
 
-  // Load and process majors data from JSON
   useEffect(() => {
     const processedMajors = {};
     
-    // Process each college in the JSON data
     Object.keys(majorsByCollegeData).forEach(jsonKey => {
       const frontendKey = collegeKeyMap[jsonKey];
       if (frontendKey && majorsByCollegeData[jsonKey].majors) {
-        // Get unique majors (remove duplicates by major_name)
         const uniqueMajors = new Map();
         majorsByCollegeData[jsonKey].majors.forEach(major => {
           if (!uniqueMajors.has(major.major_name)) {
@@ -67,7 +63,6 @@ function App() {
           }
         });
         
-        // Convert to frontend format
         const majorsList = [
           { value: '', label: '-- Select Major --' },
           ...Array.from(uniqueMajors.values()).map(major => ({
@@ -80,7 +75,6 @@ function App() {
       }
     });
     
-    // Initialize empty arrays for colleges not in JSON
     colleges.forEach(college => {
       if (college.value && !processedMajors[college.value]) {
         processedMajors[college.value] = [{ value: '', label: '-- Select Major --' }];
@@ -92,7 +86,6 @@ function App() {
 
   const majors = selectedCollege ? (majorsByCollege[selectedCollege] || [{ value: '', label: '-- Select Major --' }]) : [{ value: '', label: '-- Select College First --' }];
 
-  // Reset major when college changes
   useEffect(() => {
     if (selectedCollege) {
       setSelectedMajor('');
@@ -110,7 +103,6 @@ function App() {
       setError(null);
       const data = await getMajorCourses(selectedMajor);
       
-      // Combine required and elective courses
       const allCourses = [
         ...(data.required || []),
         ...(data.electives || [])
@@ -140,7 +132,6 @@ function App() {
       setLoading(true);
       setError(null);
       
-      // Validate course codes before sending
       const { validateAndNormalizeCourses } = await import('./utils/validation.js');
       const normalizedCourses = validateAndNormalizeCourses(selectedCourses);
       
