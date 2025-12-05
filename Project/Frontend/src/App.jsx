@@ -1,371 +1,269 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
-import CollegeMajorScreen from './components/CollegeMajorScreen';
-import CourseSelector from './components/CourseSelector';
-import Recommendations from './components/Recommendations';
-import ProgressBar from './components/ProgressBar';
-import CourseDetails from './components/CourseDetails';
-import SemesterPlan from './components/SemesterPlan';
-import ClubRecommender from './components/ClubRecommender';
-import GenedRecommender from './components/GenedRecommender';
-import { getMajorCourses, getRecommendations } from './services/api';
-import majorsByCollegeData from './majors_by_college.json';
+import DarsUpload from './components/DarsUpload';
+import PreferenceScreen from './components/PreferenceScreen';
+import Tinder from './TinderSwipe/Tinder';
+import { uploadDars, getCombinedRecommendations, getMajors } from './services/api';
 
 function App() {
-  const [screen, setScreen] = useState('college-major-selection');
-  const [selectedCollege, setSelectedCollege] = useState('');
-  const [selectedMajor, setSelectedMajor] = useState('');
-  const [courses, setCourses] = useState([]);
-  const [selectedCourses, setSelectedCourses] = useState([]);
-  const [recommendations, setRecommendations] = useState([]);
-  const [progress, setProgress] = useState({ completed: 0, total: 0, percentage: 0 });
-  const [semesterPlan, setSemesterPlan] = useState(null);
-  const [studentYear, setStudentYear] = useState(null);
+  // Flow state
+  const [screen, setScreen] = useState('dars-upload');
+  
+  // DARS data
+  const [completedCourses, setCompletedCourses] = useState([]);
+  
+  // Preferences
+  const [genedPreferences, setGenedPreferences] = useState({});
+  const [clubPreferences, setClubPreferences] = useState({});
+  const [coursePreferences, setCoursePreferences] = useState({});
+  
+  // Recommendations
+  const [recommendations, setRecommendations] = useState({});
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
-  const [selectedCourseDetails, setSelectedCourseDetails] = useState(null);
-  const [majorsByCollege, setMajorsByCollege] = useState({});
+  
+  // Majors list
+  const [majors, setMajors] = useState([]);
 
-  const colleges = [
-    { value: '', label: '-- Select College --' },
-    { value: 'grainger', label: 'Grainger College of Engineering' },
-    { value: 'las', label: 'College of Liberal Arts & Sciences' },
-    { value: 'business', label: 'Gies College of Business' },
-    { value: 'education', label: 'College of Education' },
-    { value: 'faa', label: 'College of Fine & Applied Arts' },
-    { value: 'aces', label: 'College of Agricultural, Consumer & Environmental Sciences' },
-    { value: 'media', label: 'College of Media' },
-    { value: 'ischool', label: 'School of Information Sciences' }
-  ];
-
-
-  const collegeKeyMap = {
-    'engineering': 'grainger',
-    'las': 'las',
-    'bus': 'business',
-    'education': 'education',
-    'faa': 'faa',
-    'aces': 'aces',
-    'media': 'media',
-    'ischool': 'ischool'
-  };
-
+  // Load majors on mount
   useEffect(() => {
-    const processedMajors = {};
-    
-    Object.keys(majorsByCollegeData).forEach(jsonKey => {
-      const frontendKey = collegeKeyMap[jsonKey];
-      if (frontendKey && majorsByCollegeData[jsonKey].majors) {
-        const uniqueMajors = new Map();
-        majorsByCollegeData[jsonKey].majors.forEach(major => {
-          if (!uniqueMajors.has(major.major_name)) {
-            uniqueMajors.set(major.major_name, major);
-          }
-        });
-        
-        const majorsList = [
-          { value: '', label: '-- Select Major --' },
-          ...Array.from(uniqueMajors.values()).map(major => ({
-            value: major.major_name,
-            label: major.major_name
-          }))
-        ];
-        
-        processedMajors[frontendKey] = majorsList;
+    const loadMajors = async () => {
+      try {
+        const majorsList = await getMajors();
+        setMajors(majorsList);
+      } catch (err) {
+        console.error('Failed to load majors:', err);
       }
-    });
-    
-    colleges.forEach(college => {
-      if (college.value && !processedMajors[college.value]) {
-        processedMajors[college.value] = [{ value: '', label: '-- Select Major --' }];
-      }
-    });
-    
-    setMajorsByCollege(processedMajors);
+    };
+    loadMajors();
   }, []);
 
-  const majors = selectedCollege ? (majorsByCollege[selectedCollege] || [{ value: '', label: '-- Select Major --' }]) : [{ value: '', label: '-- Select College First --' }];
-
-  useEffect(() => {
-    if (selectedCollege) {
-      setSelectedMajor('');
-    }
-  }, [selectedCollege]);
-
-  const loadMajorCourses = async () => {
-    if (!selectedMajor) {
-      setError('Please select a major first.');
-      return;
-    }
-
-    try {
-      setLoading(true);
-      setError(null);
-      const data = await getMajorCourses(selectedMajor);
-      
-      const allCourses = [
-        ...(data.required || []),
-        ...(data.electives || [])
-      ];
-      
-      if (allCourses.length === 0) {
-        setError('No courses found for this major.');
-      } else {
-        setCourses(allCourses);
-      }
-    } catch (err) {
-      const errorMessage = err.message || 'Failed to load courses. Please check if the backend server is running.';
-      setError(errorMessage);
-      console.error('Load courses error:', err);
-    } finally {
-      setLoading(false);
-    }
+  const handleDarsUpload = (courses) => {
+    setCompletedCourses(courses || []);
+    setScreen('gened-preferences');
   };
 
-  const handleGetRecommendations = async () => {
-    if (selectedCourses.length === 0) {
-      setError('Please select at least one completed course.');
-      return;
-    }
+  const handleDarsSkip = () => {
+    setCompletedCourses([]);
+    setScreen('gened-preferences');
+  };
 
+  const handleGenedPreferences = (prefs) => {
+    setGenedPreferences(prefs || {});
+    setScreen('club-preferences');
+  };
+
+  const handleGenedSkip = () => {
+    setGenedPreferences({ genedInterests: '', genedPreferences: [], minGpa: 3.0, avoidSubjects: [] });
+    setScreen('club-preferences');
+  };
+
+  const handleClubPreferences = (prefs) => {
+    setClubPreferences(prefs || {});
+    setScreen('course-preferences');
+  };
+
+  const handleClubSkip = () => {
+    setClubPreferences({ clubInterests: '', preferredTags: [], avoidTags: [] });
+    setScreen('course-preferences');
+  };
+
+  const handleCourseSkip = async () => {
+    setCoursePreferences({ selectedMajor: '' });
+    
+    // Get combined recommendations with empty preferences
     try {
       setLoading(true);
       setError(null);
       
-      const { validateAndNormalizeCourses } = await import('./utils/validation.js');
-      const normalizedCourses = validateAndNormalizeCourses(selectedCourses);
+      const response = await getCombinedRecommendations({
+        completed_courses: completedCourses,
+        major_name: null,
+        gened_interests: genedPreferences.genedInterests || '',
+        gened_preferences: genedPreferences.genedPreferences || [],
+        gened_min_gpa: genedPreferences.minGpa || 3.0,
+        gened_avoid_subjects: genedPreferences.avoidSubjects || [],
+        club_interests: clubPreferences.clubInterests || '',
+        club_preferred_tags: clubPreferences.preferredTags || [],
+        club_avoid_tags: clubPreferences.avoidTags || [],
+        course_num_recommendations: 10,
+        gened_topk: 20,
+        club_topk: 20,
+      });
       
-      if (normalizedCourses.length === 0) {
-        setError('Please select valid course codes.');
-        setLoading(false);
-        return;
-      }
-      
-      const response = await getRecommendations(selectedMajor, normalizedCourses, 10);
-      setRecommendations(response.recommendations || []);
-      setProgress(response.progress || { completed: 0, total: 0, percentage: 0 });
-      setSemesterPlan(response.semester_plan || null);
-      setStudentYear(response.student_year || null);
-      setScreen('recommendations');
+      setRecommendations(response);
+      setScreen('tinder-swipe');
     } catch (err) {
-      const errorMessage = err.message || 'Failed to get recommendations. Please try again.';
-      setError(errorMessage);
+      setError(err.message || 'Failed to get recommendations. Please try again.');
       console.error('Recommendations error:', err);
     } finally {
       setLoading(false);
     }
   };
 
-  const handleCourseClick = (courseCode) => {
-    setSelectedCourseDetails(courseCode);
-  };
-
-  const handleCloseDetails = () => {
-    setSelectedCourseDetails(null);
-  };
-
-  const handleContinueFromCollegeMajor = async () => {
-    await loadMajorCourses();
-    if (courses.length > 0 || selectedMajor) {
-      setScreen('welcome');
+  const handleCoursePreferences = async (prefs) => {
+    setCoursePreferences(prefs);
+    
+    // Get combined recommendations
+    try {
+      setLoading(true);
+      setError(null);
+      
+      const response = await getCombinedRecommendations({
+        completed_courses: completedCourses,
+        major_name: prefs.selectedMajor || null,
+        gened_interests: genedPreferences.genedInterests || '',
+        gened_preferences: genedPreferences.genedPreferences || [],
+        gened_min_gpa: genedPreferences.minGpa || 3.0,
+        gened_avoid_subjects: genedPreferences.avoidSubjects || [],
+        club_interests: clubPreferences.clubInterests || '',
+        club_preferred_tags: clubPreferences.preferredTags || [],
+        club_avoid_tags: clubPreferences.avoidTags || [],
+        course_num_recommendations: 10,
+        gened_topk: 20,
+        club_topk: 20,
+      });
+      
+      setRecommendations(response);
+      setScreen('tinder-swipe');
+    } catch (err) {
+      setError(err.message || 'Failed to get recommendations. Please try again.');
+      console.error('Recommendations error:', err);
+    } finally {
+      setLoading(false);
     }
+  };
+
+  const handleTinderComplete = (results) => {
+    // Handle completion - could show results or allow restart
+    console.log('Tinder swipe completed:', results);
+    // Optionally navigate to a results screen
+  };
+
+  const handleStartOver = () => {
+    setScreen('dars-upload');
+    setCompletedCourses([]);
+    setGenedPreferences({});
+    setClubPreferences({});
+    setCoursePreferences({});
+    setRecommendations({});
+    setError(null);
   };
 
   return (
     <div className="app">
-      {screen === 'college-major-selection' && (
-        <CollegeMajorScreen
-          colleges={colleges}
-          majors={majors}
-          selectedCollege={selectedCollege}
-          setSelectedCollege={setSelectedCollege}
-          selectedMajor={selectedMajor}
-          setSelectedMajor={setSelectedMajor}
-          onContinue={handleContinueFromCollegeMajor}
-        />
+      {screen === 'dars-upload' && (
+        <div className="screen-container">
+          <DarsUpload 
+            onUploadComplete={handleDarsUpload}
+            onSkip={handleDarsSkip}
+          />
+        </div>
       )}
 
-      {screen === 'welcome' && (
+      {screen === 'gened-preferences' && (
         <div className="screen-container">
-          <div className="welcome-screen">
-            <h1 className="welcome-title">UIUC Recommendation System</h1>
-            <p className="welcome-subtitle">Get personalized recommendations for courses, clubs, and GenEd courses</p>
-            {selectedMajor && (
-              <p className="selected-major-display">Selected Major: <strong>{selectedMajor}</strong></p>
-            )}
-            <div className="welcome-options">
-              <button
-                className="option-button course-button"
-                onClick={() => setScreen('course-selection')}
-              >
-                <span className="option-icon">📚</span>
-                <span className="option-title">Course Recommendations</span>
-                <span className="option-desc">Based on your major and completed courses</span>
-              </button>
-              <button
-                className="option-button club-button"
-                onClick={() => setScreen('club-recommender')}
-              >
-                <span className="option-icon">🎯</span>
-                <span className="option-title">Club Recommendations</span>
-                <span className="option-desc">Find student organizations that match your interests</span>
-              </button>
-              <button
-                className="option-button gened-button"
-                onClick={() => setScreen('gened-recommender')}
-              >
-                <span className="option-icon">🎓</span>
-                <span className="option-title">GenEd Recommendations</span>
-                <span className="option-desc">Discover General Education courses for you</span>
-              </button>
+          <PreferenceScreen
+            title="GenEd Preferences"
+            subtitle="Tell us about your General Education course interests (optional)"
+            type="gened"
+            onContinue={handleGenedPreferences}
+            onSkip={handleGenedSkip}
+            onBack={() => setScreen('dars-upload')}
+          />
+        </div>
+      )}
+
+      {screen === 'club-preferences' && (
+        <div className="screen-container">
+          <PreferenceScreen
+            title="Club & RSO Preferences"
+            subtitle="What clubs and student organizations interest you? (optional)"
+            type="clubs"
+            onContinue={handleClubPreferences}
+            onSkip={handleClubSkip}
+            onBack={() => setScreen('gened-preferences')}
+          />
+        </div>
+      )}
+
+      {screen === 'course-preferences' && (
+        <div className="screen-container">
+          <PreferenceScreen
+            title="Course Preferences"
+            subtitle="Select your major to get personalized course recommendations (optional)"
+            type="courses"
+            onContinue={handleCoursePreferences}
+            onSkip={handleCourseSkip}
+            onBack={() => setScreen('club-preferences')}
+            majors={majors}
+          />
+          {loading && (
+            <div className="loading-overlay">
+              <div className="loading">Getting recommendations...</div>
             </div>
-            <button
-              className="back-button"
-              onClick={() => setScreen('college-major-selection')}
-              style={{ marginTop: '20px' }}
-            >
-              Change College/Major
-            </button>
-          </div>
+          )}
+          {error && (
+            <div className="error-message" style={{ marginTop: '20px' }}>
+              {error}
+            </div>
+          )}
         </div>
       )}
 
-      {screen === 'course-selection' && (
-        <div className="screen-container">
-          <div className="course-selection-screen">
-            <h1 className="screen-title">Select Completed Courses</h1>
-            <p className="screen-subtitle">
-              Select all courses you have already completed. We'll recommend what to take next!
-            </p>
-            
-            {error && (
-              <div className="error-message">
-                {error}
-              </div>
-            )}
-
-            {loading && courses.length === 0 ? (
-              <div className="loading">Loading courses...</div>
-            ) : (
-              <>
-                {courses.length > 0 ? (
-                  <>
-                    <CourseSelector
-                      courses={courses}
-                      selectedCourses={selectedCourses}
-                      onSelectionChange={setSelectedCourses}
-                    />
-                    
-                    <div className="action-buttons">
-                      <button
-                        className="back-button"
-                        onClick={() => setScreen('welcome')}
-                      >
-                        Back
-                      </button>
-                      <button
-                        className="recommend-button"
-                        onClick={handleGetRecommendations}
-                        disabled={loading || selectedCourses.length === 0}
-                      >
-                        {loading ? 'Loading...' : `Get Recommendations (${selectedCourses.length} selected)`}
-                      </button>
-                    </div>
-                  </>
-                ) : (
-                  <div className="no-courses">
-                    <p>No courses found for this major.</p>
-                    <button
-                      className="back-button"
-                      onClick={() => setScreen('welcome')}
-                    >
-                      Back
-                    </button>
-                  </div>
-                )}
-              </>
-            )}
-          </div>
-        </div>
-      )}
-
-      {screen === 'recommendations' && (
-        <div className="screen-container">
-          <div className="recommendations-screen">
-            <h1 className="screen-title">Your Recommendations</h1>
-            
-            {studentYear && (
-              <div className="year-indicator">
-                Detected: {studentYear.replace('_', ' ').replace(/\b\w/g, l => l.toUpperCase())} Student
-              </div>
-            )}
-            
-            <ProgressBar progress={progress} />
-            
-            {semesterPlan && (
-              <SemesterPlan 
-                semesterPlan={semesterPlan}
-                studentYear={studentYear}
-              />
-            )}
-            
-            {error && (
-              <div className="error-message">
-                {error}
-              </div>
-            )}
-
-            <Recommendations
-              recommendations={recommendations}
-              onCourseClick={handleCourseClick}
-            />
-
-            <div className="action-buttons">
+      {screen === 'tinder-swipe' && (
+        <div className="screen-container" style={{ minHeight: '100vh', width: '100%' }}>
+          {error && (
+            <div className="error-message" style={{ margin: '20px auto', maxWidth: '600px' }}>
+              <strong>Error:</strong> {error}
               <button
-                className="back-button"
-                onClick={() => setScreen('course-selection')}
-              >
-                Change Selection
-              </button>
-              <button
-                className="new-search-button"
-                onClick={() => {
-                  setSelectedCourses([]);
-                  setRecommendations([]);
-                  setProgress({ completed: 0, total: 0, percentage: 0 });
-                  setSemesterPlan(null);
-                  setStudentYear(null);
-                  setScreen('course-selection');
+                onClick={handleStartOver}
+                style={{
+                  marginTop: '15px',
+                  padding: '10px 20px',
+                  backgroundColor: '#4a90e2',
+                  color: 'white',
+                  border: 'none',
+                  borderRadius: '6px',
+                  cursor: 'pointer',
+                  fontSize: '16px',
+                  fontWeight: '600'
                 }}
               >
                 Start Over
               </button>
             </div>
-          </div>
+          )}
+          {!error && (
+            <>
+              <Tinder 
+                recommendations={recommendations}
+                onComplete={handleTinderComplete}
+              />
+              <button
+                className="start-over-button"
+                onClick={handleStartOver}
+                style={{
+                  position: 'fixed',
+                  bottom: '20px',
+                  right: '20px',
+                  padding: '12px 24px',
+                  backgroundColor: '#4a90e2',
+                  color: 'white',
+                  border: 'none',
+                  borderRadius: '8px',
+                  cursor: 'pointer',
+                  fontSize: '16px',
+                  fontWeight: '600',
+                  zIndex: 1000,
+                  boxShadow: '0 4px 12px rgba(0, 0, 0, 0.2)'
+                }}
+              >
+                Start Over
+              </button>
+            </>
+          )}
         </div>
-      )}
-
-      {screen === 'club-recommender' && (
-        <div className="screen-container">
-          <div className="course-selection-screen">
-            <ClubRecommender onBack={() => setScreen('welcome')} />
-          </div>
-        </div>
-      )}
-
-      {screen === 'gened-recommender' && (
-        <div className="screen-container">
-          <div className="course-selection-screen">
-            <GenedRecommender onBack={() => setScreen('welcome')} />
-          </div>
-        </div>
-      )}
-
-      {selectedCourseDetails && (
-        <CourseDetails
-          courseCode={selectedCourseDetails}
-          onClose={handleCloseDetails}
-        />
       )}
     </div>
   );

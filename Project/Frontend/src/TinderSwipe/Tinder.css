@@ -5,20 +5,28 @@
   align-items: center;
   justify-content: center;
   padding: 20px;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.95);
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
 }
 
 .swipe-container h1 {
-  color: white;
-  font-size: 48px;
-  margin-bottom: 10px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+  color: #1a1a1a;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.2;
 }
 
 .instructions {
-  color: white;
-  font-size: 18px;
+  color: #4a4a4a;
+  font-size: 1.125rem;
   margin-bottom: 40px;
   text-align: center;
+  line-height: 1.6;
+  font-weight: 400;
 }
 
 .card-stack {
@@ -62,6 +70,34 @@
   justify-content: center;
   align-items: center;
   text-align: center;
+  position: relative;
+}
+
+.card-type-badge {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 6px 12px;
+  border-radius: 20px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+}
+
+.course-card.course .card-type-badge {
+  background-color: #2196f3;
+  color: white;
+}
+
+.course-card.gened .card-type-badge {
+  background-color: #9c27b0;
+  color: white;
+}
+
+.course-card.club .card-type-badge {
+  background-color: #ff9800;
+  color: white;
 }
 
 .course-code {
@@ -173,9 +209,14 @@
 }
 
 .progress {
-  color: white;
-  font-size: 24px;
+  color: #1a1a1a;
+  font-size: 20px;
   font-weight: 600;
+  margin-top: 20px;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 10px 20px;
+  border-radius: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
 }
 
 .results {

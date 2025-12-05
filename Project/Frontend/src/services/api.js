@@ -148,5 +148,53 @@ export const getGenedRecommendations = async (params) => {
   }
 };
 
+/**
+ * Upload DARS PDF file
+ * @param {File} file - PDF file to upload
+ */
+export const uploadDars = async (file) => {
+  try {
+    const formData = new FormData();
+    formData.append('file', file);
+    
+    const response = await api.post('/api/dars/upload', formData, {
+      headers: {
+        'Content-Type': 'multipart/form-data',
+      },
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Error uploading DARS:', error);
+    throw error;
+  }
+};
+
+/**
+ * Get combined recommendations (courses, gened, clubs)
+ * @param {Object} params - Combined recommendation parameters
+ */
+export const getCombinedRecommendations = async (params) => {
+  try {
+    const response = await api.post('/api/recommend/combined', {
+      completed_courses: params.completed_courses || [],
+      major_name: params.major_name || null,
+      gened_interests: params.gened_interests || '',
+      gened_preferences: params.gened_preferences || [],
+      gened_min_gpa: params.gened_min_gpa || 3.0,
+      gened_avoid_subjects: params.gened_avoid_subjects || [],
+      club_interests: params.club_interests || '',
+      club_preferred_tags: params.club_preferred_tags || [],
+      club_avoid_tags: params.club_avoid_tags || [],
+      course_num_recommendations: params.course_num_recommendations || 10,
+      gened_topk: params.gened_topk || 20,
+      club_topk: params.club_topk || 20,
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Error fetching combined recommendations:', error);
+    throw error;
+  }
+};
+
 export default api;
 
