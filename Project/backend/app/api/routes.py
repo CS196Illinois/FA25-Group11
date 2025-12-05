@@ -1,10 +1,12 @@
 """API routes for course recommendations."""
 from fastapi import APIRouter, HTTPException
-from typing import List
+from typing import List, Optional
 from pydantic import BaseModel, field_validator
 
 from ..services.data_loader import get_data_loader
 from ..services.recommender import get_recommender
+from ..services.club_recommender import get_club_recommender
+from ..services.gened_recommender import get_gened_recommender
 from ..models.course import RecommendationResponse, Course
 from ..utils.validation import validate_course_codes
 
@@ -131,4 +133,101 @@ async def get_course_prerequisites(course_code: str):
         'can_take': len(prerequisites) == 0,  # Simplified - would need completed courses to check
         'missing': prerequisites
     }
+
+
+class ClubRecommendationRequest(BaseModel):
+    """Request model for club recommendations."""
+    interests: str = ""
+    preferred_tags: List[str] = []
+    avoid_tags: List[str] = []
+    topk: int = 20
+    
+    @field_validator('topk')
+    @classmethod
+    def validate_topk(cls, v):
+        """Validate number of recommendations."""
+        if v < 1 or v > 50:
+            raise ValueError('topk must be between 1 and 50')
+        return v
+    
+    class Config:
+        """Pydantic config."""
+        json_schema_extra = {
+            "example": {
+                "interests": "sports fitness",
+                "preferred_tags": ["Athletic & Recreation"],
+                "avoid_tags": [],
+                "topk": 15
+            }
+        }
+
+
+@router.post("/clubs/recommend")
+async def get_club_recommendations(request: ClubRecommendationRequest):
+    """Get club recommendations based on student interests."""
+    try:
+        club_recommender = get_club_recommender()
+        recommendations = club_recommender.recommend_clubs(
+            interests=request.interests,
+            preferred_tags=request.preferred_tags,
+            avoid_tags=request.avoid_tags,
+            topk=request.topk
+        )
+        return {"recommendations": recommendations}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error generating club recommendations: {str(e)}")
+
+
+class GenedRecommendationRequest(BaseModel):
+    """Request model for GenEd course recommendations."""
+    interests: str = ""
+    gened_preferences: List[str] = []
+    min_gpa: float = 3.0
+    avoid_subjects: List[str] = []
+    topk: int = 20
+    
+    @field_validator('topk')
+    @classmethod
+    def validate_topk(cls, v):
+        """Validate number of recommendations."""
+        if v < 1 or v > 50:
+            raise ValueError('topk must be between 1 and 50')
+        return v
+    
+    @field_validator('min_gpa')
+    @classmethod
+    def validate_gpa(cls, v):
+        """Validate GPA threshold."""
+        if v < 0 or v > 4.0:
+            raise ValueError('min_gpa must be between 0 and 4.0')
+        return v
+    
+    class Config:
+        """Pydantic config."""
+        json_schema_extra = {
+            "example": {
+                "interests": "psychology society culture",
+                "gened_preferences": ["HUM", "CS"],
+                "min_gpa": 3.3,
+                "avoid_subjects": ["BTW"],
+                "topk": 20
+            }
+        }
+
+
+@router.post("/gened/recommend")
+async def get_gened_recommendations(request: GenedRecommendationRequest):
+    """Get GenEd course recommendations based on student interests."""
+    try:
+        gened_recommender = get_gened_recommender()
+        recommendations = gened_recommender.recommend_courses(
+            interests=request.interests,
+            gened_preferences=request.gened_preferences,
+            min_gpa=request.min_gpa,
+            avoid_subjects=request.avoid_subjects,
+            topk=request.topk
+        )
+        return {"recommendations": recommendations}
+    except Exception as e:
+        raise HTTPException(status_code=500, detail=f"Error generating GenEd recommendations: {str(e)}")
 

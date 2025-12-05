@@ -1,16 +1,20 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
+import CollegeMajorScreen from './components/CollegeMajorScreen';
 import CourseSelector from './components/CourseSelector';
 import Recommendations from './components/Recommendations';
 import ProgressBar from './components/ProgressBar';
 import CourseDetails from './components/CourseDetails';
 import SemesterPlan from './components/SemesterPlan';
+import ClubRecommender from './components/ClubRecommender';
+import GenedRecommender from './components/GenedRecommender';
 import { getMajorCourses, getRecommendations } from './services/api';
-
-const MAJOR_NAME = 'Computer Science, BS';
+import majorsByCollegeData from './majors_by_college.json';
 
 function App() {
-  const [screen, setScreen] = useState('welcome');
+  const [screen, setScreen] = useState('college-major-selection');
+  const [selectedCollege, setSelectedCollege] = useState('');
+  const [selectedMajor, setSelectedMajor] = useState('');
   const [courses, setCourses] = useState([]);
   const [selectedCourses, setSelectedCourses] = useState([]);
   const [recommendations, setRecommendations] = useState([]);
@@ -20,19 +24,85 @@ function App() {
   const [loading, setLoading] = useState(false);
   const [error, setError] = useState(null);
   const [selectedCourseDetails, setSelectedCourseDetails] = useState(null);
+  const [majorsByCollege, setMajorsByCollege] = useState({});
 
-  // Load courses when component mounts
+  const colleges = [
+    { value: '', label: '-- Select College --' },
+    { value: 'grainger', label: 'Grainger College of Engineering' },
+    { value: 'las', label: 'College of Liberal Arts & Sciences' },
+    { value: 'business', label: 'Gies College of Business' },
+    { value: 'education', label: 'College of Education' },
+    { value: 'faa', label: 'College of Fine & Applied Arts' },
+    { value: 'aces', label: 'College of Agricultural, Consumer & Environmental Sciences' },
+    { value: 'media', label: 'College of Media' },
+    { value: 'ischool', label: 'School of Information Sciences' }
+  ];
+
+
+  const collegeKeyMap = {
+    'engineering': 'grainger',
+    'las': 'las',
+    'bus': 'business',
+    'education': 'education',
+    'faa': 'faa',
+    'aces': 'aces',
+    'media': 'media',
+    'ischool': 'ischool'
+  };
+
   useEffect(() => {
-    loadMajorCourses();
+    const processedMajors = {};
+    
+    Object.keys(majorsByCollegeData).forEach(jsonKey => {
+      const frontendKey = collegeKeyMap[jsonKey];
+      if (frontendKey && majorsByCollegeData[jsonKey].majors) {
+        const uniqueMajors = new Map();
+        majorsByCollegeData[jsonKey].majors.forEach(major => {
+          if (!uniqueMajors.has(major.major_name)) {
+            uniqueMajors.set(major.major_name, major);
+          }
+        });
+        
+        const majorsList = [
+          { value: '', label: '-- Select Major --' },
+          ...Array.from(uniqueMajors.values()).map(major => ({
+            value: major.major_name,
+            label: major.major_name
+          }))
+        ];
+        
+        processedMajors[frontendKey] = majorsList;
+      }
+    });
+    
+    colleges.forEach(college => {
+      if (college.value && !processedMajors[college.value]) {
+        processedMajors[college.value] = [{ value: '', label: '-- Select Major --' }];
+      }
+    });
+    
+    setMajorsByCollege(processedMajors);
   }, []);
 
+  const majors = selectedCollege ? (majorsByCollege[selectedCollege] || [{ value: '', label: '-- Select Major --' }]) : [{ value: '', label: '-- Select College First --' }];
+
+  useEffect(() => {
+    if (selectedCollege) {
+      setSelectedMajor('');
+    }
+  }, [selectedCollege]);
+
   const loadMajorCourses = async () => {
+    if (!selectedMajor) {
+      setError('Please select a major first.');
+      return;
+    }
+
     try {
       setLoading(true);
       setError(null);
-      const data = await getMajorCourses(MAJOR_NAME);
+      const data = await getMajorCourses(selectedMajor);
       
-      // Combine required and elective courses
       const allCourses = [
         ...(data.required || []),
         ...(data.electives || [])
@@ -62,7 +132,6 @@ function App() {
       setLoading(true);
       setError(null);
       
-      // Validate course codes before sending
       const { validateAndNormalizeCourses } = await import('./utils/validation.js');
       const normalizedCourses = validateAndNormalizeCourses(selectedCourses);
       
@@ -72,7 +141,7 @@ function App() {
         return;
       }
       
-      const response = await getRecommendations(MAJOR_NAME, normalizedCourses, 10);
+      const response = await getRecommendations(selectedMajor, normalizedCourses, 10);
       setRecommendations(response.recommendations || []);
       setProgress(response.progress || { completed: 0, total: 0, percentage: 0 });
       setSemesterPlan(response.semester_plan || null);
@@ -95,18 +164,67 @@ function App() {
     setSelectedCourseDetails(null);
   };
 
+  const handleContinueFromCollegeMajor = async () => {
+    await loadMajorCourses();
+    if (courses.length > 0 || selectedMajor) {
+      setScreen('welcome');
+    }
+  };
+
   return (
     <div className="app">
+      {screen === 'college-major-selection' && (
+        <CollegeMajorScreen
+          colleges={colleges}
+          majors={majors}
+          selectedCollege={selectedCollege}
+          setSelectedCollege={setSelectedCollege}
+          selectedMajor={selectedMajor}
+          setSelectedMajor={setSelectedMajor}
+          onContinue={handleContinueFromCollegeMajor}
+        />
+      )}
+
       {screen === 'welcome' && (
         <div className="screen-container">
           <div className="welcome-screen">
-            <h1 className="welcome-title">UIUC Course Recommendation System</h1>
-            <p className="welcome-subtitle">Get personalized course recommendations for Computer Science</p>
-            <button 
-              className="start-button"
-              onClick={() => setScreen('course-selection')}
+            <h1 className="welcome-title">UIUC Recommendation System</h1>
+            <p className="welcome-subtitle">Get personalized recommendations for courses, clubs, and GenEd courses</p>
+            {selectedMajor && (
+              <p className="selected-major-display">Selected Major: <strong>{selectedMajor}</strong></p>
+            )}
+            <div className="welcome-options">
+              <button
+                className="option-button course-button"
+                onClick={() => setScreen('course-selection')}
+              >
+                <span className="option-icon">📚</span>
+                <span className="option-title">Course Recommendations</span>
+                <span className="option-desc">Based on your major and completed courses</span>
+              </button>
+              <button
+                className="option-button club-button"
+                onClick={() => setScreen('club-recommender')}
+              >
+                <span className="option-icon">🎯</span>
+                <span className="option-title">Club Recommendations</span>
+                <span className="option-desc">Find student organizations that match your interests</span>
+              </button>
+              <button
+                className="option-button gened-button"
+                onClick={() => setScreen('gened-recommender')}
+              >
+                <span className="option-icon">🎓</span>
+                <span className="option-title">GenEd Recommendations</span>
+                <span className="option-desc">Discover General Education courses for you</span>
+              </button>
+            </div>
+            <button
+              className="back-button"
+              onClick={() => setScreen('college-major-selection')}
+              style={{ marginTop: '20px' }}
             >
-              Get Started
+              Change College/Major
             </button>
           </div>
         </div>
@@ -223,6 +341,22 @@ function App() {
                 Start Over
               </button>
             </div>
+          </div>
+        </div>
+      )}
+
+      {screen === 'club-recommender' && (
+        <div className="screen-container">
+          <div className="course-selection-screen">
+            <ClubRecommender onBack={() => setScreen('welcome')} />
+          </div>
+        </div>
+      )}
+
+      {screen === 'gened-recommender' && (
+        <div className="screen-container">
+          <div className="course-selection-screen">
+            <GenedRecommender onBack={() => setScreen('welcome')} />
           </div>
         </div>
       )}
