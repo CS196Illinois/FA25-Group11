@@ -5,6 +5,8 @@ import Recommendations from './components/Recommendations';
 import ProgressBar from './components/ProgressBar';
 import CourseDetails from './components/CourseDetails';
 import SemesterPlan from './components/SemesterPlan';
+import ClubRecommender from './components/ClubRecommender';
+import GenedRecommender from './components/GenedRecommender';
 import { getMajorCourses, getRecommendations } from './services/api';
 
 const MAJOR_NAME = 'Computer Science, BS';
@@ -100,14 +102,34 @@ function App() {
       {screen === 'welcome' && (
         <div className="screen-container">
           <div className="welcome-screen">
-            <h1 className="welcome-title">UIUC Course Recommendation System</h1>
-            <p className="welcome-subtitle">Get personalized course recommendations for Computer Science</p>
-            <button 
-              className="start-button"
-              onClick={() => setScreen('course-selection')}
-            >
-              Get Started
-            </button>
+            <h1 className="welcome-title">UIUC Recommendation System</h1>
+            <p className="welcome-subtitle">Get personalized recommendations for courses, clubs, and GenEd courses</p>
+            <div className="welcome-options">
+              <button 
+                className="option-button course-button"
+                onClick={() => setScreen('course-selection')}
+              >
+                <span className="option-icon">📚</span>
+                <span className="option-title">Course Recommendations</span>
+                <span className="option-desc">Based on your major and completed courses</span>
+              </button>
+              <button 
+                className="option-button club-button"
+                onClick={() => setScreen('club-recommender')}
+              >
+                <span className="option-icon">🎯</span>
+                <span className="option-title">Club Recommendations</span>
+                <span className="option-desc">Find student organizations that match your interests</span>
+              </button>
+              <button 
+                className="option-button gened-button"
+                onClick={() => setScreen('gened-recommender')}
+              >
+                <span className="option-icon">🎓</span>
+                <span className="option-title">GenEd Recommendations</span>
+                <span className="option-desc">Discover General Education courses for you</span>
+              </button>
+            </div>
           </div>
         </div>
       )}
@@ -223,6 +245,22 @@ function App() {
                 Start Over
               </button>
             </div>
+          </div>
+        </div>
+      )}
+
+      {screen === 'club-recommender' && (
+        <div className="screen-container">
+          <div className="course-selection-screen">
+            <ClubRecommender onBack={() => setScreen('welcome')} />
+          </div>
+        </div>
+      )}
+
+      {screen === 'gened-recommender' && (
+        <div className="screen-container">
+          <div className="course-selection-screen">
+            <GenedRecommender onBack={() => setScreen('welcome')} />
           </div>
         </div>
       )}

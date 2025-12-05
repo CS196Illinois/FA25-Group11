@@ -100,5 +100,53 @@ export const getCoursePrerequisites = async (courseCode) => {
   }
 };
 
+/**
+ * Get club recommendations
+ * @param {Object} params - Recommendation parameters
+ * @param {string} params.interests - Free-form text describing interests
+ * @param {string[]} params.preferred_tags - List of preferred club categories
+ * @param {string[]} params.avoid_tags - List of categories to avoid
+ * @param {number} params.topk - Number of recommendations (default: 20)
+ */
+export const getClubRecommendations = async (params) => {
+  try {
+    const response = await api.post('/api/clubs/recommend', {
+      interests: params.interests || '',
+      preferred_tags: params.preferred_tags || [],
+      avoid_tags: params.avoid_tags || [],
+      topk: params.topk || 20,
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Error fetching club recommendations:', error);
+    throw error;
+  }
+};
+
+/**
+ * Get GenEd course recommendations
+ * @param {Object} params - Recommendation parameters
+ * @param {string} params.interests - Free-form text describing interests
+ * @param {string[]} params.gened_preferences - List of preferred GenEd categories (e.g., ['HUM', 'CS'])
+ * @param {number} params.min_gpa - Minimum GPA threshold (default: 3.0)
+ * @param {string[]} params.avoid_subjects - List of subject codes to avoid
+ * @param {number} params.topk - Number of recommendations (default: 20)
+ */
+export const getGenedRecommendations = async (params) => {
+  try {
+    const response = await api.post('/api/gened/recommend', {
+      interests: params.interests || '',
+      gened_preferences: params.gened_preferences || [],
+      min_gpa: params.min_gpa || 3.0,
+      avoid_subjects: params.avoid_subjects || [],
+      topk: params.topk || 20,
+    });
+    return response.data;
+  } catch (error) {
+    console.error('Error fetching GenEd recommendations:', error);
+    throw error;
+  }
+};
+
 export default api;
 
