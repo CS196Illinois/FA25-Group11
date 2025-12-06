@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import './PreferenceScreen.css';
 
 const PreferenceScreen = ({ 
@@ -8,30 +8,50 @@ const PreferenceScreen = ({
   onContinue,
   onBack,
   onSkip,
-  majors = []
+  majors = [],
+  initialValues = {}
 }) => {
   // GenEd state
-  const [genedInterests, setGenedInterests] = useState('');
-  const [genedPreferences, setGenedPreferences] = useState([]);
-  const [minGpa, setMinGpa] = useState(3.0);
-  const [avoidSubjects, setAvoidSubjects] = useState([]);
+  const [genedInterests, setGenedInterests] = useState(initialValues.genedInterests || '');
+  const [genedPreferences, setGenedPreferences] = useState(initialValues.genedPreferences || []);
+  const [minGpa, setMinGpa] = useState(initialValues.minGpa || 3.0);
+  const [avoidSubjects, setAvoidSubjects] = useState(initialValues.avoidSubjects || []);
   const [subjectInput, setSubjectInput] = useState('');
   const [genedErrors, setGenedErrors] = useState({});
 
   // Club state
-  const [clubInterests, setClubInterests] = useState('');
-  const [preferredTags, setPreferredTags] = useState([]);
-  const [avoidTags, setAvoidTags] = useState([]);
+  const [clubInterests, setClubInterests] = useState(initialValues.clubInterests || '');
+  const [preferredTags, setPreferredTags] = useState(initialValues.preferredTags || []);
+  const [avoidTags, setAvoidTags] = useState(initialValues.avoidTags || []);
   const [tagInput, setTagInput] = useState('');
   const [avoidInput, setAvoidInput] = useState('');
   const [clubErrors, setClubErrors] = useState({});
 
   // Course state
-  const [selectedMajor, setSelectedMajor] = useState('');
-  const [courseInterests, setCourseInterests] = useState('');
-  const [preferFoundational, setPreferFoundational] = useState(false);
-  const [preferAdvanced, setPreferAdvanced] = useState(false);
+  const [selectedMajor, setSelectedMajor] = useState(initialValues.selectedMajor || '');
+  const [courseInterests, setCourseInterests] = useState(initialValues.courseInterests || '');
+  const [preferFoundational, setPreferFoundational] = useState(initialValues.preferFoundational || false);
+  const [preferAdvanced, setPreferAdvanced] = useState(initialValues.preferAdvanced || false);
   const [courseErrors, setCourseErrors] = useState({});
+
+  // Update state when initialValues change
+  useEffect(() => {
+    if (type === 'gened' && initialValues) {
+      if (initialValues.genedInterests !== undefined) setGenedInterests(initialValues.genedInterests);
+      if (initialValues.genedPreferences !== undefined) setGenedPreferences(initialValues.genedPreferences);
+      if (initialValues.minGpa !== undefined) setMinGpa(initialValues.minGpa);
+      if (initialValues.avoidSubjects !== undefined) setAvoidSubjects(initialValues.avoidSubjects);
+    } else if (type === 'clubs' && initialValues) {
+      if (initialValues.clubInterests !== undefined) setClubInterests(initialValues.clubInterests);
+      if (initialValues.preferredTags !== undefined) setPreferredTags(initialValues.preferredTags);
+      if (initialValues.avoidTags !== undefined) setAvoidTags(initialValues.avoidTags);
+    } else if (type === 'courses' && initialValues) {
+      if (initialValues.selectedMajor !== undefined) setSelectedMajor(initialValues.selectedMajor);
+      if (initialValues.courseInterests !== undefined) setCourseInterests(initialValues.courseInterests);
+      if (initialValues.preferFoundational !== undefined) setPreferFoundational(initialValues.preferFoundational);
+      if (initialValues.preferAdvanced !== undefined) setPreferAdvanced(initialValues.preferAdvanced);
+    }
+  }, [initialValues, type]);
 
   const availableGenedCategories = [
     'ACP', 'CS', 'COMP1', 'HUM', 'NAT', 'QR', 'SBS', 'US', 'WCC', 'NW'

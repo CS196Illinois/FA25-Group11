@@ -1,0 +1,145 @@
+.results-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 24px;
+  padding: 20px 0;
+}
+
+.result-card {
+  background: white;
+  border: 2px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 20px;
+  transition: all 0.3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.result-card:hover {
+  border-color: #4a90e2;
+  transform: translateY(-4px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
+}
+
+.result-card.selected {
+  border-color: #4a90e2;
+  background: #f0f7ff;
+}
+
+.card-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 12px;
+}
+
+.card-type-badge {
+  padding: 6px 12px;
+  background: #e3f2fd;
+  color: #1976d2;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.compare-checkbox {
+  width: 28px;
+  height: 28px;
+  border: 2px solid #4a90e2;
+  border-radius: 6px;
+  background: white;
+  color: #4a90e2;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.compare-checkbox:hover {
+  background: #f0f7ff;
+}
+
+.result-card.selected .compare-checkbox {
+  background: #4a90e2;
+  color: white;
+}
+
+.card-body {
+  flex: 1;
+}
+
+.card-code {
+  font-size: 24px;
+  color: #1976d2;
+  margin: 0 0 8px 0;
+  font-weight: 700;
+}
+
+.card-name {
+  font-size: 18px;
+  color: #1a1a1a;
+  margin: 0 0 12px 0;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.card-credits {
+  font-size: 14px;
+  color: #666;
+  margin: 0 0 8px 0;
+  font-weight: 500;
+}
+
+.card-description {
+  font-size: 14px;
+  color: #4a4a4a;
+  margin: 0;
+  line-height: 1.5;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-footer {
+  margin-top: 16px;
+  padding-top: 16px;
+  border-top: 1px solid #e0e0e0;
+}
+
+.view-details-btn {
+  width: 100%;
+  padding: 10px;
+  background: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.view-details-btn:hover {
+  background: #357abd;
+  transform: translateY(-2px);
+}
+
+.results-grid-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: #666;
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .results-grid {
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+}
+

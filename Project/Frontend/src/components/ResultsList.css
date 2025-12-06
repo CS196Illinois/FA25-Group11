@@ -1,0 +1,153 @@
+.results-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 20px 0;
+}
+
+.result-list-item {
+  background: white;
+  border: 2px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 20px;
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+  transition: all 0.3s ease;
+}
+
+.result-list-item:hover {
+  border-color: #4a90e2;
+  transform: translateX(4px);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.result-list-item.selected {
+  border-color: #4a90e2;
+  background: #f0f7ff;
+}
+
+.list-item-checkbox {
+  flex-shrink: 0;
+}
+
+.compare-checkbox {
+  width: 28px;
+  height: 28px;
+  border: 2px solid #4a90e2;
+  border-radius: 6px;
+  background: white;
+  color: #4a90e2;
+  font-size: 16px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.compare-checkbox:hover {
+  background: #f0f7ff;
+}
+
+.result-list-item.selected .compare-checkbox {
+  background: #4a90e2;
+  color: white;
+}
+
+.list-item-content {
+  flex: 1;
+  min-width: 0;
+}
+
+.list-item-header {
+  display: flex;
+  align-items: center;
+  gap: 12px;
+  margin-bottom: 8px;
+}
+
+.list-item-code {
+  font-size: 20px;
+  color: #1976d2;
+  margin: 0;
+  font-weight: 700;
+}
+
+.list-item-type {
+  padding: 4px 10px;
+  background: #e3f2fd;
+  color: #1976d2;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.list-item-name {
+  font-size: 18px;
+  color: #1a1a1a;
+  margin: 0 0 8px 0;
+  font-weight: 600;
+  line-height: 1.4;
+}
+
+.list-item-credits {
+  font-size: 14px;
+  color: #666;
+  margin: 0 0 8px 0;
+  font-weight: 500;
+}
+
+.list-item-description {
+  font-size: 14px;
+  color: #4a4a4a;
+  margin: 0;
+  line-height: 1.5;
+}
+
+.list-item-actions {
+  flex-shrink: 0;
+}
+
+.view-details-btn {
+  padding: 10px 20px;
+  background: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  white-space: nowrap;
+}
+
+.view-details-btn:hover {
+  background: #357abd;
+  transform: translateY(-2px);
+}
+
+.results-list-empty {
+  text-align: center;
+  padding: 60px 20px;
+  color: #666;
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .result-list-item {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .list-item-actions {
+    width: 100%;
+  }
+
+  .view-details-btn {
+    width: 100%;
+  }
+}
+

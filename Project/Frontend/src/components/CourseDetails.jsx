@@ -37,17 +37,45 @@ const CourseDetails = ({ courseCode, onClose }) => {
       <div className="course-details-modal" onClick={(e) => e.stopPropagation()}>
         <button className="close-button" onClick={onClose}>×</button>
         
-        {loading && <div className="loading">Loading...</div>}
-        {error && <div className="error">{error}</div>}
+        {loading && (
+          <div className="loading">
+            <div className="loading-spinner"></div>
+            <p>Loading course details...</p>
+          </div>
+        )}
+        {error && (
+          <div className="error">
+            <strong>Error:</strong> {error}
+            <button className="retry-button" onClick={loadCourseDetails}>
+              Retry
+            </button>
+          </div>
+        )}
         
         {course && (
           <div className="course-details-content">
             <h2 className="course-details-code">{course.course_code}</h2>
             <h3 className="course-details-name">{course.name}</h3>
             
-            <div className="course-details-section">
-              <span className="section-label">Credits:</span>
-              <span className="section-value">{course.credits || 'N/A'}</span>
+            <div className="course-details-meta">
+              <div className="meta-item">
+                <span className="meta-label">Credits</span>
+                <span className="meta-value">{course.credits || 'N/A'}</span>
+              </div>
+              {course.course_code && (
+                <div className="meta-item">
+                  <span className="meta-label">Level</span>
+                  <span className="meta-value">
+                    {(() => {
+                      const match = course.course_code.match(/\d+/);
+                      if (match && match[0]) {
+                        return match[0][0] + '00-level';
+                      }
+                      return 'N/A';
+                    })()}
+                  </span>
+                </div>
+              )}
             </div>
             
             {course.description && (
