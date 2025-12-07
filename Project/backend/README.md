@@ -4,13 +4,24 @@ FastAPI backend for the UIUC Course Recommendation System.
 
 ## Setup
 
-1. Install dependencies:
+1. Create and activate a virtual environment:
 ```bash
 cd backend
+python -m venv venv
+
+# On macOS/Linux:
+source venv/bin/activate
+
+# On Windows:
+# venv\Scripts\activate
+```
+
+2. Install dependencies:
+```bash
 pip install -r requirements.txt
 ```
 
-2. Run the server:
+3. Run the server:
 ```bash
 cd backend
 uvicorn app.main:app --reload --port 8000
