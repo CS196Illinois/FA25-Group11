@@ -1,0 +1,608 @@
+.swipe-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.98);
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  backdrop-filter: blur(10px);
+}
+
+.swipe-container h1 {
+  color: #1a1a1a;
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  font-weight: 700;
+  text-align: center;
+  line-height: 1.2;
+  text-shadow: 0 2px 4px rgba(255, 255, 255, 0.8);
+}
+
+.instructions {
+  color: #2a2a2a;
+  font-size: 1.125rem;
+  margin-bottom: 40px;
+  text-align: center;
+  line-height: 1.6;
+  font-weight: 500;
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.8);
+}
+
+.card-stack {
+  position: relative;
+  width: 400px;
+  height: 500px;
+  margin-bottom: 40px;
+}
+
+.course-card {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background: #ffffff;
+  border-radius: 20px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  cursor: grab;
+  user-select: none;
+  touch-action: none;
+  z-index: 2;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.course-card:active {
+  cursor: grabbing;
+}
+
+.next-card {
+  transform: scale(0.95);
+  opacity: 1;
+  z-index: 1;
+  pointer-events: none;
+  z-index: 1;
+}
+
+
+.card-content {
+  padding: 40px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  position: relative;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+.course-card.club .card-content {
+  justify-content: flex-start;
+  padding-top: 60px;
+}
+
+.card-type-badge {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  padding: 8px 14px;
+  border-radius: 20px;
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.2);
+}
+
+.course-card.course .card-type-badge {
+  background-color: #2196f3;
+  color: white;
+}
+
+.course-card.gened .card-type-badge {
+  background-color: #9c27b0;
+  color: white;
+}
+
+.course-card.club .card-type-badge {
+  background-color: #ff9800;
+  color: white;
+}
+
+.course-card.technical .card-type-badge {
+  background-color: #ff9800;
+  color: white;
+}
+
+.course-card.technical {
+  background-color: #ffffff;
+}
+
+.course-code {
+  font-size: 48px;
+  color: #1976d2;
+  margin: 0 0 10px 0;
+  font-weight: 800;
+  text-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.course-name {
+  font-size: 28px;
+  color: #1a1a1a;
+  margin: 0 0 20px 0;
+  font-weight: 600;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+}
+
+.course-credits {
+  font-size: 18px;
+  color: #2a2a2a;
+  margin: 0 0 30px 0;
+  font-weight: 600;
+}
+
+.course-description {
+  font-size: 17px;
+  color: #2a2a2a;
+  line-height: 1.7;
+  font-weight: 400;
+  max-width: 90%;
+  margin: 0 auto;
+}
+
+.club-name {
+  font-size: 32px;
+  color: #1a1a1a;
+  margin: 20px 0 20px 0;
+  font-weight: 700;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.05);
+  line-height: 1.3;
+  flex-shrink: 0;
+}
+
+.club-description {
+  font-size: 17px;
+  color: #2a2a2a;
+  line-height: 1.7;
+  font-weight: 400;
+  max-width: 90%;
+  margin: 20px auto 0;
+  text-align: left;
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  flex: 1;
+  overflow-y: auto;
+}
+
+.swipe-indicator {
+  position: absolute;
+  top: 50px;
+  font-size: 48px;
+  font-weight: 800;
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: 5px solid;
+  transform: rotate(-20deg);
+  opacity: 0.9;
+}
+
+.swipe-indicator.like {
+  right: 50px;
+  color: #4caf50;
+  border-color: #4caf50;
+}
+
+.swipe-indicator.nope {
+  left: 50px;
+  color: #f44336;
+  border-color: #f44336;
+}
+
+.swiping-right {
+  animation: swipeRight 0.3s ease-out forwards;
+}
+
+.swiping-left {
+  animation: swipeLeft 0.3s ease-out forwards;
+}
+
+@keyframes swipeRight {
+  to {
+    transform: translateX(500px) rotate(30deg);
+    opacity: 0;
+  }
+}
+
+@keyframes swipeLeft {
+  to {
+    transform: translateX(-500px) rotate(-30deg);
+    opacity: 0;
+  }
+}
+
+.button-controls {
+  display: flex;
+  gap: 30px;
+  margin-bottom: 20px;
+}
+
+.swipe-button {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.2s ease;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  color: white;
+}
+
+.swipe-button.like {
+  background: #4caf50;
+}
+
+.swipe-button.dislike {
+  background: #f44336;
+}
+
+.swipe-button:hover {
+  transform: scale(1.1);
+}
+
+.swipe-button:active {
+  transform: scale(0.95);
+}
+
+.progress {
+  color: #1a1a1a;
+  font-size: 20px;
+  font-weight: 700;
+  margin-top: 20px;
+  background: rgba(255, 255, 255, 0.95);
+  padding: 12px 24px;
+  border-radius: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  text-shadow: 0 1px 2px rgba(255, 255, 255, 0.8);
+}
+
+.results {
+  display: flex;
+  gap: 40px;
+  margin: 40px 0;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.result-section {
+  background: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  min-width: 300px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.result-section h2 {
+  margin-top: 0;
+  font-size: 28px;
+  font-weight: 700;
+  text-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.result-section.liked h2 {
+  color: #4caf50;
+}
+
+.result-section.disliked h2 {
+  color: #f44336;
+}
+
+.result-item {
+  padding: 15px;
+  margin: 10px 0;
+  background: #f8f9fa;
+  border-radius: 8px;
+  font-weight: 500;
+  font-size: 16px;
+  color: #1a1a1a;
+  line-height: 1.5;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+}
+
+.result-item strong {
+  color: #1976d2;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.result-section p {
+  color: #4a4a4a;
+  font-size: 16px;
+  font-weight: 500;
+}
+
+.reset-button {
+  background: white;
+  color: #667eea;
+  border: none;
+  padding: 15px 40px;
+  font-size: 20px;
+  font-weight: 600;
+  border-radius: 30px;
+  cursor: pointer;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  transition: all 0.2s ease;
+}
+
+.reset-button:hover {
+  transform: scale(1.05);
+}
+
+.swipe-header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.swipe-stats-inline {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  margin-top: 10px;
+  font-size: 16px;
+  color: #666;
+}
+
+.swipe-stats-inline strong {
+  color: #1a1a1a;
+  font-weight: 700;
+}
+
+.swipe-stats {
+  display: flex;
+  justify-content: center;
+  gap: 30px;
+  margin: 20px 0;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+}
+
+.stat-label {
+  font-size: 14px;
+  color: #666;
+  font-weight: 500;
+}
+
+.stat-value {
+  font-size: 32px;
+  font-weight: 700;
+}
+
+.stat-value.liked {
+  color: #4caf50;
+}
+
+.stat-value.disliked {
+  color: #f44336;
+}
+
+.batch-actions {
+  display: flex;
+  justify-content: center;
+  gap: 12px;
+  margin-bottom: 20px;
+  flex-wrap: wrap;
+}
+
+.batch-button {
+  padding: 10px 20px;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  background: white;
+  color: #333;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.batch-button:hover:not(:disabled) {
+  border-color: #4a90e2;
+  background: #f0f7ff;
+  transform: translateY(-2px);
+}
+
+.batch-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.batch-button.like-all {
+  border-color: #4caf50;
+  color: #4caf50;
+}
+
+.batch-button.like-all:hover:not(:disabled) {
+  background: #e8f5e9;
+}
+
+.batch-button.pass-all {
+  border-color: #f44336;
+  color: #f44336;
+}
+
+.batch-button.pass-all:hover:not(:disabled) {
+  background: #ffebee;
+}
+
+.batch-button.undo {
+  border-color: #ff9800;
+  color: #ff9800;
+}
+
+.batch-button.undo:hover:not(:disabled) {
+  background: #fff3e0;
+}
+
+.view-details-button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  background: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.view-details-button:hover {
+  background: #357abd;
+  transform: translateY(-2px);
+}
+
+.results-list {
+  max-height: 400px;
+  overflow-y: auto;
+  margin-top: 16px;
+}
+
+.result-item {
+  padding: 16px;
+  margin: 8px 0;
+  background: #f8f9fa;
+  border-radius: 8px;
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  transition: all 0.3s ease;
+}
+
+.result-item:hover {
+  background: #e9ecef;
+  transform: translateX(4px);
+}
+
+.result-item-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 8px;
+}
+
+.result-item-header strong {
+  color: #1976d2;
+  font-weight: 700;
+  font-size: 17px;
+}
+
+.result-type-badge {
+  padding: 4px 10px;
+  background: #e3f2fd;
+  color: #1976d2;
+  border-radius: 12px;
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+}
+
+.result-item-name {
+  color: #1a1a1a;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
+.results-actions {
+  display: flex;
+  justify-content: center;
+  gap: 16px;
+  margin-top: 30px;
+  flex-wrap: wrap;
+}
+
+.action-button {
+  padding: 14px 32px;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.action-button.primary {
+  background: #4a90e2;
+  color: white;
+  box-shadow: 0 4px 12px rgba(74, 144, 226, 0.3);
+}
+
+.action-button.primary:hover {
+  background: #357abd;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(74, 144, 226, 0.4);
+}
+
+.action-button.secondary {
+  background: white;
+  color: #4a90e2;
+  border: 2px solid #4a90e2;
+}
+
+.action-button.secondary:hover {
+  background: #f0f7ff;
+  transform: translateY(-2px);
+}
+
+@media (max-width: 768px) {
+  .card-stack {
+    width: 90vw;
+    max-width: 350px;
+    height: 450px;
+  }
+  
+  .course-code {
+    font-size: 36px;
+  }
+  
+  .course-name {
+    font-size: 22px;
+  }
+
+  .club-name {
+    font-size: 24px;
+  }
+
+  .club-description {
+    font-size: 15px;
+  }
+
+  .batch-actions {
+    flex-direction: column;
+  }
+
+  .batch-button {
+    width: 100%;
+  }
+
+  .swipe-stats {
+    flex-direction: column;
+    gap: 16px;
+  }
+
+  .results-actions {
+    flex-direction: column;
+  }
+
+  .action-button {
+    width: 100%;
+  }
+}

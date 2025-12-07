@@ -1,0 +1,177 @@
+.dars-upload {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 40px 20px;
+  background: rgba(255, 255, 255, 0.98);
+  border-radius: 16px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+}
+
+.dars-upload .screen-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #1a1a1a;
+  margin-bottom: 1rem;
+  line-height: 1.2;
+}
+
+.dars-upload .screen-subtitle {
+  font-size: 1.125rem;
+  color: #4a4a4a;
+  margin-bottom: 2rem;
+  line-height: 1.6;
+}
+
+.upload-container {
+  margin: 40px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 20px;
+}
+
+.file-input-wrapper {
+  position: relative;
+  width: 100%;
+  max-width: 500px;
+}
+
+.file-input {
+  position: absolute;
+  opacity: 0;
+  width: 0;
+  height: 0;
+}
+
+.file-label {
+  display: block;
+  padding: 24px;
+  border: 3px dashed #4a90e2;
+  border-radius: 12px;
+  text-align: center;
+  cursor: pointer;
+  background-color: #f8f9fa;
+  transition: all 0.3s ease;
+  font-size: 18px;
+  color: #1a4a7a;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.file-hint {
+  margin-top: 12px;
+  font-size: 14px;
+  color: #666;
+  text-align: center;
+  font-weight: 500;
+}
+
+.file-label:hover {
+  background-color: #e8f4f8;
+  border-color: #357abd;
+}
+
+.upload-button {
+  padding: 12px 32px;
+  background-color: #4a90e2;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.upload-button:hover:not(:disabled) {
+  background-color: #357abd;
+}
+
+.upload-button:disabled {
+  background-color: #ccc;
+  cursor: not-allowed;
+}
+
+.upload-success {
+  margin-top: 30px;
+  padding: 24px;
+  background-color: #d4edda;
+  border: 2px solid #c3e6cb;
+  border-radius: 12px;
+}
+
+.upload-success h3 {
+  color: #155724;
+  margin-bottom: 16px;
+  font-size: 1.5rem;
+  font-weight: 700;
+}
+
+.preview-label {
+  font-size: 16px;
+  font-weight: 600;
+  color: #155724;
+  margin-bottom: 12px;
+}
+
+.skip-section {
+  margin-top: 32px;
+  text-align: center;
+  padding-top: 24px;
+  border-top: 2px solid #e0e0e0;
+}
+
+.skip-hint {
+  font-size: 16px;
+  color: #666;
+  margin-bottom: 16px;
+  font-weight: 500;
+}
+
+.skip-button {
+  padding: 12px 32px;
+  background-color: #f5f5f5;
+  color: #333;
+  border: 2px solid #ddd;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.skip-button:hover:not(:disabled) {
+  background-color: #e8e8e8;
+  border-color: #bbb;
+}
+
+.skip-button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.courses-preview {
+  margin-top: 15px;
+}
+
+.courses-preview p {
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.courses-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.course-tag {
+  display: inline-block;
+  padding: 6px 12px;
+  background-color: white;
+  border: 1px solid #c3e6cb;
+  border-radius: 6px;
+  font-size: 14px;
+  color: #155724;
+}
+
