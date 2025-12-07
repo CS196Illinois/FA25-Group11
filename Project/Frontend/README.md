@@ -1,16 +1,129 @@
-# React + Vite
+# Illinois Course Recommender - Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, animated frontend for the University of Illinois course recommendation system, built with React, Vite, and Framer Motion.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🎨 **UIUC Branding**: Official Illinois colors and design patterns
+- ✨ **Smooth Animations**: Page transitions and interactive elements powered by Framer Motion
+- 📱 **Responsive Design**: Works beautifully on all devices
+- 🚀 **Modern UX**: SaaS-style landing page with engaging user flow
+- 🎯 **Multi-Step Onboarding**: Intuitive step-by-step user onboarding
+- 📊 **Recommendations Display**: Beautiful card-based layout for course recommendations
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React 19** - Latest React with modern features
+- **Vite** - Fast build tool and dev server
+- **Framer Motion** - Smooth animations and page transitions
+- **React Router** - Client-side routing
+- **CSS3** - Custom styling with CSS variables
 
-## Expanding the ESLint configuration
+## Getting Started
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Installation
+
+```bash
+npm install
+```
+
+### Development
+
+```bash
+npm run dev
+```
+
+The app will be available at `http://localhost:5173`
+
+### Build
+
+```bash
+npm run build
+```
+
+### Preview Production Build
+
+```bash
+npm run preview
+```
+
+## Project Structure
+
+```
+src/
+├── pages/
+│   ├── LandingPage.jsx       # Main landing page with hero section
+│   ├── LandingPage.css
+│   ├── OnboardingPage.jsx   # Multi-step onboarding flow
+│   ├── OnboardingPage.css
+│   ├── RecommendationsPage.jsx  # Course recommendations display
+│   └── RecommendationsPage.css
+├── App.jsx                   # Main app with routing
+├── App.css
+├── main.jsx                  # Entry point
+└── index.css                 # Global styles and UIUC theme
+```
+
+## Design System
+
+### Colors
+
+- **Illinois Orange**: `#FF6B35` - Primary accent color
+- **Illinois Blue**: `#13294B` - Primary brand color
+- **Light Blue**: `#1E3A5F` - Secondary brand color
+
+### Typography
+
+- **Font Family**: Inter (Google Fonts)
+- **Weights**: 300, 400, 500, 600, 700, 800
+
+### Animations
+
+All animations use Framer Motion with:
+- Smooth page transitions
+- Staggered children animations
+- Hover and tap interactions
+- Scroll-triggered animations
+
+## Pages
+
+### Landing Page (`/`)
+
+- Hero section with animated background
+- Feature showcase
+- Call-to-action sections
+- Smooth scroll navigation
+
+### Onboarding Page (`/onboarding`)
+
+- Multi-step form with progress indicator
+- Major selection
+- Course input with tags
+- Review and confirmation
+
+### Recommendations Page (`/recommendations`)
+
+- Filterable course cards
+- Priority badges
+- Prerequisite display
+- Empty states
+
+## Next Steps
+
+- [ ] Connect to backend API
+- [ ] Add course search functionality
+- [ ] Implement user authentication
+- [ ] Add course detail modals
+- [ ] Integrate with DARS system
+- [ ] Add semester planning view
+
+## Notes
+
+- Currently uses mock data for recommendations
+- Backend integration pending
+- All animations are optimized for performance
+- Fully responsive and accessible
+
+## License
+
+Built for University of Illinois students.

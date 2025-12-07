@@ -1,0 +1,640 @@
+.onboarding-page {
+  min-height: 100vh;
+  background: linear-gradient(135deg, var(--illinois-blue) 0%, var(--illinois-light-blue) 100%);
+  padding: var(--spacing-xl) var(--spacing-lg);
+}
+
+.onboarding-container {
+  max-width: 800px;
+  margin: 0 auto;
+  background: white;
+  border-radius: 24px;
+  box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+  overflow: hidden;
+  min-height: calc(100vh - 4rem);
+  display: flex;
+  flex-direction: column;
+}
+
+/* Progress Bar */
+.progress-container {
+  padding: var(--spacing-lg);
+  background: var(--gray-50);
+  border-bottom: 1px solid var(--gray-200);
+  overflow: visible;
+}
+
+.progress-bar {
+  width: 100%;
+  height: 6px;
+  background: var(--gray-200);
+  border-radius: 3px;
+  overflow: hidden;
+  margin-bottom: var(--spacing-md);
+}
+
+.progress-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--illinois-orange), #FFB84D);
+  border-radius: 3px;
+  transition: width 0.5s ease;
+}
+
+.progress-steps {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem;
+  flex-wrap: nowrap;
+  min-width: 0;
+}
+
+.progress-step {
+  flex: 0 0 auto;
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: var(--gray-300);
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 600;
+  font-size: 0.9rem;
+  position: relative;
+  min-width: 36px;
+}
+
+.progress-step.active {
+  background: var(--illinois-orange);
+  box-shadow: 0 4px 12px rgba(255, 107, 53, 0.4);
+}
+
+.progress-step.active::after {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  border-radius: 50%;
+  background: var(--illinois-orange);
+  opacity: 0.3;
+  animation: pulse 2s infinite;
+}
+
+@keyframes pulse {
+  0%, 100% {
+    transform: scale(1);
+    opacity: 0.3;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0;
+  }
+}
+
+/* Step Container */
+.step-container {
+  flex: 1;
+  padding: var(--spacing-2xl);
+  display: flex;
+  flex-direction: column;
+}
+
+.step-content {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.step-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: var(--illinois-blue);
+  margin-bottom: var(--spacing-sm);
+}
+
+.step-subtitle {
+  font-size: 1.1rem;
+  color: var(--gray-600);
+  margin-bottom: var(--spacing-xl);
+}
+
+/* Welcome Step */
+.welcome-step {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.welcome-content {
+  text-align: center;
+  max-width: 500px;
+}
+
+.welcome-icon {
+  font-size: 5rem;
+  margin-bottom: var(--spacing-lg);
+}
+
+.welcome-text {
+  font-size: 1.25rem;
+  color: var(--gray-700);
+  line-height: 1.6;
+  margin-bottom: var(--spacing-xl);
+}
+
+/* Major Step */
+.major-step {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.input-group {
+  flex: 1;
+  margin-bottom: var(--spacing-xl);
+}
+
+.input-group label {
+  display: block;
+  font-size: 1.1rem;
+  font-weight: 600;
+  color: var(--illinois-blue);
+  margin-bottom: var(--spacing-md);
+}
+
+.major-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.major-card {
+  padding: var(--spacing-lg);
+  background: white;
+  border: 2px solid var(--gray-200);
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--gray-700);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.major-card:hover {
+  border-color: var(--illinois-orange);
+  background: rgba(255, 107, 53, 0.05);
+}
+
+.major-card.selected {
+  background: var(--illinois-orange);
+  color: white;
+  border-color: var(--illinois-orange);
+  box-shadow: 0 8px 20px rgba(255, 107, 53, 0.3);
+}
+
+/* Courses Step */
+.courses-step {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.course-input-group {
+  display: flex;
+  gap: var(--spacing-md);
+  margin-bottom: var(--spacing-md);
+}
+
+.course-input {
+  flex: 1;
+  padding: var(--spacing-md);
+  border: 2px solid var(--gray-300);
+  border-radius: 12px;
+  font-size: 1rem;
+  transition: border-color 0.3s;
+}
+
+.course-input:focus {
+  outline: none;
+  border-color: var(--illinois-orange);
+}
+
+.course-list-section {
+  margin-top: var(--spacing-lg);
+}
+
+.course-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+  min-height: 60px;
+  padding: var(--spacing-md);
+  background: var(--gray-50);
+  border-radius: 12px;
+  border: 2px dashed var(--gray-300);
+}
+
+.empty-course-list {
+  color: var(--gray-500);
+  font-style: italic;
+  width: 100%;
+  text-align: center;
+  padding: var(--spacing-md);
+}
+
+.course-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-xs);
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: var(--illinois-orange);
+  color: white;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.remove-btn {
+  background: none;
+  border: none;
+  color: white;
+  font-size: 1.2rem;
+  cursor: pointer;
+  padding: 0;
+  width: 20px;
+  height: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 50%;
+  transition: background 0.2s;
+}
+
+.remove-btn:hover {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+/* Review Step */
+.review-step {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.review-content {
+  flex: 1;
+  background: var(--gray-50);
+  padding: var(--spacing-xl);
+  border-radius: 16px;
+  margin-bottom: var(--spacing-xl);
+}
+
+.review-item {
+  margin-bottom: var(--spacing-lg);
+}
+
+.review-item:last-child {
+  margin-bottom: 0;
+}
+
+.review-label {
+  display: block;
+  font-weight: 600;
+  color: var(--illinois-blue);
+  margin-bottom: var(--spacing-sm);
+  font-size: 1.1rem;
+}
+
+.review-value {
+  font-size: 1.25rem;
+  color: var(--gray-700);
+}
+
+.review-courses {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+}
+
+.review-course-tag {
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: var(--illinois-orange);
+  color: white;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.review-empty {
+  color: var(--gray-500);
+  font-style: italic;
+}
+
+/* Step Actions */
+.step-actions {
+  display: flex;
+  justify-content: space-between;
+  gap: var(--spacing-md);
+  margin-top: auto;
+  padding-top: var(--spacing-xl);
+  border-top: 1px solid var(--gray-200);
+}
+
+.step-actions .btn {
+  flex: 1;
+  max-width: 200px;
+}
+
+.step-actions .btn:last-child {
+  margin-left: auto;
+}
+
+/* Year Step */
+.year-step {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.year-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.year-card {
+  padding: var(--spacing-lg);
+  background: white;
+  border: 2px solid var(--gray-200);
+  border-radius: 12px;
+  font-size: 1rem;
+  font-weight: 500;
+  color: var(--gray-700);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.year-card:hover {
+  border-color: var(--illinois-orange);
+  background: rgba(255, 107, 53, 0.05);
+}
+
+.year-card.selected {
+  background: var(--illinois-orange);
+  color: white;
+  border-color: var(--illinois-orange);
+  box-shadow: 0 8px 20px rgba(255, 107, 53, 0.3);
+}
+
+/* Interests Step */
+.interests-step {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.help-text {
+  font-size: 0.9rem;
+  color: var(--gray-600);
+  margin-bottom: var(--spacing-md);
+}
+
+.interests-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(180px, 1fr));
+  gap: var(--spacing-md);
+}
+
+.interest-card {
+  padding: var(--spacing-md);
+  background: white;
+  border: 2px solid var(--gray-200);
+  border-radius: 12px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--gray-700);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.interest-card:hover {
+  border-color: var(--illinois-orange);
+  background: rgba(255, 107, 53, 0.05);
+}
+
+.interest-card.selected {
+  background: var(--illinois-orange);
+  color: white;
+  border-color: var(--illinois-orange);
+  box-shadow: 0 8px 20px rgba(255, 107, 53, 0.3);
+}
+
+.review-interests {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-sm);
+}
+
+.review-interest-tag {
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: var(--illinois-blue);
+  color: white;
+  border-radius: 20px;
+  font-weight: 500;
+  font-size: 0.9rem;
+}
+
+.loading-text {
+  text-align: center;
+  color: var(--gray-600);
+  padding: var(--spacing-md);
+}
+
+.error-text {
+  color: #DC2626;
+  font-size: 0.9rem;
+  padding: var(--spacing-sm);
+  background: rgba(220, 38, 38, 0.1);
+  border-radius: 8px;
+  margin-bottom: var(--spacing-md);
+}
+
+.success-text {
+  color: #059669;
+  font-size: 0.9rem;
+  padding: var(--spacing-sm);
+  background: rgba(5, 150, 105, 0.1);
+  border-radius: 8px;
+  margin-bottom: var(--spacing-md);
+  font-weight: 500;
+}
+
+/* Upload Mode Toggle */
+.upload-mode-toggle {
+  display: flex;
+  gap: var(--spacing-sm);
+  margin-bottom: var(--spacing-lg);
+  background: var(--gray-100);
+  padding: 4px;
+  border-radius: 12px;
+}
+
+.mode-btn {
+  flex: 1;
+  padding: var(--spacing-sm) var(--spacing-md);
+  background: transparent;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.95rem;
+  font-weight: 500;
+  color: var(--gray-600);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.mode-btn:hover {
+  background: rgba(255, 255, 255, 0.5);
+}
+
+.mode-btn.active {
+  background: white;
+  color: var(--illinois-orange);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* DARS Upload */
+.dars-upload-container {
+  margin-bottom: var(--spacing-md);
+}
+
+.dars-upload-box {
+  position: relative;
+  border: 2px dashed var(--gray-300);
+  border-radius: 12px;
+  padding: var(--spacing-2xl);
+  text-align: center;
+  background: var(--gray-50);
+  transition: all 0.3s;
+  cursor: pointer;
+}
+
+.dars-upload-box:hover {
+  border-color: var(--illinois-orange);
+  background: rgba(255, 107, 53, 0.05);
+}
+
+.dars-file-input {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  cursor: pointer;
+}
+
+.dars-upload-label {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-sm);
+  cursor: pointer;
+  pointer-events: none;
+}
+
+.upload-icon {
+  font-size: 3rem;
+  margin-bottom: var(--spacing-xs);
+}
+
+.upload-hint {
+  font-size: 0.85rem;
+  color: var(--gray-500);
+}
+
+.upload-spinner {
+  width: 24px;
+  height: 24px;
+  border: 3px solid var(--gray-200);
+  border-top-color: var(--illinois-orange);
+  border-radius: 50%;
+  margin-bottom: var(--spacing-xs);
+}
+
+.empty-state {
+  text-align: center;
+  color: var(--gray-500);
+  padding: var(--spacing-lg);
+}
+
+/* Responsive */
+@media (max-width: 640px) {
+  .onboarding-page {
+    padding: var(--spacing-md);
+  }
+
+  .onboarding-container {
+    border-radius: 16px;
+    min-height: auto;
+  }
+
+  .step-container {
+    padding: var(--spacing-lg);
+  }
+
+  .step-title {
+    font-size: 2rem;
+  }
+
+  .major-grid,
+  .year-grid,
+  .interests-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .course-input-group {
+    flex-direction: column;
+  }
+
+  .step-actions {
+    flex-direction: column;
+  }
+
+  .step-actions .btn {
+    max-width: 100%;
+  }
+
+  /* Progress bar adjustments for mobile with 6 steps */
+  .progress-container {
+    padding: var(--spacing-md);
+  }
+
+  .progress-steps {
+    gap: 0.25rem;
+    justify-content: space-between;
+  }
+
+  .progress-step {
+    width: 32px;
+    height: 32px;
+    font-size: 0.8rem;
+    min-width: 32px;
+  }
+}
+
+/* Extra small screens - make progress steps even smaller */
+@media (max-width: 480px) {
+  .progress-steps {
+    gap: 0.15rem;
+  }
+
+  .progress-step {
+    width: 28px;
+    height: 28px;
+    font-size: 0.75rem;
+    min-width: 28px;
+  }
+}
+
